@@ -2,7 +2,13 @@
     "name": "QuadripressaNovationTech",
     "description": "Semplice interfaccia grafica dotata di indicatori di stato graficabili, accompagnata da un semplice sistema a tabelle che permetta di tracciare quanto prodotto nel corso del tempo",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-queue-gate": "1.5.5",
+        "node-red-contrib-s7": "3.1.0",
+        "node-red-contrib-ui-etable": "4.6.3",
+        "node-red-contrib-ui-led": "0.4.11",
+        "node-red-dashboard": "3.2.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
