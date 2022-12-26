@@ -7,7 +7,8 @@
         "node-red-contrib-s7": "3.1.0",
         "node-red-contrib-ui-etable": "4.6.3",
         "node-red-contrib-ui-led": "0.4.11",
-        "node-red-dashboard": "3.2.3"
+        "node-red-dashboard": "3.2.3",
+        "node-red-contrib-modbus": "5.25.0"
     },
     "node-red": {
         "settings": {
