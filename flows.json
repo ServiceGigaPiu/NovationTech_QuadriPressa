@@ -68,9 +68,7 @@
             "6173c68c398eeee3"
         ],
         "x": 334,
-        "y": 64,
-        "w": 707,
-        "h": 127
+        "y": 64
     },
     {
         "id": "3df0d3098de49375",
@@ -99,9 +97,7 @@
             "b34226be7162078f"
         ],
         "x": 779,
-        "y": 2284,
-        "w": 592,
-        "h": 517
+        "y": 2284
     },
     {
         "id": "83e9f4234bb5157e",
@@ -124,9 +120,7 @@
             "0c2f824d1edcbe0b"
         ],
         "x": 1159,
-        "y": 64,
-        "w": 707,
-        "h": 127
+        "y": 64
     },
     {
         "id": "43b5ce037e6e5304",
@@ -149,9 +143,7 @@
             "cdfe98ebc6268de8"
         ],
         "x": 684,
-        "y": 619,
-        "w": 452,
-        "h": 127
+        "y": 619
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -190,9 +182,7 @@
             "636abe298d8940a7"
         ],
         "x": 194,
-        "y": 299,
-        "w": 912,
-        "h": 367
+        "y": 299
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -213,17 +203,15 @@
             "0f442f62dc9f61be",
             "51c7d7b3525d3ca6",
             "28c5c8c6a8cbdd41",
-            "26e6e72f5868f7e5",
             "f0d5683c1d5e6fa4",
-            "50a2ac2cbfb5f142",
-            "1a715e262934e5d0",
             "b16cccaa62171b60",
-            "3714a803248cefeb"
+            "3714a803248cefeb",
+            "34fe2b838d57bdf8"
         ],
         "x": 84,
         "y": 4219,
-        "w": 1322,
-        "h": 607
+        "w": 1143,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -245,16 +233,14 @@
             "892a21e16fd8d586",
             "f15ed631a334ae18",
             "2bd07d0a756e3fd5",
-            "d1f56aa78d77f7ca",
             "ecf7ba24682eae0d",
-            "bb54ea204f3d1f70",
-            "d4508dac58bb1192",
-            "70b9c5719558ad66"
+            "70b9c5719558ad66",
+            "73bd49c19cb4ea06"
         ],
         "x": 84,
         "y": 3574,
-        "w": 1302,
-        "h": 607
+        "w": 1108,
+        "h": 562
     },
     {
         "id": "cd57c2362421b2a2",
@@ -333,9 +319,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "6d1e941da95f3a58",
@@ -357,9 +341,7 @@
             "115acd7b9b1f1728"
         ],
         "x": 198,
-        "y": 1159,
-        "w": 1444,
-        "h": 978
+        "y": 1159
     },
     {
         "id": "408c86b39f332966",
@@ -379,63 +361,10 @@
             "ee85a2f48f8b5e02",
             "1268ad479e7f6bab"
         ],
-        "x": 494,
-        "y": 1054,
+        "x": 589,
+        "y": 1084,
         "w": 307,
         "h": 82
-    },
-    {
-        "id": "38ebf7d3eca21fb2",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0a547f33659dd077",
-            "c40dd074760f5ff9",
-            "6a2f84e5a6053bfa",
-            "6632929cbf8477f9",
-            "f22eaeab0459ee15",
-            "fa36f3d9a2716a47",
-            "bdec638b99156315",
-            "419d8fe0bc51a50a"
-        ],
-        "x": 129,
-        "y": 1149,
-        "w": 1077,
-        "h": 157
-    },
-    {
-        "id": "e2bd9331f9185534",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "49e6d3e2af0723a8",
-            "d1dbf0ba787aaf87",
-            "765edce0c2be3f26",
-            "9742879be4c1261c",
-            "f496db4601480ad7"
-        ],
-        "x": 129,
-        "y": 1339,
-        "w": 787,
-        "h": 127
     },
     {
         "id": "b0737e4c04737b82",
@@ -458,9 +387,9 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 394,
-        "w": 1414,
-        "h": 1413
+        "y": 409,
+        "w": 1514,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -510,16 +439,17 @@
             "9f767a4b86454460",
             "1357b3ee16a3cc63",
             "ba40bf7df49ff334",
-            "41b45f700249f6da",
             "5cd9e3ef9922f088",
             "1fbf3d438abed790",
             "23a5a7bba4747615",
-            "36bdb368ddeac984"
+            "36bdb368ddeac984",
+            "7f9c0ab46277a85f",
+            "935ab1c92ceb192a"
         ],
-        "x": 139,
-        "y": 1879,
-        "w": 1027,
-        "h": 247
+        "x": 124,
+        "y": 1834,
+        "w": 1237,
+        "h": 292
     },
     {
         "id": "045b0fbd7973524c",
@@ -545,7 +475,7 @@
         ],
         "x": 139,
         "y": 2179,
-        "w": 1077,
+        "w": 1252,
         "h": 142
     },
     {
@@ -609,8 +539,8 @@
             "d13313512ae49a4a",
             "d3cdc80e459cdf33"
         ],
-        "x": 109,
-        "y": 709,
+        "x": 1244,
+        "y": 259,
         "w": 1232,
         "h": 307
     },
@@ -642,12 +572,208 @@
             "7a21669f3c26b95c",
             "7f7d732440d6aec6",
             "ab40650461f823e3",
-            "164db36128db7462"
+            "164db36128db7462",
+            "c839a1cea19f06fc",
+            "ee59f528d39b796f"
         ],
-        "x": 119,
+        "x": 114,
         "y": 259,
         "w": 1102,
         "h": 372
+    },
+    {
+        "id": "cccb0df7921dec2f",
+        "type": "group",
+        "z": "2831664434f14a33",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0b39f4fe0d2dcc2d",
+            "6c287487702754f2",
+            "7e90142dbb2a2111",
+            "1aaef86389397dcf",
+            "57b9c2d6e11c5cb7",
+            "15d6f446b735362b",
+            "b7700a2027731da3"
+        ],
+        "x": 229,
+        "y": 454
+    },
+    {
+        "id": "d7a5c60e65d58db0",
+        "type": "group",
+        "z": "2831664434f14a33",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2032554750613969",
+            "e1a8c1010541c5e9",
+            "afa57d1c3ef490ec",
+            "48f4e0f84560c01c",
+            "23908ba29a765ed4"
+        ],
+        "x": 319,
+        "y": 799
+    },
+    {
+        "id": "63f089643e332739",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e2bd9331f9185534",
+            "21bbb7d46384e287",
+            "0c753ce1969e7a11",
+            "a70fe69b7459b746",
+            "2639fa3be4067762"
+        ],
+        "x": 118,
+        "y": 1189,
+        "w": 1559,
+        "h": 1368
+    },
+    {
+        "id": "141fe50fd31a695d",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6412ab5d90cfce0c",
+            "a817f30ecf7302d4",
+            "8cc8b8736d1102b3",
+            "66b3788924f607a2",
+            "8b321fcb911b77fd"
+        ],
+        "x": 139,
+        "y": 709,
+        "w": 682,
+        "h": 217
+    },
+    {
+        "id": "e2bd9331f9185534",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "g": "63f089643e332739",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "49e6d3e2af0723a8",
+            "d1dbf0ba787aaf87",
+            "765edce0c2be3f26",
+            "9742879be4c1261c",
+            "f496db4601480ad7",
+            "17ccce6813bb1513",
+            "b6bc7095606ea745"
+        ],
+        "x": 164,
+        "y": 1684,
+        "w": 892,
+        "h": 172
+    },
+    {
+        "id": "21bbb7d46384e287",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "g": "63f089643e332739",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8f5de7d1e2efd275",
+            "d09af2547970d46b",
+            "8c354411f4678925",
+            "89b827b78086e83f",
+            "b45882cc15a076be",
+            "8d4c1528250e9b80",
+            "98a76a1f9321a573",
+            "7b1590892f6f2cf5",
+            "3112342511e963b8",
+            "f83e49751218dc3f",
+            "a992bf0170cdc157",
+            "f361ef0e22514ae8",
+            "8f0ca2e92ed379a5",
+            "d0e343c96a859730"
+        ],
+        "x": 144,
+        "y": 2254,
+        "w": 1142,
+        "h": 277
+    },
+    {
+        "id": "0c753ce1969e7a11",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "g": "63f089643e332739",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2a9c9c49c94432d9",
+            "3b424968240bbd7c",
+            "f5cdb10387af4f40",
+            "ca74a0de42a788ba",
+            "27be6fe227af16cc",
+            "214d0a5f9c40f7c2",
+            "8c63b0896103090c",
+            "d475353a7f70bf2a",
+            "479532ec132fba80",
+            "9333514511ccbe3e",
+            "3e4df8358764c8bf",
+            "260b48d27cf6b812"
+        ],
+        "x": 154,
+        "y": 1879,
+        "w": 1002,
+        "h": 352
     },
     {
         "id": "3714a803248cefeb",
@@ -669,7 +795,6 @@
             "94b85e2f1ad583b0",
             "1e234f2b95dd6989",
             "fa23adaac1f321c6",
-            "af41a425e2ede13b",
             "c3a62b94383e83a9",
             "ab0e88bd5297972b",
             "4b5acc982887ac5d",
@@ -681,7 +806,8 @@
             "8227984831c475b4",
             "103b0946998d0bcc",
             "ad5694658ca04888",
-            "d27598503a5b31c1"
+            "d27598503a5b31c1",
+            "3f8b7f4cf3fc1278"
         ],
         "x": 129,
         "y": 4294,
@@ -715,16 +841,11 @@
             "104a98d5dd421a19",
             "180f9e3f0a29978d",
             "91ec12ac87115cdc",
-            "5f86327b85708474",
-            "76b766954fda2517",
-            "cf1e1bf5b2da804a",
-            "9fdb650b24779323",
-            "76cb795de1b1411c",
             "d02b6fbde106437f"
         ],
-        "x": 124,
+        "x": 129,
         "y": 3649,
-        "w": 1042,
+        "w": 1037,
         "h": 352
     },
     {
@@ -803,9 +924,7 @@
             "d8abf05a70834260"
         ],
         "x": 359,
-        "y": 1234,
-        "w": 762,
-        "h": 337
+        "y": 1234
     },
     {
         "id": "8c5dde672fdb4505",
@@ -846,9 +965,7 @@
             "a4d9f65bd6f6f0b7"
         ],
         "x": 919,
-        "y": 1579,
-        "w": 697,
-        "h": 532
+        "y": 1579
     },
     {
         "id": "115acd7b9b1f1728",
@@ -879,9 +996,7 @@
             "8ef946242380175e"
         ],
         "x": 224,
-        "y": 1654,
-        "w": 617,
-        "h": 367
+        "y": 1654
     },
     {
         "id": "df7219d880358536",
@@ -1049,17 +1164,21 @@
             "94522e8fcaf7234f",
             "bf7a7388b5301e71",
             "ad642f1caae66ae0",
-            "7df2d1f5915898bf"
+            "7df2d1f5915898bf",
+            "bc155cd9a662d3f9",
+            "c30ca4565e0d218f",
+            "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 499,
-        "w": 1362,
+        "y": 484,
+        "w": 1462,
         "h": 472
     },
     {
-        "id": "21bbb7d46384e287",
+        "id": "a70fe69b7459b746",
         "type": "group",
         "z": "9922a8114f46702b",
+        "g": "63f089643e332739",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1070,132 +1189,33 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "8f5de7d1e2efd275",
-            "d09af2547970d46b",
-            "8c354411f4678925",
-            "89b827b78086e83f",
-            "b45882cc15a076be",
-            "8d4c1528250e9b80",
-            "98a76a1f9321a573",
-            "7b1590892f6f2cf5",
-            "3112342511e963b8",
-            "cdde55f3cd079b18",
-            "f83e49751218dc3f",
-            "a992bf0170cdc157",
-            "2ef2e1ec9ad18993",
-            "f361ef0e22514ae8"
-        ],
-        "x": 169,
-        "y": 2089,
-        "w": 1137,
-        "h": 307
-    },
-    {
-        "id": "edec6423bb8ab2ad",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "c7e5904b95a77b3b",
-            "8cc8b8736d1102b3",
-            "c90373ea81f269e7",
-            "8b321fcb911b77fd"
-        ],
-        "x": 174,
-        "y": 2494,
-        "w": 547,
-        "h": 179.5
-    },
-    {
-        "id": "0c753ce1969e7a11",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "2a9c9c49c94432d9",
-            "3b424968240bbd7c",
-            "f5cdb10387af4f40",
-            "ca74a0de42a788ba",
-            "27be6fe227af16cc",
-            "214d0a5f9c40f7c2",
-            "8c63b0896103090c",
-            "d475353a7f70bf2a",
-            "479532ec132fba80",
-            "9333514511ccbe3e",
-            "3e4df8358764c8bf"
+            "0ad0e75869583a93",
+            "e1d9dc50e8c79a8f",
+            "7fefc00461152886",
+            "9ceed6fd254ce510",
+            "9ca5c05780dc2c19",
+            "fa36f3d9a2716a47",
+            "6632929cbf8477f9",
+            "0a547f33659dd077",
+            "642b4cd1857e998b",
+            "6a2f84e5a6053bfa",
+            "c40dd074760f5ff9",
+            "8c5c18cd60513a30",
+            "554553d14c4528a1",
+            "400413a022ab7c31",
+            "419d8fe0bc51a50a",
+            "cff57bec7157bef0",
+            "5c16a509de896e67",
+            "f22eaeab0459ee15",
+            "b0f4b6634f190f48",
+            "f96b3c5023454e2b",
+            "58387c00123218e3",
+            "bdec638b99156315"
         ],
         "x": 159,
-        "y": 1714,
-        "w": 897,
-        "h": 352
-    },
-    {
-        "id": "cccb0df7921dec2f",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0b39f4fe0d2dcc2d",
-            "6c287487702754f2",
-            "7e90142dbb2a2111",
-            "1aaef86389397dcf",
-            "57b9c2d6e11c5cb7",
-            "15d6f446b735362b",
-            "b7700a2027731da3"
-        ],
-        "x": 229,
-        "y": 454,
-        "w": 342,
-        "h": 247
-    },
-    {
-        "id": "d7a5c60e65d58db0",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "2032554750613969",
-            "e1a8c1010541c5e9",
-            "afa57d1c3ef490ec",
-            "48f4e0f84560c01c",
-            "23908ba29a765ed4"
-        ],
-        "x": 319,
-        "y": 799,
-        "w": 832,
-        "h": 232
+        "y": 1264,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "9fa3722a335cb332",
@@ -3927,7 +3947,7 @@
         "z": "2831664434f14a33",
         "g": "d7a5c60e65d58db0",
         "name": "error",
-        "func": "node.error({err:\"unknown topic in pressa1_sortData\",topic:msg.topic,msg:msg});\n",
+        "func": "node.error({ err: \"unknown press in mixed sort\", press: msg.press, msg: msg });\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
@@ -4031,7 +4051,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "ee1fd54ec57a959c",
         "name": "catchAll",
-        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
@@ -4085,7 +4105,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "ee1fd54ec57a959c",
         "name": "set flow.tabUtils",
-        "func": "\nconst tabUtils={\n    /**\n     * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n     * \n     * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n     * @param {object} tableRef reference to the row to check, must have a fieldName button.\n     * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n    */\n    posOf(rowId, tableRef) {\n        if (tableRef[rowId].rowId == rowId)\n            return rowId;\n        for (let i = 0; i < tableRef.length; i++)\n            if (tableRef[i].rowId == rowId)\n                return i;\n        return -1; //not found\n    },\n\n    hasRow(rowId, tableRef) {\n        return this.posOf(rowId, tableRef) >= 0;\n    },\n\n    deleteRowId(rowId, tableRef) {\n        let pos = this.posOf(rowId);\n        if (pos >= 0) {\n            this.deleteRow(pos);\n            return true;\n        }\n        else\n            return false\n    },\n\n    deleteRow(rowIdx, tableRef) {\n        for (let i = rowIdx; i < tableRef.length - 1; i++) {\n            tableRef[i] = tableRef[i + 1];\n        }\n        tableRef.pop();\n        return true;\n    },\n    newRowId(table) {\n        //if table empty assign first \n        if(table.length == 0)\n            return 0; //first rowId\n        //if rowId equals its table's index -> use shortcut\n        if(table[table.length-1].rowId==table.length-1)\n            return table.length;\n        //else\n        //load all possible indexes\n        var indexes = new Array()\n        let i = 0;\n        for (let row of table)\n            indexes[i++] = true;\n        indexes[i++] = true;\n        //flag off the used ones\n        for (let row of table)\n            indexes[row.rowId] = false;\n        //return the first available one\n        i = 0;\n        while (!indexes[i])\n            i++;\n        return i;\n    },\n    queue:{\n        sendToPressButton:{\n            //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n            states: {\n                    //button //onClick: enqueue writes to plc\n                \"clickToSend\":\"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  carica  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                \"queued\": \"<center><span ><i class='fa fa-clock-o' style=\\\"margin-right:5px\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                \"loaded\":\"<center><span ><i class='fa fa-check' style=\\\"color:green;\\\"></i>    </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                \"clearing\": \"<center><span ><i class='fa fa-check' style=\\\"color:gray;\\\"></i>    </span></center>\",\n                    //not used\n                \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\"\n            },\n            \n            getStateString(state) {\n                var stateString;\n                switch (state) {\n                    case 0: { stateString = \"clickToSend\"; break; }\n                    case 1: { stateString = \"queued\"; break; }\n                    case 2: { stateString = \"loaded\"; break; }\n                    case 3: { stateString = \"clearing\"; break; }\n                    case -1: { stateString = \"fail\"; break; }\n                    default: { node.error(\"unknown button state \" + state + \" , set to clickToSend\") }\n                }\n                return stateString;\n            },\n            getStateInt(stateString) {\n                var state;\n                switch (stateString) {\n                    case \"clickToSend\": { state = 0; break; }\n                    case \"queued\": { state = 1; break; }\n                    case \"loaded\": { state = 2; break; }\n                    case \"clearing\": { state = 3; break; }\n                    case \"fail\": { state = -1; break; }\n                    default: { node.error(\"unknown button state \" + state + \" , set to clickToSend\") }\n                }\n                return state;\n            },\n            \n\n\n            /** \n             * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to edit, must have a fieldName button.\n            */\n            setStateInRow(state,fieldName,rowRef){\n                var stateString;\n                if(typeof(state) == \"string\")\n                    state=this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                \n                rowRef[fieldName] = this.states[stateString];\n                rowRef[fieldName+\"State\"] = state;\n                node.warn({applied:state,toRow:rowRef});\n                return;\n            },\n\n            onClick(fieldName, rowRef, tableRef){\n\n            },\n\n            setStateInTable(state, fieldName, rowRef, tableRef) {\n                var stateString;\n                if (typeof (state) == \"string\")\n                    state = this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                \n                switch(state){\n                    case \"clickToSend\": {\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"queued\":{\n                        this.setStateInRow(state, fieldName, rowRef);\n                        for(let row of tableRef){\n                            //queued -> clickToSend\n                            if(row[fieldName+\"State\"] == 1) \n                                this.setStateInRow(0,fieldName,rowRef);\n                            //loaded -> clearing\n                            else if(row[fieldName+\"State\"] == 2)\n                                this.setStateInRow(3,fieldName,rowRef);\n                        }\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"loaded\":{\n                        this.setStateInRow(state, fieldName, rowRef);\n                        for(let row of tableRef){\n                            //loaded || clearing -> clickToSend\n                            if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                this.setStateInRow(0,fieldName,rowRef);\n                        }\n                        break;\n                    }\n                    case \"clearing\":{\n                        this.setStateInRow(state, fieldName, rowRef);\n                    }\n                }\n\n                rowRef[fieldName] = this.states[stateString];\n                rowRef[fieldName + \"State\"] = state;\n                node.warn({ applied: state, toRow: rowRef });\n                return;\n            },\n            \n\n            /**\n             * true if referenced press is currently loaded into the plc\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to check, must have a fieldName button.\n            */\n            isLoaded(fieldName, rowRef){ //true se questa riga è attualmente caricata nel plc\n                return rowRef[fieldName+\"State\"] == 1;\n            }\n        },\n        \n        newRow(rowId) {\n            var row = {\n                rowId: rowId,\n                deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                id: \"\",\n                quantToDo: 10,\n                quantProd: 0,\n                progress: this.quantProd / this.quantToDo,\n                //sendToPressa1,2,3.. :\n                //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n            }\n\n            let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n            for (let p of presse) {\n                row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                row[\"sendTo\"+p+\"State\"] = null;\n                this.sendToPressButton.setState(\"clickToSend\",\"sendTo\"+p,row);\n            }\n            return row;\n        }\n    },\n    history: {\n        newRow(rowId, doneByPressNum = 1) {\n            const dateObj = new Date();\n            var row = {\n                rowId: rowId, //hidden\n                doneByPressNum: doneByPressNum,\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: dateObj.toString(),\n                time: dateObj.toTimeString(),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                note: \"\",\n            }\n\n            return row;\n        }\n    },\n    completed: {\n        newRow(rowId) {\n            var row = {\n                rowId: rowId, //hidden\n                //doneByPressNum: doneByPressNum, //hidden\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: this.dateObj.toString(),\n                time: this.dateObj.toTimeString(),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                quantToDo: 0,\n                quantSumm: this.quantProd+\"/\"+this.quantToDo,\n                note: \"\",\n            }\n\n            return row;\n        }\n    }\n    \n}\n\n\nflow.set(\"tabUtils\", tabUtils);\n\n\n\nreturn msg;",
+        "func": "\nconst tabUtils={\n    /**\n     * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n     * \n     * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n     * @param {object} tableRef reference to the row to check, must have a fieldName button.\n     * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n    */\n    posOf(rowId, tableRef) {\n        if (tableRef[rowId].rowId == rowId)\n            return rowId;\n        for (let i = 0; i < tableRef.length; i++)\n            if (tableRef[i].rowId == rowId)\n                return i;\n        return -1; //not found\n    },\n\n    hasRow(rowId, tableRef) {\n        return this.posOf(rowId, tableRef) >= 0;\n    },\n\n    deleteRowId(rowId, tableRef) {\n        let pos = this.posOf(rowId);\n        if (pos >= 0) {\n            this.deleteRow(pos);\n            return true;\n        }\n        else\n            return false\n    },\n\n    deleteRow(rowIdx, tableRef) {\n        for (let i = rowIdx; i < tableRef.length - 1; i++) {\n            tableRef[i] = tableRef[i + 1];\n        }\n        tableRef.pop();\n        return true;\n    },\n    newRowId(table) {\n        //if table empty assign first \n        if(table.length == 0)\n            return 0; //first rowId\n        //if rowId equals its table's index -> use shortcut\n        if(table[table.length-1].rowId==table.length-1)\n            return table.length;\n        //else\n        //load all possible indexes\n        var indexes = new Array()\n        let i = 0;\n        for (let row of table)\n            indexes[i++] = true;\n        indexes[i++] = true;\n        //flag off the used ones\n        for (let row of table)\n            indexes[row.rowId] = false;\n        //return the first available one\n        i = 0;\n        while (!indexes[i])\n            i++;\n        return i;\n    },\n    queue:{\n        /** \n         * @borrows setStateInRow as setSingleState \n         * */\n        sendToPressButton:{\n            //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n            states: {\n                    //button //onClick: enqueue writes to plc\n                \"clickToSend\":\"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  carica  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                \"queued\": \"<center><span ><i class='fa fa-clock-o' style=\\\"margin-right:5px\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                \"loaded\":\"<center><span ><i class='fa fa-check' style=\\\"color:green;\\\"></i>    </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                \"clearing\": \"<center><span ><i class='fa fa-check' style=\\\"color:gray;\\\"></i>    </span></center>\",\n                    //not used\n                \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n            },\n            \n            getStateString(state) {\n                var stateString;\n                switch (state) {\n                    case 0: { stateString = \"clickToSend\"; break; }\n                    case 1: { stateString = \"queued\"; break; }\n                    case 2: { stateString = \"loaded\"; break; }\n                    case 3: { stateString = \"clearing\"; break; }\n                    case -1: { stateString = \"fail\"; break; }\n                    default: { node.error(\"unknown button state \" + state + \" \") }\n                    case false: { stateString = \"tableError\"; break }\n                }\n                //node.warn({stateStringSetTo:stateString});\n                return stateString;\n            },\n            getStateInt(stateString) {\n                var state;\n                switch (stateString) {\n                    case \"clickToSend\": { state = 0; break; }\n                    case \"queued\": { state = 1; break; }\n                    case \"loaded\": { state = 2; break; }\n                    case \"clearing\": { state = 3; break; }\n                    case \"fail\": { state = -1; break; }\n                    default: { node.error(\"unknown button state \" + state + \" \") }\n                    case \"tableError\": { state = false; break;}\n                }\n                //node.warn({ stateIntSetTo: state });\n                return state;\n            },\n            \n            \n\n            /** \n             * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to edit, must have a fieldName button.\n            */\n            setStateInRow(state,fieldName,rowRef){\n                var stateString = state;\n                if(typeof(state) == \"string\")\n                    state=this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n                \n                if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)){\n                    node.error(\"no \"+fieldName+\" button or unknown state \" + stateString)\n                    stateString = \"tableError\";\n                    state = this.getStateInt(stateString);\n                }\n                rowRef[fieldName] = this.states[stateString];\n                rowRef[fieldName+\"State\"] = state;\n                //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                return;\n            },\n            setSingleState(state,fieldName,rowRef){\n                return this.setStateInRow(state,fieldName,rowRef);\n            },\n\n            /* not working\n            setStateInTable(state, fieldName, rowRef, tableRef) {\n                var stateString = state;\n                if (typeof (state) == \"string\")\n                    state = this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                \n                switch(stateString){\n                    case \"clickToSend\": {\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"queued\":{\n                        for(let row of tableRef){\n                            if(row.rowId!=rowRef.rowId){\n                                //queued -> clickToSend\n                                if(row[fieldName+\"State\"] == 1) \n                                    this.setStateInRow(0,fieldName,rowRef);\n                                //loaded -> clearing\n                                else if(row[fieldName+\"State\"] == 2)\n                                    this.setStateInRow(3,fieldName,rowRef);\n                            }\n                        }\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"loaded\":{\n                        for(let row of tableRef){\n                            if (row.rowId != rowRef.rowId) {\n                                //loaded || clearing -> clickToSend\n                                if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                    this.setStateInRow(0,fieldName,rowRef);\n                            }\n                        }\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    case \"clearing\":{\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                }\n                return;\n            },\n            */\n            \n\n            /**\n             * true if referenced press is currently loaded into the plc\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to check, must have a fieldName button.\n            */\n            isLoaded(fieldName, rowRef){ //true se questa riga è attualmente caricata nel plc\n                let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                return (stateString == \"clearing\" || stateString == \"loaded\");\n            }\n        },\n        \n        newRow(rowId) {\n            var row = {\n                rowId: rowId,\n                deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                id: \"\",\n                quantToDo: 10,\n                quantProd: 0,\n                progress: this.quantProd / this.quantToDo,\n                //sendToPressa1,2,3.. :\n                //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n            }\n\n            let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n            for (let p of presse) {\n                row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                row[\"sendTo\"+p+\"State\"] = null;\n                this.sendToPressButton.setStateInRow(\"clickToSend\",\"sendTo\"+p,row);\n            }\n            return row;\n        }\n    },\n    history: {\n        newRow(rowId, doneByPressNum = 1) {\n            const dateObj = new Date();\n            let d=dateObj;\n            var row = {\n                rowId: rowId, //hidden\n                doneByPressNum: doneByPressNum,\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: d.getDay()+\".\"+d.getMonth()+\".\"+d.getFullYear(),\n                time: d.getHours()+\":\"+d.getMinutes()+\":\"+d.getSeconds(),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                note: \"\",\n            }\n\n            return row;\n        }\n    },\n    completed: {\n        newRow(rowId) {\n            const dateObj = new Date();\n            let d = dateObj;\n            var row = {\n                rowId: rowId, //hidden\n                //doneByPressNum: doneByPressNum, //hidden\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: d.getDay() + \".\" + d.getMonth() + \".\" + d.getFullYear(),\n                time: d.getHours() + \":\" + d.getMinutes() + \":\" + d.getSeconds(),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                quantToDo: 0,\n                quantSumm: this.quantProd+\"/\"+this.quantToDo,\n                note: \"\",\n            }\n\n            return row;\n        }\n    }\n    \n}\n\n\nflow.set(\"tabUtils\", tabUtils);\n\n\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -4636,7 +4656,7 @@
         "onceDelay": "0.1",
         "topic": "",
         "x": 320,
-        "y": 780,
+        "y": 765,
         "wires": [
             [
                 "25779228f81e2d81",
@@ -4659,7 +4679,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 600,
-        "y": 735,
+        "y": 720,
         "wires": [
             [
                 "1e6921618ed22e2b"
@@ -4680,7 +4700,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 600,
-        "y": 780,
+        "y": 765,
         "wires": [
             [
                 "0a853593a0797f46"
@@ -4701,7 +4721,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 610,
-        "y": 825,
+        "y": 810,
         "wires": [
             [
                 "f3493b385f266d87"
@@ -4718,10 +4738,11 @@
         "action": "obj",
         "pretty": false,
         "x": 755,
-        "y": 735,
+        "y": 720,
         "wires": [
             [
-                "60cf7836015914f7"
+                "60cf7836015914f7",
+                "bc155cd9a662d3f9"
             ]
         ],
         "l": false
@@ -4736,7 +4757,7 @@
         "action": "obj",
         "pretty": false,
         "x": 755,
-        "y": 780,
+        "y": 765,
         "wires": [
             [
                 "74af4f94b7346e0d"
@@ -4754,7 +4775,7 @@
         "action": "obj",
         "pretty": false,
         "x": 755,
-        "y": 825,
+        "y": 810,
         "wires": [
             [
                 "c2ffd0fb87377ef2"
@@ -4782,8 +4803,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 945,
-        "y": 735,
+        "x": 1165,
+        "y": 750,
         "wires": [
             [
                 "92972af8c5f549ce",
@@ -4805,8 +4826,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1305,
-        "y": 765,
+        "x": 1440,
+        "y": 750,
         "wires": []
     },
     {
@@ -4821,8 +4842,8 @@
             "107ba20c98b6cb03",
             "1ebe50be51bab839"
         ],
-        "x": 1335,
-        "y": 735,
+        "x": 1470,
+        "y": 720,
         "wires": [],
         "l": true
     },
@@ -4849,7 +4870,7 @@
         "payload": "trigger",
         "payloadType": "str",
         "x": 335,
-        "y": 900,
+        "y": 885,
         "wires": [
             [
                 "fd4bd9bffc26442c",
@@ -4869,7 +4890,7 @@
             "df13ffa0e29a0380"
         ],
         "x": 590,
-        "y": 870,
+        "y": 855,
         "wires": [],
         "l": true
     },
@@ -4884,7 +4905,7 @@
             "a1bf31c1f4982c36"
         ],
         "x": 590,
-        "y": 900,
+        "y": 885,
         "wires": [],
         "l": true
     },
@@ -4899,7 +4920,7 @@
             "2dd33717ef5a3b58"
         ],
         "x": 600,
-        "y": 930,
+        "y": 915,
         "wires": [],
         "l": true
     },
@@ -4911,7 +4932,7 @@
         "name": "read",
         "info": "",
         "x": 350,
-        "y": 750,
+        "y": 735,
         "wires": []
     },
     {
@@ -4922,7 +4943,7 @@
         "name": "write",
         "info": "",
         "x": 360,
-        "y": 870,
+        "y": 855,
         "wires": []
     },
     {
@@ -4945,8 +4966,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 945,
-        "y": 780,
+        "x": 1165,
+        "y": 795,
         "wires": [
             [
                 "92ada735b313aded",
@@ -4974,8 +4995,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 955,
-        "y": 825,
+        "x": 1175,
+        "y": 840,
         "wires": [
             [
                 "95a4cfea0458c7b9",
@@ -4993,8 +5014,8 @@
         "links": [
             "15870b35cd8f1905"
         ],
-        "x": 1360,
-        "y": 810,
+        "x": 1495,
+        "y": 795,
         "wires": [],
         "l": true
     },
@@ -5012,8 +5033,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1340,
-        "y": 840,
+        "x": 1475,
+        "y": 825,
         "wires": []
     },
     {
@@ -5027,8 +5048,8 @@
             "0933e76415d3b0d8",
             "a6ed287fa626363b"
         ],
-        "x": 1385,
-        "y": 885,
+        "x": 1520,
+        "y": 870,
         "wires": [],
         "l": true
     },
@@ -5046,8 +5067,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1360,
-        "y": 915,
+        "x": 1495,
+        "y": 900,
         "wires": []
     },
     {
@@ -5057,8 +5078,8 @@
         "g": "b0737e4c04737b82",
         "name": "load/save tables to files",
         "info": "",
-        "x": 320,
-        "y": 435,
+        "x": 325,
+        "y": 450,
         "wires": []
     },
     {
@@ -5981,7 +6002,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "e2961306402a77aa",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"rowId\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":false},{\"title\":\"Pressa 1\",\"field\":\"sendToPressa4\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"visible\":false,\"editor\":false,\"width\":110},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"rowId\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":false},{\"title\":\"Eseguito su\",\"field\":\"press\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"visible\":true,\"headerFilter\":\"input\",\"editor\":false,\"width\":110},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"900px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true}",
         "group": "b3c076eedf1fd2f8",
@@ -5996,8 +6017,8 @@
         "y": 4095,
         "wires": [
             [
-                "d1f56aa78d77f7ca",
-                "ecf7ba24682eae0d"
+                "ecf7ba24682eae0d",
+                "73bd49c19cb4ea06"
             ]
         ]
     },
@@ -6020,29 +6041,6 @@
         "wires": []
     },
     {
-        "id": "d1f56aa78d77f7ca",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "e2961306402a77aa",
-        "name": "handle updates",
-        "func": "\nlet activeRow=msg.payload;\nlet activeFieldName=msg.topic;\nlet refreshMsg=msg;\n    //restituisce l'indice della riga con rowId==rowId in table\nfunction posOf(rowId,table){\n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table){\n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}\n\n    \n\n    //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n    //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"historyTable\");\n    let updatedTable = new Array();\n    for (let row of table) {\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"historyTable\", updatedTable);\n    node.warn(\"deleted\");\n        //refresh frontend\n    return refreshMsg;\n}\n    \nelse if (activeFieldName.test(/sendToPressa/)) {\n    let table = flow.get(\"historyTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    \n    let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n    //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n    \n        \n    if(state){\n            //reset state\n        tabUtils.history.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[posOf(activeRow.rowId)]); //changes displayed icon/button //takes state, pressNumber, rowReference_to_edit\n            //reset plc data and refresh frontend\n        flow.set(\"historyTable\", table);\n        node.warn(\"canceled send to Pressa\" + activeFieldName.match(/sendToPressa([0-9]+/)[1]);\n        return [refreshMsg,{ topic: msg.topic, action:\"reset\", payload: \"\" }]\n    }\n    else{\n            //reset all other buttons in the same column\n        for(let row of table)\n            if(row[activeFieldName+\"State\"] === 1)\n                tabUtils.history.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[posOf(activeRow.rowId)]);\n            //set active cell to \"sent to plc\" icon\n        tabUtils.history.sendToPressButton.setState(\"loaded\", activeFieldName, table[posOf(activeRow.rowId)]);\n            //write to plc and refresh frontend\n        flow.set(\"historyTable\", table);\n        node.warn(\"sent to Pressa\" + activeFieldName.match(/sendToPressa([0-9]+/)[1]);\n        return [refreshMsg , { topic: msg.topic, action:\"sendTo\",payload: activeRow }];\n    }\n    \n}\n    //updates flow.table without refreshing frontend\nelse {\n    flow.set(\"historyTable\",msg.options.data)\n    return null;\n}\n",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 995,
-        "y": 4095,
-        "wires": [
-            [
-                "bb54ea204f3d1f70"
-            ],
-            [
-                "d4508dac58bb1192"
-            ]
-        ]
-    },
-    {
         "id": "ecf7ba24682eae0d",
         "type": "debug",
         "z": "2260f1f88d7c60bf",
@@ -6058,37 +6056,6 @@
         "statusType": "auto",
         "x": 1010,
         "y": 4050,
-        "wires": []
-    },
-    {
-        "id": "bb54ea204f3d1f70",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "e2961306402a77aa",
-        "name": "refreshHistoryTable_out",
-        "mode": "link",
-        "links": [
-            "0933e76415d3b0d8",
-            "1d1e8e2742a7dcf8",
-            "a6ed287fa626363b"
-        ],
-        "x": 1250,
-        "y": 4095,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "d4508dac58bb1192",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "e2961306402a77aa",
-        "name": "",
-        "mode": "link",
-        "links": [
-            "936e16b03277b625"
-        ],
-        "x": 1155,
-        "y": 4140,
         "wires": []
     },
     {
@@ -6185,6 +6152,7 @@
         "id": "09e3b3173e05107e",
         "type": "ui_button",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "70b9c5719558ad66",
         "name": "load example table",
         "group": "b3c076eedf1fd2f8",
@@ -6214,9 +6182,10 @@
         "id": "8a3a4acdf6bf7c3a",
         "type": "function",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "70b9c5719558ad66",
         "name": "injectRows",
-        "func": "\nvar columns = [{ \"title\": \"rowId\", \"field\": \"rowId\", \"visible\": false, \"hozAlign\": \"left\", \"editor\": false }, { \"title\": \"Ciclo\", \"field\": \"rowId\", \"visible\": true, \"hozAlign\": \"left\", \"headerFilter\": \"input\", \"editor\": false }, { \"title\": \"id\", \"field\": \"id\", \"hozAlign\": \"left\", \"editor\": false }, { \"title\": \"Prodotte\", \"field\": \"quantProd\", \"hozAlign\": \"center\", \"editor\": false }, { \"title\": \"Pressa 1\", \"field\": \"sendToPressa4\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"visible\": false, \"editor\": false, \"width\": 110 }, { \"title\": \"note\", \"field\": \"note\", \"hozAlign\": \"textarea\", \"headerFilter\": \"input\", \"editor\": \"input\" }]\nmsg.payload=[\n    {\n        id: \"firstId\",\n        quantToDo: 10,\n        quantProd: 10,\n        progress:10,\n    },\n    {\n        id: \"secondId\",\n        quantToDo: 12,\n        quantProd: 10,\n        progress: 50,\n    }\n];\nlet presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\nlet i=0;\nfor(let item of msg.payload){\n    item.rowId= i++;\n    item.deleteButton = \"<center><i class='fa fa-trash-o' ></i></center>\"; //onCLick works\n    for(let p of presse){\n        item[\"sendTo\"+p] = \"<center><span ><i class='fa fa-arrow-up' style=\\\"padding-right:5px\\\"></i>load</span></center>\"; //onCLick works\n    }\n    \n\n}\n\nmsg.payload=new Array();\nfor(i=0;i<5;i++){\n    let row = {};\n    for(let col of columns){\n        row[col.field] = \"abcd\";\n    }\n    msg.payload.push(row);\n}\n\nreturn msg;",
+        "func": "\nvar columns = [{ \"title\": \"rowId\", \"field\": \"rowId\", \"visible\": false, \"hozAlign\": \"left\", \"editor\": false }, { \"title\": \"Ciclo\", \"field\": \"rowId\", \"visible\": true, \"hozAlign\": \"left\", \"headerFilter\": \"input\", \"editor\": false }, { \"title\": \"id\", \"field\": \"id\", \"hozAlign\": \"left\", \"editor\": false }, { \"title\": \"Prodotte\", \"field\": \"quantProd\", \"hozAlign\": \"center\", \"editor\": false }, { \"title\": \"Eseguito su\", \"field\": \"press\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"visible\": false, \"headerFilter\": \"select\", \"headerFilterParams\": { \"qualsiasi\": \"\", \"Pressa 1\": \"pressa1\", \"Pressa 2\": \"pressa2\", \"Pressa 3\": \"pressa3\", \"Pressa 4\": \"pressa4\" }, \"editor\": false, \"width\": 110 }, { \"title\": \"note\", \"field\": \"note\", \"hozAlign\": \"textarea\", \"headerFilter\": \"input\", \"editor\": \"input\" }]\n\nlet presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n\n\nmsg.payload=new Array();\nfor(let i=0; i<3; i++){\n    let row = {};\n    for(let col of columns){\n        row[col.field] = \"\";\n    }\n    msg.payload.push(row);\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -6234,6 +6203,7 @@
         "id": "a7cfa0d99c24397d",
         "type": "inject",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "70b9c5719558ad66",
         "name": "",
         "props": [],
@@ -6255,6 +6225,7 @@
         "id": "17724d31c431cd6d",
         "type": "change",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "70b9c5719558ad66",
         "name": "",
         "rules": [
@@ -6283,6 +6254,7 @@
         "id": "6a1ff5c039948610",
         "type": "link out",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "70b9c5719558ad66",
         "name": "refreshHistoryTable_out",
         "mode": "link",
@@ -6363,116 +6335,6 @@
             ]
         ],
         "l": false
-    },
-    {
-        "id": "5f86327b85708474",
-        "type": "ui_button",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "70b9c5719558ad66",
-        "name": "nuovo ordine",
-        "group": "b3c076eedf1fd2f8",
-        "order": 1,
-        "width": "3",
-        "height": "1",
-        "passthru": false,
-        "label": "nuovo ordine",
-        "tooltip": "aggiungi un nuovo ordine alla tabella",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "fa-plus-square",
-        "payload": "true",
-        "payloadType": "bool",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 220,
-        "y": 3765,
-        "wires": [
-            [
-                "76b766954fda2517"
-            ]
-        ]
-    },
-    {
-        "id": "76b766954fda2517",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "70b9c5719558ad66",
-        "name": "addRow",
-        "func": "const tabUtils=flow.get(\"tabUtils\");\n\nlet table = flow.get(\"historyTable\")\nlet row = tabUtils.history.newRow(table.length);\nnode.warn(row);\ntable.push(row)\nflow.set(\"historyTable\",table);\nreturn {payload:table}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 435,
-        "y": 3765,
-        "wires": [
-            [
-                "9fdb650b24779323",
-                "76cb795de1b1411c"
-            ]
-        ]
-    },
-    {
-        "id": "cf1e1bf5b2da804a",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "70b9c5719558ad66",
-        "name": "",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": "0.1",
-        "topic": "",
-        "x": 270,
-        "y": 3735,
-        "wires": [
-            [
-                "76b766954fda2517"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "9fdb650b24779323",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "70b9c5719558ad66",
-        "name": "refreshHistoryTable_out",
-        "mode": "link",
-        "links": [
-            "0933e76415d3b0d8",
-            "a6ed287fa626363b"
-        ],
-        "x": 640,
-        "y": 3765,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "76cb795de1b1411c",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "70b9c5719558ad66",
-        "name": "debug 61",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 640,
-        "y": 3720,
-        "wires": []
     },
     {
         "id": "d02b6fbde106437f",
@@ -6570,7 +6432,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "f6a4cccae63b60ae",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"\",\"field\":\"deleteButton\",\"hozAlign\":\"center\",\"formatter\":\"html\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"editor\":\"input\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Da Prod.\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Pressa 1\",\"field\":\"sendToPressa1\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false,\"width\":110},{\"title\":\"Pressa 2\",\"field\":\"sendToPressa2\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false,\"width\":110},{\"title\":\"Pressa 3\",\"field\":\"sendToPressa3\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false,\"width\":110},{\"title\":\"Pressa 4\",\"field\":\"sendToPressa4\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false,\"width\":110},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"editor\":\"false\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"N°Ciclo\",\"field\":\"cycleNumber\",\"hozAlign\":\"center\",\"editor\":\"false\"},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"450px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true}",
         "group": "b7f5c766a413446a",
@@ -6585,8 +6447,8 @@
         "y": 4740,
         "wires": [
             [
-                "26e6e72f5868f7e5",
-                "f0d5683c1d5e6fa4"
+                "f0d5683c1d5e6fa4",
+                "34fe2b838d57bdf8"
             ]
         ]
     },
@@ -6609,29 +6471,6 @@
         "wires": []
     },
     {
-        "id": "26e6e72f5868f7e5",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "f6a4cccae63b60ae",
-        "name": "handle updates",
-        "func": "\nlet activeRow=msg.payload;\nlet activeFieldName=msg.topic;\nlet refreshMsg=msg;\n    //restituisce l'indice della riga con rowId==rowId in table\nfunction posOf(rowId,table){\n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table){\n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}\n\n    \n\n    //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n    //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"completedTable\");\n    let updatedTable = new Array();\n    for (let row of table) {\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"completedTable\", updatedTable);\n    node.warn(\"deleted\");\n        //refresh frontend\n    return refreshMsg;\n}\n    \nelse if (activeFieldName.test(/sendToPressa/)) {\n    let table = flow.get(\"completedTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    \n    let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n    //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n    \n        \n    if(state){\n            //reset state\n        tabUtils.completed.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[posOf(activeRow.rowId)]); //changes displayed icon/button //takes state, pressNumber, rowReference_to_edit\n            //reset plc data and refresh frontend\n        flow.set(\"completedTable\", table);\n        node.warn(\"canceled send to Pressa\" + activeFieldName.match(/sendToPressa([0-9]+/)[1]);\n        return [refreshMsg,{ topic: msg.topic, action:\"reset\", payload: \"\" }]\n    }\n    else{\n            //reset all other buttons in the same column\n        for(let row of table)\n            if(row[activeFieldName+\"State\"] === 1)\n                tabUtils.completed.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[posOf(activeRow.rowId)]);\n            //set active cell to \"sent to plc\" icon\n        tabUtils.completed.sendToPressButton.setState(\"loaded\", activeFieldName, table[posOf(activeRow.rowId)]);\n            //write to plc and refresh frontend\n        flow.set(\"completedTable\", table);\n        node.warn(\"sent to Pressa\" + activeFieldName.match(/sendToPressa([0-9]+/)[1]);\n        return [refreshMsg , { topic: msg.topic, action:\"sendTo\",payload: activeRow }];\n    }\n    \n}\n    //updates flow.table without refreshing frontend\nelse {\n    flow.set(\"completedTable\",msg.options.data)\n    return null;\n}\n",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1005,
-        "y": 4740,
-        "wires": [
-            [
-                "50a2ac2cbfb5f142"
-            ],
-            [
-                "1a715e262934e5d0"
-            ]
-        ]
-    },
-    {
         "id": "f0d5683c1d5e6fa4",
         "type": "debug",
         "z": "2260f1f88d7c60bf",
@@ -6647,36 +6486,6 @@
         "statusType": "auto",
         "x": 1020,
         "y": 4695,
-        "wires": []
-    },
-    {
-        "id": "50a2ac2cbfb5f142",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "f6a4cccae63b60ae",
-        "name": "refreshCompletedTable_out",
-        "mode": "link",
-        "links": [
-            "15870b35cd8f1905",
-            "1d1e8e2742a7dcf8"
-        ],
-        "x": 1260,
-        "y": 4740,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "1a715e262934e5d0",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "f6a4cccae63b60ae",
-        "name": "",
-        "mode": "link",
-        "links": [
-            "936e16b03277b625"
-        ],
-        "x": 1165,
-        "y": 4785,
         "wires": []
     },
     {
@@ -6772,6 +6581,7 @@
         "id": "fa23adaac1f321c6",
         "type": "ui_button",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "3714a803248cefeb",
         "name": "load example table",
         "group": "b7f5c766a413446a",
@@ -6793,27 +6603,7 @@
         "y": 4560,
         "wires": [
             [
-                "af41a425e2ede13b"
-            ]
-        ]
-    },
-    {
-        "id": "af41a425e2ede13b",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "3714a803248cefeb",
-        "name": "injectRows",
-        "func": "\n\nmsg.payload=[\n    {\n        id: \"very long id that takes space\",\n        quantToDo: 10,\n        quantProd: 10,\n        progress:10,\n    },\n    {\n        id: \"secondId\",\n        quantToDo: 12,\n        quantProd: 10,\n        progress: 50,\n    }\n];\nlet presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\nlet i=0;\nfor(let item of msg.payload){\n    item.rowId= i++;\n    item.deleteButton = \"<center><i class='fa fa-trash-o' ></i></center>\"; //onCLick works\n    for(let p of presse){\n        item[\"sendTo\"+p] = \"<center><span ><i class='fa fa-arrow-up' style=\\\"padding-right:5px\\\"></i>load</span></center>\"; //onCLick works\n    }\n    \n\n}\n\nvar columns=[]\nmsg.payload = new Array();\nfor (i = 0; i < 5; i++) {\n    let row = {};\n    for (let col of columns) {\n        row[col.field] = \"abcd\";\n    }\n    msg.payload.push(row);\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 615,
-        "y": 4560,
-        "wires": [
-            [
-                "ab0e88bd5297972b"
+                "3f8b7f4cf3fc1278"
             ]
         ]
     },
@@ -6821,6 +6611,7 @@
         "id": "c3a62b94383e83a9",
         "type": "inject",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "3714a803248cefeb",
         "name": "",
         "props": [],
@@ -6829,11 +6620,11 @@
         "once": false,
         "onceDelay": "0.1",
         "topic": "",
-        "x": 475,
+        "x": 465,
         "y": 4530,
         "wires": [
             [
-                "af41a425e2ede13b"
+                "3f8b7f4cf3fc1278"
             ]
         ],
         "l": false
@@ -6842,6 +6633,7 @@
         "id": "ab0e88bd5297972b",
         "type": "change",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "3714a803248cefeb",
         "name": "",
         "rules": [
@@ -6870,6 +6662,7 @@
         "id": "4b5acc982887ac5d",
         "type": "link out",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "g": "3714a803248cefeb",
         "name": "refreshCompletedTable_out",
         "mode": "link",
@@ -7080,13 +6873,11 @@
         "links": [
             "479532ec132fba80"
         ],
-        "x": 345,
-        "y": 1995,
+        "x": 300,
+        "y": 1950,
         "wires": [
             [
-                "1357b3ee16a3cc63",
-                "ba40bf7df49ff334",
-                "41b45f700249f6da"
+                "7f9c0ab46277a85f"
             ]
         ],
         "l": true
@@ -7097,14 +6888,14 @@
         "z": "2260f1f88d7c60bf",
         "g": "10b145aa88752c83",
         "name": "ifOrderCompleted -> update tables",
-        "func": "var plcData=msg.payload;\nvar queueTable=flow.get(\"queueTable\");\nconst tabUtils = global.get(\"tabUtils\");\n\n\n   /* data as associative array\nvar posOf={};\nfor (let i=0, item; i<plcData.length; i++) {\n    item = plcData[i];\n    posOf[item.topic]=i;\n} */\n//let posOf=msg.posOf; //data as associative array //like payload[posOf[\"fieldName\"]];\n\nlet sameId_idxs=[]\nlet i=0;\nfor(let row of queueTable){\n    if(row.id == plcData.exc_id){\n        sameId_idxs.push(i)\n    }\n    i++;\n}\n    //if nothing to update in queue\nif(sameId_idxs.length < 1){\n    \n}\n    //if multiple orders in queue\n        //choose one //sendToPressButtonState isLoaded()\nelse if (sameId_idxs.length > 1){\n    let pressNum=msg.pressNum;\n    \n    let found=false;\n    for(let idx of sameId_idxs)\n        if (tabUtils.queue.sendToPressButton.isLoaded(queueTable[idx],\"sendToPressa\"+pressNum)){\n            //edit that one\n            sameId_idxs = [idx]; //use the \"only one id found\" procedure below\n            found=true;\n        }\n    if(!found){\n        //alert? //#TODO\n        //update first one?\n        sameId_idxs = [sameId_idxs[0]]; //use the \"only one id found\" procedure below\n    }\n}\n    //if at least one order in queue\n        //update queueTable and completedTable if needed\nif(sameId_idxs.length==1){\n    let idx = sameId_idxs[0];\n        //plc is actually in charge of increment/decrement (necessary? no. requested? yes.)\n    queueTable[idx].quantProd = plcData.exc_quantProd;\n    queueTable[idx].quantToDo = plcData.exc_quantToDo;\n    \n        //if prod >= toDo\n            //move to completed\n    if(queueTable[idx].quantProd >= queueTable[idx].quantToDo){\n        var completedTable=flow.get(\"completedTable\");\n        tabUtils.deleteRow(idx,queueTable)\n        let row = tabUtils.completed.newRow(tabUtils.newRowId(completedTable));\n        \n        completedTable.push(row);\n        node.send([{ topic: \"refresh\", payload: \"queueTable\" }, { topic: \"refresh\", payload: \"completedTable\" }]);\n    }\n    else\n        node.send([{ topic: \"refresh\", payload: \"queueTable\" }, null]);\n}\n\nreturn msg;",
+        "func": "var plcData=msg.payload;\nvar queueTable=flow.get(\"queueTable\");\nconst tabUtils = flow.get(\"tabUtils\");\nconst button = tabUtils.queue.sendToPressButton;\nconst pressNum = msg.press.match(/([0-9]+)$/)[1];\n\n   /* data as associative array\nvar posOf={};\nfor (let i=0, item; i<plcData.length; i++) {\n    item = plcData[i];\n    posOf[item.topic]=i;\n} */\n//let posOf=msg.posOf; //data as associative array //like payload[posOf[\"fieldName\"]];\n\n\nlet idx = 0;\nfor(let row of queueTable){\n    if(row.id == plcData.prod_id){\n        if(button.isLoaded(\"sendToPressa\"+pressNum,queueTable[idx])){\n            break;\n        }\n        else\n            node.warn({\"button\":pressNum,\"loaded\": button.isLoaded(\"sendToPressa\" + pressNum, queueTable[idx])})\n    }\n    idx++;\n}\nif(queueTable.lengthidx < queueTable.length && queueTable.length){\n    //plc is actually in charge of increment/decrement (necessary? no. requested? yes.)\n    queueTable[idx].quantProd = plcData.exc_quantProd;\n    queueTable[idx].quantToDo = plcData.exc_quantToDo;\n\n    //if prod >= toDo\n        //move to completed\n    if (plcData.exc_quantProd >= plcData.exc_quantToDo) {\n        var completedTable = flow.get(\"completedTable\");\n        tabUtils.deleteRow(idx, queueTable)\n        let row = tabUtils.completed.newRow(tabUtils.newRowId(completedTable));\n\n        row.cycleNumber = plcData.prod_cycleNumber;\n        row.id = plcData.prod_id;\n        row.quantProd = plcData.quantProd;\n        row.note = queueTable[idx].note;\n\n        completedTable.push(row);\n        node.send([{ topic: \"refresh\", payload: \"queueTable\" }, { topic: \"refresh\", payload: \"completedTable\" }]);\n    }\n    else{\n        node.send([{ topic: \"refresh\", payload: \"queueTable\" }, null]);\n    }\n}\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 695,
-        "y": 1965,
+        "x": 890,
+        "y": 1950,
         "wires": [
             [
                 "5cd9e3ef9922f088"
@@ -7126,8 +6917,8 @@
             "107ba20c98b6cb03",
             "1ebe50be51bab839"
         ],
-        "x": 1010,
-        "y": 1935,
+        "x": 1205,
+        "y": 1920,
         "wires": [],
         "l": true
     },
@@ -7141,8 +6932,8 @@
         "links": [
             "15870b35cd8f1905"
         ],
-        "x": 1020,
-        "y": 1995,
+        "x": 1215,
+        "y": 1980,
         "wires": [],
         "l": true
     },
@@ -7152,14 +6943,14 @@
         "z": "2260f1f88d7c60bf",
         "g": "10b145aa88752c83",
         "name": "push to historyTable",
-        "func": "var plcData = msg.payload;\nlet pressNum = msg.pressNum;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nnode.warn({histTable:historyTable});\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\nrow.quantProd = plcData.prod_quantProd;\nrow.cycleNumber = plcData.prod_cycleNumber;\nrow.doneByPressNum = pressNum;\n\n\nflow.set(\"historyTable\", historyTable);",
+        "func": "var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n\nrow.id = plcData.prod_id;\nrow.quantProd = plcData.prod_quantProd;\nrow.status = plcData.exc_status;\nrow.cycleNumber = plcData.prod_cycleNumber;\nrow.press = msg.press;\n\nhistoryTable.push(row);\nnode.send(refreshMsg);\n\nflow.set(\"historyTable\", historyTable);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 670,
-        "y": 2040,
+        "x": 870,
+        "y": 2025,
         "wires": [
             [
                 "23a5a7bba4747615",
@@ -7174,8 +6965,8 @@
         "g": "10b145aa88752c83",
         "name": "update tables with plcData",
         "info": "",
-        "x": 285,
-        "y": 1920,
+        "x": 300,
+        "y": 1875,
         "wires": []
     },
     {
@@ -7190,7 +6981,7 @@
             "1d1e8e2742a7dcf8",
             "a6ed287fa626363b"
         ],
-        "x": 965,
+        "x": 1185,
         "y": 2040,
         "wires": [],
         "l": true
@@ -7287,7 +7078,7 @@
         ],
         "uncaught": false,
         "x": 325,
-        "y": 615,
+        "y": 600,
         "wires": [
             [
                 "972b3c581c06be97"
@@ -7307,7 +7098,7 @@
         "finalize": "",
         "libs": [],
         "x": 730,
-        "y": 615,
+        "y": 600,
         "wires": [
             [
                 "dca5936e80add879"
@@ -7343,7 +7134,7 @@
         "repair": false,
         "outputs": 3,
         "x": 1100,
-        "y": 615,
+        "y": 600,
         "wires": [
             [
                 "083e54e2bf6c88c0"
@@ -7369,7 +7160,7 @@
         "overwriteFile": "true",
         "encoding": "none",
         "x": 1355,
-        "y": 600,
+        "y": 585,
         "wires": [
             [
                 "bf7a7388b5301e71"
@@ -7389,7 +7180,7 @@
         "overwriteFile": "true",
         "encoding": "none",
         "x": 1365,
-        "y": 645,
+        "y": 630,
         "wires": [
             [
                 "ad642f1caae66ae0"
@@ -7409,7 +7200,7 @@
         "overwriteFile": "true",
         "encoding": "none",
         "x": 1355,
-        "y": 555,
+        "y": 540,
         "wires": [
             [
                 "94522e8fcaf7234f"
@@ -7427,7 +7218,7 @@
         ],
         "uncaught": false,
         "x": 325,
-        "y": 570,
+        "y": 555,
         "wires": [
             [
                 "9180b7c3e7a90c3b"
@@ -7445,7 +7236,7 @@
         ],
         "uncaught": false,
         "x": 325,
-        "y": 660,
+        "y": 645,
         "wires": [
             [
                 "d7df7b218b99fd38"
@@ -7473,7 +7264,7 @@
         "to": "",
         "reg": false,
         "x": 940,
-        "y": 615,
+        "y": 600,
         "wires": [
             [
                 "6fbb1b9edbfec062"
@@ -7491,7 +7282,7 @@
             "8b1597117f2c51ff"
         ],
         "x": 1495,
-        "y": 555,
+        "y": 540,
         "wires": []
     },
     {
@@ -7504,7 +7295,7 @@
             "94522e8fcaf7234f"
         ],
         "x": 475,
-        "y": 735,
+        "y": 720,
         "wires": [
             [
                 "25779228f81e2d81"
@@ -7522,7 +7313,7 @@
             "8ca8bba88825bbbf"
         ],
         "x": 1495,
-        "y": 600,
+        "y": 585,
         "wires": []
     },
     {
@@ -7535,7 +7326,7 @@
             "bf7a7388b5301e71"
         ],
         "x": 480,
-        "y": 780,
+        "y": 765,
         "wires": [
             [
                 "84013a96084c3eeb"
@@ -7553,7 +7344,7 @@
             "7a96fcc940243435"
         ],
         "x": 1515,
-        "y": 645,
+        "y": 630,
         "wires": []
     },
     {
@@ -7566,7 +7357,7 @@
             "ad642f1caae66ae0"
         ],
         "x": 480,
-        "y": 825,
+        "y": 810,
         "wires": [
             [
                 "599095620e383bff"
@@ -7594,7 +7385,7 @@
         "to": "",
         "reg": false,
         "x": 485,
-        "y": 570,
+        "y": 555,
         "wires": [
             [
                 "f28eb465e5ea874e"
@@ -7622,7 +7413,7 @@
         "to": "",
         "reg": false,
         "x": 485,
-        "y": 615,
+        "y": 600,
         "wires": [
             [
                 "f28eb465e5ea874e"
@@ -7650,7 +7441,7 @@
         "to": "",
         "reg": false,
         "x": 485,
-        "y": 660,
+        "y": 645,
         "wires": [
             [
                 "f28eb465e5ea874e"
@@ -7665,7 +7456,7 @@
         "name": "create file if it does not exist",
         "info": "",
         "x": 415,
-        "y": 540,
+        "y": 525,
         "wires": []
     },
     {
@@ -7691,24 +7482,6 @@
         "wires": []
     },
     {
-        "id": "41b45f700249f6da",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "10b145aa88752c83",
-        "name": "oncePerCyc",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 645,
-        "y": 2070,
-        "wires": []
-    },
-    {
         "id": "36bdb368ddeac984",
         "type": "debug",
         "z": "2260f1f88d7c60bf",
@@ -7722,7 +7495,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 910,
+        "x": 1130,
         "y": 2085,
         "wires": []
     },
@@ -8334,7 +8107,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "045b0fbd7973524c",
         "name": "handle clicked rows interactivity",
-        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //set active cell to \"sent to plc\" icon\n                //reset all other buttons in the same column //loaded || clearing -> clickToSend //queued -> unchanged\n            button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            // -> queued //will go to loaded\n            case \"clickToSend\": {\n                //set it to queued\n                //change others to: //queued -> clickToSend //loaded -> clearing\n                button.setStateInTable(\"queued\", activeFieldName, table[activeRowIdx], table);\n                msg.action = \"load\";\n                break;\n            }\n            // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setStateInTable(\"clickToSend\", activeFieldName, table[activeRowIdx], table);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, the feedback is on the way and will update the table\n                msg.action = \"nothing\";\n                break;\n            }\n            //-> clearing //will go to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setStateInTable(state, activeFieldName, table[activeRowIdx], table);\n                //empty plc exc\n                    //feedback will reset all buttons\n                msg.action = \"clear\";\n                break;\n            }\n            case \"clearing\": {\n                //set it back to loaded\n                button.setStateInRow(state, activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, the feedback is on the way and will update the table\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //trim?\n    flow.set(\"queueTable\",msg.options.data)\n    return null;\n}\n\n\n\n\n\n\n\n\n/* tmp BKP\n\n\n   //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if reset   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled //if original row was deleted: still reset them all\n        if(msg.action == \"reset\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if (button.isLoaded(activeFieldName, table[rowIdx]))\n                    button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n            //set active cell to \"sent to plc\" icon\n            button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch(state){\n            case 0: {\n                //reset all other buttons in the same column\n                for (let rowIdx in table){\n                    if (button.isLoaded(activeFieldName, table[rowIdx]))\n                        button.setState(\"canceledSend\", activeFieldName, table[rowIdx]);\n                    else if(button.is(\"canceledSend\",activeFieldName, table[rowIdx]))\n                        button.setState(\"canceledSend\", activeFieldName, table[rowIdx]);\n\n\n                }\n\n                //set active cell to \"sent to plc\" icon\n                button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n\n            }\n        }\n\n\n\n\n\n        if(state){\n                //reset state\n            button.setState(\"clickToSend\", activeFieldName, table[activeRowIdx]); //changes displayed icon/button //takes state, pressNumber, rowReference_to_edit\n                //reset plc data and refresh frontend\n            flow.set(\"queueTable\", table);\n            node.warn(\"canceled send to Pressa\" + pressNum);\n            msg.action=\"reset\";\n            return [refreshMsg, msg]\n        }\n        else{\n                //reset all other buttons in the same column\n            for(let rowIdx in table)\n                if (button.isLoaded(activeFieldName, table[rowIdx]))\n                    button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    \n                //set active cell to \"sent to plc\" icon\n            button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //write to plc and refresh frontend\n            flow.set(\"queueTable\", table);\n            node.warn(\"sent to Pressa\" + pressNum);\n            msg.action = \"load\";\n            return [refreshMsg , msg];\n        }\n    }\n}\n\n*/\n",
+        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //button.setStateInTable(\"clearing\",\"sendToPressa3\",table[activeRowIdx],table);\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if(rowIdx != activeRowIdx && button.getStateString(table[rowIdx][activeFieldName+\"State\"]) != \"clickToSend\")\n                    button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n            //set the one to loaded\n            button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx])\n            //button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({feedback:msg.action,fr0m:activeFieldName,appliedTo:activeRow});\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            //load order in plc as soon as it's free // -> queued //will change to loaded\n            case \"clickToSend\": {\n                for(let rowIdx in table){\n                    //queued -> clickToSend\n                    if(button.getStateString(table[rowIdx][activeFieldName+\"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\",activeFieldName,table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                //set it to queued\n                button.setSingleState(\"queued\",activeFieldName, table[activeRowIdx]);\n                //writes to plc\n                msg.action = \"load\";\n                break;\n            }\n            //cancel load // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setSingleState(\"clickToSend\", activeFieldName, table[activeRowIdx]);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n            //write empty order to plc asap //-> clearing //will go to clickToSend //will reset whole column to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n                //empty plc exc\n                    //feedback will reset all buttons to clickToSend\n                msg.action = \"clear\";\n                break;\n            }\n            //-> loaded //cancel clear\n            case \"clearing\": {\n                for (let rowIdx in table) {\n                    //queued -> clickToSend\n                    if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (load)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press=\"pressa\"+pressNum;\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //trim?\n    flow.set(\"queueTable\",msg.options.data)\n    return null;\n}\n\n\n\n\n\n\n\n\n/* tmp BKP\n\n\n   //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if reset   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled //if original row was deleted: still reset them all\n        if(msg.action == \"reset\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if (button.isLoaded(activeFieldName, table[rowIdx]))\n                    button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n            //set active cell to \"sent to plc\" icon\n            button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch(state){\n            case 0: {\n                //reset all other buttons in the same column\n                for (let rowIdx in table){\n                    if (button.isLoaded(activeFieldName, table[rowIdx]))\n                        button.setState(\"canceledSend\", activeFieldName, table[rowIdx]);\n                    else if(button.is(\"canceledSend\",activeFieldName, table[rowIdx]))\n                        button.setState(\"canceledSend\", activeFieldName, table[rowIdx]);\n\n\n                }\n\n                //set active cell to \"sent to plc\" icon\n                button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n\n            }\n        }\n\n\n\n\n\n        if(state){\n                //reset state\n            button.setState(\"clickToSend\", activeFieldName, table[activeRowIdx]); //changes displayed icon/button //takes state, pressNumber, rowReference_to_edit\n                //reset plc data and refresh frontend\n            flow.set(\"queueTable\", table);\n            node.warn(\"canceled send to Pressa\" + pressNum);\n            msg.action=\"reset\";\n            return [refreshMsg, msg]\n        }\n        else{\n                //reset all other buttons in the same column\n            for(let rowIdx in table)\n                if (button.isLoaded(activeFieldName, table[rowIdx]))\n                    button.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    \n                //set active cell to \"sent to plc\" icon\n            button.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //write to plc and refresh frontend\n            flow.set(\"queueTable\", table);\n            node.warn(\"sent to Pressa\" + pressNum);\n            msg.action = \"load\";\n            return [refreshMsg , msg];\n        }\n    }\n}\n\n*/\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -8356,10 +8129,13 @@
         "type": "link out",
         "z": "2260f1f88d7c60bf",
         "g": "045b0fbd7973524c",
-        "name": "writeToExc",
+        "name": "mixed sendToPressRequests out",
         "mode": "link",
-        "links": [],
-        "x": 1095,
+        "links": [
+            "8cc8b8736d1102b3",
+            "584b8fd433a7e2cd"
+        ],
+        "x": 1225,
         "y": 2280,
         "wires": [],
         "l": true
@@ -8386,6 +8162,7 @@
         "id": "2e07ae4a17536160",
         "type": "function",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "name": "update sendToPress button",
         "func": "\nlet buttonName = \"\";\nlet rowId = 0;\nlet setState = \"\";\nconst tabUtils = flow.get(\"tabUtils\");\n\ntabUtils.queue.sendToPressButton.setState();\n/*\nif (/sendToPressa/.test(activeFieldName)) {\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n    //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n\n    if (state) {\n        //reset state\n        tabUtils.queue.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[activeRowIdx]); //changes displayed icon/button //takes state, pressNumber, rowReference_to_edit\n        //reset plc data and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn(\"canceled send to Pressa\" + pressNum);\n        return [refreshMsg, { topic: activeFieldName, action: \"reset\", payload: activeRow }]\n    }\n    else {\n        //reset all other buttons in the same column\n        for (let rowIdx in table)\n            if (tabUtils.queue.sendToPressButton.isLoaded(activeFieldName, table[rowIdx]))\n                tabUtils.queue.sendToPressButton.setState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        //set active cell to \"sent to plc\" icon\n        tabUtils.queue.sendToPressButton.setState(\"loaded\", activeFieldName, table[activeRowIdx]);\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn(\"sent to Pressa\" + pressNum);\n\n        return [refreshMsg, { topic: activeFieldName, action: \"sendTo\", payload: activeRow }];\n    }\n\n}\n\n*/",
         "outputs": 1,
@@ -8406,14 +8183,12 @@
         "type": "switch",
         "z": "2260f1f88d7c60bf",
         "g": "045b0fbd7973524c",
-        "name": "",
+        "name": "route?",
         "property": "payload",
         "propertyType": "msg",
         "rules": [
             {
-                "t": "eq",
-                "v": "",
-                "vt": "str"
+                "t": "else"
             }
         ],
         "checkall": "true",
@@ -8431,6 +8206,7 @@
         "id": "cb5e93613642409a",
         "type": "link out",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "name": "refreshQueueTable_out",
         "mode": "link",
         "links": [
@@ -8447,9 +8223,11 @@
         "id": "65322cbc3d91d4f5",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
+        "d": true,
         "name": "sendToPressRequest done in",
         "links": [
-            "a992bf0170cdc157"
+            "a992bf0170cdc157",
+            "55d2fb1e2f4239c6"
         ],
         "x": 360,
         "y": 2370,
@@ -8467,7 +8245,8 @@
         "g": "045b0fbd7973524c",
         "name": "sendToPressRequest done in",
         "links": [
-            "a992bf0170cdc157"
+            "a992bf0170cdc157",
+            "55d2fb1e2f4239c6"
         ],
         "x": 345,
         "y": 2280,
@@ -8504,6 +8283,209 @@
             [
                 "8d1f7b3db2c80cea"
             ]
+        ]
+    },
+    {
+        "id": "bc155cd9a662d3f9",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "reset buttons & plc",
+        "func": "let table = msg.payload;\nconst tabUtils = flow.get(\"tabUtils\");\n\n/*\nfunction updateButtons(table){\n    const tabUtils = flow.get(\"tabUtils\");\n    const button=tabUtils.queue.sendToPressButton;\n\n    for(let row of table){\n        let i=0,fieldName;\n        while(fieldName=\"sendToPressa\"+(i++) && row.hasOwnProperty(fieldName)){\n            if (button.getStateString(row[fieldName+\"State\"]) == \"queued\"){\n                \n                //setSingleState(\"clickToSend\")\n                node.send({ topic: fieldName, payload: row });\n                \n            }\n            else if(button.getStateString(row[fieldName+\"State\"]) == \"clearing\")\n                button.setSingleState(\"loaded\")\n            \n        }\n        \n    }\n}*/\n\nfunction resetButtons(table){\n    const tabUtils = flow.get(\"tabUtils\");\n    const button = tabUtils.queue.sendToPressButton;\n\n    if(table.length){\n        let row = table[0];\n        let i = 1, fieldName;\n        while ((fieldName = \"sendToPressa\" + (i++)) && row.hasOwnProperty(fieldName))\n            node.send({ topic: fieldName, action: \"clear\", payload: row }, { press: \"pressa\" + i, topic: fieldName, action: \"clear\", payload: row });\n    }\n\n    /*//for each sendTo button of each row\n    for (let row of table) {\n        let i = 1, fieldName;\n        while ((fieldName = \"sendToPressa\" + (i++)) && row.hasOwnProperty(fieldName)) {\n            //button.setSingleState(\"loaded\",); //not strictly necessary..\n            let pressNum = i;\n            //emulate \"clear\" feedback\n            node.warn({\"sent\": { topic: fieldName, action: \"clear\", payload: row }})\n            node.send({topic:fieldName, action:\"clear\", payload:row}, {press:\"pressa\"+pressNum, topic:fieldName, action:\"clear\", payload:row});\n        }\n    }*/\n}\n\n\nfunction wait(callback,param){\n    if(!flow.get(\"tabUtils\"))\n        context.set(\"id\",  setTimeout(wait, 1000, callback, param),  ()=>{node.error(\"asyncContextError in 'reset buttons & plc'\")})\n    else\n        callback(param);\n}\n\nwait(resetButtons,table);\n",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "// Code added here will be run when the\n// node is being stopped or re-deployed.\n\nclearTimeout(context.get(\"id\"));",
+        "libs": [],
+        "x": 890,
+        "y": 690,
+        "wires": [
+            [
+                "55d2fb1e2f4239c6"
+            ],
+            [
+                "c30ca4565e0d218f"
+            ]
+        ]
+    },
+    {
+        "id": "c30ca4565e0d218f",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "mixed sendToPressRequests out",
+        "mode": "link",
+        "links": [
+            "8cc8b8736d1102b3",
+            "584b8fd433a7e2cd"
+        ],
+        "x": 1160,
+        "y": 705,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "55d2fb1e2f4239c6",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "sendToPressRequest done out",
+        "mode": "link",
+        "links": [
+            "db8b2173015ac88c",
+            "65322cbc3d91d4f5",
+            "a1ac077375ba231d"
+        ],
+        "x": 1150,
+        "y": 675,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "73bd49c19cb4ea06",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "e2961306402a77aa",
+        "name": "historyTable event out",
+        "mode": "link",
+        "links": [],
+        "x": 1030,
+        "y": 4095,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "34fe2b838d57bdf8",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "f6a4cccae63b60ae",
+        "name": "completedTable event out",
+        "mode": "link",
+        "links": [],
+        "x": 1050,
+        "y": 4740,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "3f8b7f4cf3fc1278",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "3714a803248cefeb",
+        "name": "injectRows",
+        "func": "\nvar columns = [{ \"title\": \"rowId\", \"field\": \"rowId\", \"visible\": false, \"hozAlign\": \"left\", \"editor\": false }, { \"title\": \"\", \"field\": \"deleteButton\", \"hozAlign\": \"center\", \"formatter\": \"html\", \"editor\": false }, { \"title\": \"id\", \"field\": \"id\", \"hozAlign\": \"left\", \"editor\": \"input\" }, { \"title\": \"Prodotte\", \"field\": \"quantProd\", \"hozAlign\": \"center\", \"editor\": \"number\" }, { \"title\": \"Da Prod.\", \"field\": \"quantProd\", \"hozAlign\": \"center\", \"editor\": \"number\" }, { \"title\": \"Pressa 1\", \"field\": \"sendToPressa1\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"editor\": false, \"width\": 110 }, { \"title\": \"Pressa 2\", \"field\": \"sendToPressa2\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"editor\": false, \"width\": 110 }, { \"title\": \"Pressa 3\", \"field\": \"sendToPressa3\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"editor\": false, \"width\": 110 }, { \"title\": \"Pressa 4\", \"field\": \"sendToPressa4\", \"formatter\": \"html\", \"hozAlign\": \"left\", \"editor\": false, \"width\": 110 }, { \"title\": \"note\", \"field\": \"note\", \"hozAlign\": \"textarea\", \"editor\": \"input\" }]\n\nlet presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n\n\nmsg.payload=new Array();\nfor(let i=0; i<3; i++){\n    let row = {};\n    for(let col of columns){\n        row[col.field] = \"\";\n    }\n    msg.payload.push(row);\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 4560,
+        "wires": [
+            [
+                "ab0e88bd5297972b"
+            ]
+        ]
+    },
+    {
+        "id": "7f9c0ab46277a85f",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "g": "10b145aa88752c83",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "press",
+                "pt": "msg",
+                "to": "pressa1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 1950,
+        "wires": [
+            [
+                "935ab1c92ceb192a"
+            ]
+        ]
+    },
+    {
+        "id": "935ab1c92ceb192a",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "10b145aa88752c83",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 705,
+        "y": 1995,
+        "wires": [
+            [
+                "ba40bf7df49ff334",
+                "1357b3ee16a3cc63"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "815c87fef5ebc6c6",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 495,
+        "y": 2445,
+        "wires": [
+            [
+                "437eb893e919acd3"
+            ]
+        ]
+    },
+    {
+        "id": "437eb893e919acd3",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "name": "function 1",
+        "func": "const tabUtils = flow.get(\"tabUtils\");\nconst button = tabUtils.queue.sendToPressButton;\n\nbutton.isLoaded(\"sendToPressa1\",flow.get(\"queueTable\")[2]);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 645,
+        "y": 2445,
+        "wires": [
+            []
         ]
     },
     {
@@ -11608,12 +11590,11 @@
         "variable": "exc_id",
         "diff": false,
         "name": "ifDiff -> all status 10s",
-        "x": 255,
-        "y": 1425,
+        "x": 295,
+        "y": 1770,
         "wires": [
             [
-                "d1dbf0ba787aaf87",
-                "765edce0c2be3f26"
+                "17ccce6813bb1513"
             ]
         ]
     },
@@ -11631,8 +11612,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 500,
-        "y": 1380,
+        "x": 640,
+        "y": 1725,
         "wires": []
     },
     {
@@ -11647,8 +11628,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 505,
-        "y": 1425,
+        "x": 645,
+        "y": 1770,
         "wires": [
             [
                 "f496db4601480ad7"
@@ -11749,42 +11730,26 @@
         "type": "s7 in",
         "z": "9922a8114f46702b",
         "d": true,
+        "g": "a70fe69b7459b746",
         "endpoint": "34ec8711cb2e9270",
         "mode": "single",
         "variable": "prod_cycleRun",
         "diff": true,
         "name": "ifDifferent -> prod_cycleRun",
-        "x": 265,
-        "y": 1665,
+        "x": 325,
+        "y": 1605,
         "wires": [
             [
-                "390cfa0d7408c694",
-                "e1d9dc50e8c79a8f"
+                "9ceed6fd254ce510"
             ]
-        ]
-    },
-    {
-        "id": "390cfa0d7408c694",
-        "type": "function",
-        "z": "9922a8114f46702b",
-        "d": true,
-        "name": "trigger once per cycle",
-        "func": "\nvar cycleIsRunning=context.get(\"cycleIsRunning\");\nvar lastCycleNum=context.get(\"lastCycleNum\");\n\nif(lastCycleNum<=0)\n    lastCycleNum=global.get(\"historyTable\")[0].cycleNum || -1;\n\nif(lastCycleNum < msg.payload)\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\n\ncontext.set(\"cycleIsRunning\",false);\ncontext.set(\"lastCycleNum\",-1);",
-        "finalize": "",
-        "libs": [],
-        "x": 545,
-        "y": 1590,
-        "wires": [
-            []
         ]
     },
     {
         "id": "e1d9dc50e8c79a8f",
         "type": "switch",
         "z": "9922a8114f46702b",
+        "d": true,
+        "g": "a70fe69b7459b746",
         "name": "payload true/false",
         "property": "payload",
         "propertyType": "msg",
@@ -11803,8 +11768,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 595,
-        "y": 1665,
+        "x": 650,
+        "y": 1605,
         "wires": [
             [],
             []
@@ -11814,6 +11779,8 @@
         "id": "0ad0e75869583a93",
         "type": "inject",
         "z": "9922a8114f46702b",
+        "d": true,
+        "g": "a70fe69b7459b746",
         "name": "",
         "props": [
             {
@@ -11831,8 +11798,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 285,
-        "y": 1560,
+        "x": 430,
+        "y": 1530,
         "wires": [
             [
                 "e1d9dc50e8c79a8f"
@@ -11843,6 +11810,8 @@
         "id": "7fefc00461152886",
         "type": "inject",
         "z": "9922a8114f46702b",
+        "d": true,
+        "g": "a70fe69b7459b746",
         "name": "",
         "props": [
             {
@@ -11860,8 +11829,8 @@
         "topic": "",
         "payload": "false",
         "payloadType": "bool",
-        "x": 285,
-        "y": 1590,
+        "x": 430,
+        "y": 1560,
         "wires": [
             [
                 "e1d9dc50e8c79a8f"
@@ -11879,15 +11848,11 @@
         "variable": "exc_id",
         "diff": false,
         "name": "all prodExc 10s",
-        "x": 265,
-        "y": 1950,
+        "x": 270,
+        "y": 2055,
         "wires": [
             [
-                "f5cdb10387af4f40",
-                "ca74a0de42a788ba",
-                "27be6fe227af16cc",
-                "214d0a5f9c40f7c2",
-                "2a9c9c49c94432d9"
+                "260b48d27cf6b812"
             ]
         ]
     },
@@ -11903,8 +11868,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 530,
-        "y": 1845,
+        "x": 630,
+        "y": 2010,
         "wires": [
             [
                 "d475353a7f70bf2a"
@@ -11928,28 +11893,12 @@
         "mode": "link",
         "links": [
             "9f767a4b86454460",
-            "dc42f7c25233e317"
+            "dc42f7c25233e317",
+            "cf605b67dca1fd9a"
         ],
-        "x": 860,
-        "y": 1875,
+        "x": 960,
+        "y": 2040,
         "wires": [],
-        "l": true
-    },
-    {
-        "id": "dc42f7c25233e317",
-        "type": "link in",
-        "z": "9922a8114f46702b",
-        "d": true,
-        "name": "allProdExc oncePerCycle in",
-        "links": [
-            "479532ec132fba80",
-            "c572a485f8059d45"
-        ],
-        "x": 1000,
-        "y": 1605,
-        "wires": [
-            []
-        ],
         "l": true
     },
     {
@@ -11966,8 +11915,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 505,
-        "y": 1905,
+        "x": 605,
+        "y": 2070,
         "wires": []
     },
     {
@@ -11982,8 +11931,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 650,
-        "y": 1095,
+        "x": 745,
+        "y": 1125,
         "wires": [
             [
                 "1268ad479e7f6bab"
@@ -11997,8 +11946,8 @@
         "g": "408c86b39f332966",
         "name": "parseStatus in",
         "links": [],
-        "x": 535,
-        "y": 1095,
+        "x": 630,
+        "y": 1125,
         "wires": [
             [
                 "b3472d016caff6c0"
@@ -12013,15 +11962,15 @@
         "name": "parseStatus out",
         "mode": "return",
         "links": [],
-        "x": 760,
-        "y": 1095,
+        "x": 855,
+        "y": 1125,
         "wires": []
     },
     {
         "id": "0a547f33659dd077",
         "type": "change",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "",
         "rules": [
             {
@@ -12037,8 +11986,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 445,
-        "y": 1235,
+        "x": 490,
+        "y": 1350,
         "wires": [
             [
                 "6a2f84e5a6053bfa"
@@ -12049,14 +11998,15 @@
         "id": "c40dd074760f5ff9",
         "type": "status",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "d": true,
+        "g": "a70fe69b7459b746",
         "name": "pressa1_allStatus",
         "scope": [
             "9ca5c05780dc2c19",
             "49e6d3e2af0723a8"
         ],
-        "x": 245,
-        "y": 1235,
+        "x": 275,
+        "y": 1350,
         "wires": [
             [
                 "0a547f33659dd077"
@@ -12067,15 +12017,15 @@
         "id": "6a2f84e5a6053bfa",
         "type": "link call",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "parse Status",
         "links": [
             "ee85a2f48f8b5e02"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 675,
-        "y": 1250,
+        "x": 720,
+        "y": 1365,
         "wires": [
             [
                 "419d8fe0bc51a50a"
@@ -12086,7 +12036,7 @@
         "id": "6632929cbf8477f9",
         "type": "change",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "",
         "rules": [
             {
@@ -12102,8 +12052,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 450,
-        "y": 1265,
+        "x": 495,
+        "y": 1380,
         "wires": [
             [
                 "6a2f84e5a6053bfa"
@@ -12114,14 +12064,14 @@
         "id": "f22eaeab0459ee15",
         "type": "link out",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "pressa1_alife_dataIn_out",
         "mode": "link",
         "links": [
             "8ef946242380175e"
         ],
-        "x": 1070,
-        "y": 1250,
+        "x": 1115,
+        "y": 1365,
         "wires": [],
         "l": true
     },
@@ -12129,17 +12079,19 @@
         "id": "fa36f3d9a2716a47",
         "type": "status",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "pressa1_allProdExc",
         "scope": [
             "49e6d3e2af0723a8",
             "9ca5c05780dc2c19"
         ],
-        "x": 245,
-        "y": 1265,
+        "x": 275,
+        "y": 1380,
         "wires": [
             [
-                "6632929cbf8477f9"
+                "6632929cbf8477f9",
+                "0a547f33659dd077",
+                "642b4cd1857e998b"
             ]
         ]
     },
@@ -12150,27 +12102,27 @@
         "g": "e2bd9331f9185534",
         "name": "poll status pressa1",
         "info": "",
-        "x": 245,
-        "y": 1380,
+        "x": 280,
+        "y": 1725,
         "wires": []
     },
     {
         "id": "bdec638b99156315",
         "type": "comment",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
+        "g": "a70fe69b7459b746",
         "name": "track connection status pressa1",
         "info": "",
-        "x": 300,
-        "y": 1190,
+        "x": 345,
+        "y": 1305,
         "wires": []
     },
     {
         "id": "419d8fe0bc51a50a",
         "type": "trigger",
         "z": "9922a8114f46702b",
-        "g": "38ebf7d3eca21fb2",
-        "name": "",
+        "g": "a70fe69b7459b746",
+        "name": "merge 300ms",
         "op1": "",
         "op2": "",
         "op1type": "nul",
@@ -12183,8 +12135,8 @@
         "bytopic": "all",
         "topic": "topic",
         "outputs": 1,
-        "x": 850,
-        "y": 1250,
+        "x": 895,
+        "y": 1365,
         "wires": [
             [
                 "f22eaeab0459ee15"
@@ -12199,8 +12151,8 @@
         "name": "pressa1 allProdExc onceOnCycleStart out",
         "mode": "link",
         "links": [],
-        "x": 860,
-        "y": 1830,
+        "x": 960,
+        "y": 1995,
         "wires": [],
         "l": true
     },
@@ -12209,15 +12161,15 @@
         "type": "link in",
         "z": "9922a8114f46702b",
         "g": "0c753ce1969e7a11",
-        "name": "pressa1 emuRead in",
+        "name": "emuRead in",
         "links": [
             "5ce383fc8f203d80"
         ],
-        "x": 295,
-        "y": 1800,
+        "x": 275,
+        "y": 2100,
         "wires": [
             [
-                "f5cdb10387af4f40"
+                "260b48d27cf6b812"
             ]
         ],
         "l": true
@@ -12236,14 +12188,15 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 785,
-        "y": 1920,
+        "x": 885,
+        "y": 2085,
         "wires": []
     },
     {
         "id": "2d42bfb3b1c1476f",
         "type": "change",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "start cycle",
         "rules": [
@@ -12260,8 +12213,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 295,
-        "y": 825,
+        "x": 1430,
+        "y": 375,
         "wires": [
             [
                 "e83df1da93dc1fed"
@@ -12272,6 +12225,7 @@
         "id": "6b6aad74d9d607ed",
         "type": "delay",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "",
         "pauseType": "delay",
@@ -12286,8 +12240,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 605,
-        "y": 780,
+        "x": 1740,
+        "y": 330,
         "wires": [
             [
                 "2d42bfb3b1c1476f"
@@ -12298,6 +12252,7 @@
         "id": "e83df1da93dc1fed",
         "type": "function",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "emulate plc",
         "func": "var state=context.get(\"state\")\n//node.warn({ input_state: state });\n\n//output template: [readOutput , cycleChanged , prod_writeRequest, status_writeRequest, prod_readRequest, status_readRequest ]\n    //readOutput    same as s7 //{} with var:value pairs\n    //cycleChanged  topic: \"cycleOff\" | \"cycleOn\"  payload:state\n    //prod_writeRequest     sends to plc prodExc s7\n    //status_writeRequest   sends to plc status s7    //only used in OnStart\n    //prod_readRequest      reads from plc prodExc s7\n    //status_readRequest    reads from plc status s7   //only used in OnStart\n\nfunction initData(){\n    return {\n        \"exc_id\":\"leftoverId\",\n        \"exc_status\":\"someStatus\",\n        \"exc_quantToDo\":17,\n        \"exc_quantProd\":3,\n        \"prod_cycleRun\":true,\n        \"prod_cycleNumber\":0,\n        \"prod_id\":\"\",\n        \"prod_quantProd\":0,\n        \"prod_esito\":true\n    }\n}\n\n\nif(!state)\n    state = initData();\n\n//emulate cycle routine state changes\nif(msg.action==\"start\"){\n    if(state.cycleRun)\n        node.error(\"received start when already running\");\n    node.warn(\"cycle began\");\n    //set state\n    state.cycleRun=true;\n    state.prod_cycleNumber++;\n    state.prod_id = state.exc_id;\n    state.exc_quantProd += state.prod_quantProd;\n    //emulate completion routine\n        //msg.eta = completion delay ms\n        //default delay = 5000ms\n    setTimeout((state)=>{\n        state.cycleRun=false;\n        //state.prod_id = \"\";\n        let esito = Math.rand() < 0.8;\n        if(esito){\n            \n        }\n        else{\n            state.exc_quantProd -= state.prod_quantProd;\n        }\n        node.warn({ esito: esito, cycle: state});\n        \n        //create write request for prodExc plc\n        let request={};\n        request.payload = new Array();\n        request.variable = new Array();\n        let keys=Object.keys(state);\n        let i=0;\n        for(let k of keys){\n            request.payload.push(state[k]);\n            request.variable.push(k);\n        }\n        node.send([ null, {topic:\"cycleOff\",payload:state}, request, null, null, null ]);\n    },msg.eta ?? 5000);\n}\n//read all //outputs an obj\nelse if(!msg.action || msg.action==\"readAll\"){\n    node.warn(\"readAll\");\n    node.send([state,null,null]);\n}\n//else write what's in variable\nelse if(msg.action == \"write\"){\n    let oldState=state; //#DBG\n    if (msg.variable.length) {\n        let i = 0;\n        for (let v of msg.variable) {\n            state[v] = msg.payload[i++];\n        }\n    }\n    node.warn({ written: msg, from: oldState, to: state });\n}\nelse{\n    node.warn({err:\"wth\",msg:msg});\n}\n\n\nnode.warn({output_state:state});\ncontext.set(\"state\",state);\n\n//create write request for plc\nlet request = {};\nrequest.payload = new Array();\nrequest.variable = new Array();\nlet keys = Object.keys(state);\nfor (let k of keys) {\n    request.payload.push(state[k]);\n    request.variable.push(k);\n}\nnode.send([null, (msg.action!=\"start\") ? null : { topic: \"cycleOn\", payload: state }, request, null, null, null]);",
@@ -12306,8 +12261,8 @@
         "initialize": "// Code added here will be run once\n// whenever the node is started.\n\ncontext.set(\"status\", {\n    status_alife: false,\n    status_cycleActive: false,\n    status_emergency: false,\n    status_idraulicCmd: false,\n    status_idPressa: 1234,\n    status_pressPressata: 0,\n    status_tempPianoSup: 0,\n    status_tempPianoInf: 0\n});\n\n\n    //generate status changes\nlet id=setInterval(()=>{\n    let last=context.get(\"status\");\n    if(!last)\n        node.error(\"context undefined\");\n\n    let status = {\n        \"status_alife\": !last.status_alife,\n        \"status_cycleActive\": false,\n        \"status_emergency\": last.status_emergency ? false : Math.random() < 0.2,\n        \"status_idraulicCmd\": last.status_idraulicCmd ? false : Math.random() < 0.5,\n        \"status_idPressa\": 1234,\n        \"status_pressPressata\": Math.random()*350,\n        \"status_tempPianoSup\": 0, //Math.random() * (2*this.status_pressPressata),\n        \"status_tempPianoInf\": 0 //this.status_tempPianoSup - (1 / 3) * this.status_tempPianoInf + Math.random() * (2 / 3) * this.status_tempPianoInf\n    }\n    status.status_tempPianoSup =   Math.random() * (2 * status.status_pressPressata)  ;\n    status.status_tempPianoInf =   status.status_tempPianoSup - (1 / 3) * status.status_tempPianoSup + Math.random() * (2 / 3) * status.status_tempPianoSup  ;\n    \n    \n\n    //create write request for plc \n    let request = {};\n    request.payload = new Array();\n    request.variable = new Array();\n    let keys = Object.keys(status);\n    //node.warn({\"req keys\":keys});\n    for (let k of keys) {\n        //node.warn({s:status,\"k\":k,item:status[k]});\n        request.payload.push(status[k]);\n        request.variable.push(k);\n    }\n    \n    node.send([null, null, null,request,null])\n\n},10000);\n\ncontext.set(\"intervalId\",id); //cleared in \"On stop\"",
         "finalize": "// Code added here will be run when the\n// node is being stopped or re-deployed.\n\nclearTimeout(context.get(\"intervalId\"));\nnode.warn(\"timeout cleared\");",
         "libs": [],
-        "x": 525,
-        "y": 870,
+        "x": 1660,
+        "y": 420,
         "wires": [
             [],
             [
@@ -12343,6 +12298,7 @@
         "id": "715b65f58c966686",
         "type": "change",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "delete",
         "rules": [
@@ -12362,8 +12318,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 465,
-        "y": 780,
+        "x": 1600,
+        "y": 330,
         "wires": [
             [
                 "6b6aad74d9d607ed"
@@ -12379,8 +12335,8 @@
         "endpoint": "34ec8711cb2e9270",
         "function": "trigger",
         "name": "",
-        "x": 1090,
-        "y": 930,
+        "x": 2225,
+        "y": 480,
         "wires": [
             [
                 "420d2f3b4f8caa1b"
@@ -12396,8 +12352,8 @@
         "endpoint": "fa784b598becc58c",
         "function": "trigger",
         "name": "",
-        "x": 1110,
-        "y": 975,
+        "x": 2245,
+        "y": 525,
         "wires": [
             [
                 "4122cbdcb42e0560"
@@ -12413,8 +12369,8 @@
         "endpoint": "34ec8711cb2e9270",
         "variable": "",
         "name": "",
-        "x": 850,
-        "y": 825,
+        "x": 1985,
+        "y": 375,
         "wires": []
     },
     {
@@ -12426,21 +12382,22 @@
         "endpoint": "fa784b598becc58c",
         "variable": "",
         "name": "",
-        "x": 855,
-        "y": 870,
+        "x": 1990,
+        "y": 420,
         "wires": []
     },
     {
         "id": "49ec813eb9ef324d",
         "type": "link in",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link in 10",
         "links": [
             "6058f3345d37e4dc"
         ],
-        "x": 900,
-        "y": 930,
+        "x": 2035,
+        "y": 480,
         "wires": [
             [
                 "81faf0db9baee789"
@@ -12451,13 +12408,14 @@
         "id": "fe70ebeba81a880f",
         "type": "link in",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link in 11",
         "links": [
             "e8ab6a202bfe33f6"
         ],
-        "x": 910,
-        "y": 975,
+        "x": 2045,
+        "y": 525,
         "wires": [
             [
                 "bb19e1a6f465c228"
@@ -12468,14 +12426,15 @@
         "id": "20e1e02ce292a867",
         "type": "link in",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link in 12",
         "links": [
             "420d2f3b4f8caa1b",
             "4122cbdcb42e0560"
         ],
-        "x": 395,
-        "y": 900,
+        "x": 1530,
+        "y": 450,
         "wires": [
             [
                 "e83df1da93dc1fed"
@@ -12486,73 +12445,79 @@
         "id": "6058f3345d37e4dc",
         "type": "link out",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link out 17",
         "mode": "link",
         "links": [
             "49ec813eb9ef324d"
         ],
-        "x": 650,
-        "y": 900,
+        "x": 1785,
+        "y": 450,
         "wires": []
     },
     {
         "id": "e8ab6a202bfe33f6",
         "type": "link out",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link out 18",
         "mode": "link",
         "links": [
             "fe70ebeba81a880f"
         ],
-        "x": 650,
-        "y": 945,
+        "x": 1785,
+        "y": 495,
         "wires": []
     },
     {
         "id": "420d2f3b4f8caa1b",
         "type": "link out",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link out 19",
         "mode": "link",
         "links": [
             "20e1e02ce292a867"
         ],
-        "x": 1275,
-        "y": 930,
+        "x": 2410,
+        "y": 480,
         "wires": []
     },
     {
         "id": "4122cbdcb42e0560",
         "type": "link out",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "link out 20",
         "mode": "link",
         "links": [
             "20e1e02ce292a867"
         ],
-        "x": 1300,
-        "y": 975,
+        "x": 2435,
+        "y": 525,
         "wires": []
     },
     {
         "id": "efe20e68d0236d94",
         "type": "comment",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "utility: emulate plc",
         "info": "",
-        "x": 290,
-        "y": 750,
+        "x": 1425,
+        "y": 300,
         "wires": []
     },
     {
         "id": "12fde84fc27f5e55",
         "type": "inject",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "",
         "props": [
@@ -12571,8 +12536,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 215,
-        "y": 885,
+        "x": 1350,
+        "y": 435,
         "wires": [
             [
                 "2d42bfb3b1c1476f"
@@ -12583,6 +12548,7 @@
         "id": "7d5d66e4e2b480f4",
         "type": "debug",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "debug 69",
         "active": false,
@@ -12593,14 +12559,15 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1025,
-        "y": 825,
+        "x": 2160,
+        "y": 375,
         "wires": []
     },
     {
         "id": "40be6c6cb5f36f37",
         "type": "debug",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "debug 70",
         "active": false,
@@ -12611,14 +12578,15 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 755,
-        "y": 930,
+        "x": 1890,
+        "y": 480,
         "wires": []
     },
     {
         "id": "d13313512ae49a4a",
         "type": "debug",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "debug 71",
         "active": false,
@@ -12629,14 +12597,15 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1040,
-        "y": 870,
+        "x": 2175,
+        "y": 420,
         "wires": []
     },
     {
         "id": "d3cdc80e459cdf33",
         "type": "debug",
         "z": "9922a8114f46702b",
+        "d": true,
         "g": "6aaddccc85e9cc4d",
         "name": "debug 72",
         "active": false,
@@ -12647,8 +12616,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 755,
-        "y": 975,
+        "x": 1890,
+        "y": 525,
         "wires": []
     },
     {
@@ -12657,13 +12626,13 @@
         "z": "9922a8114f46702b",
         "g": "7ccb3032311c9638",
         "name": "emulate prodExc plc",
-        "func": "var state=context.get(\"state\");\n//output template: [readOutput , cycleChanged , selfRequests]\n    //readOutput    same as s7 //{} with var:value pairs\n    //cycleChanged  topic: \"cycleOff\" | \"cycleOn\"  payload:state\n    //selfRequests  sends to this node\n    //readStatusOutput\n\nfunction newData(){\n    return {\n        \"exc_id\":\"pippo\",\n        \"exc_status\":16,\n        \"exc_quantToDo\":17,\n        \"exc_quantProd\":18,\n        \"prod_cycleRun\":false,\n        \"prod_cycleNumber\":0,\n        \"prod_id\":\"\",\n        \"prod_quantProd\":0,\n        \"prod_esito\":false\n    }\n}\n\nfunction statData(last){\n    let status={\n        \"status_alife\": !last ? true : !last.status_alife,\n        \"status_cycleActive\": false,\n        \"status_emergency\": !last ? false : last.status_emergency ? false : Math.random() < 0.2,\n        \"status_idraulicCmd\": !last ? false : last.status_idraulicCmd ? false : Math.random() < 0.5,\n        \"status_idPressa\": 1234,\n        \"status_pressPressata\": Math.random()*350,\n        \"status_tempPianoSup\": 0, //Math.random() * (2*this.status_pressPressata),\n        \"status_tempPianoInf\": 0 //this.status_tempPianoSup - (1 / 3) * this.status_tempPianoInf + Math.random() * (2 / 3) * this.status_tempPianoInf\n    }\n    status.status_tempPianoSup =   Math.random() * (2 * status.status_pressPressata)  ;\n    status.status_tempPianoInf =   status.status_tempPianoSup - (1 / 3) * status.status_tempPianoSup + Math.random() * (2 / 3) * status.status_tempPianoSup  ;\n    return status;\n}\nfunction newRandData(prod_cycleRun=true){\n    let d=newData();\n}\n\n//one-time init\nif(!state){\n    state = newData();\n    /*\n    let status = statData();\n    for(let k in status)\n        state[k]=status[k];\n\n    */\n}\n\n\nif(msg.action == \"poll\"){\n    /*\n    let allStatusOutput = {payload:{}};\n    let allProdExcOutput = {payload:{}};\n    for(let k in state){\n        if(/^status_/.test(k))\n            allStatusOutput.payload[k]=state[k];\n        else\n            allProdExcOutput.payload[k] = state[k];\n    }\n    node.send([null, null, allProdExcOutput,allStatusOutput])\n    */\n}\n//emulate cycle state changes\nelse if(msg.action==\"start\"){\n    if(state.prod_cycleRun)\n        node.error(\"received start when already running\");\n    //set state\n    state.prod_cycleRun=true;\n    state.prod_cycleNumber++;\n    state.prod_id = state.exc_id;\n    state.exc_quantProd += state.prod_quantProd;\n    //emulate completion routine\n        //msg.eta = completion delay ms\n        //default delay = 5000ms\n    setTimeout((state)=>{\n        node.warn(\"cycleOff\");\n        state.prod_cycleRun=false;\n        //state.prod_id = \"\";\n        let esito = Math.random() < 0.8;\n        if(esito){\n            \n        }\n        else{\n            state.exc_quantProd -= state.prod_quantProd;\n        }\n        node.warn(esito);\n        let request={};\n        request.payload = new Array();\n        request.variable = new Array();\n        //create write request for this node //avoid async shenanigans from context.set()\n        for(let k in state){\n            request.payload.push(state[k]);\n            request.variable.push(k);\n        }\n        /*\n        var allProdExc={};\n        for (let k in state) {\n            if (!/^status_/.test(k))\n                allProdExc[k] = state[k];\n        }\n        */\n        node.send([{topic:\"allProdExc\",payload:state},{topic:\"cycleOff\",payload:state},request])\n    },msg.eta ?? 5000,state);\n    /*\n    var allProdExc = {};\n    for (let k in state) {\n        if (!/^status_/.test(k))\n            allProdExc[k] = state[k];\n    }*/\n    node.warn(\"cycleOn\");\n    node.send([{topic:\"allProdExc\",payload:state}, null, null]);\n}\n//read all //outputs an obj\nelse if(!msg.action || msg.action==\"readAll\"){\n    let allStatusOutput = { payload:{} };\n    let allProdExcOutput = { payload: {} };\n\n    /*for(let k in state){\n        if(/^status_/.test(k))\n            allStatusOutput.payload[k]=state[k];\n        else\n            allProdExcOutput.payload[k] = state[k];\n    }*/\n    \n    msg.payload=state;\n    delete msg.action;\n\n    node.warn(\"readAll\");\n    node.send([msg,null,null]);\n}\n//else write what's in variable\nelse{\n    node.warn(\"writeAll\");\n    if (msg.variable.length) {\n        let i = 0;\n        for (let v in msg.variable) {\n            state[v] = msg.payload[i++];\n        }\n    }\n}\n\n\ncontext.set(\"state\",state);",
+        "func": "var state=context.get(\"state\");\n//output template: [readOutput , cycleChanged , selfRequests]\n    //readOutput    same as s7 //{} with var:value pairs\n    //cycleChanged  topic: \"cycleOff\" | \"cycleOn\"  payload:state\n    //selfRequests  sends to this node\n    //readStatusOutput\n\nfunction newData(){\n    return {\n        \"genCtrl\":Math.random(),\n        \"exc_id\":\"pippo\",\n        \"exc_status\":3,\n        \"exc_quantToDo\":17,\n        \"exc_quantProd\":18,\n        \"prod_cycleRun\":false,\n        \"prod_cycleNumber\":0,\n        \"prod_id\":\"\",\n        \"prod_quantProd\":0,\n        \"prod_esito\":false\n    }\n}\n\nfunction statData(last){\n    let status={\n        \"status_alife\": !last ? true : !last.status_alife,\n        \"status_cycleActive\": false,\n        \"status_emergency\": !last ? false : last.status_emergency ? false : Math.random() < 0.2,\n        \"status_idraulicCmd\": !last ? false : last.status_idraulicCmd ? false : Math.random() < 0.5,\n        \"status_idPressa\": 1234,\n        \"status_pressPressata\": Math.random()*350,\n        \"status_tempPianoSup\": 0, //Math.random() * (2*this.status_pressPressata),\n        \"status_tempPianoInf\": 0 //this.status_tempPianoSup - (1 / 3) * this.status_tempPianoInf + Math.random() * (2 / 3) * this.status_tempPianoInf\n    }\n    status.status_tempPianoSup =   Math.random() * (2 * status.status_pressPressata)  ;\n    status.status_tempPianoInf =   status.status_tempPianoSup - (1 / 3) * status.status_tempPianoSup + Math.random() * (2 / 3) * status.status_tempPianoSup  ;\n    return status;\n}\nfunction newRandData(prod_cycleRun=true){\n    let d=newData();\n}\n\n//one-time init\nif(state === undefined){\n    state = newData();\n    /*\n    let status = statData();\n    for(let k in status)\n        state[k]=status[k];\n\n    */\n}\n\n\nif(msg.action == \"poll\"){\n    /*\n    let allStatusOutput = {payload:{}};\n    let allProdExcOutput = {payload:{}};\n    for(let k in state){\n        if(/^status_/.test(k))\n            allStatusOutput.payload[k]=state[k];\n        else\n            allProdExcOutput.payload[k] = state[k];\n    }\n    node.send([null, null, allProdExcOutput,allStatusOutput])\n    */\n}\n//emulate cycle state changes\nelse if(msg.action==\"start\"){\n    if(state.prod_cycleRun)\n        node.error(\"received start when already running\");\n    //set state\n    state.prod_cycleRun=true;\n    state.prod_cycleNumber++;\n    state.prod_id = state.exc_id;\n    state.exc_status = 2;\n    state.prod_quantProd = 2;\n    state.exc_quantProd += state.prod_quantProd;\n    //emulate completion routine\n        //msg.eta = completion delay ms\n        //default delay = 5000ms\n    setTimeout((state)=>{\n        node.warn(\"cycleOff\");\n        state.prod_cycleRun=false;\n        \n        //state.prod_id = \"\";\n        let esito = Math.random() < 0.8;\n        if(esito){\n            state.exc_status = 4; // 'C'\n        }\n        else{\n            state.exc_status = 3; // 'P'\n            state.exc_quantProd -= state.prod_quantProd;\n        }\n        node.warn(esito);\n        let request={};\n        request.payload = new Array();\n        request.variable = new Array();\n        //create write request for this node //avoid async shenanigans from context.set()\n        for(let k in state){\n            request.payload.push(state[k]);\n            request.variable.push(k);\n        }\n        request.action=\"writeAll\";\n        /*\n        var allProdExc={};\n        for (let k in state) {\n            if (!/^status_/.test(k))\n                allProdExc[k] = state[k];\n        }\n        */\n        node.send([{topic:\"allProdExc\",payload:state},{topic:\"cycleOff\",payload:state},request])\n    },msg.eta ?? 5000,state);\n    /*\n    var allProdExc = {};\n    for (let k in state) {\n        if (!/^status_/.test(k))\n            allProdExc[k] = state[k];\n    }*/\n    node.warn(\"cycleOn\");\n    node.send([{topic:\"allProdExc\",payload:state}, null, null]);\n}\n//read all //outputs an obj\nelse if(!msg.action || msg.action==\"readAll\"){\n    let allStatusOutput = { payload:{} };\n    let allProdExcOutput = { payload: {} };\n\n    /*for(let k in state){\n        if(/^status_/.test(k))\n            allStatusOutput.payload[k]=state[k];\n        else\n            allProdExcOutput.payload[k] = state[k];\n    }*/\n    \n    msg.payload=state;\n    delete msg.action;\n\n    node.warn(\"readAll\");\n    node.send([msg,null,null]);\n}\n//else write what's in variable\nelse{\n    \n    if (msg.variable.length) {\n        node.warn(\"writeAll\");\n        for (let i=0;i<msg.variable.length;i++) {\n            node.warn({write:msg.payload[i],to:msg.variable[i]});\n            state[msg.variable[i]] = msg.payload[i];\n        }\n    }\n    node.warn({stateGoneTo:state});\n}\n\n\ncontext.set(\"state\",state);",
         "outputs": 4,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\n/*\n\ncontext.set(\"status\", {\n    status_alife: false,\n    status_cycleActive: false,\n    status_emergency: false,\n    status_idraulicCmd: false,\n    status_idPressa: 1234,\n    status_pressPressata: 0,\n    status_tempPianoSup: 0,\n    status_tempPianoInf: 0\n});\n\n\n//generate status changes\nlet id = setInterval(() => {\n    let last = context.get(\"state\") ?? context.get(\"status\");\n    if (!last)\n        node.error(\"context undefined\");\n\n    let status = {\n        \"status_alife\": !last.status_alife,\n        \"status_cycleActive\": false,\n        \"status_emergency\": last.status_emergency ? false : Math.random() < 0.2,\n        \"status_idraulicCmd\": last.status_idraulicCmd ? false : Math.random() < 0.5,\n        \"status_idPressa\": 1234,\n        \"status_pressPressata\": Math.random() * 350,\n        \"status_tempPianoSup\": 0, //Math.random() * (2*this.status_pressPressata),\n        \"status_tempPianoInf\": 0 //this.status_tempPianoSup - (1 / 3) * this.status_tempPianoInf + Math.random() * (2 / 3) * this.status_tempPianoInf\n    }\n    status.status_tempPianoSup = Math.random() * (2 * status.status_pressPressata);\n    status.status_tempPianoInf = status.status_tempPianoSup - (1 / 3) * status.status_tempPianoSup + Math.random() * (2 / 3) * status.status_tempPianoSup;\n\n    //create write request for this node\n    let request = {};\n    request.payload = new Array();\n    request.variable = new Array();\n    let keys = Object.keys(status);\n    //node.warn({\"req keys\":keys});\n    for (let k of keys) {\n        //node.warn({s:status,\"k\":k,item:status[k]});\n        request.payload.push(status[k]);\n        request.variable.push(k);\n    }\n\n    node.send([null, null, request,{payload:status}])\n\n}, 5000);\n\ncontext.set(\"intervalId\", id); //cleared in \"On stop\"\n\n*/",
         "finalize": "",
         "libs": [],
-        "x": 655,
+        "x": 650,
         "y": 435,
         "wires": [
             [
@@ -12706,7 +12675,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 635,
+        "x": 630,
         "y": 520,
         "wires": [
             [
@@ -12735,7 +12704,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 400,
+        "x": 395,
         "y": 420,
         "wires": [
             [
@@ -12761,7 +12730,7 @@
         "once": true,
         "onceDelay": "5",
         "topic": "",
-        "x": 325,
+        "x": 320,
         "y": 505,
         "wires": [
             [
@@ -12789,7 +12758,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 415,
+        "x": 410,
         "y": 550,
         "wires": [
             [
@@ -12807,7 +12776,7 @@
         "links": [
             "8c63b0896103090c"
         ],
-        "x": 975,
+        "x": 970,
         "y": 390,
         "wires": [],
         "l": true
@@ -12826,7 +12795,7 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1045,
+        "x": 1040,
         "y": 420,
         "wires": []
     },
@@ -12853,7 +12822,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 565,
+        "x": 560,
         "y": 360,
         "wires": [
             [
@@ -12869,7 +12838,7 @@
         "name": "allStatus emuRead out",
         "mode": "link",
         "links": [],
-        "x": 1000,
+        "x": 995,
         "y": 480,
         "wires": [],
         "l": true
@@ -12888,7 +12857,7 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 965,
+        "x": 960,
         "y": 510,
         "wires": []
     },
@@ -12904,7 +12873,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 260,
+        "x": 255,
         "y": 420,
         "wires": [
             [
@@ -12928,7 +12897,7 @@
         "statusCmd": "status",
         "persist": false,
         "storeName": "memory",
-        "x": 825,
+        "x": 820,
         "y": 360,
         "wires": [
             [
@@ -12944,7 +12913,7 @@
         "g": "7ccb3032311c9638",
         "name": "emuReadAll in",
         "links": [],
-        "x": 225,
+        "x": 220,
         "y": 550,
         "wires": [
             [
@@ -12965,7 +12934,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 290,
+        "x": 285,
         "y": 590,
         "wires": [
             [
@@ -12992,7 +12961,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 725,
+        "x": 720,
         "y": 360,
         "wires": [
             [
@@ -13027,7 +12996,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 715,
+        "x": 710,
         "y": 315,
         "wires": [
             [
@@ -13047,7 +13016,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 585,
+        "x": 580,
         "y": 315,
         "wires": [
             [
@@ -13063,7 +13032,7 @@
         "g": "7ccb3032311c9638",
         "name": "utility: emulate plc self-contained, halfworking",
         "info": "",
-        "x": 345,
+        "x": 340,
         "y": 300,
         "wires": []
     },
@@ -13072,14 +13041,14 @@
         "type": "inject",
         "z": "9922a8114f46702b",
         "g": "7ccb3032311c9638",
-        "name": "OnStartup1",
+        "name": "OnStartup3",
         "props": [],
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "3",
         "topic": "",
-        "x": 250,
+        "x": 245,
         "y": 360,
         "wires": [
             [
@@ -13093,17 +13062,19 @@
         "z": "9922a8114f46702b",
         "g": "21bbb7d46384e287",
         "name": "sendToPress requests",
-        "func": "\n\nvar write;\n\n//load order in plc\nif(msg.action == \"load\"){\n    write = {\n        \"exc_quantProd\":msg.payload.quantProd,\n        \"exc_quantToDo\":msg.payload.quantToDo,\n        \"id\":msg.payload.id\n    }\n}\n//clear plc with placeholder values\nelse if(msg.action == \"clear\"){\n    write = {\n        \"exc_quantProd\": 0,\n        \"exc_quantToDo\": 0,\n        \"id\": \"\",\n    }\n}\nelse if(msg.action == \"nothing\"){\n    return null;\n}\n\n//build s7 request\nlet request = { payload: [], variable: [] };\nfor (let k in write) {\n    request.payload.push(write[k]);\n    request.variable.push(k);\n}\n//send msg as feedback on 2nd channel\nreturn [request, msg];\n",
+        "func": "\n\nvar write;\n\n//load order in plc\nif(msg.action == \"load\"){\n    write = {\n        \"exc_quantProd\":msg.payload.quantProd,\n        \"exc_quantToDo\":msg.payload.quantToDo,\n        \"exc_id\":msg.payload.id\n    }\n}\n//clear plc with placeholder values\nelse if(msg.action == \"clear\"){\n    write = {\n        \"exc_quantProd\": 0,\n        \"exc_quantToDo\": 0,\n        \"exc_id\": \"\",\n    }\n}\nelse if(msg.action == \"nothing\"){\n    return null;\n}\n\n//build s7 request\nlet request = { payload: [], variable: [] };\nfor (let k in write) {\n    request.payload.push(write[k]);\n    request.variable.push(k);\n}\n//send msg as feedback on 2nd channel\nreturn [request, msg];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 855,
-        "y": 2310,
+        "x": 830,
+        "y": 2475,
         "wires": [
             [
-                "f83e49751218dc3f"
+                "f83e49751218dc3f",
+                "8f0ca2e92ed379a5",
+                "d0e343c96a859730"
             ],
             [
                 "a992bf0170cdc157"
@@ -13131,8 +13102,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 525,
-        "y": 1995,
+        "x": 625,
+        "y": 2160,
         "wires": [
             []
         ]
@@ -13157,8 +13128,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 535,
-        "y": 2025,
+        "x": 635,
+        "y": 2190,
         "wires": [
             []
         ]
@@ -13170,41 +13141,17 @@
         "g": "21bbb7d46384e287",
         "name": "pressa1 sendToPressRequests in",
         "links": [
-            "c90373ea81f269e7"
+            "c90373ea81f269e7",
+            "66b3788924f607a2"
         ],
-        "x": 370,
-        "y": 2310,
+        "x": 345,
+        "y": 2475,
         "wires": [
             [
-                "8d4c1528250e9b80",
-                "cdde55f3cd079b18"
+                "8d4c1528250e9b80"
             ]
         ],
         "l": true
-    },
-    {
-        "id": "cdde55f3cd079b18",
-        "type": "function",
-        "z": "9922a8114f46702b",
-        "d": true,
-        "g": "21bbb7d46384e287",
-        "name": "sendToPress requests allInOne bkp",
-        "func": "\nvar queued = context.get(\"queued\"); //rowEvent\nlet exc_status = flow.get(\"exc_status\") ?? (false && node.error(\"exc_status not found\"));\n\nif (msg.topic == \"plcDataUpdated\"){\n    //if plc not busy //2,3 = order partially/completed //0,1 sent/working\n    if(flow.get(\"exc_status\") >= 2){\n        if(queued){\n            \n        }\n    }\n\n}\n\n\n\nreturn msg;",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 770,
-        "y": 2355,
-        "wires": [
-            [
-                "f83e49751218dc3f"
-            ],
-            [
-                "a992bf0170cdc157"
-            ]
-        ]
     },
     {
         "id": "8d4c1528250e9b80",
@@ -13213,7 +13160,7 @@
         "g": "21bbb7d46384e287",
         "name": "keep last",
         "controlTopic": "control",
-        "defaultState": "open",
+        "defaultState": "queueing",
         "openCmd": "open",
         "closeCmd": "close",
         "toggleCmd": "toggle",
@@ -13230,8 +13177,8 @@
         "qToggle": false,
         "persist": false,
         "storeName": "memory",
-        "x": 655,
-        "y": 2310,
+        "x": 630,
+        "y": 2475,
         "wires": [
             [
                 "3112342511e963b8"
@@ -13265,8 +13212,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 685,
-        "y": 2250,
+        "x": 660,
+        "y": 2415,
         "wires": [
             [
                 "8d4c1528250e9b80"
@@ -13306,8 +13253,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 4,
-        "x": 490,
-        "y": 2235,
+        "x": 465,
+        "y": 2400,
         "wires": [
             [
                 "8c354411f4678925"
@@ -13350,8 +13297,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 685,
-        "y": 2220,
+        "x": 660,
+        "y": 2385,
         "wires": [
             [
                 "8d4c1528250e9b80"
@@ -13367,33 +13314,487 @@
         "endpoint": "34ec8711cb2e9270",
         "variable": "",
         "name": "writeTo prodExc pressa1",
-        "x": 1125,
-        "y": 2265,
+        "x": 1110,
+        "y": 2445,
         "wires": []
     },
     {
-        "id": "8cc8b8736d1102b3",
+        "id": "2a9c9c49c94432d9",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "0c753ce1969e7a11",
+        "name": "pressa1 allProdExc out",
+        "mode": "link",
+        "links": [
+            "d09af2547970d46b",
+            "2ef2e1ec9ad18993"
+        ],
+        "x": 645,
+        "y": 2115,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "d09af2547970d46b",
         "type": "link in",
         "z": "9922a8114f46702b",
-        "g": "edec6423bb8ab2ad",
-        "name": "mixed sendToPressRequests in",
-        "links": [],
-        "x": 330,
-        "y": 2610,
+        "g": "21bbb7d46384e287",
+        "name": "pressa1 allProdExc in",
+        "links": [
+            "2a9c9c49c94432d9"
+        ],
+        "x": 270,
+        "y": 2400,
         "wires": [
             [
-                "c7e5904b95a77b3b"
+                "8f5de7d1e2efd275"
             ]
         ],
         "l": true
     },
     {
-        "id": "c7e5904b95a77b3b",
+        "id": "98a76a1f9321a573",
+        "type": "status",
+        "z": "9922a8114f46702b",
+        "g": "21bbb7d46384e287",
+        "name": "pressa1 connStatus",
+        "scope": [
+            "3b424968240bbd7c"
+        ],
+        "x": 280,
+        "y": 2340,
+        "wires": [
+            [
+                "b45882cc15a076be"
+            ]
+        ]
+    },
+    {
+        "id": "b45882cc15a076be",
         "type": "switch",
         "z": "9922a8114f46702b",
-        "g": "edec6423bb8ab2ad",
+        "g": "21bbb7d46384e287",
+        "name": "!= green",
+        "property": "status.fill",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "green",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 475,
+        "y": 2340,
+        "wires": [
+            [
+                "8c354411f4678925"
+            ]
+        ]
+    },
+    {
+        "id": "a992bf0170cdc157",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "21bbb7d46384e287",
+        "name": "sendToPressRequest done out",
+        "mode": "link",
+        "links": [
+            "db8b2173015ac88c",
+            "65322cbc3d91d4f5",
+            "a1ac077375ba231d"
+        ],
+        "x": 1130,
+        "y": 2490,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "3e4df8358764c8bf",
+        "type": "comment",
+        "z": "9922a8114f46702b",
+        "g": "0c753ce1969e7a11",
+        "name": "poll prodExc pressa1",
+        "info": "",
+        "x": 280,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "f496db4601480ad7",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "e2bd9331f9185534",
+        "name": "pressa1_mixedDataIn_out",
+        "mode": "link",
+        "links": [
+            "616b4fb31ab7fe25"
+        ],
+        "x": 910,
+        "y": 1770,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "f361ef0e22514ae8",
+        "type": "comment",
+        "z": "9922a8114f46702b",
+        "g": "21bbb7d46384e287",
+        "name": "sendToPress requests pressa1",
+        "info": "",
+        "x": 315,
+        "y": 2295,
+        "wires": []
+    },
+    {
+        "id": "c839a1cea19f06fc",
+        "type": "link in",
+        "z": "9922a8114f46702b",
+        "g": "7ccb3032311c9638",
+        "name": "emuWrite in",
+        "links": [
+            "8f0ca2e92ed379a5"
+        ],
+        "x": 215,
+        "y": 465,
+        "wires": [
+            [
+                "ee59f528d39b796f"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "8f0ca2e92ed379a5",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "21bbb7d46384e287",
+        "name": "emuWrite out",
+        "mode": "link",
+        "links": [
+            "c839a1cea19f06fc"
+        ],
+        "x": 1080,
+        "y": 2400,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "260b48d27cf6b812",
+        "type": "switch",
+        "z": "9922a8114f46702b",
+        "g": "0c753ce1969e7a11",
         "name": "",
-        "property": "route",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 400,
+        "y": 2055,
+        "wires": [
+            [
+                "f5cdb10387af4f40",
+                "ca74a0de42a788ba",
+                "27be6fe227af16cc",
+                "214d0a5f9c40f7c2",
+                "2a9c9c49c94432d9"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "9ceed6fd254ce510",
+        "type": "switch",
+        "z": "9922a8114f46702b",
+        "d": true,
+        "g": "a70fe69b7459b746",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 475,
+        "y": 1605,
+        "wires": [
+            [
+                "e1d9dc50e8c79a8f"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "17ccce6813bb1513",
+        "type": "switch",
+        "z": "9922a8114f46702b",
+        "g": "e2bd9331f9185534",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 455,
+        "y": 1770,
+        "wires": [
+            [
+                "d1dbf0ba787aaf87",
+                "765edce0c2be3f26"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "b6bc7095606ea745",
+        "type": "link in",
+        "z": "9922a8114f46702b",
+        "g": "e2bd9331f9185534",
+        "name": "allStatus emuRead in",
+        "links": [],
+        "x": 295,
+        "y": 1815,
+        "wires": [
+            [
+                "17ccce6813bb1513"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "642b4cd1857e998b",
+        "type": "function",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "send to status globals",
+        "func": "\nif(msg.status && msg.status.fill && (typeof msg.status.fill) == \"string\")\n    return [{ payload: msg.status.fill }, { payload: msg.status.fill==\"green\" }]\n\nreturn null;",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 425,
+        "y": 1440,
+        "wires": [
+            [
+                "554553d14c4528a1"
+            ],
+            [
+                "400413a022ab7c31"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "8c5c18cd60513a30",
+        "type": "status",
+        "z": "9922a8114f46702b",
+        "d": true,
+        "g": "a70fe69b7459b746",
+        "name": "pressa1_allStatus",
+        "scope": [
+            "9ca5c05780dc2c19",
+            "49e6d3e2af0723a8"
+        ],
+        "x": 275,
+        "y": 1440,
+        "wires": [
+            [
+                "642b4cd1857e998b"
+            ]
+        ]
+    },
+    {
+        "id": "554553d14c4528a1",
+        "type": "change",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "pressa1ConnStatus",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 1425,
+        "wires": [
+            [
+                "cff57bec7157bef0"
+            ]
+        ]
+    },
+    {
+        "id": "400413a022ab7c31",
+        "type": "change",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "pressa1ConnIsOk",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 590,
+        "y": 1455,
+        "wires": [
+            [
+                "5c16a509de896e67"
+            ]
+        ]
+    },
+    {
+        "id": "cff57bec7157bef0",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "pressa1 onConnStatusChange out",
+        "mode": "link",
+        "links": [],
+        "x": 905,
+        "y": 1425,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "5c16a509de896e67",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "pressa1 onConnIsOkChange out",
+        "mode": "link",
+        "links": [],
+        "x": 905,
+        "y": 1455,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "b0f4b6634f190f48",
+        "type": "inject",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "OnStartup0.1 setDefaults",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "x": 1225,
+        "y": 1440,
+        "wires": [
+            [
+                "f96b3c5023454e2b",
+                "58387c00123218e3"
+            ]
+        ]
+    },
+    {
+        "id": "58387c00123218e3",
+        "type": "change",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "pressa1ConnIsOk",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1485,
+        "y": 1455,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f96b3c5023454e2b",
+        "type": "change",
+        "z": "9922a8114f46702b",
+        "g": "a70fe69b7459b746",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "pressa1ConnStatus",
+                "pt": "global",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1495,
+        "y": 1425,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2639fa3be4067762",
+        "type": "comment",
+        "z": "9922a8114f46702b",
+        "g": "63f089643e332739",
+        "name": "plc pressa1",
+        "info": "",
+        "x": 235,
+        "y": 1230,
+        "wires": []
+    },
+    {
+        "id": "6412ab5d90cfce0c",
+        "type": "switch",
+        "z": "9922a8114f46702b",
+        "g": "141fe50fd31a695d",
+        "name": "sort data by press",
+        "property": "press",
         "propertyType": "msg",
         "rules": [
             {
@@ -13423,205 +13824,128 @@
         "checkall": "false",
         "repair": false,
         "outputs": 5,
-        "x": 535,
-        "y": 2610,
+        "x": 555,
+        "y": 825,
         "wires": [
             [
-                "c90373ea81f269e7"
+                "66b3788924f607a2"
             ],
             [],
             [],
             [],
+            [
+                "a817f30ecf7302d4"
+            ]
+        ]
+    },
+    {
+        "id": "a817f30ecf7302d4",
+        "type": "function",
+        "z": "9922a8114f46702b",
+        "g": "141fe50fd31a695d",
+        "name": "error",
+        "func": "node.error({ err: \"unknown press in mixed sort\", press: msg.press, msg: msg });\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 745,
+        "y": 885,
+        "wires": [
             []
         ]
     },
     {
-        "id": "c90373ea81f269e7",
+        "id": "8cc8b8736d1102b3",
+        "type": "link in",
+        "z": "9922a8114f46702b",
+        "g": "141fe50fd31a695d",
+        "name": "mixed sendToPressRequests in",
+        "links": [
+            "abe96bc7d7fbc506",
+            "c30ca4565e0d218f"
+        ],
+        "x": 295,
+        "y": 825,
+        "wires": [
+            [
+                "6412ab5d90cfce0c"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "66b3788924f607a2",
         "type": "link out",
         "z": "9922a8114f46702b",
-        "g": "edec6423bb8ab2ad",
+        "g": "141fe50fd31a695d",
         "name": "pressa1 sendToPressRequests out",
         "mode": "link",
         "links": [
-            "7b1590892f6f2cf5"
+            "7b1590892f6f2cf5",
+            "258c1b1d56e1d332"
         ],
-        "x": 680,
-        "y": 2580,
+        "x": 705,
+        "y": 780,
         "wires": []
-    },
-    {
-        "id": "2a9c9c49c94432d9",
-        "type": "link out",
-        "z": "9922a8114f46702b",
-        "g": "0c753ce1969e7a11",
-        "name": "pressa1 allProdExc out",
-        "mode": "link",
-        "links": [
-            "d09af2547970d46b",
-            "2ef2e1ec9ad18993"
-        ],
-        "x": 545,
-        "y": 1950,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "d09af2547970d46b",
-        "type": "link in",
-        "z": "9922a8114f46702b",
-        "g": "21bbb7d46384e287",
-        "name": "pressa1 allProdExc in",
-        "links": [
-            "2a9c9c49c94432d9"
-        ],
-        "x": 295,
-        "y": 2235,
-        "wires": [
-            [
-                "8f5de7d1e2efd275"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "2ef2e1ec9ad18993",
-        "type": "link in",
-        "z": "9922a8114f46702b",
-        "g": "21bbb7d46384e287",
-        "name": "pressa1 allProdExc in",
-        "links": [
-            "2a9c9c49c94432d9"
-        ],
-        "x": 455,
-        "y": 2355,
-        "wires": [
-            [
-                "cdde55f3cd079b18"
-            ]
-        ]
-    },
-    {
-        "id": "98a76a1f9321a573",
-        "type": "status",
-        "z": "9922a8114f46702b",
-        "g": "21bbb7d46384e287",
-        "name": "pressa1 connStatus",
-        "scope": [
-            "3b424968240bbd7c"
-        ],
-        "x": 305,
-        "y": 2175,
-        "wires": [
-            [
-                "b45882cc15a076be"
-            ]
-        ]
-    },
-    {
-        "id": "b45882cc15a076be",
-        "type": "switch",
-        "z": "9922a8114f46702b",
-        "g": "21bbb7d46384e287",
-        "name": "!= green",
-        "property": "status.fill",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "green",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 500,
-        "y": 2175,
-        "wires": [
-            [
-                "8c354411f4678925"
-            ]
-        ]
-    },
-    {
-        "id": "a992bf0170cdc157",
-        "type": "link out",
-        "z": "9922a8114f46702b",
-        "g": "21bbb7d46384e287",
-        "name": "sendToPressRequest done out",
-        "mode": "link",
-        "links": [
-            "db8b2173015ac88c",
-            "65322cbc3d91d4f5",
-            "a1ac077375ba231d"
-        ],
-        "x": 1150,
-        "y": 2310,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "3e4df8358764c8bf",
-        "type": "comment",
-        "z": "9922a8114f46702b",
-        "g": "0c753ce1969e7a11",
-        "name": "poll prodExc pressa1",
-        "info": "",
-        "x": 310,
-        "y": 1755,
-        "wires": []
-    },
-    {
-        "id": "f496db4601480ad7",
-        "type": "link out",
-        "z": "9922a8114f46702b",
-        "g": "e2bd9331f9185534",
-        "name": "pressa1_mixedDataIn_out",
-        "mode": "link",
-        "links": [
-            "616b4fb31ab7fe25"
-        ],
-        "x": 770,
-        "y": 1425,
-        "wires": [],
-        "l": true
     },
     {
         "id": "8b321fcb911b77fd",
         "type": "comment",
         "z": "9922a8114f46702b",
-        "g": "edec6423bb8ab2ad",
+        "g": "141fe50fd31a695d",
         "name": "sort press for sendToPressRequests",
         "info": "",
-        "x": 350,
-        "y": 2535,
+        "x": 330,
+        "y": 750,
         "wires": []
     },
     {
-        "id": "f361ef0e22514ae8",
-        "type": "comment",
+        "id": "ee59f528d39b796f",
+        "type": "change",
+        "z": "9922a8114f46702b",
+        "g": "7ccb3032311c9638",
+        "name": "action:writeAll",
+        "rules": [
+            {
+                "t": "set",
+                "p": "action",
+                "pt": "msg",
+                "to": "writeAll",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 385,
+        "y": 465,
+        "wires": [
+            [
+                "bd629777c9b54b8f"
+            ]
+        ]
+    },
+    {
+        "id": "d0e343c96a859730",
+        "type": "debug",
         "z": "9922a8114f46702b",
         "g": "21bbb7d46384e287",
-        "name": "sendToPress requests pressa1",
-        "info": "",
-        "x": 340,
-        "y": 2130,
+        "name": "write to prodExc",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1095,
+        "y": 2370,
         "wires": []
-    },
-    {
-        "id": "db8b2173015ac88c",
-        "type": "link in",
-        "z": "9922a8114f46702b",
-        "name": "sendToPressRequest done in",
-        "links": [
-            "a992bf0170cdc157"
-        ],
-        "x": 1110,
-        "y": 2430,
-        "wires": [
-            []
-        ],
-        "l": true
     },
     {
         "id": "44f67bb2be82ec09",
