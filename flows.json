@@ -50,7 +50,7 @@
     {
         "id": "6f31d3b30c01f78f",
         "type": "tab",
-        "label": "Flow 1",
+        "label": "logo",
         "disabled": false,
         "info": "",
         "env": []
@@ -197,10 +197,8 @@
             "323cfea2dd074604",
             "636abe298d8940a7"
         ],
-        "x": 204,
-        "y": 299,
-        "w": 892,
-        "h": 367
+        "x": 194,
+        "y": 299
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -227,7 +225,9 @@
             "34fe2b838d57bdf8"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -254,7 +254,9 @@
             "73bd49c19cb4ea06"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -280,7 +282,9 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134
+        "y": 134,
+        "w": 777,
+        "h": 222
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -301,9 +305,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "408c86b39f332966",
@@ -326,9 +328,7 @@
             "6e645e2849c474eb"
         ],
         "x": 654,
-        "y": 1099,
-        "w": 382,
-        "h": 122
+        "y": 1099
     },
     {
         "id": "b0737e4c04737b82",
@@ -351,7 +351,9 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 409
+        "y": 409,
+        "w": 1514,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -379,7 +381,9 @@
             "bd2c16c7828242aa"
         ],
         "x": 124,
-        "y": 2584
+        "y": 2584,
+        "w": 1093,
+        "h": 637
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -404,9 +408,7 @@
             "85ef1e45805265d5"
         ],
         "x": 154,
-        "y": 14,
-        "w": 712,
-        "h": 227
+        "y": 14
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -445,9 +447,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1224,
-        "y": 704,
-        "w": 1232,
-        "h": 307
+        "y": 704
     },
     {
         "id": "cccb0df7921dec2f",
@@ -497,9 +497,7 @@
             "2639fa3be4067762"
         ],
         "x": 133,
-        "y": 1239,
-        "w": 1539,
-        "h": 1368
+        "y": 1239
     },
     {
         "id": "1999eebe26eba53b",
@@ -522,9 +520,7 @@
             "fe3da39d45bc7cd4"
         ],
         "x": 1853,
-        "y": 1239,
-        "w": 1539,
-        "h": 1368
+        "y": 1239
     },
     {
         "id": "81b3f35a68120159",
@@ -545,9 +541,9 @@
             "6067e973b7dd40eb",
             "5bc8af56489bcd9d"
         ],
-        "x": 208,
+        "x": 198,
         "y": 1079,
-        "w": 1419,
+        "w": 1429,
         "h": 993
     },
     {
@@ -569,9 +565,9 @@
             "2ca6f2c1b0c21cf1",
             "9e32d6a46ccf09ee"
         ],
-        "x": 1928,
+        "x": 1918,
         "y": 1079,
-        "w": 1424,
+        "w": 1434,
         "h": 978
     },
     {
@@ -595,9 +591,7 @@
             "c59fa5143bd96e16"
         ],
         "x": 133,
-        "y": 2659,
-        "w": 1539,
-        "h": 1368
+        "y": 2659
     },
     {
         "id": "560b01ff2e88daac",
@@ -620,9 +614,7 @@
             "35b7fdc595f7d3c5"
         ],
         "x": 1853,
-        "y": 2659,
-        "w": 1539,
-        "h": 1368
+        "y": 2659
     },
     {
         "id": "c947217d7b4fccbd",
@@ -643,9 +635,9 @@
             "c25454224d93f0a4",
             "a93dbb5749094ec0"
         ],
-        "x": 208,
+        "x": 198,
         "y": 2719,
-        "w": 1424,
+        "w": 1434,
         "h": 978
     },
     {
@@ -667,9 +659,9 @@
             "4319550e30808765",
             "b1df0fb233ae57b9"
         ],
-        "x": 1928,
+        "x": 1918,
         "y": 2719,
-        "w": 1424,
+        "w": 1434,
         "h": 978
     },
     {
@@ -696,9 +688,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 144,
-        "y": 699,
-        "w": 682,
-        "h": 242
+        "y": 699
     },
     {
         "id": "89618de1371e00e8",
@@ -761,7 +751,9 @@
             "8437a7d22a9f64c3"
         ],
         "x": 174,
-        "y": 1839
+        "y": 1839,
+        "w": 1262,
+        "h": 282
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -791,7 +783,9 @@
             "5e7a9cab577dae64"
         ],
         "x": 169,
-        "y": 2139
+        "y": 2139,
+        "w": 1272,
+        "h": 302
     },
     {
         "id": "dd28804963c0bc60",
@@ -830,9 +824,7 @@
             "7f7d732440d6aec6"
         ],
         "x": 324,
-        "y": 279,
-        "w": 1082,
-        "h": 372
+        "y": 279
     },
     {
         "id": "e2bd9331f9185534",
@@ -858,9 +850,7 @@
             "b6bc7095606ea745"
         ],
         "x": 169,
-        "y": 1734,
-        "w": 882,
-        "h": 172
+        "y": 1734
     },
     {
         "id": "21bbb7d46384e287",
@@ -893,9 +883,7 @@
             "d0e343c96a859730"
         ],
         "x": 159,
-        "y": 2304,
-        "w": 1182,
-        "h": 277
+        "y": 2304
     },
     {
         "id": "0c753ce1969e7a11",
@@ -927,9 +915,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 169,
-        "y": 1929,
-        "w": 982,
-        "h": 362
+        "y": 1929
     },
     {
         "id": "3714a803248cefeb",
@@ -952,7 +938,9 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -975,7 +963,9 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1014,7 +1004,9 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1037,
+        "h": 397
     },
     {
         "id": "df7219d880358536",
@@ -1045,7 +1037,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1076,7 +1070,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1119,7 +1115,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1182,7 +1180,9 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 484
+        "y": 484,
+        "w": 1462,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -1223,9 +1223,7 @@
             "bdec638b99156315"
         ],
         "x": 164,
-        "y": 1314,
-        "w": 1482,
-        "h": 382
+        "y": 1314
     },
     {
         "id": "23b242037b1d989d",
@@ -1251,9 +1249,7 @@
             "2c215d3ea4d110e9"
         ],
         "x": 1889,
-        "y": 1734,
-        "w": 882,
-        "h": 172
+        "y": 1734
     },
     {
         "id": "173f861c8cd401be",
@@ -1286,9 +1282,7 @@
             "fca7034dd83115ce"
         ],
         "x": 1879,
-        "y": 2304,
-        "w": 1182,
-        "h": 277
+        "y": 2304
     },
     {
         "id": "a3b8edad7fbf25b8",
@@ -1320,9 +1314,7 @@
             "797048def978921d"
         ],
         "x": 1889,
-        "y": 1929,
-        "w": 982,
-        "h": 362
+        "y": 1929
     },
     {
         "id": "90b855390ac72238",
@@ -1363,9 +1355,7 @@
             "3e2260e4d228e248"
         ],
         "x": 1884,
-        "y": 1314,
-        "w": 1482,
-        "h": 382
+        "y": 1314
     },
     {
         "id": "d4f58c108037d973",
@@ -1434,9 +1424,9 @@
             "cd5be50a30e65857",
             "7446c855e9d2de4f"
         ],
-        "x": 234,
+        "x": 224,
         "y": 1574,
-        "w": 607,
+        "w": 617,
         "h": 367
     },
     {
@@ -1548,9 +1538,9 @@
             "1b4bcab9f691b5db",
             "577869e151539f03"
         ],
-        "x": 1954,
+        "x": 1944,
         "y": 1574,
-        "w": 607,
+        "w": 617,
         "h": 367
     },
     {
@@ -1577,9 +1567,7 @@
             "6e49827f9cf44a2c"
         ],
         "x": 169,
-        "y": 3154,
-        "w": 882,
-        "h": 172
+        "y": 3154
     },
     {
         "id": "8bc986f7994d89a7",
@@ -1612,9 +1600,7 @@
             "978547859b92dc4b"
         ],
         "x": 159,
-        "y": 3724,
-        "w": 1182,
-        "h": 277
+        "y": 3724
     },
     {
         "id": "b1f8c54951ecbf7f",
@@ -1646,9 +1632,7 @@
             "eeb4753ae7fa02d4"
         ],
         "x": 169,
-        "y": 3349,
-        "w": 982,
-        "h": 362
+        "y": 3349
     },
     {
         "id": "84182d5ef898d336",
@@ -1689,9 +1673,7 @@
             "e2f828fbb4d401b7"
         ],
         "x": 164,
-        "y": 2734,
-        "w": 1482,
-        "h": 382
+        "y": 2734
     },
     {
         "id": "2fa2db606a6d80c1",
@@ -1717,9 +1699,7 @@
             "1e843a5590cd9b13"
         ],
         "x": 1889,
-        "y": 3154,
-        "w": 882,
-        "h": 172
+        "y": 3154
     },
     {
         "id": "92109e084c266e2e",
@@ -1752,9 +1732,7 @@
             "9fc8ccc030dc3641"
         ],
         "x": 1879,
-        "y": 3724,
-        "w": 1182,
-        "h": 277
+        "y": 3724
     },
     {
         "id": "f396ce22bbf03344",
@@ -1786,9 +1764,7 @@
             "9271fcc188c35603"
         ],
         "x": 1889,
-        "y": 3349,
-        "w": 982,
-        "h": 362
+        "y": 3349
     },
     {
         "id": "77f0a4e1ac50f8a4",
@@ -1829,9 +1805,7 @@
             "f85d708655d2dde8"
         ],
         "x": 1884,
-        "y": 2734,
-        "w": 1482,
-        "h": 382
+        "y": 2734
     },
     {
         "id": "9f2647ae0bb0686b",
@@ -1942,9 +1916,9 @@
             "bd70310b8da24361",
             "db544c8a4e4b5a6f"
         ],
-        "x": 234,
+        "x": 224,
         "y": 3214,
-        "w": 607,
+        "w": 617,
         "h": 367
     },
     {
@@ -2056,9 +2030,9 @@
             "115dcc4e5b9044ae",
             "6fe7854ecacb208f"
         ],
-        "x": 1954,
+        "x": 1944,
         "y": 3214,
-        "w": 607,
+        "w": 617,
         "h": 367
     },
     {
@@ -2339,6 +2313,7 @@
         "id": "34ec8711cb2e9270",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.1",
         "port": "102",
@@ -2569,6 +2544,7 @@
         "id": "fa784b598becc58c",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.1",
         "port": "102",
@@ -2625,9 +2601,9 @@
         "name": "historyTable",
         "tab": "836adb2b4d67f4ce",
         "order": 3,
-        "disp": true,
+        "disp": false,
         "width": "14",
-        "collapse": true,
+        "collapse": false,
         "className": ""
     },
     {
@@ -2645,6 +2621,7 @@
         "id": "33b06a116480e90c",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
         "port": "102",
@@ -2699,6 +2676,7 @@
         "id": "1667e67dd14845f1",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
         "port": "102",
@@ -2768,6 +2746,7 @@
         "id": "f84482f335843f79",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
         "port": "102",
@@ -2822,6 +2801,7 @@
         "id": "2c8ae7c7ae56a942",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
         "port": "102",
@@ -2891,6 +2871,7 @@
         "id": "e370eb0b4862e638",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
         "port": "102",
@@ -2945,6 +2926,7 @@
         "id": "85571a3195fe3b68",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
         "port": "102",
@@ -3009,6 +2991,22 @@
         "width": "7",
         "collapse": false,
         "className": ""
+    },
+    {
+        "id": "feabd600.f71b28",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "fb98fdb9.b193a",
+        "order": 1,
+        "disp": false,
+        "width": "24",
+        "collapse": false
+    },
+    {
+        "id": "fb98fdb9.b193a",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard"
     },
     {
         "id": "e4455c60fa1954be",
@@ -10484,7 +10482,7 @@
         "name": "historyTable",
         "order": 4,
         "width": "14",
-        "height": "16",
+        "height": "18",
         "columns": [],
         "outputs": 1,
         "cts": false,
@@ -10708,14 +10706,15 @@
         "columns": [],
         "outputs": 1,
         "cts": false,
-        "x": 800,
+        "x": 735,
         "y": 4740,
         "wires": [
             [
                 "f0d5683c1d5e6fa4",
                 "34fe2b838d57bdf8"
             ]
-        ]
+        ],
+        "l": false
     },
     {
         "id": "28c5c8c6a8cbdd41",
@@ -18175,31 +18174,6 @@
         "wires": []
     },
     {
-        "id": "9dc8240d440f560b",
-        "type": "gate",
-        "z": "9922a8114f46702b",
-        "d": true,
-        "g": "dd28804963c0bc60",
-        "name": "",
-        "controlTopic": "control",
-        "defaultState": "closed",
-        "openCmd": "open",
-        "closeCmd": "close",
-        "toggleCmd": "toggle",
-        "defaultCmd": "default",
-        "statusCmd": "status",
-        "persist": false,
-        "storeName": "memory",
-        "x": 1040,
-        "y": 380,
-        "wires": [
-            [
-                "3950d474263fe0c5"
-            ]
-        ],
-        "l": false
-    },
-    {
         "id": "c23689e8b3ce4d15",
         "type": "change",
         "z": "9922a8114f46702b",
@@ -22241,6 +22215,31 @@
         ]
     },
     {
+        "id": "9dc8240d440f560b",
+        "type": "gate",
+        "z": "9922a8114f46702b",
+        "d": true,
+        "g": "dd28804963c0bc60",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "closed",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1040,
+        "y": 380,
+        "wires": [
+            [
+                "3950d474263fe0c5"
+            ]
+        ],
+        "l": false
+    },
+    {
         "id": "44f67bb2be82ec09",
         "type": "function",
         "z": "538b483fa008eb58",
@@ -22542,6 +22541,27 @@
             [
                 "695d3eefce518dfc"
             ]
+        ]
+    },
+    {
+        "id": "42b8d6d1.fc68e8",
+        "type": "ui_template",
+        "z": "6f31d3b30c01f78f",
+        "group": "feabd600.f71b28",
+        "name": "Logo / Clock",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        var logoContainer = $(\n        `<div\n            style=\"\n                margin:5px auto;\n                margin-bottom:0pc;\n                \"\n        />`);\n        \n        logoRamel = new Image();\n        logoRamel.src = '/loghi/ramel/Immagine.jpg';\n        logoRamel.height = 55;\n        logoContainer.append(logoRamel);\n\n        logoGiga = new Image();\n        logoGiga.src = '/loghi/giga/logo_GIGAPIU_Completo _2016.png';\n        logoGiga.height = 55;\n        logoGiga.marginLeft = \"20px\";\n\n        logoContainer.append(logoGiga);\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "global",
+        "className": "",
+        "x": 220,
+        "y": 90,
+        "wires": [
+            []
         ]
     }
 ]
