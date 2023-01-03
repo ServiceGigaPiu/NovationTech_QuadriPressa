@@ -76,9 +76,7 @@
             "6173c68c398eeee3"
         ],
         "x": 334,
-        "y": 64,
-        "w": 707,
-        "h": 127
+        "y": 64
     },
     {
         "id": "3df0d3098de49375",
@@ -107,9 +105,7 @@
             "b34226be7162078f"
         ],
         "x": 714,
-        "y": 2164,
-        "w": 592,
-        "h": 517
+        "y": 2164
     },
     {
         "id": "83e9f4234bb5157e",
@@ -132,9 +128,7 @@
             "0c2f824d1edcbe0b"
         ],
         "x": 1159,
-        "y": 64,
-        "w": 707,
-        "h": 127
+        "y": 64
     },
     {
         "id": "43b5ce037e6e5304",
@@ -157,9 +151,7 @@
             "cdfe98ebc6268de8"
         ],
         "x": 729,
-        "y": 934,
-        "w": 452,
-        "h": 127
+        "y": 934
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -225,9 +217,7 @@
             "34fe2b838d57bdf8"
         ],
         "x": 84,
-        "y": 4219,
-        "w": 1102,
-        "h": 562
+        "y": 4219
     },
     {
         "id": "e2961306402a77aa",
@@ -254,9 +244,7 @@
             "73bd49c19cb4ea06"
         ],
         "x": 84,
-        "y": 3574,
-        "w": 1072,
-        "h": 562
+        "y": 3574
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -282,9 +270,7 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134,
-        "w": 777,
-        "h": 222
+        "y": 134
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -351,9 +337,7 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 409,
-        "w": 1514,
-        "h": 1398
+        "y": 409
     },
     {
         "id": "2f4be50b7d91c706",
@@ -381,9 +365,7 @@
             "bd2c16c7828242aa"
         ],
         "x": 124,
-        "y": 2584,
-        "w": 1093,
-        "h": 637
+        "y": 2584
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -472,9 +454,7 @@
             "b7700a2027731da3"
         ],
         "x": 1224,
-        "y": 254,
-        "w": 342,
-        "h": 247
+        "y": 254
     },
     {
         "id": "63f089643e332739",
@@ -542,9 +522,7 @@
             "5bc8af56489bcd9d"
         ],
         "x": 198,
-        "y": 1079,
-        "w": 1429,
-        "h": 993
+        "y": 1079
     },
     {
         "id": "ef0c6ed3656f62f1",
@@ -566,9 +544,7 @@
             "9e32d6a46ccf09ee"
         ],
         "x": 1918,
-        "y": 1079,
-        "w": 1434,
-        "h": 978
+        "y": 1079
     },
     {
         "id": "72376f020cbdd7b4",
@@ -636,9 +612,7 @@
             "a93dbb5749094ec0"
         ],
         "x": 198,
-        "y": 2719,
-        "w": 1434,
-        "h": 978
+        "y": 2719
     },
     {
         "id": "a22652e0e5a00422",
@@ -660,9 +634,7 @@
             "b1df0fb233ae57b9"
         ],
         "x": 1918,
-        "y": 2719,
-        "w": 1434,
-        "h": 978
+        "y": 2719
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -714,9 +686,7 @@
             "23908ba29a765ed4"
         ],
         "x": 199,
-        "y": 629,
-        "w": 837,
-        "h": 252
+        "y": 629
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -751,9 +721,7 @@
             "8437a7d22a9f64c3"
         ],
         "x": 174,
-        "y": 1839,
-        "w": 1262,
-        "h": 282
+        "y": 1839
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -783,9 +751,7 @@
             "5e7a9cab577dae64"
         ],
         "x": 169,
-        "y": 2139,
-        "w": 1272,
-        "h": 302
+        "y": 2139
     },
     {
         "id": "dd28804963c0bc60",
@@ -938,9 +904,7 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294,
-        "w": 572,
-        "h": 232
+        "y": 4294
     },
     {
         "id": "70b9c5719558ad66",
@@ -963,9 +927,7 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649,
-        "w": 552,
-        "h": 232
+        "y": 3649
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1004,9 +966,7 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659,
-        "w": 1037,
-        "h": 397
+        "y": 2659
     },
     {
         "id": "df7219d880358536",
@@ -1037,9 +997,7 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579,
-        "w": 1157,
-        "h": 202
+        "y": 1579
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1070,9 +1028,7 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369,
-        "w": 1117,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1115,9 +1071,7 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979,
-        "w": 1227,
-        "h": 382
+        "y": 979
     },
     {
         "id": "588342109c719d84",
@@ -1180,9 +1134,7 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 484,
-        "w": 1462,
-        "h": 472
+        "y": 484
     },
     {
         "id": "a70fe69b7459b746",
@@ -1392,9 +1344,7 @@
             "d10978b2469ceff3"
         ],
         "x": 359,
-        "y": 1154,
-        "w": 797,
-        "h": 337
+        "y": 1154
     },
     {
         "id": "6067e973b7dd40eb",
@@ -1425,9 +1375,7 @@
             "7446c855e9d2de4f"
         ],
         "x": 224,
-        "y": 1574,
-        "w": 617,
-        "h": 367
+        "y": 1574
     },
     {
         "id": "9170b812dbe446e7",
@@ -1464,9 +1412,7 @@
             "88e5380b5a7c839f"
         ],
         "x": 2079,
-        "y": 1154,
-        "w": 797,
-        "h": 337
+        "y": 1154
     },
     {
         "id": "2ca6f2c1b0c21cf1",
@@ -1506,9 +1452,7 @@
             "baa146a03506aca9"
         ],
         "x": 2639,
-        "y": 1499,
-        "w": 687,
-        "h": 532
+        "y": 1499
     },
     {
         "id": "9e32d6a46ccf09ee",
@@ -1539,9 +1483,7 @@
             "577869e151539f03"
         ],
         "x": 1944,
-        "y": 1574,
-        "w": 617,
-        "h": 367
+        "y": 1574
     },
     {
         "id": "03ef9a71f127822f",
@@ -1842,9 +1784,7 @@
             "783edff7e22ab4b4"
         ],
         "x": 359,
-        "y": 2794,
-        "w": 797,
-        "h": 337
+        "y": 2794
     },
     {
         "id": "c25454224d93f0a4",
@@ -1884,9 +1824,7 @@
             "1cd1ba43a58cd415"
         ],
         "x": 919,
-        "y": 3139,
-        "w": 687,
-        "h": 532
+        "y": 3139
     },
     {
         "id": "a93dbb5749094ec0",
@@ -1917,9 +1855,7 @@
             "db544c8a4e4b5a6f"
         ],
         "x": 224,
-        "y": 3214,
-        "w": 617,
-        "h": 367
+        "y": 3214
     },
     {
         "id": "9c42f9c7d3cec4e7",
@@ -1956,9 +1892,7 @@
             "2001a99f7a6d5461"
         ],
         "x": 2079,
-        "y": 2794,
-        "w": 797,
-        "h": 337
+        "y": 2794
     },
     {
         "id": "4319550e30808765",
@@ -1998,9 +1932,7 @@
             "9ea62a5cbd872003"
         ],
         "x": 2639,
-        "y": 3139,
-        "w": 687,
-        "h": 532
+        "y": 3139
     },
     {
         "id": "b1df0fb233ae57b9",
@@ -2031,9 +1963,7 @@
             "6fe7854ecacb208f"
         ],
         "x": 1944,
-        "y": 3214,
-        "w": 617,
-        "h": 367
+        "y": 3214
     },
     {
         "id": "5bc8af56489bcd9d",
@@ -2073,9 +2003,7 @@
             "9e5f19ba303d1e7f"
         ],
         "x": 914,
-        "y": 1514,
-        "w": 687,
-        "h": 532
+        "y": 1514
     },
     {
         "id": "9fa3722a335cb332",
@@ -22552,7 +22480,7 @@
         "order": 0,
         "width": 0,
         "height": 0,
-        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        var logoContainer = $(\n        `<div\n            style=\"\n                margin:5px auto;\n                margin-bottom:0pc;\n                \"\n        />`);\n        \n        logoRamel = new Image();\n        logoRamel.src = '/loghi/ramel/Immagine.jpg';\n        logoRamel.height = 55;\n        logoContainer.append(logoRamel);\n\n        logoGiga = new Image();\n        logoGiga.src = '/loghi/giga/logo_GIGAPIU_Completo _2016.png';\n        logoGiga.height = 55;\n        logoGiga.marginLeft = \"20px\";\n\n        logoContainer.append(logoGiga);\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        \n\n\n        var logoContainer = document.createElement(\"div\");\n        logoContainer.style.margin = \"5px auto\";\n        //logoContainer.style.marginBottom = \"0px\";\n        \n        var imgCont = document.createElement(\"span\");\n        logoContainer.append(imgCont);\n        var imgCont2 = document.createElement(\"span\");\n        imgCont2.style.marginLeft=\"5px\";\n        logoContainer.append(imgCont2);\n\n        /*\n        logoRamel = new Image();\n        logoRamel.src = '/loghi/ramel/Immagine.jpg';\n        logoRamel.height = 55;\n        logoContainer.children[0].append(logoRamel);\n        */\n\n        logoGiga = new Image();\n        logoGiga.src = '/loghi/giga/logo_GIGAPIU_Completo _2016_transp.png';\n        logoGiga.height = 55;\n        logoContainer.children[0].append(logoGiga);\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": false,
