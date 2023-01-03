@@ -1,0 +1,3 @@
+
+//it selects all "type":"s7 endpoint" //global config nodes
+(?:#justDefs#(?:(?'str'\s*"[^"]*"\s*)|(?'val'(?&str)|([0-9]\s*))(?'prop'(?&str):(?&val))   )##enddef##)|{((\s*"[^"]*"):(?2),)*(?:\s*"type":\s*"s7 endpoint",)(?:(?&prop),\s*)+(?:\s*"vartable":\s*\[[^\]]+\])\s*\},*
