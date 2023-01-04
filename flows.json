@@ -222,7 +222,8 @@
             "f0d5683c1d5e6fa4",
             "b16cccaa62171b60",
             "3714a803248cefeb",
-            "34fe2b838d57bdf8"
+            "34fe2b838d57bdf8",
+            "a72b1c3580f09904"
         ],
         "x": 84,
         "y": 4219,
@@ -251,7 +252,8 @@
             "2bd07d0a756e3fd5",
             "ecf7ba24682eae0d",
             "70b9c5719558ad66",
-            "73bd49c19cb4ea06"
+            "73bd49c19cb4ea06",
+            "78a704a3e466fce3"
         ],
         "x": 84,
         "y": 3574,
@@ -380,7 +382,8 @@
             "8dfcb46d23e73d53",
             "9cb2558db9346cae",
             "823428c64dadbb25",
-            "bd2c16c7828242aa"
+            "bd2c16c7828242aa",
+            "0ca3c958633a0c8b"
         ],
         "x": 124,
         "y": 2584,
@@ -2657,9 +2660,9 @@
         "name": "completedTable",
         "tab": "836adb2b4d67f4ce",
         "order": 2,
-        "disp": true,
+        "disp": false,
         "width": "18",
-        "collapse": true,
+        "collapse": false,
         "className": ""
     },
     {
@@ -9908,7 +9911,7 @@
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"450px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true}",
         "group": "77dcdddb4f97461c",
         "name": "queueTable",
-        "order": 4,
+        "order": 5,
         "width": "18",
         "height": "8",
         "columns": [],
@@ -10073,7 +10076,7 @@
         "g": "bd2c16c7828242aa",
         "name": "load example table",
         "group": "77dcdddb4f97461c",
-        "order": 3,
+        "order": 4,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -10192,7 +10195,7 @@
         "g": "bd2c16c7828242aa",
         "name": "salva",
         "group": "77dcdddb4f97461c",
-        "order": 2,
+        "order": 3,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -10261,7 +10264,7 @@
         "g": "bd2c16c7828242aa",
         "name": "nuovo ordine",
         "group": "77dcdddb4f97461c",
-        "order": 1,
+        "order": 2,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -10503,7 +10506,7 @@
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"900px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true,\"initialSort\":[{\"column\":\"date\",\"dir\":\"desc\"},{\"column\":\"time\",\"dir\":\"desc\"},{\"column\":\"press\",\"dir\":\"asc\"}]}",
         "group": "b3c076eedf1fd2f8",
         "name": "historyTable",
-        "order": 4,
+        "order": 3,
         "width": "14",
         "height": "18",
         "columns": [],
@@ -10562,7 +10565,7 @@
         "g": "70b9c5719558ad66",
         "name": "salva",
         "group": "b3c076eedf1fd2f8",
-        "order": 2,
+        "order": 1,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -10723,21 +10726,20 @@
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"450px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true,\"initialSort\":[{\"column\":\"date\",\"dir\":\"desc\"},{\"column\":\"time\",\"dir\":\"desc\"}]}",
         "group": "b7f5c766a413446a",
         "name": "completedTable",
-        "order": 4,
+        "order": 3,
         "width": "18",
         "height": "8",
         "columns": [],
         "outputs": 1,
         "cts": false,
-        "x": 735,
+        "x": 800,
         "y": 4740,
         "wires": [
             [
                 "f0d5683c1d5e6fa4",
                 "34fe2b838d57bdf8"
             ]
-        ],
-        "l": false
+        ]
     },
     {
         "id": "28c5c8c6a8cbdd41",
@@ -10783,7 +10785,7 @@
         "g": "3714a803248cefeb",
         "name": "salva",
         "group": "b7f5c766a413446a",
-        "order": 2,
+        "order": 1,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -12595,6 +12597,73 @@
         "libs": [],
         "x": 920,
         "y": 2080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a72b1c3580f09904",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "f6a4cccae63b60ae",
+        "group": "b7f5c766a413446a",
+        "name": "completedTable title",
+        "order": 2,
+        "width": "8",
+        "height": "1",
+        "format": "<span style=\"margin-left:60px;position:relative;top:10px;color=#0000a0;\"><h3> Ultimi Ordini Completati<h3></span>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 265,
+        "y": 4650,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "78a704a3e466fce3",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "e2961306402a77aa",
+        "group": "b3c076eedf1fd2f8",
+        "name": "historyTable title",
+        "order": 2,
+        "width": "8",
+        "height": "1",
+        "format": "<span style=\"margin-left:60px;position:relative;top:10px;color=#0000a0;\"><h3> Cronologia Cicli di Produzione<h3></span>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 240,
+        "y": 3990,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0ca3c958633a0c8b",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "2f4be50b7d91c706",
+        "group": "77dcdddb4f97461c",
+        "name": "queueTable title",
+        "order": 1,
+        "width": "8",
+        "height": "1",
+        "format": "<span style=\"margin-left:60px;position:relative;top:10px;color=#0000a0;\"><h3> Nuovi Ordini<h3></span>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 425,
+        "y": 2625,
         "wires": [
             []
         ]
