@@ -225,7 +225,9 @@
             "34fe2b838d57bdf8"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -252,7 +254,9 @@
             "73bd49c19cb4ea06"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -278,7 +282,9 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134
+        "y": 134,
+        "w": 777,
+        "h": 222
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -347,7 +353,9 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 409
+        "y": 409,
+        "w": 1514,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -375,7 +383,9 @@
             "bd2c16c7828242aa"
         ],
         "x": 124,
-        "y": 2584
+        "y": 2584,
+        "w": 1093,
+        "h": 637
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -757,7 +767,9 @@
             "8437a7d22a9f64c3"
         ],
         "x": 174,
-        "y": 1839
+        "y": 1839,
+        "w": 1262,
+        "h": 282
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -787,7 +799,9 @@
             "5e7a9cab577dae64"
         ],
         "x": 169,
-        "y": 2139
+        "y": 2139,
+        "w": 1272,
+        "h": 302
     },
     {
         "id": "dd28804963c0bc60",
@@ -950,7 +964,9 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -973,7 +989,9 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1012,7 +1030,9 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1037,
+        "h": 397
     },
     {
         "id": "df7219d880358536",
@@ -1043,7 +1063,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1074,7 +1096,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1117,7 +1141,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1180,7 +1206,9 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 484
+        "y": 484,
+        "w": 1462,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -12157,7 +12185,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "6b0818d4a0baca5e",
         "name": "push to historyTable",
-        "func": "var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n\nrow.id = plcData.prod_id;\nrow.quantProd = plcData.prod_quantProd;\nrow.status = plcData.exc_status;\nrow.cycleNumber = plcData.prod_cycleNumber;\nrow.press = msg.press;\nrow.statusAsString = (plcData.exc_status == \"3\" || plcData.exc_status == 3) ? \"parz.\" : \"compl.\";\n\nhistoryTable.push(row);\nnode.send(refreshMsg);\n\nflow.set(\"historyTable\", historyTable);",
+        "func": "var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n\nrow.id = plcData.prod_id;\nrow.quantProd = plcData.prod_quantProd;\nrow.status = plcData.exc_status;\nrow.cycleNumber = plcData.prod_cycleNumber;\nrow.press = msg.press;\nrow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n\nhistoryTable.push(row);\nnode.send(refreshMsg);\n\nflow.set(\"historyTable\", historyTable);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
