@@ -1,4 +1,0 @@
-
--copia la versione corretta da "./app_base" in .node-red e rinomina in "app"
--copia la versione corretta da "./settings.js_base" in .node-red e rinomina in settings.js
-	andrà a sostituire il file preesistente.
