@@ -76,7 +76,9 @@
             "6173c68c398eeee3"
         ],
         "x": 334,
-        "y": 64
+        "y": 64,
+        "w": 707,
+        "h": 127
     },
     {
         "id": "3df0d3098de49375",
@@ -105,7 +107,9 @@
             "b34226be7162078f"
         ],
         "x": 714,
-        "y": 2164
+        "y": 2164,
+        "w": 592,
+        "h": 517
     },
     {
         "id": "83e9f4234bb5157e",
@@ -128,7 +132,9 @@
             "0c2f824d1edcbe0b"
         ],
         "x": 1159,
-        "y": 64
+        "y": 64,
+        "w": 707,
+        "h": 127
     },
     {
         "id": "43b5ce037e6e5304",
@@ -151,7 +157,9 @@
             "cdfe98ebc6268de8"
         ],
         "x": 729,
-        "y": 934
+        "y": 934,
+        "w": 452,
+        "h": 127
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -218,7 +226,9 @@
             "a72b1c3580f09904"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -246,7 +256,9 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -272,7 +284,9 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134
+        "y": 134,
+        "w": 777,
+        "h": 222
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -316,9 +330,7 @@
             "6e645e2849c474eb"
         ],
         "x": 654,
-        "y": 1099,
-        "w": 382,
-        "h": 122
+        "y": 1099
     },
     {
         "id": "b0737e4c04737b82",
@@ -341,7 +353,9 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 409
+        "y": 409,
+        "w": 1514,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -370,7 +384,9 @@
             "0ca3c958633a0c8b"
         ],
         "x": 124,
-        "y": 2584
+        "y": 2584,
+        "w": 1093,
+        "h": 637
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -395,9 +411,7 @@
             "85ef1e45805265d5"
         ],
         "x": 154,
-        "y": 14,
-        "w": 712,
-        "h": 227
+        "y": 14
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -436,9 +450,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1224,
-        "y": 704,
-        "w": 1232,
-        "h": 307
+        "y": 704
     },
     {
         "id": "cccb0df7921dec2f",
@@ -463,7 +475,9 @@
             "b7700a2027731da3"
         ],
         "x": 1224,
-        "y": 254
+        "y": 254,
+        "w": 342,
+        "h": 247
     },
     {
         "id": "63f089643e332739",
@@ -486,9 +500,7 @@
             "2639fa3be4067762"
         ],
         "x": 123,
-        "y": 1239,
-        "w": 1559,
-        "h": 1368
+        "y": 1239
     },
     {
         "id": "1999eebe26eba53b",
@@ -511,9 +523,7 @@
             "fe3da39d45bc7cd4"
         ],
         "x": 1843,
-        "y": 1239,
-        "w": 1559,
-        "h": 1368
+        "y": 1239
     },
     {
         "id": "81b3f35a68120159",
@@ -535,7 +545,9 @@
             "5bc8af56489bcd9d"
         ],
         "x": 198,
-        "y": 1079
+        "y": 1079,
+        "w": 1439,
+        "h": 993
     },
     {
         "id": "ef0c6ed3656f62f1",
@@ -557,7 +569,9 @@
             "9e32d6a46ccf09ee"
         ],
         "x": 1918,
-        "y": 1079
+        "y": 1079,
+        "w": 1444,
+        "h": 978
     },
     {
         "id": "72376f020cbdd7b4",
@@ -580,9 +594,7 @@
             "c59fa5143bd96e16"
         ],
         "x": 123,
-        "y": 2659,
-        "w": 1559,
-        "h": 1368
+        "y": 2659
     },
     {
         "id": "560b01ff2e88daac",
@@ -605,9 +617,7 @@
             "35b7fdc595f7d3c5"
         ],
         "x": 1843,
-        "y": 2659,
-        "w": 1559,
-        "h": 1368
+        "y": 2659
     },
     {
         "id": "c947217d7b4fccbd",
@@ -629,7 +639,9 @@
             "a93dbb5749094ec0"
         ],
         "x": 198,
-        "y": 2719
+        "y": 2719,
+        "w": 1444,
+        "h": 978
     },
     {
         "id": "a22652e0e5a00422",
@@ -651,7 +663,9 @@
             "b1df0fb233ae57b9"
         ],
         "x": 1918,
-        "y": 2719
+        "y": 2719,
+        "w": 1444,
+        "h": 978
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -677,9 +691,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 134,
-        "y": 699,
-        "w": 692,
-        "h": 242
+        "y": 699
     },
     {
         "id": "89618de1371e00e8",
@@ -705,7 +717,9 @@
             "23908ba29a765ed4"
         ],
         "x": 199,
-        "y": 629
+        "y": 629,
+        "w": 847,
+        "h": 252
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -740,7 +754,9 @@
             "8437a7d22a9f64c3"
         ],
         "x": 174,
-        "y": 1839
+        "y": 1839,
+        "w": 1262,
+        "h": 282
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -770,7 +786,9 @@
             "5e7a9cab577dae64"
         ],
         "x": 169,
-        "y": 2139
+        "y": 2139,
+        "w": 1272,
+        "h": 302
     },
     {
         "id": "dd28804963c0bc60",
@@ -812,9 +830,7 @@
             "8943b4549c5df00c"
         ],
         "x": 314,
-        "y": 259,
-        "w": 1102,
-        "h": 392
+        "y": 259
     },
     {
         "id": "e2bd9331f9185534",
@@ -840,9 +856,7 @@
             "b6bc7095606ea745"
         ],
         "x": 169,
-        "y": 1734,
-        "w": 892,
-        "h": 172
+        "y": 1734
     },
     {
         "id": "21bbb7d46384e287",
@@ -877,9 +891,7 @@
             "3f9469575ed20a91"
         ],
         "x": 149,
-        "y": 2299,
-        "w": 1202,
-        "h": 282
+        "y": 2299
     },
     {
         "id": "0c753ce1969e7a11",
@@ -911,9 +923,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 159,
-        "y": 1929,
-        "w": 1002,
-        "h": 362
+        "y": 1929
     },
     {
         "id": "3714a803248cefeb",
@@ -936,7 +946,9 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -959,7 +971,9 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -998,7 +1012,9 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1037,
+        "h": 397
     },
     {
         "id": "df7219d880358536",
@@ -1029,7 +1045,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1060,7 +1078,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1103,7 +1123,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1166,7 +1188,9 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 484
+        "y": 484,
+        "w": 1462,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -1207,9 +1231,7 @@
             "bdec638b99156315"
         ],
         "x": 164,
-        "y": 1314,
-        "w": 1492,
-        "h": 382
+        "y": 1314
     },
     {
         "id": "23b242037b1d989d",
@@ -1235,9 +1257,7 @@
             "2c215d3ea4d110e9"
         ],
         "x": 1889,
-        "y": 1734,
-        "w": 892,
-        "h": 172
+        "y": 1734
     },
     {
         "id": "173f861c8cd401be",
@@ -1272,9 +1292,7 @@
             "eec38691272ed5d2"
         ],
         "x": 1869,
-        "y": 2304,
-        "w": 1202,
-        "h": 277
+        "y": 2304
     },
     {
         "id": "a3b8edad7fbf25b8",
@@ -1306,9 +1324,7 @@
             "797048def978921d"
         ],
         "x": 1879,
-        "y": 1929,
-        "w": 1002,
-        "h": 362
+        "y": 1929
     },
     {
         "id": "90b855390ac72238",
@@ -1349,9 +1365,7 @@
             "3e2260e4d228e248"
         ],
         "x": 1884,
-        "y": 1314,
-        "w": 1492,
-        "h": 382
+        "y": 1314
     },
     {
         "id": "d4f58c108037d973",
@@ -1388,7 +1402,9 @@
             "d10978b2469ceff3"
         ],
         "x": 359,
-        "y": 1154
+        "y": 1154,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "6067e973b7dd40eb",
@@ -1419,7 +1435,9 @@
             "7446c855e9d2de4f"
         ],
         "x": 224,
-        "y": 1574
+        "y": 1574,
+        "w": 617,
+        "h": 367
     },
     {
         "id": "9170b812dbe446e7",
@@ -1456,7 +1474,9 @@
             "88e5380b5a7c839f"
         ],
         "x": 2079,
-        "y": 1154
+        "y": 1154,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "2ca6f2c1b0c21cf1",
@@ -1496,7 +1516,9 @@
             "baa146a03506aca9"
         ],
         "x": 2639,
-        "y": 1499
+        "y": 1499,
+        "w": 697,
+        "h": 532
     },
     {
         "id": "9e32d6a46ccf09ee",
@@ -1527,7 +1549,9 @@
             "577869e151539f03"
         ],
         "x": 1944,
-        "y": 1574
+        "y": 1574,
+        "w": 617,
+        "h": 367
     },
     {
         "id": "03ef9a71f127822f",
@@ -1553,9 +1577,7 @@
             "6e49827f9cf44a2c"
         ],
         "x": 169,
-        "y": 3154,
-        "w": 892,
-        "h": 172
+        "y": 3154
     },
     {
         "id": "8bc986f7994d89a7",
@@ -1590,9 +1612,7 @@
             "add3ea452ae91bde"
         ],
         "x": 149,
-        "y": 3724,
-        "w": 1202,
-        "h": 277
+        "y": 3724
     },
     {
         "id": "b1f8c54951ecbf7f",
@@ -1624,9 +1644,7 @@
             "eeb4753ae7fa02d4"
         ],
         "x": 159,
-        "y": 3349,
-        "w": 1002,
-        "h": 362
+        "y": 3349
     },
     {
         "id": "84182d5ef898d336",
@@ -1667,9 +1685,7 @@
             "e2f828fbb4d401b7"
         ],
         "x": 164,
-        "y": 2734,
-        "w": 1492,
-        "h": 382
+        "y": 2734
     },
     {
         "id": "2fa2db606a6d80c1",
@@ -1695,9 +1711,7 @@
             "1e843a5590cd9b13"
         ],
         "x": 1889,
-        "y": 3154,
-        "w": 892,
-        "h": 172
+        "y": 3154
     },
     {
         "id": "92109e084c266e2e",
@@ -1732,9 +1746,7 @@
             "3ec753ef55a31566"
         ],
         "x": 1869,
-        "y": 3724,
-        "w": 1202,
-        "h": 277
+        "y": 3724
     },
     {
         "id": "f396ce22bbf03344",
@@ -1766,9 +1778,7 @@
             "9271fcc188c35603"
         ],
         "x": 1879,
-        "y": 3349,
-        "w": 1002,
-        "h": 362
+        "y": 3349
     },
     {
         "id": "77f0a4e1ac50f8a4",
@@ -1809,9 +1819,7 @@
             "f85d708655d2dde8"
         ],
         "x": 1884,
-        "y": 2734,
-        "w": 1492,
-        "h": 382
+        "y": 2734
     },
     {
         "id": "9f2647ae0bb0686b",
@@ -1848,7 +1856,9 @@
             "783edff7e22ab4b4"
         ],
         "x": 359,
-        "y": 2794
+        "y": 2794,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "c25454224d93f0a4",
@@ -1888,7 +1898,9 @@
             "1cd1ba43a58cd415"
         ],
         "x": 919,
-        "y": 3139
+        "y": 3139,
+        "w": 697,
+        "h": 532
     },
     {
         "id": "a93dbb5749094ec0",
@@ -1919,7 +1931,9 @@
             "db544c8a4e4b5a6f"
         ],
         "x": 224,
-        "y": 3214
+        "y": 3214,
+        "w": 617,
+        "h": 367
     },
     {
         "id": "9c42f9c7d3cec4e7",
@@ -1956,7 +1970,9 @@
             "2001a99f7a6d5461"
         ],
         "x": 2079,
-        "y": 2794
+        "y": 2794,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "4319550e30808765",
@@ -1996,7 +2012,9 @@
             "9ea62a5cbd872003"
         ],
         "x": 2639,
-        "y": 3139
+        "y": 3139,
+        "w": 697,
+        "h": 532
     },
     {
         "id": "b1df0fb233ae57b9",
@@ -2027,7 +2045,9 @@
             "6fe7854ecacb208f"
         ],
         "x": 1944,
-        "y": 3214
+        "y": 3214,
+        "w": 617,
+        "h": 367
     },
     {
         "id": "5bc8af56489bcd9d",
@@ -2067,7 +2087,9 @@
             "9e5f19ba303d1e7f"
         ],
         "x": 914,
-        "y": 1514
+        "y": 1514,
+        "w": 697,
+        "h": 532
     },
     {
         "id": "9fa3722a335cb332",
@@ -2322,7 +2344,7 @@
         "name": "pressa1 plc prodExc",
         "vartable": [
             {
-                "addr": "DB61,S0.255",
+                "addr": "DB61,S0.210",
                 "name": "exc_id"
             },
             {
@@ -2346,7 +2368,7 @@
                 "name": "prod_cycleNumber"
             },
             {
-                "addr": "DB62,S6.255",
+                "addr": "DB62,S6.210",
                 "name": "prod_id"
             },
             {
@@ -2671,7 +2693,7 @@
         "name": "pressa2 plc prodExc",
         "vartable": [
             {
-                "addr": "DB61,S0.255",
+                "addr": "DB61,S0.210",
                 "name": "exc_id"
             },
             {
@@ -2695,7 +2717,7 @@
                 "name": "prod_cycleNumber"
             },
             {
-                "addr": "DB62,S6.255",
+                "addr": "DB62,S6.210",
                 "name": "prod_id"
             },
             {
@@ -2794,7 +2816,7 @@
         "name": "pressa3 plc prodExc",
         "vartable": [
             {
-                "addr": "DB61,S0.255",
+                "addr": "DB61,S0.210",
                 "name": "exc_id"
             },
             {
@@ -2818,7 +2840,7 @@
                 "name": "prod_cycleNumber"
             },
             {
-                "addr": "DB62,S6.255",
+                "addr": "DB62,S6.210",
                 "name": "prod_id"
             },
             {
@@ -2917,7 +2939,7 @@
         "name": "pressa4 plc prodExc",
         "vartable": [
             {
-                "addr": "DB61,S0.255",
+                "addr": "DB61,S0.210",
                 "name": "exc_id"
             },
             {
@@ -2941,7 +2963,7 @@
                 "name": "prod_cycleNumber"
             },
             {
-                "addr": "DB62,S6.255",
+                "addr": "DB62,S6.210",
                 "name": "prod_id"
             },
             {
@@ -10432,7 +10454,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "e2961306402a77aa",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"cycleNumber\",\"visible\":true,\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"Esito\",\"field\":\"statusAsString\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"Eseguito su\",\"field\":\"press\",\"hozAlign\":\"center\",\"visible\":true,\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"cycleNumber\",\"visible\":true,\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Esito\",\"field\":\"statusAsString\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Eseguito su\",\"field\":\"press\",\"hozAlign\":\"center\",\"visible\":true,\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"940px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true,\"initialSort\":[{\"column\":\"press\",\"dir\":\"asc\"},{\"column\":\"time\",\"dir\":\"desc\"},{\"column\":\"date\",\"dir\":\"desc\"}]}",
         "group": "b3c076eedf1fd2f8",
@@ -10652,7 +10674,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "f6a4cccae63b60ae",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"headerSortStartingDir\":\"desc\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"headerSortStartingDir\":\"desc\",\"editor\":false},{\"title\":\"N°Ciclo\",\"field\":\"cycleNumber\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"editor\":\"false\"},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"width\":180,\"editor\":\"false\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"headerSortStartingDir\":\"desc\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"headerSortStartingDir\":\"desc\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"N°Ciclo\",\"field\":\"cycleNumber\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":\"false\"},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"width\":180,\"editor\":\"false\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"450px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true,\"initialSort\":[{\"column\":\"time\",\"dir\":\"desc\"},{\"column\":\"date\",\"dir\":\"desc\"}]}",
         "group": "b7f5c766a413446a",
