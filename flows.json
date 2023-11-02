@@ -330,7 +330,9 @@
             "6e645e2849c474eb"
         ],
         "x": 654,
-        "y": 1099
+        "y": 1099,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -411,7 +413,9 @@
             "85ef1e45805265d5"
         ],
         "x": 154,
-        "y": 14
+        "y": 14,
+        "w": 712,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -450,7 +454,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1224,
-        "y": 704
+        "y": 704,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "cccb0df7921dec2f",
@@ -500,7 +506,9 @@
             "2639fa3be4067762"
         ],
         "x": 123,
-        "y": 1239
+        "y": 1239,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "1999eebe26eba53b",
@@ -523,7 +531,9 @@
             "fe3da39d45bc7cd4"
         ],
         "x": 1843,
-        "y": 1239
+        "y": 1239,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "81b3f35a68120159",
@@ -546,32 +556,8 @@
         ],
         "x": 198,
         "y": 1079,
-        "w": 1439,
+        "w": 1429,
         "h": 993
-    },
-    {
-        "id": "ef0c6ed3656f62f1",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0b20d7db2393da61",
-            "9170b812dbe446e7",
-            "2ca6f2c1b0c21cf1",
-            "9e32d6a46ccf09ee"
-        ],
-        "x": 1918,
-        "y": 1079,
-        "w": 1444,
-        "h": 978
     },
     {
         "id": "72376f020cbdd7b4",
@@ -594,7 +580,9 @@
             "c59fa5143bd96e16"
         ],
         "x": 123,
-        "y": 2659
+        "y": 2659,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "560b01ff2e88daac",
@@ -617,31 +605,9 @@
             "35b7fdc595f7d3c5"
         ],
         "x": 1843,
-        "y": 2659
-    },
-    {
-        "id": "c947217d7b4fccbd",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b5b2625d5b358ac6",
-            "9f2647ae0bb0686b",
-            "c25454224d93f0a4",
-            "a93dbb5749094ec0"
-        ],
-        "x": 198,
-        "y": 2719,
-        "w": 1444,
-        "h": 978
+        "y": 2659,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "a22652e0e5a00422",
@@ -664,7 +630,7 @@
         ],
         "x": 1918,
         "y": 2719,
-        "w": 1444,
+        "w": 1434,
         "h": 978
     },
     {
@@ -691,7 +657,9 @@
             "8b321fcb911b77fd"
         ],
         "x": 134,
-        "y": 699
+        "y": 699,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "89618de1371e00e8",
@@ -718,7 +686,7 @@
         ],
         "x": 199,
         "y": 629,
-        "w": 847,
+        "w": 837,
         "h": 252
     },
     {
@@ -830,7 +798,9 @@
             "8943b4549c5df00c"
         ],
         "x": 314,
-        "y": 259
+        "y": 259,
+        "w": 1102,
+        "h": 392
     },
     {
         "id": "e2bd9331f9185534",
@@ -856,7 +826,9 @@
             "b6bc7095606ea745"
         ],
         "x": 169,
-        "y": 1734
+        "y": 1734,
+        "w": 882,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -891,7 +863,9 @@
             "3f9469575ed20a91"
         ],
         "x": 149,
-        "y": 2299
+        "y": 2299,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -923,7 +897,9 @@
             "c23689e8b3ce4d15"
         ],
         "x": 159,
-        "y": 1929
+        "y": 1929,
+        "w": 992,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -1231,7 +1207,9 @@
             "bdec638b99156315"
         ],
         "x": 164,
-        "y": 1314
+        "y": 1314,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "23b242037b1d989d",
@@ -1257,7 +1235,9 @@
             "2c215d3ea4d110e9"
         ],
         "x": 1889,
-        "y": 1734
+        "y": 1734,
+        "w": 882,
+        "h": 172
     },
     {
         "id": "173f861c8cd401be",
@@ -1292,7 +1272,9 @@
             "eec38691272ed5d2"
         ],
         "x": 1869,
-        "y": 2304
+        "y": 2304,
+        "w": 1202,
+        "h": 277
     },
     {
         "id": "a3b8edad7fbf25b8",
@@ -1324,7 +1306,9 @@
             "797048def978921d"
         ],
         "x": 1879,
-        "y": 1929
+        "y": 1929,
+        "w": 992,
+        "h": 362
     },
     {
         "id": "90b855390ac72238",
@@ -1365,7 +1349,9 @@
             "3e2260e4d228e248"
         ],
         "x": 1884,
-        "y": 1314
+        "y": 1314,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "d4f58c108037d973",
@@ -1440,120 +1426,6 @@
         "h": 367
     },
     {
-        "id": "9170b812dbe446e7",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "ef0c6ed3656f62f1",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "04ad8981080a4bc2",
-            "d621806b9d512da2",
-            "de0739c47a7ee00c",
-            "a8134e53f1635cf6",
-            "2b56c9d224d141fc",
-            "33e726969f43708d",
-            "bb0e2980902fc869",
-            "59d1d69b47306a55",
-            "a85291cf3f906e79",
-            "71cdad2935eab809",
-            "ab8fc6de0b76ea47",
-            "85e920d25faffc5e",
-            "b56980577aeeef39",
-            "da089c88f8c7df29",
-            "50748153bedb7365",
-            "ff10a77e0e1952bb",
-            "781a5cd284d89138",
-            "88e5380b5a7c839f"
-        ],
-        "x": 2079,
-        "y": 1154,
-        "w": 797,
-        "h": 337
-    },
-    {
-        "id": "2ca6f2c1b0c21cf1",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "ef0c6ed3656f62f1",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "c93aa2a22f83519e",
-            "b94d03c6fa83589f",
-            "5057b85e84045f6c",
-            "b55bf496d3cc1513",
-            "e1b9292fa6bac2e3",
-            "29ec537f14d3d22a",
-            "f754852205e30e67",
-            "fa61973aeffbf656",
-            "cec28be43f93e629",
-            "c74e3acc86372d69",
-            "423d6d293533b632",
-            "a418abe4b0a07dce",
-            "335860a957682321",
-            "fe28da5c501e29bd",
-            "619c850163c2ff76",
-            "6de7c21a06de5b4a",
-            "a68f69c9cd075166",
-            "af9aace116c71617",
-            "cbe29d3cc5fedd24",
-            "d62d94327506c361",
-            "baa146a03506aca9"
-        ],
-        "x": 2639,
-        "y": 1499,
-        "w": 697,
-        "h": 532
-    },
-    {
-        "id": "9e32d6a46ccf09ee",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "ef0c6ed3656f62f1",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "cf898100deca5850",
-            "56377c4577552212",
-            "80f16227937027de",
-            "b7ba6d9287419416",
-            "ae5dbeb3428c4fa0",
-            "39ee92fcc64d963c",
-            "237711c4af6c00b8",
-            "4207c18fb1c725a4",
-            "3822344a17360084",
-            "f5fe63e98db64a03",
-            "1b4bcab9f691b5db",
-            "577869e151539f03"
-        ],
-        "x": 1944,
-        "y": 1574,
-        "w": 617,
-        "h": 367
-    },
-    {
         "id": "03ef9a71f127822f",
         "type": "group",
         "z": "9922a8114f46702b",
@@ -1577,7 +1449,9 @@
             "6e49827f9cf44a2c"
         ],
         "x": 169,
-        "y": 3154
+        "y": 3154,
+        "w": 882,
+        "h": 172
     },
     {
         "id": "8bc986f7994d89a7",
@@ -1612,7 +1486,9 @@
             "add3ea452ae91bde"
         ],
         "x": 149,
-        "y": 3724
+        "y": 3724,
+        "w": 1202,
+        "h": 277
     },
     {
         "id": "b1f8c54951ecbf7f",
@@ -1644,7 +1520,9 @@
             "eeb4753ae7fa02d4"
         ],
         "x": 159,
-        "y": 3349
+        "y": 3349,
+        "w": 992,
+        "h": 362
     },
     {
         "id": "84182d5ef898d336",
@@ -1685,7 +1563,9 @@
             "e2f828fbb4d401b7"
         ],
         "x": 164,
-        "y": 2734
+        "y": 2734,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "2fa2db606a6d80c1",
@@ -1711,7 +1591,9 @@
             "1e843a5590cd9b13"
         ],
         "x": 1889,
-        "y": 3154
+        "y": 3154,
+        "w": 882,
+        "h": 172
     },
     {
         "id": "92109e084c266e2e",
@@ -1746,7 +1628,9 @@
             "3ec753ef55a31566"
         ],
         "x": 1869,
-        "y": 3724
+        "y": 3724,
+        "w": 1202,
+        "h": 277
     },
     {
         "id": "f396ce22bbf03344",
@@ -1778,7 +1662,9 @@
             "9271fcc188c35603"
         ],
         "x": 1879,
-        "y": 3349
+        "y": 3349,
+        "w": 992,
+        "h": 362
     },
     {
         "id": "77f0a4e1ac50f8a4",
@@ -1819,121 +1705,9 @@
             "f85d708655d2dde8"
         ],
         "x": 1884,
-        "y": 2734
-    },
-    {
-        "id": "9f2647ae0bb0686b",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "c947217d7b4fccbd",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "a9888cb6c3d71618",
-            "915995140b4de971",
-            "19c7a19de678ce15",
-            "08f2f36c4afebcb3",
-            "75da577310765314",
-            "1907f3bf8fb171ea",
-            "7445df5ea6b3979f",
-            "d9da898c0922e3a7",
-            "1ea30b05f8dafd77",
-            "a3c95a133003aada",
-            "e5e02c455bbfe832",
-            "c4f52ae898dee06a",
-            "4b5b1c851646c881",
-            "7cf07817432db46f",
-            "8d3a9da3ebbd52ad",
-            "296220f1eae982a2",
-            "b4234dd3d234156d",
-            "783edff7e22ab4b4"
-        ],
-        "x": 359,
-        "y": 2794,
-        "w": 797,
-        "h": 337
-    },
-    {
-        "id": "c25454224d93f0a4",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "c947217d7b4fccbd",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f4ab1dce07fe7f11",
-            "555d91aa8bf28ae9",
-            "e5f7e9c22a058ed1",
-            "ceea7655c2f32850",
-            "ce8d2903e7974843",
-            "0fd972c0e636f906",
-            "321f213ce949e34f",
-            "87b78956ec5af576",
-            "3d4881e0b3139213",
-            "9ffbf76eead154a9",
-            "6b74e72683c0d1f6",
-            "c4d4ea455e2f73f4",
-            "844c5bc2fea2c797",
-            "49e591142a7bea9a",
-            "5a518d75c64bc0ea",
-            "6b8fb6f2bba64125",
-            "929ff1413fe086d0",
-            "d27d4300fc48fe25",
-            "59b1cd6f5bc9dbd1",
-            "e32d6d2b3ce23351",
-            "1cd1ba43a58cd415"
-        ],
-        "x": 919,
-        "y": 3139,
-        "w": 697,
-        "h": 532
-    },
-    {
-        "id": "a93dbb5749094ec0",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "g": "c947217d7b4fccbd",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "87748d9349a8604a",
-            "f0e330b3f6e390be",
-            "2b4e10741bb7b04a",
-            "397081947df56407",
-            "0270dc1e8f7e9aa7",
-            "fe347163b7579388",
-            "d0d6386c08ed89d2",
-            "da0a7793e40b3340",
-            "e5e72ce2788268aa",
-            "7fad437a9546562d",
-            "bd70310b8da24361",
-            "db544c8a4e4b5a6f"
-        ],
-        "x": 224,
-        "y": 3214,
-        "w": 617,
-        "h": 367
+        "y": 2734,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "9c42f9c7d3cec4e7",
@@ -2013,7 +1787,7 @@
         ],
         "x": 2639,
         "y": 3139,
-        "w": 697,
+        "w": 687,
         "h": 532
     },
     {
@@ -2088,7 +1862,7 @@
         ],
         "x": 914,
         "y": 1514,
-        "w": 697,
+        "w": 687,
         "h": 532
     },
     {
@@ -2327,6 +2101,7 @@
         "id": "34ec8711cb2e9270",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
         "port": "102",
@@ -2546,6 +2321,7 @@
         "id": "fa784b598becc58c",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
         "port": "102",
@@ -2622,6 +2398,7 @@
         "id": "33b06a116480e90c",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
         "port": "102",
@@ -2676,6 +2453,7 @@
         "id": "1667e67dd14845f1",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
         "port": "102",
@@ -2745,6 +2523,7 @@
         "id": "f84482f335843f79",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
         "port": "102",
@@ -2799,6 +2578,7 @@
         "id": "2c8ae7c7ae56a942",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
         "port": "102",
@@ -2868,6 +2648,7 @@
         "id": "e370eb0b4862e638",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
         "port": "102",
@@ -2922,6 +2703,7 @@
         "id": "85571a3195fe3b68",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
         "port": "102",
@@ -4599,2312 +4381,6 @@
         "wires": [
             [
                 "3a7d35a0bfec5b49"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "0b20d7db2393da61",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "ef0c6ed3656f62f1",
-        "name": "Pressa2",
-        "info": "",
-        "x": 2140,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "04ad8981080a4bc2",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 2625,
-        "y": 1255,
-        "wires": [
-            [
-                "2b56c9d224d141fc",
-                "33e726969f43708d"
-            ]
-        ]
-    },
-    {
-        "id": "d621806b9d512da2",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.tempPianoSup",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2435,
-        "y": 1270,
-        "wires": [
-            [
-                "04ad8981080a4bc2"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "de0739c47a7ee00c",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2345,
-        "y": 1450,
-        "wires": [
-            [
-                "04ad8981080a4bc2",
-                "59d1d69b47306a55",
-                "a85291cf3f906e79"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "a8134e53f1635cf6",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_tempPianoSup_in",
-        "links": [
-            "a8390a294962caf5",
-            "a5b87c54f0bc9f52",
-            "39ee92fcc64d963c",
-            "270fa03be490aaf8"
-        ],
-        "x": 2435,
-        "y": 1240,
-        "wires": [
-            [
-                "04ad8981080a4bc2"
-            ]
-        ]
-    },
-    {
-        "id": "2b56c9d224d141fc",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_tempPianoSup_out",
-        "mode": "link",
-        "links": [
-            "335860a957682321",
-            "f66c5e139be26935",
-            "a2f9a4d89f31b3fe",
-            "0b3137de890b52f4",
-            "0cd3823a07c45d08",
-            "02b34e28a35b0193"
-        ],
-        "x": 2800,
-        "y": 1255,
-        "wires": []
-    },
-    {
-        "id": "33e726969f43708d",
-        "type": "debug",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "cfg pressa2 ",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2760,
-        "y": 1195,
-        "wires": []
-    },
-    {
-        "id": "bb0e2980902fc869",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2330,
-        "y": 1330,
-        "wires": [
-            [
-                "d621806b9d512da2",
-                "85e920d25faffc5e",
-                "b56980577aeeef39"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "59d1d69b47306a55",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 2625,
-        "y": 1375,
-        "wires": [
-            [
-                "50748153bedb7365"
-            ]
-        ]
-    },
-    {
-        "id": "a85291cf3f906e79",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 2625,
-        "y": 1315,
-        "wires": [
-            [
-                "781a5cd284d89138"
-            ]
-        ]
-    },
-    {
-        "id": "71cdad2935eab809",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "onConfigUpdate_in",
-        "links": [
-            "d552f3455898102d",
-            "ec61e58badd4618b"
-        ],
-        "x": 2195,
-        "y": 1330,
-        "wires": [
-            [
-                "bb0e2980902fc869"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "ab8fc6de0b76ea47",
-        "type": "inject",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 2255,
-        "y": 1300,
-        "wires": [
-            [
-                "bb0e2980902fc869"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "85e920d25faffc5e",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.tempPianoInf",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2435,
-        "y": 1330,
-        "wires": [
-            [
-                "a85291cf3f906e79"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "b56980577aeeef39",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.pressPressata",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2435,
-        "y": 1390,
-        "wires": [
-            [
-                "59d1d69b47306a55"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "da089c88f8c7df29",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_pressPressata_in",
-        "links": [
-            "befaf23b1030e6fb",
-            "66718c199b5afcf6",
-            "9666105965a489b2",
-            "4207c18fb1c725a4"
-        ],
-        "x": 2435,
-        "y": 1360,
-        "wires": [
-            [
-                "59d1d69b47306a55"
-            ]
-        ]
-    },
-    {
-        "id": "50748153bedb7365",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_pressPressata_out",
-        "mode": "link",
-        "links": [
-            "423d6d293533b632",
-            "e4cb9dfb2e461e20"
-        ],
-        "x": 2800,
-        "y": 1375,
-        "wires": []
-    },
-    {
-        "id": "ff10a77e0e1952bb",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_tempPianoInf_in",
-        "links": [
-            "799a85aff84a128e",
-            "f1cca6c166a06563",
-            "a1989466336feb77",
-            "237711c4af6c00b8",
-            "ce4da829986578cc"
-        ],
-        "x": 2435,
-        "y": 1300,
-        "wires": [
-            [
-                "a85291cf3f906e79"
-            ]
-        ]
-    },
-    {
-        "id": "781a5cd284d89138",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "pressa2_tempPianoInf_out",
-        "mode": "link",
-        "links": [
-            "a418abe4b0a07dce",
-            "5fd6da994b8f7cd0"
-        ],
-        "x": 2800,
-        "y": 1315,
-        "wires": []
-    },
-    {
-        "id": "88e5380b5a7c839f",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "9170b812dbe446e7",
-        "name": "config update",
-        "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
-        "x": 2245,
-        "y": 1195,
-        "wires": []
-    },
-    {
-        "id": "c93aa2a22f83519e",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "order": 2,
-        "group": "644e1a54256c1459",
-        "width": 5,
-        "height": 1,
-        "label": "connessione",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#008000",
-                "value": "true",
-                "valueType": "bool"
-            },
-            {
-                "color": "#ff0000",
-                "value": "false",
-                "valueType": "bool"
-            },
-            {
-                "color": "#fdc61e",
-                "value": "warn",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "alife",
-        "x": 3235,
-        "y": 1585,
-        "wires": []
-    },
-    {
-        "id": "b94d03c6fa83589f",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "order": 5,
-        "group": "644e1a54256c1459",
-        "width": 5,
-        "height": 1,
-        "label": "emergenza attiva",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "true",
-                "valueType": "bool"
-            },
-            {
-                "color": "#aca0a0",
-                "value": "false",
-                "valueType": "bool"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "emergenza",
-        "x": 3120,
-        "y": 1645,
-        "wires": []
-    },
-    {
-        "id": "5057b85e84045f6c",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "order": 8,
-        "group": "644e1a54256c1459",
-        "width": 5,
-        "height": 1,
-        "label": "Comando Centralina Idraulica",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "false",
-                "valueType": "bool"
-            },
-            {
-                "color": "#008000",
-                "value": "true",
-                "valueType": "bool"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "centralina idraulica",
-        "x": 3145,
-        "y": 1690,
-        "wires": []
-    },
-    {
-        "id": "b55bf496d3cc1513",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "group": "644e1a54256c1459",
-        "order": 10,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Temperatura Piano Superiore",
-        "label": "units",
-        "format": "{{value}} °C",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 3180,
-        "y": 1780,
-        "wires": []
-    },
-    {
-        "id": "e1b9292fa6bac2e3",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "group": "644e1a54256c1459",
-        "order": 11,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Temperatura Piano Inferiore",
-        "label": "units",
-        "format": "{{value}} °C",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 3175,
-        "y": 1885,
-        "wires": []
-    },
-    {
-        "id": "29ec537f14d3d22a",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "group": "644e1a54256c1459",
-        "order": 12,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Pressione di Pressata",
-        "label": "units",
-        "format": "{{value}} Bar",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 3155,
-        "y": 1990,
-        "wires": []
-    },
-    {
-        "id": "f754852205e30e67",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "UI Pressa2",
-        "info": "",
-        "x": 2755,
-        "y": 1540,
-        "wires": []
-    },
-    {
-        "id": "fa61973aeffbf656",
-        "type": "trigger",
-        "z": "2831664434f14a33",
-        "d": true,
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "op1": "true",
-        "op2": "false",
-        "op1type": "bool",
-        "op2type": "bool",
-        "duration": "0",
-        "extend": true,
-        "overrideDelay": false,
-        "units": "s",
-        "reset": "true",
-        "bytopic": "all",
-        "topic": "topic",
-        "outputs": 1,
-        "x": 3080,
-        "y": 1585,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "cec28be43f93e629",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2990,
-        "y": 1885,
-        "wires": [
-            [
-                "e1b9292fa6bac2e3"
-            ]
-        ]
-    },
-    {
-        "id": "c74e3acc86372d69",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2990,
-        "y": 1990,
-        "wires": [
-            [
-                "29ec537f14d3d22a"
-            ]
-        ]
-    },
-    {
-        "id": "423d6d293533b632",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "pressa2_pressPressata_in",
-        "links": [
-            "50748153bedb7365",
-            "befaf23b1030e6fb",
-            "66718c199b5afcf6",
-            "9666105965a489b2",
-            "4207c18fb1c725a4"
-        ],
-        "x": 2815,
-        "y": 1990,
-        "wires": [
-            [
-                "c74e3acc86372d69"
-            ]
-        ]
-    },
-    {
-        "id": "a418abe4b0a07dce",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "pressa2_tempPianoInf_in",
-        "links": [
-            "781a5cd284d89138",
-            "799a85aff84a128e",
-            "f1cca6c166a06563",
-            "a1989466336feb77",
-            "237711c4af6c00b8",
-            "ce4da829986578cc"
-        ],
-        "x": 2880,
-        "y": 1870,
-        "wires": [
-            [
-                "cec28be43f93e629"
-            ]
-        ]
-    },
-    {
-        "id": "335860a957682321",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "pressa2_tempPianoSup_in",
-        "links": [
-            "2b56c9d224d141fc",
-            "a8390a294962caf5",
-            "b4b16a9caa54f7d3",
-            "a5b87c54f0bc9f52",
-            "39ee92fcc64d963c",
-            "270fa03be490aaf8"
-        ],
-        "x": 2815,
-        "y": 1780,
-        "wires": [
-            [
-                "baa146a03506aca9"
-            ]
-        ]
-    },
-    {
-        "id": "fe28da5c501e29bd",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "idraulicCmd",
-        "links": [
-            "fdbb5739cd76ae5a",
-            "ae5dbeb3428c4fa0"
-        ],
-        "x": 2890,
-        "y": 1690,
-        "wires": [
-            [
-                "5057b85e84045f6c"
-            ]
-        ]
-    },
-    {
-        "id": "619c850163c2ff76",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "pressa2_emergency_in",
-        "links": [
-            "061b06fe8569e1a9",
-            "729dd9d4d28de4c8",
-            "8930f22e16dd5e06",
-            "b7ba6d9287419416"
-        ],
-        "x": 2935,
-        "y": 1630,
-        "wires": [
-            [
-                "b94d03c6fa83589f"
-            ]
-        ]
-    },
-    {
-        "id": "6de7c21a06de5b4a",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "pressa2_alife_in",
-        "links": [
-            "baae71db9035ccf8",
-            "95c354a36b435a17",
-            "8dd06afceea8ebf8",
-            "80f16227937027de",
-            "55c8b97d147f8570"
-        ],
-        "x": 2890,
-        "y": 1585,
-        "wires": [
-            [
-                "fa61973aeffbf656"
-            ]
-        ]
-    },
-    {
-        "id": "a68f69c9cd075166",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "link in 16",
-        "links": [
-            "b7700a2027731da3"
-        ],
-        "x": 2800,
-        "y": 1645,
-        "wires": [
-            [
-                "af9aace116c71617"
-            ]
-        ]
-    },
-    {
-        "id": "af9aace116c71617",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2850,
-        "y": 1645,
-        "wires": [
-            [
-                "b94d03c6fa83589f",
-                "5057b85e84045f6c",
-                "fa61973aeffbf656"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "cbe29d3cc5fedd24",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "link in 17",
-        "links": [
-            "15d6f446b735362b"
-        ],
-        "x": 2680,
-        "y": 1885,
-        "wires": [
-            [
-                "d62d94327506c361"
-            ]
-        ]
-    },
-    {
-        "id": "d62d94327506c361",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2775,
-        "y": 1885,
-        "wires": [
-            [
-                "cec28be43f93e629",
-                "c74e3acc86372d69",
-                "baa146a03506aca9"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "baa146a03506aca9",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "2ca6f2c1b0c21cf1",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2980,
-        "y": 1780,
-        "wires": [
-            [
-                "b55bf496d3cc1513"
-            ]
-        ]
-    },
-    {
-        "id": "cf898100deca5850",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "sort data by topic",
-        "property": "topic",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "alife",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "emergency",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "idraulicCmd",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "tempPianoSup",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "tempPianoInf",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "pressPressata",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "cycleActive",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "idPressa",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 9,
-        "x": 2285,
-        "y": 1780,
-        "wires": [
-            [
-                "80f16227937027de"
-            ],
-            [
-                "b7ba6d9287419416"
-            ],
-            [
-                "ae5dbeb3428c4fa0"
-            ],
-            [
-                "39ee92fcc64d963c"
-            ],
-            [
-                "237711c4af6c00b8"
-            ],
-            [
-                "4207c18fb1c725a4"
-            ],
-            [],
-            [],
-            [
-                "3822344a17360084"
-            ]
-        ]
-    },
-    {
-        "id": "56377c4577552212",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_mixedDataIn",
-        "links": [
-            "19c5b907b8a99896",
-            "de2490372a9afcf4",
-            "258898fad92ce0cb",
-            "e858a984e03cc590",
-            "b4f724b9014050f9",
-            "40055290bca1310c",
-            "ba09a3480ecac734",
-            "92a5a0ca4441d597"
-        ],
-        "x": 2070,
-        "y": 1780,
-        "wires": [
-            [
-                "cf898100deca5850"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "80f16227937027de",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_alifeDataIn_dataIn_out",
-        "mode": "link",
-        "links": [
-            "6de7c21a06de5b4a"
-        ],
-        "x": 2450,
-        "y": 1660,
-        "wires": []
-    },
-    {
-        "id": "b7ba6d9287419416",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_emergency_dataIn_out",
-        "mode": "link",
-        "links": [
-            "619c850163c2ff76"
-        ],
-        "x": 2450,
-        "y": 1690,
-        "wires": []
-    },
-    {
-        "id": "ae5dbeb3428c4fa0",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_idraulicCmd_dataIn_out",
-        "mode": "link",
-        "links": [
-            "fe28da5c501e29bd"
-        ],
-        "x": 2450,
-        "y": 1720,
-        "wires": []
-    },
-    {
-        "id": "39ee92fcc64d963c",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_tempPianoSup_dataIn_out",
-        "mode": "link",
-        "links": [
-            "335860a957682321",
-            "a8134e53f1635cf6"
-        ],
-        "x": 2450,
-        "y": 1750,
-        "wires": []
-    },
-    {
-        "id": "237711c4af6c00b8",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_tempPianoInf_dataIn_out",
-        "mode": "link",
-        "links": [
-            "ff10a77e0e1952bb",
-            "a418abe4b0a07dce"
-        ],
-        "x": 2450,
-        "y": 1780,
-        "wires": []
-    },
-    {
-        "id": "4207c18fb1c725a4",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_pressPressata_dataIn_out",
-        "mode": "link",
-        "links": [
-            "423d6d293533b632",
-            "da089c88f8c7df29"
-        ],
-        "x": 2450,
-        "y": 1810,
-        "wires": []
-    },
-    {
-        "id": "3822344a17360084",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "error",
-        "func": "node.error({err:\"unknown topic in pressa2_sortData\",topic:msg.topic,msg:msg});\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
-        "finalize": "",
-        "libs": [],
-        "x": 2485,
-        "y": 1900,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f5fe63e98db64a03",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "data inputs",
-        "info": "",
-        "x": 2040,
-        "y": 1660,
-        "wires": []
-    },
-    {
-        "id": "1b4bcab9f691b5db",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "nota: all data inputs must use this group (read me)",
-        "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
-        "x": 2160,
-        "y": 1690,
-        "wires": []
-    },
-    {
-        "id": "577869e151539f03",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9e32d6a46ccf09ee",
-        "name": "pressa2_alifeDataIn_in",
-        "links": [
-            "24665e32e9b393a2",
-            "3f6cec0ad8030491",
-            "666043918c5da376",
-            "6177200045e07c4e",
-            "92df3ab13e5ca91a",
-            "83681412164bda60"
-        ],
-        "x": 2265,
-        "y": 1615,
-        "wires": [
-            [
-                "80f16227937027de",
-                "c93aa2a22f83519e"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "b5b2625d5b358ac6",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "c947217d7b4fccbd",
-        "name": "Pressa3",
-        "info": "",
-        "x": 420,
-        "y": 2760,
-        "wires": []
-    },
-    {
-        "id": "a9888cb6c3d71618",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 905,
-        "y": 2895,
-        "wires": [
-            [
-                "75da577310765314",
-                "1907f3bf8fb171ea"
-            ]
-        ]
-    },
-    {
-        "id": "915995140b4de971",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.tempPianoSup",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 715,
-        "y": 2910,
-        "wires": [
-            [
-                "a9888cb6c3d71618"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "19c7a19de678ce15",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 625,
-        "y": 3090,
-        "wires": [
-            [
-                "a9888cb6c3d71618",
-                "d9da898c0922e3a7",
-                "1ea30b05f8dafd77"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "08f2f36c4afebcb3",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_tempPianoSup_in",
-        "links": [
-            "a8390a294962caf5",
-            "a5b87c54f0bc9f52",
-            "fe347163b7579388",
-            "270fa03be490aaf8"
-        ],
-        "x": 715,
-        "y": 2880,
-        "wires": [
-            [
-                "a9888cb6c3d71618"
-            ]
-        ]
-    },
-    {
-        "id": "75da577310765314",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_tempPianoSup_out",
-        "mode": "link",
-        "links": [
-            "844c5bc2fea2c797",
-            "f66c5e139be26935",
-            "a2f9a4d89f31b3fe",
-            "0b3137de890b52f4",
-            "0cd3823a07c45d08",
-            "02b34e28a35b0193"
-        ],
-        "x": 1080,
-        "y": 2895,
-        "wires": []
-    },
-    {
-        "id": "1907f3bf8fb171ea",
-        "type": "debug",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "cfg pressa3 ",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1040,
-        "y": 2835,
-        "wires": []
-    },
-    {
-        "id": "7445df5ea6b3979f",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 610,
-        "y": 2970,
-        "wires": [
-            [
-                "915995140b4de971",
-                "c4f52ae898dee06a",
-                "4b5b1c851646c881"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "d9da898c0922e3a7",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 905,
-        "y": 3015,
-        "wires": [
-            [
-                "8d3a9da3ebbd52ad"
-            ]
-        ]
-    },
-    {
-        "id": "1ea30b05f8dafd77",
-        "type": "link call",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "links": [
-            "d3d062196750b6e0"
-        ],
-        "linkType": "static",
-        "timeout": "10",
-        "x": 905,
-        "y": 2955,
-        "wires": [
-            [
-                "b4234dd3d234156d"
-            ]
-        ]
-    },
-    {
-        "id": "a3c95a133003aada",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "onConfigUpdate_in",
-        "links": [
-            "d552f3455898102d",
-            "ec61e58badd4618b"
-        ],
-        "x": 475,
-        "y": 2970,
-        "wires": [
-            [
-                "7445df5ea6b3979f"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "e5e02c455bbfe832",
-        "type": "inject",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 535,
-        "y": 2940,
-        "wires": [
-            [
-                "7445df5ea6b3979f"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "c4f52ae898dee06a",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.tempPianoInf",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 715,
-        "y": 2970,
-        "wires": [
-            [
-                "1ea30b05f8dafd77"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "4b5b1c851646c881",
-        "type": "change",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "config",
-                "pt": "msg",
-                "to": "config.pressPressata",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 715,
-        "y": 3030,
-        "wires": [
-            [
-                "d9da898c0922e3a7"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "7cf07817432db46f",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_pressPressata_in",
-        "links": [
-            "befaf23b1030e6fb",
-            "66718c199b5afcf6",
-            "9666105965a489b2",
-            "da0a7793e40b3340"
-        ],
-        "x": 715,
-        "y": 3000,
-        "wires": [
-            [
-                "d9da898c0922e3a7"
-            ]
-        ]
-    },
-    {
-        "id": "8d3a9da3ebbd52ad",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_pressPressata_out",
-        "mode": "link",
-        "links": [
-            "6b74e72683c0d1f6",
-            "e4cb9dfb2e461e20"
-        ],
-        "x": 1080,
-        "y": 3015,
-        "wires": []
-    },
-    {
-        "id": "296220f1eae982a2",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_tempPianoInf_in",
-        "links": [
-            "799a85aff84a128e",
-            "f1cca6c166a06563",
-            "a1989466336feb77",
-            "d0d6386c08ed89d2",
-            "ce4da829986578cc"
-        ],
-        "x": 715,
-        "y": 2940,
-        "wires": [
-            [
-                "1ea30b05f8dafd77"
-            ]
-        ]
-    },
-    {
-        "id": "b4234dd3d234156d",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "pressa3_tempPianoInf_out",
-        "mode": "link",
-        "links": [
-            "c4d4ea455e2f73f4",
-            "5fd6da994b8f7cd0"
-        ],
-        "x": 1080,
-        "y": 2955,
-        "wires": []
-    },
-    {
-        "id": "783edff7e22ab4b4",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "9f2647ae0bb0686b",
-        "name": "config update",
-        "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
-        "x": 525,
-        "y": 2835,
-        "wires": []
-    },
-    {
-        "id": "f4ab1dce07fe7f11",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "order": 2,
-        "group": "3d9a2ba59f9c57a8",
-        "width": 5,
-        "height": 1,
-        "label": "connessione",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#008000",
-                "value": "true",
-                "valueType": "bool"
-            },
-            {
-                "color": "#ff0000",
-                "value": "false",
-                "valueType": "bool"
-            },
-            {
-                "color": "#fdc61e",
-                "value": "warn",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "alife",
-        "x": 1515,
-        "y": 3225,
-        "wires": []
-    },
-    {
-        "id": "555d91aa8bf28ae9",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "order": 5,
-        "group": "3d9a2ba59f9c57a8",
-        "width": 5,
-        "height": 1,
-        "label": "emergenza attiva",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "true",
-                "valueType": "bool"
-            },
-            {
-                "color": "#aca0a0",
-                "value": "false",
-                "valueType": "bool"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "emergenza",
-        "x": 1400,
-        "y": 3285,
-        "wires": []
-    },
-    {
-        "id": "e5f7e9c22a058ed1",
-        "type": "ui_led",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "order": 8,
-        "group": "3d9a2ba59f9c57a8",
-        "width": 5,
-        "height": 1,
-        "label": "Comando Centralina Idraulica",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "false",
-                "valueType": "bool"
-            },
-            {
-                "color": "#008000",
-                "value": "true",
-                "valueType": "bool"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "centralina idraulica",
-        "x": 1425,
-        "y": 3330,
-        "wires": []
-    },
-    {
-        "id": "ceea7655c2f32850",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "group": "3d9a2ba59f9c57a8",
-        "order": 10,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Temperatura Piano Superiore",
-        "label": "units",
-        "format": "{{value}} °C",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 1460,
-        "y": 3420,
-        "wires": []
-    },
-    {
-        "id": "ce8d2903e7974843",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "group": "3d9a2ba59f9c57a8",
-        "order": 11,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Temperatura Piano Inferiore",
-        "label": "units",
-        "format": "{{value}} °C",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 1455,
-        "y": 3525,
-        "wires": []
-    },
-    {
-        "id": "0fd972c0e636f906",
-        "type": "ui_gauge",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "group": "3d9a2ba59f9c57a8",
-        "order": 12,
-        "width": 7,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Pressione di Pressata",
-        "label": "units",
-        "format": "{{value}} Bar",
-        "min": 0,
-        "max": "200",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "gaugesCommonStyle",
-        "x": 1435,
-        "y": 3630,
-        "wires": []
-    },
-    {
-        "id": "321f213ce949e34f",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "UI Pressa3",
-        "info": "",
-        "x": 1035,
-        "y": 3180,
-        "wires": []
-    },
-    {
-        "id": "87b78956ec5af576",
-        "type": "trigger",
-        "z": "2831664434f14a33",
-        "d": true,
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "op1": "true",
-        "op2": "false",
-        "op1type": "bool",
-        "op2type": "bool",
-        "duration": "0",
-        "extend": true,
-        "overrideDelay": false,
-        "units": "s",
-        "reset": "true",
-        "bytopic": "all",
-        "topic": "topic",
-        "outputs": 1,
-        "x": 1360,
-        "y": 3225,
-        "wires": [
-            [
-                "f4ab1dce07fe7f11"
-            ]
-        ]
-    },
-    {
-        "id": "3d4881e0b3139213",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1270,
-        "y": 3525,
-        "wires": [
-            [
-                "ce8d2903e7974843"
-            ]
-        ]
-    },
-    {
-        "id": "9ffbf76eead154a9",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1270,
-        "y": 3630,
-        "wires": [
-            [
-                "0fd972c0e636f906"
-            ]
-        ]
-    },
-    {
-        "id": "6b74e72683c0d1f6",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "pressa3_pressPressata_in",
-        "links": [
-            "8d3a9da3ebbd52ad",
-            "befaf23b1030e6fb",
-            "66718c199b5afcf6",
-            "9666105965a489b2",
-            "da0a7793e40b3340"
-        ],
-        "x": 1095,
-        "y": 3630,
-        "wires": [
-            [
-                "9ffbf76eead154a9"
-            ]
-        ]
-    },
-    {
-        "id": "c4d4ea455e2f73f4",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "pressa3_tempPianoInf_in",
-        "links": [
-            "b4234dd3d234156d",
-            "799a85aff84a128e",
-            "f1cca6c166a06563",
-            "a1989466336feb77",
-            "d0d6386c08ed89d2",
-            "ce4da829986578cc"
-        ],
-        "x": 1160,
-        "y": 3510,
-        "wires": [
-            [
-                "3d4881e0b3139213"
-            ]
-        ]
-    },
-    {
-        "id": "844c5bc2fea2c797",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "pressa3_tempPianoSup_in",
-        "links": [
-            "75da577310765314",
-            "a8390a294962caf5",
-            "b4b16a9caa54f7d3",
-            "a5b87c54f0bc9f52",
-            "fe347163b7579388",
-            "270fa03be490aaf8"
-        ],
-        "x": 1095,
-        "y": 3420,
-        "wires": [
-            [
-                "1cd1ba43a58cd415"
-            ]
-        ]
-    },
-    {
-        "id": "49e591142a7bea9a",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "idraulicCmd",
-        "links": [
-            "fdbb5739cd76ae5a",
-            "0270dc1e8f7e9aa7"
-        ],
-        "x": 1170,
-        "y": 3330,
-        "wires": [
-            [
-                "e5f7e9c22a058ed1"
-            ]
-        ]
-    },
-    {
-        "id": "5a518d75c64bc0ea",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "pressa3_emergency_in",
-        "links": [
-            "061b06fe8569e1a9",
-            "729dd9d4d28de4c8",
-            "8930f22e16dd5e06",
-            "397081947df56407"
-        ],
-        "x": 1215,
-        "y": 3270,
-        "wires": [
-            [
-                "555d91aa8bf28ae9"
-            ]
-        ]
-    },
-    {
-        "id": "6b8fb6f2bba64125",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "pressa3_alife_in",
-        "links": [
-            "baae71db9035ccf8",
-            "95c354a36b435a17",
-            "8dd06afceea8ebf8",
-            "2b4e10741bb7b04a",
-            "55c8b97d147f8570"
-        ],
-        "x": 1170,
-        "y": 3225,
-        "wires": [
-            [
-                "87b78956ec5af576"
-            ]
-        ]
-    },
-    {
-        "id": "929ff1413fe086d0",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "link in 16",
-        "links": [
-            "b7700a2027731da3"
-        ],
-        "x": 1080,
-        "y": 3285,
-        "wires": [
-            [
-                "d27d4300fc48fe25"
-            ]
-        ]
-    },
-    {
-        "id": "d27d4300fc48fe25",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 1130,
-        "y": 3285,
-        "wires": [
-            [
-                "555d91aa8bf28ae9",
-                "e5f7e9c22a058ed1",
-                "87b78956ec5af576"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "59b1cd6f5bc9dbd1",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "link in 17",
-        "links": [
-            "15d6f446b735362b"
-        ],
-        "x": 960,
-        "y": 3525,
-        "wires": [
-            [
-                "e32d6d2b3ce23351"
-            ]
-        ]
-    },
-    {
-        "id": "e32d6d2b3ce23351",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 1055,
-        "y": 3525,
-        "wires": [
-            [
-                "3d4881e0b3139213",
-                "9ffbf76eead154a9",
-                "1cd1ba43a58cd415"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "1cd1ba43a58cd415",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "c25454224d93f0a4",
-        "name": "format",
-        "func": "msg.payload = msg.payload.toFixed(2);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1260,
-        "y": 3420,
-        "wires": [
-            [
-                "ceea7655c2f32850"
-            ]
-        ]
-    },
-    {
-        "id": "87748d9349a8604a",
-        "type": "switch",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "sort data by topic",
-        "property": "topic",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "alife",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "emergency",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "idraulicCmd",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "tempPianoSup",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "tempPianoInf",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "pressPressata",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "cycleActive",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "idPressa",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 9,
-        "x": 565,
-        "y": 3420,
-        "wires": [
-            [
-                "2b4e10741bb7b04a"
-            ],
-            [
-                "397081947df56407"
-            ],
-            [
-                "0270dc1e8f7e9aa7"
-            ],
-            [
-                "fe347163b7579388"
-            ],
-            [
-                "d0d6386c08ed89d2"
-            ],
-            [
-                "da0a7793e40b3340"
-            ],
-            [],
-            [],
-            [
-                "e5e72ce2788268aa"
-            ]
-        ]
-    },
-    {
-        "id": "f0e330b3f6e390be",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_mixedDataIn",
-        "links": [
-            "48f3a9fa6bc4b18e",
-            "1adb6c93eb34ea15",
-            "258898fad92ce0cb",
-            "e858a984e03cc590",
-            "b4f724b9014050f9",
-            "40055290bca1310c",
-            "ba09a3480ecac734",
-            "92a5a0ca4441d597"
-        ],
-        "x": 350,
-        "y": 3420,
-        "wires": [
-            [
-                "87748d9349a8604a"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "2b4e10741bb7b04a",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_alifeDataIn_dataIn_out",
-        "mode": "link",
-        "links": [
-            "6b8fb6f2bba64125"
-        ],
-        "x": 730,
-        "y": 3300,
-        "wires": []
-    },
-    {
-        "id": "397081947df56407",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_emergency_dataIn_out",
-        "mode": "link",
-        "links": [
-            "5a518d75c64bc0ea"
-        ],
-        "x": 730,
-        "y": 3330,
-        "wires": []
-    },
-    {
-        "id": "0270dc1e8f7e9aa7",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_idraulicCmd_dataIn_out",
-        "mode": "link",
-        "links": [
-            "49e591142a7bea9a"
-        ],
-        "x": 730,
-        "y": 3360,
-        "wires": []
-    },
-    {
-        "id": "fe347163b7579388",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_tempPianoSup_dataIn_out",
-        "mode": "link",
-        "links": [
-            "844c5bc2fea2c797",
-            "08f2f36c4afebcb3"
-        ],
-        "x": 730,
-        "y": 3390,
-        "wires": []
-    },
-    {
-        "id": "d0d6386c08ed89d2",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_tempPianoInf_dataIn_out",
-        "mode": "link",
-        "links": [
-            "296220f1eae982a2",
-            "c4d4ea455e2f73f4"
-        ],
-        "x": 730,
-        "y": 3420,
-        "wires": []
-    },
-    {
-        "id": "da0a7793e40b3340",
-        "type": "link out",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_pressPressata_dataIn_out",
-        "mode": "link",
-        "links": [
-            "6b74e72683c0d1f6",
-            "7cf07817432db46f"
-        ],
-        "x": 730,
-        "y": 3450,
-        "wires": []
-    },
-    {
-        "id": "e5e72ce2788268aa",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "error",
-        "func": "node.error({err:\"unknown topic in pressa3_sortData\",topic:msg.topic,msg:msg});\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
-        "finalize": "",
-        "libs": [],
-        "x": 765,
-        "y": 3540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7fad437a9546562d",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "data inputs",
-        "info": "",
-        "x": 320,
-        "y": 3300,
-        "wires": []
-    },
-    {
-        "id": "bd70310b8da24361",
-        "type": "comment",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "nota: all data inputs must use this group (read me)",
-        "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
-        "x": 440,
-        "y": 3330,
-        "wires": []
-    },
-    {
-        "id": "db544c8a4e4b5a6f",
-        "type": "link in",
-        "z": "2831664434f14a33",
-        "g": "a93dbb5749094ec0",
-        "name": "pressa3_alifeDataIn_in",
-        "links": [
-            "24665e32e9b393a2",
-            "548a681fbbc5aad6",
-            "666043918c5da376",
-            "6177200045e07c4e",
-            "92df3ab13e5ca91a",
-            "83681412164bda60"
-        ],
-        "x": 545,
-        "y": 3255,
-        "wires": [
-            [
-                "2b4e10741bb7b04a",
-                "f4ab1dce07fe7f11"
             ]
         ],
         "l": true
@@ -9859,7 +7335,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "2f4be50b7d91c706",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"\",\"field\":\"deleteButton\",\"hozAlign\":\"center\",\"formatter\":\"html\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"editor\":\"input\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Da Prod.\",\"field\":\"quantToDo\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Pressa 1\",\"field\":\"sendToPressa1\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Pressa 2\",\"field\":\"sendToPressa2\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Pressa 3\",\"field\":\"sendToPressa3\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Pressa 4\",\"field\":\"sendToPressa4\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"\",\"field\":\"deleteButton\",\"hozAlign\":\"center\",\"formatter\":\"html\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"editor\":\"input\"},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Da Prod.\",\"field\":\"quantToDo\",\"hozAlign\":\"center\",\"editor\":\"number\"},{\"title\":\"Pressa 1\",\"field\":\"sendToPressa1\",\"formatter\":\"html\",\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"450px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true}",
         "group": "77dcdddb4f97461c",
@@ -10454,7 +7930,7 @@
         "type": "ui_etable",
         "z": "2260f1f88d7c60bf",
         "g": "e2961306402a77aa",
-        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"cycleNumber\",\"visible\":true,\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Esito\",\"field\":\"statusAsString\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Eseguito su\",\"field\":\"press\",\"hozAlign\":\"center\",\"visible\":true,\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":\"input\"}]",
+        "payload": "[{\"title\":\"rowId\",\"field\":\"rowId\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"data\",\"field\":\"date\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"ora\",\"field\":\"time\",\"visible\":true,\"hozAlign\":\"left\",\"headerSortStartingDir\":\"desc\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"millis\",\"field\":\"millis\",\"visible\":false,\"hozAlign\":\"left\",\"editor\":false},{\"title\":\"Ciclo\",\"field\":\"cycleNumber\",\"visible\":true,\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"id\",\"field\":\"id\",\"hozAlign\":\"left\",\"width\":180,\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Prodotte\",\"field\":\"quantProd\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"Esito\",\"field\":\"statusAsString\",\"hozAlign\":\"center\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":false},{\"title\":\"note\",\"field\":\"note\",\"hozAlign\":\"textarea\",\"headerFilter\":\"input\",\"headerFilterPlaceholder\":\"Filtra\",\"editor\":\"input\"}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":false,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitDataStretch\",\"pagination\":\"local\",\"height\":\"940px\",\"width\":\"100%\",\"groupBy\":false,\"groupStartOpen\":true,\"initialSort\":[{\"column\":\"press\",\"dir\":\"asc\"},{\"column\":\"time\",\"dir\":\"desc\"},{\"column\":\"date\",\"dir\":\"desc\"}]}",
         "group": "b3c076eedf1fd2f8",
@@ -15807,7 +13283,7 @@
     },
     {
         "id": "49e6d3e2af0723a8",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "e2bd9331f9185534",
         "endpoint": "fa784b598becc58c",
@@ -15960,7 +13436,7 @@
     },
     {
         "id": "9ca5c05780dc2c19",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "a70fe69b7459b746",
         "endpoint": "34ec8711cb2e9270",
@@ -16071,7 +13547,7 @@
     },
     {
         "id": "3b424968240bbd7c",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "0c753ce1969e7a11",
         "endpoint": "34ec8711cb2e9270",
@@ -16562,7 +14038,7 @@
     },
     {
         "id": "81faf0db9baee789",
-        "type": "s7 control",
+        "type": "s7 control","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "34ec8711cb2e9270",
@@ -16578,7 +14054,7 @@
     },
     {
         "id": "bb19e1a6f465c228",
-        "type": "s7 control",
+        "type": "s7 control","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "fa784b598becc58c",
@@ -16594,7 +14070,7 @@
     },
     {
         "id": "1f0e6e97749e1662",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "34ec8711cb2e9270",
@@ -16606,7 +14082,7 @@
     },
     {
         "id": "016705b24c943eb8",
-        "type": "s7 out",
+        "type": "s7 out","d":true,"d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "fa784b598becc58c",
@@ -17550,7 +15026,7 @@
     },
     {
         "id": "f83e49751218dc3f",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "21bbb7d46384e287",
         "endpoint": "34ec8711cb2e9270",
@@ -18452,7 +15928,7 @@
     },
     {
         "id": "2aa275dd861f9ccf",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "23b242037b1d989d",
         "endpoint": "33b06a116480e90c",
@@ -18841,7 +16317,7 @@
     },
     {
         "id": "79eab282041abd4d",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "173f861c8cd401be",
         "endpoint": "1667e67dd14845f1",
@@ -18934,7 +16410,7 @@
     },
     {
         "id": "a4c307b888a951e2",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "a3b8edad7fbf25b8",
         "endpoint": "1667e67dd14845f1",
@@ -19305,7 +16781,7 @@
     },
     {
         "id": "e2c6161b189af928",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "90b855390ac72238",
         "endpoint": "1667e67dd14845f1",
@@ -19701,7 +17177,7 @@
     },
     {
         "id": "35770bc641499596",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "03ef9a71f127822f",
         "endpoint": "f84482f335843f79",
@@ -20090,7 +17566,7 @@
     },
     {
         "id": "c0f863a3eee61ef2",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "8bc986f7994d89a7",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20179,7 +17655,7 @@
     },
     {
         "id": "bb1b97f50089b22d",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "b1f8c54951ecbf7f",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20550,7 +18026,7 @@
     },
     {
         "id": "64588e3ee83192c2",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "84182d5ef898d336",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20946,7 +18422,7 @@
     },
     {
         "id": "f2d66bf3b277d261",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "2fa2db606a6d80c1",
         "endpoint": "e370eb0b4862e638",
@@ -21335,7 +18811,7 @@
     },
     {
         "id": "4ef25541b10aa843",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "92109e084c266e2e",
         "endpoint": "85571a3195fe3b68",
@@ -21424,7 +18900,7 @@
     },
     {
         "id": "0a18813d0305d84e",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "f396ce22bbf03344",
         "endpoint": "85571a3195fe3b68",
@@ -21795,7 +19271,7 @@
     },
     {
         "id": "459430cfd2021fdd",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "77f0a4e1ac50f8a4",
         "endpoint": "85571a3195fe3b68",
