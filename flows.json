@@ -2325,7 +2325,7 @@
     },
     {
         "id": "34ec8711cb2e9270",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
@@ -2544,7 +2544,7 @@
     },
     {
         "id": "fa784b598becc58c",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
@@ -2620,7 +2620,7 @@
     },
     {
         "id": "33b06a116480e90c",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
@@ -2674,7 +2674,7 @@
     },
     {
         "id": "1667e67dd14845f1",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.102",
@@ -2743,7 +2743,7 @@
     },
     {
         "id": "f84482f335843f79",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
@@ -2797,7 +2797,7 @@
     },
     {
         "id": "2c8ae7c7ae56a942",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.103",
@@ -2866,7 +2866,7 @@
     },
     {
         "id": "e370eb0b4862e638",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
@@ -2920,7 +2920,7 @@
     },
     {
         "id": "85571a3195fe3b68",
-        "type": "s7 endpoint",
+        "type": "s7 endpoint","d":true,
         "z": "9922a8114f46702b",
         "transport": "iso-on-tcp",
         "address": "192.168.19.104",
@@ -15807,7 +15807,7 @@
     },
     {
         "id": "49e6d3e2af0723a8",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "e2bd9331f9185534",
         "endpoint": "fa784b598becc58c",
@@ -15960,7 +15960,7 @@
     },
     {
         "id": "9ca5c05780dc2c19",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "a70fe69b7459b746",
         "endpoint": "34ec8711cb2e9270",
@@ -16071,7 +16071,7 @@
     },
     {
         "id": "3b424968240bbd7c",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "0c753ce1969e7a11",
         "endpoint": "34ec8711cb2e9270",
@@ -16562,7 +16562,7 @@
     },
     {
         "id": "81faf0db9baee789",
-        "type": "s7 control",
+        "type": "s7 control","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "34ec8711cb2e9270",
@@ -16578,7 +16578,7 @@
     },
     {
         "id": "bb19e1a6f465c228",
-        "type": "s7 control",
+        "type": "s7 control","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "fa784b598becc58c",
@@ -16594,7 +16594,7 @@
     },
     {
         "id": "1f0e6e97749e1662",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "34ec8711cb2e9270",
@@ -16606,7 +16606,7 @@
     },
     {
         "id": "016705b24c943eb8",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "6aaddccc85e9cc4d",
         "endpoint": "fa784b598becc58c",
@@ -17550,7 +17550,7 @@
     },
     {
         "id": "f83e49751218dc3f",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "21bbb7d46384e287",
         "endpoint": "34ec8711cb2e9270",
@@ -18452,7 +18452,7 @@
     },
     {
         "id": "2aa275dd861f9ccf",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "23b242037b1d989d",
         "endpoint": "33b06a116480e90c",
@@ -18841,7 +18841,7 @@
     },
     {
         "id": "79eab282041abd4d",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "173f861c8cd401be",
         "endpoint": "1667e67dd14845f1",
@@ -18934,7 +18934,7 @@
     },
     {
         "id": "a4c307b888a951e2",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "a3b8edad7fbf25b8",
         "endpoint": "1667e67dd14845f1",
@@ -19305,7 +19305,7 @@
     },
     {
         "id": "e2c6161b189af928",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "90b855390ac72238",
         "endpoint": "1667e67dd14845f1",
@@ -19701,7 +19701,7 @@
     },
     {
         "id": "35770bc641499596",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "03ef9a71f127822f",
         "endpoint": "f84482f335843f79",
@@ -20090,7 +20090,7 @@
     },
     {
         "id": "c0f863a3eee61ef2",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "8bc986f7994d89a7",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20179,7 +20179,7 @@
     },
     {
         "id": "bb1b97f50089b22d",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "b1f8c54951ecbf7f",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20550,7 +20550,7 @@
     },
     {
         "id": "64588e3ee83192c2",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "84182d5ef898d336",
         "endpoint": "2c8ae7c7ae56a942",
@@ -20946,7 +20946,7 @@
     },
     {
         "id": "f2d66bf3b277d261",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "2fa2db606a6d80c1",
         "endpoint": "e370eb0b4862e638",
@@ -21335,7 +21335,7 @@
     },
     {
         "id": "4ef25541b10aa843",
-        "type": "s7 out",
+        "type": "s7 out","d":true,
         "z": "9922a8114f46702b",
         "g": "92109e084c266e2e",
         "endpoint": "85571a3195fe3b68",
@@ -21424,7 +21424,7 @@
     },
     {
         "id": "0a18813d0305d84e",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "f396ce22bbf03344",
         "endpoint": "85571a3195fe3b68",
@@ -21795,7 +21795,7 @@
     },
     {
         "id": "459430cfd2021fdd",
-        "type": "s7 in",
+        "type": "s7 in","d":true,
         "z": "9922a8114f46702b",
         "g": "77f0a4e1ac50f8a4",
         "endpoint": "85571a3195fe3b68",
