@@ -186,10 +186,14 @@
             "13d2e16bdac1b820",
             "7f28962bbf2edd96",
             "323cfea2dd074604",
-            "636abe298d8940a7"
+            "636abe298d8940a7",
+            "0c0ba63642b01a89",
+            "e517363a9bb66217"
         ],
         "x": 194,
-        "y": 299
+        "y": 274,
+        "w": 1017,
+        "h": 392
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -218,9 +222,7 @@
             "5fae85f555051914"
         ],
         "x": 84,
-        "y": 4219,
-        "w": 1102,
-        "h": 562
+        "y": 4219
     },
     {
         "id": "e2961306402a77aa",
@@ -248,9 +250,7 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574,
-        "w": 1072,
-        "h": 562
+        "y": 3574
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -275,9 +275,7 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 139,
-        "w": 777,
-        "h": 217
+        "y": 139
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -298,7 +296,9 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724
+        "y": 724,
+        "w": 292,
+        "h": 82
     },
     {
         "id": "408c86b39f332966",
@@ -321,9 +321,7 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089,
-        "w": 382,
-        "h": 122
+        "y": 1089
     },
     {
         "id": "b0737e4c04737b82",
@@ -346,9 +344,7 @@
             "588342109c719d84"
         ],
         "x": 153,
-        "y": 409,
-        "w": 1559,
-        "h": 1398
+        "y": 409
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -373,9 +369,7 @@
             "85ef1e45805265d5"
         ],
         "x": 594,
-        "y": 4,
-        "w": 712,
-        "h": 227
+        "y": 4
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -414,9 +408,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694,
-        "w": 1232,
-        "h": 307
+        "y": 694
     },
     {
         "id": "63f089643e332739",
@@ -439,9 +431,7 @@
             "2639fa3be4067762"
         ],
         "x": 1418,
-        "y": 1254,
-        "w": 1559,
-        "h": 1368
+        "y": 1254
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -467,9 +457,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 574,
-        "y": 689,
-        "w": 692,
-        "h": 242
+        "y": 689
     },
     {
         "id": "89618de1371e00e8",
@@ -535,9 +523,7 @@
             "c6aaa02b97c6aeb4"
         ],
         "x": 174,
-        "y": 1839,
-        "w": 1412,
-        "h": 282
+        "y": 1839
     },
     {
         "id": "dd28804963c0bc60",
@@ -579,9 +565,7 @@
             "8943b4549c5df00c"
         ],
         "x": 754,
-        "y": 249,
-        "w": 1102,
-        "h": 392
+        "y": 249
     },
     {
         "id": "7a4a549b398c4c30",
@@ -610,9 +594,7 @@
             "05085880d56d9d9b"
         ],
         "x": 2819,
-        "y": 153,
-        "w": 808,
-        "h": 449
+        "y": 153
     },
     {
         "id": "2bbbe4dc6cfeb097",
@@ -635,9 +617,7 @@
             "aa40c2fd63e42b3c"
         ],
         "x": 2359,
-        "y": 139,
-        "w": 422,
-        "h": 172
+        "y": 139
     },
     {
         "id": "015cd5895c17da64",
@@ -668,9 +648,7 @@
             "c6691944eaed7410"
         ],
         "x": 2369,
-        "y": 639,
-        "w": 1232,
-        "h": 348
+        "y": 639
     },
     {
         "id": "5cf67bd384745bc4",
@@ -1083,9 +1061,7 @@
             "9b8f7a07ca442364"
         ],
         "x": 114,
-        "y": 94,
-        "w": 422,
-        "h": 172
+        "y": 94
     },
     {
         "id": "ee530506baeb12a5",
@@ -1111,9 +1087,7 @@
             "82e1195627ed2c7e"
         ],
         "x": 224,
-        "y": 484,
-        "w": 592,
-        "h": 172
+        "y": 484
     },
     {
         "id": "eed88747a97f2438",
@@ -1142,9 +1116,7 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984,
-        "w": 1132,
-        "h": 217
+        "y": 1984
     },
     {
         "id": "20b3e86b59e03511",
@@ -1169,6 +1141,122 @@
         "y": 1634,
         "w": 1419,
         "h": 1058
+    },
+    {
+        "id": "7ca93f3dda4c162e",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "90f4c3e098f997c4",
+            "da664ace067df2dc",
+            "99a287f71f858ba2",
+            "d111c07926a908c5",
+            "3bea7933e72005a0",
+            "9e7d5e610f97bb9a",
+            "8dfcb46d23e73d53",
+            "9cb2558db9346cae",
+            "823428c64dadbb25",
+            "0ca3c958633a0c8b",
+            "a90666131d7bec15",
+            "bd2c16c7828242aa",
+            "7169425350ce858f"
+        ],
+        "x": 124,
+        "y": 2584
+    },
+    {
+        "id": "6c4911811d83d44b",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4c8e5c82af533d36",
+            "34fe0f797682d4b7",
+            "e579796d389a173e",
+            "7f049357115c53e0",
+            "b841b6eefb58def0",
+            "ee7df6ca341a90cc",
+            "f3860e59347fd377",
+            "8c2c42bc9a8767e9",
+            "645349eefb80cd73",
+            "7c8bd303c63bc52d",
+            "c9fa4cba41fe88a7",
+            "5e7a9cab577dae64",
+            "5290b04e5e87f604"
+        ],
+        "x": 169,
+        "y": 2139
+    },
+    {
+        "id": "b2f2e2e832b5442a",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cd87f18d7e95cb97",
+            "680672f23f8ab7a6",
+            "06682709c6eb938a",
+            "c81bc3691698dacf",
+            "5f673c8089606c89",
+            "c2496432b0f56960"
+        ],
+        "x": 569,
+        "y": 2209
+    },
+    {
+        "id": "4c1f6debb662b115",
+        "type": "group",
+        "z": "9922a8114f46702b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d1135a719ce25b33",
+            "049a64b846b79561",
+            "341ce80196f74099",
+            "ebd5369b4dcbfbac",
+            "1b62f9991875e6c6",
+            "fc399081cb744996",
+            "c8b7ff221527a71f",
+            "82d686b6580e2667",
+            "fc0068b4547911b2",
+            "4f1ea785c845325b",
+            "46364f8db2f241b3",
+            "20568c91f483a968"
+        ],
+        "x": 449,
+        "y": 2419
     },
     {
         "id": "d4f58c108037d973",
@@ -1268,9 +1356,7 @@
             "3b86202ba3e33fb7"
         ],
         "x": 1464,
-        "y": 1749,
-        "w": 882,
-        "h": 172
+        "y": 1749
     },
     {
         "id": "21bbb7d46384e287",
@@ -1302,9 +1388,7 @@
             "3f9469575ed20a91"
         ],
         "x": 1444,
-        "y": 2314,
-        "w": 1202,
-        "h": 282
+        "y": 2314
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1336,9 +1420,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 1454,
-        "y": 1944,
-        "w": 992,
-        "h": 362
+        "y": 1944
     },
     {
         "id": "3714a803248cefeb",
@@ -1361,9 +1443,7 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294,
-        "w": 572,
-        "h": 232
+        "y": 4294
     },
     {
         "id": "70b9c5719558ad66",
@@ -1386,9 +1466,7 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649,
-        "w": 552,
-        "h": 232
+        "y": 3649
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1433,9 +1511,7 @@
             "f97cc9e5d5d42826"
         ],
         "x": 154,
-        "y": 2659,
-        "w": 1107,
-        "h": 487
+        "y": 2659
     },
     {
         "id": "df7219d880358536",
@@ -1466,9 +1542,7 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579,
-        "w": 1157,
-        "h": 202
+        "y": 1579
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1499,9 +1573,7 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369,
-        "w": 1117,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1544,9 +1616,7 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979,
-        "w": 1227,
-        "h": 382
+        "y": 979
     },
     {
         "id": "588342109c719d84",
@@ -1614,9 +1684,7 @@
             "fad7e78f46d1c5dc"
         ],
         "x": 179,
-        "y": 484,
-        "w": 1507,
-        "h": 472
+        "y": 484
     },
     {
         "id": "a70fe69b7459b746",
@@ -1657,9 +1725,7 @@
             "bdec638b99156315"
         ],
         "x": 1459,
-        "y": 1329,
-        "w": 1492,
-        "h": 382
+        "y": 1329
     },
     {
         "id": "c05cbc581f087383",
@@ -1684,9 +1750,7 @@
             "d577904798f15058"
         ],
         "x": 2849,
-        "y": 454,
-        "w": 752,
-        "h": 122
+        "y": 454
     },
     {
         "id": "d07dfb333aed56ce",
@@ -1710,9 +1774,7 @@
             "4e11b2f45a32813c"
         ],
         "x": 3209,
-        "y": 179,
-        "w": 272,
-        "h": 162
+        "y": 179
     },
     {
         "id": "c6691944eaed7410",
@@ -1739,9 +1801,7 @@
             "e60338ef13bfc039"
         ],
         "x": 2589,
-        "y": 839,
-        "w": 972,
-        "h": 122
+        "y": 839
     },
     {
         "id": "95f61ab7d0989272",
@@ -2055,9 +2115,7 @@
             "35ec647ee9cef417"
         ],
         "x": 249,
-        "y": 3319,
-        "w": 572,
-        "h": 202
+        "y": 3319
     },
     {
         "id": "5290b04e5e87f604",
@@ -2086,133 +2144,7 @@
             "2ebcd64580ac460d"
         ],
         "x": 669,
-        "y": 2329,
-        "w": 912,
-        "h": 157
-    },
-    {
-        "id": "7ca93f3dda4c162e",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "90f4c3e098f997c4",
-            "da664ace067df2dc",
-            "99a287f71f858ba2",
-            "d111c07926a908c5",
-            "3bea7933e72005a0",
-            "9e7d5e610f97bb9a",
-            "8dfcb46d23e73d53",
-            "9cb2558db9346cae",
-            "823428c64dadbb25",
-            "0ca3c958633a0c8b",
-            "a90666131d7bec15",
-            "bd2c16c7828242aa",
-            "7169425350ce858f"
-        ],
-        "x": 124,
-        "y": 2584,
-        "w": 1163,
-        "h": 963
-    },
-    {
-        "id": "6c4911811d83d44b",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4c8e5c82af533d36",
-            "34fe0f797682d4b7",
-            "e579796d389a173e",
-            "7f049357115c53e0",
-            "b841b6eefb58def0",
-            "ee7df6ca341a90cc",
-            "f3860e59347fd377",
-            "8c2c42bc9a8767e9",
-            "645349eefb80cd73",
-            "7c8bd303c63bc52d",
-            "c9fa4cba41fe88a7",
-            "5e7a9cab577dae64",
-            "5290b04e5e87f604"
-        ],
-        "x": 169,
-        "y": 2139,
-        "w": 1438,
-        "h": 373
-    },
-    {
-        "id": "b2f2e2e832b5442a",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "cd87f18d7e95cb97",
-            "680672f23f8ab7a6",
-            "06682709c6eb938a",
-            "c81bc3691698dacf",
-            "5f673c8089606c89",
-            "c2496432b0f56960"
-        ],
-        "x": 569,
-        "y": 2209,
-        "w": 817,
-        "h": 157
-    },
-    {
-        "id": "4c1f6debb662b115",
-        "type": "group",
-        "z": "9922a8114f46702b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d1135a719ce25b33",
-            "049a64b846b79561",
-            "341ce80196f74099",
-            "ebd5369b4dcbfbac",
-            "1b62f9991875e6c6",
-            "fc399081cb744996",
-            "c8b7ff221527a71f",
-            "82d686b6580e2667",
-            "fc0068b4547911b2",
-            "4f1ea785c845325b",
-            "46364f8db2f241b3",
-            "20568c91f483a968"
-        ],
-        "x": 449,
-        "y": 2419,
-        "w": 907,
-        "h": 292
+        "y": 2329
     },
     {
         "id": "9fa3722a335cb332",
@@ -2316,7 +2248,7 @@
     {
         "id": "533e203349de7f15",
         "type": "ui_tab",
-        "name": "StatoPresse",
+        "name": "Status",
         "icon": "dashboard",
         "order": 1,
         "disabled": false,
@@ -4635,7 +4567,7 @@
                 "valueType": "bool"
             },
             {
-                "color": "#aca0a0",
+                "color": "#c1bdbd",
                 "value": "false",
                 "valueType": "bool"
             }
@@ -4662,7 +4594,7 @@
         "labelAlignment": "left",
         "colorForValue": [
             {
-                "color": "#ff0000",
+                "color": "#c1bdbd",
                 "value": "false",
                 "valueType": "bool"
             },
@@ -10371,8 +10303,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 265,
+        "x": 755,
+        "y": 225,
         "wires": [
             []
         ]
@@ -10397,8 +10329,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 220,
+        "x": 755,
+        "y": 180,
         "wires": [
             []
         ]
@@ -10415,8 +10347,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 565,
-        "y": 220,
+        "x": 580,
+        "y": 180,
         "wires": [
             [
                 "062ce81d525ecefe"
@@ -10436,8 +10368,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 565,
-        "y": 265,
+        "x": 580,
+        "y": 225,
         "wires": [
             [
                 "b8bf553ba73175d1"
@@ -13286,7 +13218,6 @@
         "id": "13d2e16bdac1b820",
         "type": "catch",
         "z": "69a590bb3eaafea5",
-        "d": true,
         "g": "9c7714b3475b1f2b",
         "name": "",
         "scope": [
@@ -13305,7 +13236,6 @@
         "id": "7f28962bbf2edd96",
         "type": "function",
         "z": "69a590bb3eaafea5",
-        "d": true,
         "g": "9c7714b3475b1f2b",
         "name": "catch uiConfig fileNotFound",
         "func": "\nif(/^ENOENT/.test(msg.error) && !context.get(\"triedOnce\")){\n    context.set(\"triedOnce\");\n    return msg;\n}\nelse{\n    if (msg.error) {\n        node.error({ \"err\": msg.error.message, \"full\": msg });\n        //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n    }\n    else {\n        node.error(msg);\n    }\n    return null\n}",
@@ -13318,7 +13248,7 @@
         "y": 340,
         "wires": [
             [
-                "636abe298d8940a7"
+                "0c0ba63642b01a89"
             ],
             [
                 "323cfea2dd074604"
@@ -13329,7 +13259,6 @@
         "id": "323cfea2dd074604",
         "type": "function",
         "z": "69a590bb3eaafea5",
-        "d": true,
         "g": "9c7714b3475b1f2b",
         "name": "catch uiConfig",
         "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
@@ -13348,7 +13277,6 @@
         "id": "636abe298d8940a7",
         "type": "file",
         "z": "69a590bb3eaafea5",
-        "d": true,
         "g": "9c7714b3475b1f2b",
         "name": "",
         "filename": ".\\uiConfig.json",
@@ -13357,7 +13285,7 @@
         "createDir": false,
         "overwriteFile": "true",
         "encoding": "none",
-        "x": 860,
+        "x": 1105,
         "y": 360,
         "wires": [
             [
@@ -13447,6 +13375,47 @@
         "y": 2085,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "e517363a9bb66217",
+        "type": "inject",
+        "z": "69a590bb3eaafea5",
+        "g": "9c7714b3475b1f2b",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 810,
+        "y": 315,
+        "wires": [
+            [
+                "0c0ba63642b01a89"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "0c0ba63642b01a89",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "g": "9c7714b3475b1f2b",
+        "name": "setDefault",
+        "func": "msg.payload = {\n    \"tempPianoSup\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": false\n    },\n    \"pressPressata\": {\n        \"min\": 0,\n        \"max\": 10,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": \"tempPianoSup\"\n    },\n    // \"tempPianoInf\": {\n    //     \"min\": -20,\n    //     \"max\": 280,\n    //     \"c1\": \"#2cbec6\",\n    //     \"c2\": \"#0c942e\",\n    //     \"c3\": \"#e42b2b\",\n    //     \"copyColors\": \"tempPianoSup\"\n    // }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 915,
+        "y": 345,
+        "wires": [
+            [
+                "636abe298d8940a7"
+            ]
         ]
     },
     {
@@ -18748,7 +18717,7 @@
         "order": 19,
         "width": 0,
         "height": 0,
-        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        \n\n\n        var logoContainer = document.createElement(\"div\");\n        logoContainer.style.margin = \"5px auto\";\n        //logoContainer.style.marginBottom = \"0px\";\n        \n        var imgCont = document.createElement(\"span\");\n        logoContainer.append(imgCont);\n        imgCont.style.position = \"relative\";\n        imgCont.style.top = \"5px\";\n\n        var imgCont2 = document.createElement(\"span\");\n        imgCont2.style.marginLeft=\"30px\";\n        logoContainer.append(imgCont2);\n\n        logoGiga = new Image();\n        logoGiga.src = \"/loghi/giga/logoGiga.png\";\n        logoGiga.height = 30;\n        logoContainer.children[1].append(logoGiga);\n\n        \n        logoItal = new Image();\n        logoItal.src = \"/loghi/italmatic/logoItalmatic.png\";\n        logoItal.height = 30;\n        logoContainer.children[0].append(logoItal);\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        \n        var logoContainer = document.createElement(\"div\");\n        logoContainer.style.margin = \"5px auto\";\n        //logoContainer.style.marginBottom = \"0px\";\n        \n        var imgCont = document.createElement(\"span\");\n        imgCont.style.position = \"relative\";\n        imgCont.style.top = \"0px\";\n        logoContainer.append(imgCont);\n       \n        logoItal = new Image();\n        logoItal.src = \"/loghi/italmatic/logoItalmatic.png\";\n        logoItal.height = 33;\n        logoContainer.children[0].append(logoItal);\n\n\n\n        var imgCont2 = document.createElement(\"span\");\n        imgCont2.style.marginLeft=\"30px\";\n        imgCont2.style.position = \"relative\";\n        imgCont2.style.top = \"5px\";\n        logoContainer.append(imgCont2);\n\n        logoGiga = new Image();\n        logoGiga.src = \"/loghi/giga/logoGiga.png\";\n        logoGiga.height = 45;\n        logoContainer.children[1].append(logoGiga);\n\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": false,
