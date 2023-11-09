@@ -192,9 +192,7 @@
             "e517363a9bb66217"
         ],
         "x": 194,
-        "y": 274,
-        "w": 937,
-        "h": 392
+        "y": 274
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -222,7 +220,9 @@
             "a72b1c3580f09904"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -250,7 +250,9 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -276,7 +278,9 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134
+        "y": 134,
+        "w": 777,
+        "h": 222
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -297,9 +301,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "408c86b39f332966",
@@ -322,7 +324,9 @@
             "6e645e2849c474eb"
         ],
         "x": 654,
-        "y": 1099
+        "y": 1099,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -345,7 +349,9 @@
             "588342109c719d84"
         ],
         "x": 168,
-        "y": 409
+        "y": 409,
+        "w": 1514,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -374,7 +380,9 @@
             "0ca3c958633a0c8b"
         ],
         "x": 124,
-        "y": 2584
+        "y": 2584,
+        "w": 1093,
+        "h": 637
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -399,7 +407,9 @@
             "85ef1e45805265d5"
         ],
         "x": 154,
-        "y": 14
+        "y": 14,
+        "w": 712,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -438,7 +448,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1224,
-        "y": 704
+        "y": 704,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "cccb0df7921dec2f",
@@ -491,7 +503,9 @@
             "c730f7caa8fa77ba"
         ],
         "x": 123,
-        "y": 1239
+        "y": 1239,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "a22652e0e5a00422",
@@ -541,7 +555,9 @@
             "8b321fcb911b77fd"
         ],
         "x": 134,
-        "y": 699
+        "y": 699,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -576,7 +592,9 @@
             "8437a7d22a9f64c3"
         ],
         "x": 174,
-        "y": 1839
+        "y": 1839,
+        "w": 1262,
+        "h": 282
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -606,7 +624,9 @@
             "5e7a9cab577dae64"
         ],
         "x": 169,
-        "y": 2139
+        "y": 2139,
+        "w": 1272,
+        "h": 302
     },
     {
         "id": "dd28804963c0bc60",
@@ -648,7 +668,9 @@
             "8943b4549c5df00c"
         ],
         "x": 314,
-        "y": 259
+        "y": 259,
+        "w": 1102,
+        "h": 392
     },
     {
         "id": "d4f58c108037d973",
@@ -820,7 +842,9 @@
             "e0746bf6ad449f80"
         ],
         "x": 169,
-        "y": 1734
+        "y": 1734,
+        "w": 902,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -855,7 +879,9 @@
             "3f9469575ed20a91"
         ],
         "x": 149,
-        "y": 2299
+        "y": 2299,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -887,7 +913,9 @@
             "c23689e8b3ce4d15"
         ],
         "x": 159,
-        "y": 1929
+        "y": 1929,
+        "w": 992,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -910,7 +938,9 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -933,7 +963,9 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -972,7 +1004,9 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1037,
+        "h": 397
     },
     {
         "id": "df7219d880358536",
@@ -1003,7 +1037,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1034,7 +1070,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1077,7 +1115,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1140,7 +1180,9 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 194,
-        "y": 484
+        "y": 484,
+        "w": 1462,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -1181,7 +1223,9 @@
             "bdec638b99156315"
         ],
         "x": 164,
-        "y": 1314
+        "y": 1314,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "9c42f9c7d3cec4e7",
@@ -1319,18 +1363,18 @@
             "customTheme": {
                 "name": "red",
                 "default": "#4B7930",
-                "baseColor": "#188ae2",
+                "baseColor": "#10bafa",
                 "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
                 "reset": false
             },
             "themeState": {
                 "base-color": {
                     "default": "#ce3b3b",
-                    "value": "#188ae2",
+                    "value": "#10bafa",
                     "edited": true
                 },
                 "page-titlebar-backgroundColor": {
-                    "value": "#1895e2",
+                    "value": "#10bafa",
                     "edited": true
                 },
                 "page-backgroundColor": {
@@ -1358,7 +1402,7 @@
                     "edited": false
                 },
                 "widget-backgroundColor": {
-                    "value": "#188ae2",
+                    "value": "#10bafa",
                     "edited": false
                 },
                 "widget-borderColor": {
@@ -1399,7 +1443,7 @@
     {
         "id": "533e203349de7f15",
         "type": "ui_tab",
-        "name": "StatoPresse",
+        "name": "Status",
         "icon": "dashboard",
         "order": 1,
         "disabled": false,
@@ -1408,7 +1452,7 @@
     {
         "id": "de425a720011e6e9",
         "type": "ui_group",
-        "name": "Pressa 1",
+        "name": "AIC NF780",
         "tab": "533e203349de7f15",
         "order": 1,
         "disp": true,
@@ -2887,7 +2931,7 @@
         "name": "Pressa1",
         "info": "",
         "x": 420,
-        "y": 1120,
+        "y": 1125,
         "wires": []
     },
     {
@@ -9061,7 +9105,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "34db5f71c5fd7b36",
         "name": "handle clicked rows interactivity",
-        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //button.setStateInTable(\"clearing\",\"sendToPressa3\",table[activeRowIdx],table);\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if(rowIdx != activeRowIdx && button.getStateString(table[rowIdx][activeFieldName+\"State\"]) != \"clickToSend\")\n                    button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n            //set the one to loaded\n            button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx])\n            //button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({feedback:msg.action,fr0m:activeFieldName,appliedTo:activeRow});\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            //load order in plc as soon as it's free // -> queued //will change to loaded\n            case \"clickToSend\": {\n                for(let rowIdx in table){\n                    //queued -> clickToSend\n                    if(button.getStateString(table[rowIdx][activeFieldName+\"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\",activeFieldName,table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                //set it to queued\n                button.setSingleState(\"queued\",activeFieldName, table[activeRowIdx]);\n                //writes to plc\n                msg.action = \"load\";\n                break;\n            }\n            //cancel load // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setSingleState(\"clickToSend\", activeFieldName, table[activeRowIdx]);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n            //write empty order to plc asap //-> clearing //will go to clickToSend //will reset whole column to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n                //empty plc exc\n                    //feedback will reset all buttons to clickToSend\n                msg.action = \"clear\";\n                break;\n            }\n            //-> loaded //cancel clear\n            case \"clearing\": {\n                for (let rowIdx in table) {\n                    //queued -> clickToSend\n                    if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (load)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press=\"pressa\"+pressNum;\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n    \n    \n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    \n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse=false;\n    for(let i=0;i<4;i++){\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i+1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if(inUse){\n        return [refreshMsg] //de-update table\n    }\n    else{\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n    \n    \n    \n}\n\n",
+        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //button.setStateInTable(\"clearing\",\"sendToPressa3\",table[activeRowIdx],table);\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if(rowIdx != activeRowIdx && button.getStateString(table[rowIdx][activeFieldName+\"State\"]) != \"clickToSend\")\n                    button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n            //set the one to loaded\n            button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx])\n            //button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        //node.warn({feedback:msg.action,fr0m:activeFieldName,appliedTo:activeRow});\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            //load order in plc as soon as it's free // -> queued //will change to loaded\n            case \"clickToSend\": {\n                for(let rowIdx in table){\n                    //queued -> clickToSend\n                    if(button.getStateString(table[rowIdx][activeFieldName+\"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\",activeFieldName,table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                //set it to queued\n                button.setSingleState(\"queued\",activeFieldName, table[activeRowIdx]);\n                //writes to plc\n                msg.action = \"load\";\n                break;\n            }\n            //cancel load // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setSingleState(\"clickToSend\", activeFieldName, table[activeRowIdx]);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n            //write empty order to plc asap //-> clearing //will go to clickToSend //will reset whole column to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n                //empty plc exc\n                    //feedback will reset all buttons to clickToSend\n                msg.action = \"clear\";\n                break;\n            }\n            //-> loaded //cancel clear\n            case \"clearing\": {\n                for (let rowIdx in table) {\n                    //queued -> clickToSend\n                    if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (load)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        //node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press=\"pressa\"+pressNum;\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n    \n    \n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    \n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse=false;\n    for(let i=0;i<4;i++){\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i+1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if(inUse){\n        return [refreshMsg] //de-update table\n    }\n    else{\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n    \n    \n    \n}\n\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -15898,7 +15942,7 @@
         "order": 21,
         "width": 0,
         "height": 0,
-        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        \n\n\n        var logoContainer = document.createElement(\"div\");\n        logoContainer.style.margin = \"5px auto\";\n        //logoContainer.style.marginBottom = \"0px\";\n        \n        var imgCont = document.createElement(\"span\");\n        logoContainer.append(imgCont);\n        imgCont.style.position = \"relative\";\n        imgCont.style.top = \"0px\";\n\n        var imgCont2 = document.createElement(\"span\");\n        imgCont2.style.marginLeft=\"30px\";\n        imgCont.style.position = \"relative\";\n        imgCont.style.top = \"5px\";\n        logoContainer.append(imgCont2);\n\n        logoGiga = new Image();\n        logoGiga.src = \"/loghi/giga/logoGiga.png\";\n        logoGiga.height = 45;\n        logoContainer.children[1].append(logoGiga);\n\n        \n        logoItal = new Image();\n        logoItal.src = \"/loghi/italmatic/logoItalmatic.png\";\n        logoItal.height = 45;\n        logoContainer.children[0].append(logoItal);\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        \n        var logoContainer = document.createElement(\"div\");\n        logoContainer.style.margin = \"5px auto\";\n        //logoContainer.style.marginBottom = \"0px\";\n        \n        var imgCont = document.createElement(\"span\");\n        imgCont.style.position = \"relative\";\n        imgCont.style.top = \"0px\";\n        logoContainer.append(imgCont);\n       \n        logoItal = new Image();\n        logoItal.src = \"/loghi/italmatic/logoItalmatic.png\";\n        logoItal.height = 33;\n        logoContainer.children[0].append(logoItal);\n\n\n\n        var imgCont2 = document.createElement(\"span\");\n        imgCont2.style.marginLeft=\"30px\";\n        imgCont2.style.position = \"relative\";\n        imgCont2.style.top = \"5px\";\n        logoContainer.append(imgCont2);\n\n        logoGiga = new Image();\n        logoGiga.src = \"/loghi/giga/logoGiga.png\";\n        logoGiga.height = 45;\n        logoContainer.children[1].append(logoGiga);\n\n\n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(logoContainer);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": false,
