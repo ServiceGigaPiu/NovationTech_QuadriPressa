@@ -75,8 +75,8 @@
             "92d9744aa1e9f22d",
             "6173c68c398eeee3"
         ],
-        "x": 334,
-        "y": 64,
+        "x": 279,
+        "y": 364,
         "w": 707,
         "h": 127
     },
@@ -107,7 +107,7 @@
             "b34226be7162078f"
         ],
         "x": 714,
-        "y": 2164,
+        "y": 2209,
         "w": 592,
         "h": 517
     },
@@ -131,8 +131,8 @@
             "fc435c5a1f9f0c92",
             "0c2f824d1edcbe0b"
         ],
-        "x": 1159,
-        "y": 64,
+        "x": 1104,
+        "y": 364,
         "w": 707,
         "h": 127
     },
@@ -157,48 +157,9 @@
             "cdfe98ebc6268de8"
         ],
         "x": 729,
-        "y": 934,
+        "y": 979,
         "w": 452,
         "h": 127
-    },
-    {
-        "id": "9c7714b3475b1f2b",
-        "type": "group",
-        "z": "69a590bb3eaafea5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "e3696b26fb98fd8f",
-            "c738458e2f0166fd",
-            "a79139d6fa8686e2",
-            "47787bd5c3f095c5",
-            "cd632756435b2754",
-            "9aac6231207dd902",
-            "27b14ed1b833f3fa",
-            "711adcc293c4fe4e",
-            "16a57738beed3d92",
-            "0c1c5418ae454848",
-            "afddbb067e0f39ac",
-            "d552f3455898102d",
-            "5f0e4cd2a231d950",
-            "5d4297555cadcdff",
-            "11ffda579a2d7473",
-            "11d636077cbd1545",
-            "ef9feb95d1f12a3a",
-            "13d2e16bdac1b820",
-            "7f28962bbf2edd96",
-            "323cfea2dd074604",
-            "636abe298d8940a7"
-        ],
-        "x": 194,
-        "y": 299
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -226,9 +187,7 @@
             "a72b1c3580f09904"
         ],
         "x": 84,
-        "y": 4219,
-        "w": 1102,
-        "h": 562
+        "y": 4219
     },
     {
         "id": "e2961306402a77aa",
@@ -256,9 +215,7 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574,
-        "w": 1072,
-        "h": 562
+        "y": 3574
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -284,9 +241,7 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 134,
-        "w": 777,
-        "h": 222
+        "y": 134
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -307,7 +262,9 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724
+        "y": 724,
+        "w": 292,
+        "h": 82
     },
     {
         "id": "408c86b39f332966",
@@ -352,10 +309,8 @@
             "b2c3d112c3d0c889",
             "588342109c719d84"
         ],
-        "x": 168,
-        "y": 409,
-        "w": 1514,
-        "h": 1398
+        "x": 173,
+        "y": 409
     },
     {
         "id": "2f4be50b7d91c706",
@@ -384,9 +339,7 @@
             "0ca3c958633a0c8b"
         ],
         "x": 124,
-        "y": 2584,
-        "w": 1093,
-        "h": 637
+        "y": 2584
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -474,8 +427,8 @@
             "15d6f446b735362b",
             "b7700a2027731da3"
         ],
-        "x": 1224,
-        "y": 254,
+        "x": 1334,
+        "y": 709,
         "w": 342,
         "h": 247
     },
@@ -544,9 +497,9 @@
             "6067e973b7dd40eb",
             "5bc8af56489bcd9d"
         ],
-        "x": 198,
-        "y": 1079,
-        "w": 1439,
+        "x": 208,
+        "y": 1124,
+        "w": 1419,
         "h": 993
     },
     {
@@ -568,9 +521,9 @@
             "2ca6f2c1b0c21cf1",
             "9e32d6a46ccf09ee"
         ],
-        "x": 1918,
-        "y": 1079,
-        "w": 1444,
+        "x": 1928,
+        "y": 1124,
+        "w": 1424,
         "h": 978
     },
     {
@@ -638,9 +591,9 @@
             "c25454224d93f0a4",
             "a93dbb5749094ec0"
         ],
-        "x": 198,
-        "y": 2719,
-        "w": 1444,
+        "x": 208,
+        "y": 2764,
+        "w": 1424,
         "h": 978
     },
     {
@@ -662,9 +615,9 @@
             "4319550e30808765",
             "b1df0fb233ae57b9"
         ],
-        "x": 1918,
-        "y": 2719,
-        "w": 1444,
+        "x": 1928,
+        "y": 2764,
+        "w": 1424,
         "h": 978
     },
     {
@@ -717,8 +670,8 @@
             "23908ba29a765ed4"
         ],
         "x": 199,
-        "y": 629,
-        "w": 847,
+        "y": 674,
+        "w": 837,
         "h": 252
     },
     {
@@ -753,10 +706,8 @@
             "b83d044ecee3faf8",
             "8437a7d22a9f64c3"
         ],
-        "x": 174,
-        "y": 1839,
-        "w": 1262,
-        "h": 282
+        "x": 184,
+        "y": 1839
     },
     {
         "id": "34db5f71c5fd7b36",
@@ -785,10 +736,8 @@
             "c9fa4cba41fe88a7",
             "5e7a9cab577dae64"
         ],
-        "x": 169,
-        "y": 2139,
-        "w": 1272,
-        "h": 302
+        "x": 179,
+        "y": 2139
     },
     {
         "id": "dd28804963c0bc60",
@@ -831,6 +780,52 @@
         ],
         "x": 314,
         "y": 259
+    },
+    {
+        "id": "b45e5b597df321ef",
+        "type": "group",
+        "z": "69a590bb3eaafea5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e3696b26fb98fd8f",
+            "c738458e2f0166fd",
+            "a79139d6fa8686e2",
+            "47787bd5c3f095c5",
+            "cd632756435b2754",
+            "9aac6231207dd902",
+            "27b14ed1b833f3fa",
+            "711adcc293c4fe4e",
+            "16a57738beed3d92",
+            "0c1c5418ae454848",
+            "afddbb067e0f39ac",
+            "d552f3455898102d",
+            "5f0e4cd2a231d950",
+            "5d4297555cadcdff",
+            "11ffda579a2d7473",
+            "11d636077cbd1545",
+            "ef9feb95d1f12a3a",
+            "13c1fa98c29f8f81",
+            "636abe298d8940a7",
+            "649be06b4b880b67",
+            "0c0ba63642b01a89",
+            "e517363a9bb66217",
+            "7f28962bbf2edd96",
+            "323cfea2dd074604",
+            "13d2e16bdac1b820",
+            "34b28815286f8381"
+        ],
+        "x": 204,
+        "y": 274,
+        "w": 1192,
+        "h": 392
     },
     {
         "id": "e2bd9331f9185534",
@@ -945,10 +940,8 @@
             "88e3d23a3ec9d6b0",
             "d27598503a5b31c1"
         ],
-        "x": 129,
-        "y": 4294,
-        "w": 572,
-        "h": 232
+        "x": 139,
+        "y": 4294
     },
     {
         "id": "70b9c5719558ad66",
@@ -970,10 +963,8 @@
             "91ec12ac87115cdc",
             "d02b6fbde106437f"
         ],
-        "x": 129,
-        "y": 3649,
-        "w": 552,
-        "h": 232
+        "x": 139,
+        "y": 3649
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1012,9 +1003,7 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659,
-        "w": 1037,
-        "h": 397
+        "y": 2659
     },
     {
         "id": "df7219d880358536",
@@ -1045,9 +1034,7 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579,
-        "w": 1157,
-        "h": 202
+        "y": 1579
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1078,9 +1065,7 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369,
-        "w": 1117,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1123,9 +1108,7 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979,
-        "w": 1227,
-        "h": 382
+        "y": 979
     },
     {
         "id": "588342109c719d84",
@@ -1187,10 +1170,8 @@
             "c30ca4565e0d218f",
             "55d2fb1e2f4239c6"
         ],
-        "x": 194,
-        "y": 484,
-        "w": 1462,
-        "h": 472
+        "x": 204,
+        "y": 484
     },
     {
         "id": "a70fe69b7459b746",
@@ -1402,7 +1383,7 @@
             "d10978b2469ceff3"
         ],
         "x": 359,
-        "y": 1154,
+        "y": 1199,
         "w": 797,
         "h": 337
     },
@@ -1434,9 +1415,9 @@
             "cd5be50a30e65857",
             "7446c855e9d2de4f"
         ],
-        "x": 224,
-        "y": 1574,
-        "w": 617,
+        "x": 234,
+        "y": 1619,
+        "w": 607,
         "h": 367
     },
     {
@@ -1474,7 +1455,7 @@
             "88e5380b5a7c839f"
         ],
         "x": 2079,
-        "y": 1154,
+        "y": 1199,
         "w": 797,
         "h": 337
     },
@@ -1516,8 +1497,8 @@
             "baa146a03506aca9"
         ],
         "x": 2639,
-        "y": 1499,
-        "w": 697,
+        "y": 1544,
+        "w": 687,
         "h": 532
     },
     {
@@ -1548,9 +1529,9 @@
             "1b4bcab9f691b5db",
             "577869e151539f03"
         ],
-        "x": 1944,
-        "y": 1574,
-        "w": 617,
+        "x": 1954,
+        "y": 1619,
+        "w": 607,
         "h": 367
     },
     {
@@ -1856,7 +1837,7 @@
             "783edff7e22ab4b4"
         ],
         "x": 359,
-        "y": 2794,
+        "y": 2839,
         "w": 797,
         "h": 337
     },
@@ -1898,8 +1879,8 @@
             "1cd1ba43a58cd415"
         ],
         "x": 919,
-        "y": 3139,
-        "w": 697,
+        "y": 3184,
+        "w": 687,
         "h": 532
     },
     {
@@ -1930,9 +1911,9 @@
             "bd70310b8da24361",
             "db544c8a4e4b5a6f"
         ],
-        "x": 224,
-        "y": 3214,
-        "w": 617,
+        "x": 234,
+        "y": 3259,
+        "w": 607,
         "h": 367
     },
     {
@@ -1970,7 +1951,7 @@
             "2001a99f7a6d5461"
         ],
         "x": 2079,
-        "y": 2794,
+        "y": 2839,
         "w": 797,
         "h": 337
     },
@@ -2012,8 +1993,8 @@
             "9ea62a5cbd872003"
         ],
         "x": 2639,
-        "y": 3139,
-        "w": 697,
+        "y": 3184,
+        "w": 687,
         "h": 532
     },
     {
@@ -2044,9 +2025,9 @@
             "115dcc4e5b9044ae",
             "6fe7854ecacb208f"
         ],
-        "x": 1944,
-        "y": 3214,
-        "w": 617,
+        "x": 1954,
+        "y": 3259,
+        "w": 607,
         "h": 367
     },
     {
@@ -2087,8 +2068,8 @@
             "9e5f19ba303d1e7f"
         ],
         "x": 914,
-        "y": 1514,
-        "w": 697,
+        "y": 1559,
+        "w": 687,
         "h": 532
     },
     {
@@ -2251,36 +2232,6 @@
         "width": 9,
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "6d1a7872033bde5c",
-        "type": "ui_spacer",
-        "z": "69a590bb3eaafea5",
-        "name": "spacer",
-        "group": "a2dc8e5cbc92778b",
-        "order": 7,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "85540ec97c2b2f8d",
-        "type": "ui_spacer",
-        "z": "69a590bb3eaafea5",
-        "name": "spacer",
-        "group": "db63de8125d253b0",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "19592610c762c7a1",
-        "type": "ui_spacer",
-        "z": "69a590bb3eaafea5",
-        "name": "spacer",
-        "group": "d6dcf6dea0234745",
-        "order": 6,
-        "width": 1,
-        "height": 1
     },
     {
         "id": "dc04b0c0c2689120",
@@ -2988,6 +2939,36 @@
         "className": ""
     },
     {
+        "id": "99e058950596db62",
+        "type": "ui_spacer",
+        "z": "69a590bb3eaafea5",
+        "name": "spacer",
+        "group": "a2dc8e5cbc92778b",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9b959f720d32944a",
+        "type": "ui_spacer",
+        "z": "69a590bb3eaafea5",
+        "name": "spacer",
+        "group": "db63de8125d253b0",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5f205e53f1825402",
+        "type": "ui_spacer",
+        "z": "69a590bb3eaafea5",
+        "name": "spacer",
+        "group": "d6dcf6dea0234745",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
         "id": "e4455c60fa1954be",
         "type": "ui_template",
         "z": "2831664434f14a33",
@@ -3003,7 +2984,7 @@
         "templateScope": "global",
         "className": "",
         "x": 1030,
-        "y": 300,
+        "y": 585,
         "wires": [
             []
         ]
@@ -3025,25 +3006,7 @@
         "templateScope": "global",
         "className": "",
         "x": 1015,
-        "y": 255,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "98b1583bfd3c5fa4",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "common configs",
-        "func": "\n\nvar globalConfig=global.get(\"config\");\n\nglobalConfig.common.gauges = {\n    //min: ,  \n    //max: ,\n    options: {  //vedi https://github.com/toorshia/justgage/blob/master/justgage.js\n        humanFriendly: true,\n        noGradient:false,\n        customSectors: { // # settori a scelta\n            percents: true,\n            ranges: [{\n                color: \"#6de4e0\", //celeste\n                lo: 0,    //percentuali inizio-fine settore\n                hi: 33\n            }, {\n                color: \"#4be04f\", //verde\n                lo: 33.1,\n                hi: 66\n            }, {\n                color: \"#e42b2b\",   //rosso\n                lo: 66.1,\n                hi: 100\n            }]\n\n        }\n    }\n}\n\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 655,
-        "y": 285,
+        "y": 540,
         "wires": [
             []
         ]
@@ -3061,7 +3024,7 @@
         "finalize": "",
         "libs": [],
         "x": 920,
-        "y": 1020,
+        "y": 1065,
         "wires": [
             [
                 "ae1033ecbfde9a8d"
@@ -3076,7 +3039,7 @@
         "name": "applyGaugesConfigs_in",
         "links": [],
         "x": 770,
-        "y": 1020,
+        "y": 1065,
         "wires": [
             [
                 "f055a55171647080"
@@ -3092,7 +3055,7 @@
         "mode": "return",
         "links": [],
         "x": 1140,
-        "y": 1020,
+        "y": 1065,
         "wires": []
     },
     {
@@ -3102,8 +3065,8 @@
         "g": "7da3a158c918645d",
         "name": "come clonare",
         "info": "\n    seleziona nodi\n\n    export come json\n\n    avranno un aspetto simile a\n        {\n            \"id\": \"8688db4c9c99cada\",               \n            \"type\": \"ui_led\",       //nodo semplice\n            \"order\": 3,\n            \"group\": \"f139ce507b5170da\",\n            \"width\": 7,\n            \"height\": 1,\n            \"label\": \"emergenza attiva\",\n            ..stuff..\n            \"x\": 940,\n            \"y\": 420,\n            \"wires\": []\n        },\n        ..stuff..\n        {\n            \"id\": \"f139ce507b5170da\",\n            \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n            \"name\": \"Pressa 2\",\n            \"tab\": \"533e203349de7f15\",\n            \"order\": 2,\n            \"disp\": true,\n            \"width\": 9,\n            \"collapse\": false,\n            \"className\": \"\"\n        },\n        {\n            \"id\": \"533e203349de7f15\",\n            \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n            \"name\": \"Stato Presse\",\n            \"icon\": \"dashboard\",\n            \"order\": 1,\n            \"disabled\": false,\n            \"hidden\": false\n        },\n    CON UTILITY\n        incolla in payload l'export limitato\n        modifica clone utility a piacere (piu info all interno)\n        se ricevi errori: esporta l'intero progetto tramite il menu in alto a destra ed incollalo in \"full export\"    //nota: non tutti i config-nodes vengono inclusi negli export: l'utilty cercherà in fullExport quelli mancanti\n        \n    CON NOTEPAD\n        usa find/replace su notepad per:\n        - trovare l'id del nuovo gruppo\n        - rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n        -fare altre eventuali modifiche\n\n",
-        "x": 545,
-        "y": 105,
+        "x": 490,
+        "y": 405,
         "wires": []
     },
     {
@@ -3129,8 +3092,8 @@
         "topic": "",
         "payload": "{}",
         "payloadType": "json",
-        "x": 480,
-        "y": 150,
+        "x": 425,
+        "y": 450,
         "wires": [
             [
                 "92d9744aa1e9f22d",
@@ -3152,8 +3115,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 885,
-        "y": 150,
+        "x": 830,
+        "y": 450,
         "wires": []
     },
     {
@@ -3169,8 +3132,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 725,
-        "y": 105,
+        "x": 670,
+        "y": 405,
         "wires": [
             [
                 "775ed5336618f048"
@@ -3189,8 +3152,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 680,
-        "y": 150,
+        "x": 625,
+        "y": 450,
         "wires": [
             [
                 "775ed5336618f048"
@@ -3206,7 +3169,7 @@
         "name": "",
         "events": "all",
         "x": 1160,
-        "y": 2640,
+        "y": 2685,
         "wires": [
             []
         ]
@@ -3234,7 +3197,7 @@
         "topic": "tempPianoSup",
         "topicType": "str",
         "x": 870,
-        "y": 2250,
+        "y": 2295,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3264,7 +3227,7 @@
         "topic": "tempPianoSup",
         "topicType": "str",
         "x": 860,
-        "y": 2205,
+        "y": 2250,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3285,124 +3248,11 @@
         "finalize": "",
         "libs": [],
         "x": 940,
-        "y": 2640,
+        "y": 2685,
         "wires": [
             [
                 "94a755f368e072f5"
             ]
-        ]
-    },
-    {
-        "id": "d455b9bd53a1b62a",
-        "type": "inject",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "OnStartup0.2",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "0.2",
-        "topic": "",
-        "x": 270,
-        "y": 390,
-        "wires": [
-            [
-                "07436340e2de1b4e"
-            ]
-        ]
-    },
-    {
-        "id": "21596fad12177015",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "extract tabs and groups",
-        "func": "\nconst json=msg.payload;\nconst fallback=[];\n\n    //case insensitive\nfunction getId(name,type=null,source=json){\n    name=name.toLowerCase();\n    for(let item of source)\n        if(item.name && item.name.toLowerCase()==name && (!type || type==type))\n            return item.id;\n    for(let item of fallback)\n        if (item.name && item.name.toLowerCase()==name && (!type || type==type))\n            return item.id;\n    node.error(\"id di \"+name+( !type ? \"\" : \" di tipo \"+type)+\" non trovato\");\n    node.warn({name,type,source,fallback});\n    return \"\";\n}\nfunction getGroupId(name, source=json) {\n    return getId(name, \"ui_group\", source);\n}\nfunction getTabId(name, source=json) {\n    return getId(name, \"ui_tab\", source);\n}\nvar groups=[], tabs=[];\nfor(let item of json){\n    if(item.type){\n        if (item.type == \"ui_group\")\n            groups.push(item);\n        else if( item.type==\"ui_tab\")\n            tabs.push(item);\n    }\n}\n\nvar d/*ictionary*/={/*groups:{},tabs:{},tree:{}*/};\nvar tabNameId=\"\";\nvar gNameId=\"\";\n\n\n/*\nlet id;\nfor(let t of tabs){\n    id = asNId(t.name);\n    d.tabs[id]=t;\n    d.tabs[id].idName=id;\n}\nfor(let g of groups){\n    id=\"\";\n    for(let t in d.tabs){\n        if(t.id==g.tab){\n            id=t.id;\n            break;\n        }\n    }\n    d.groups[]\n    d.groups[asNId(g.name)]\n}\n*/\n\n/** @param {String} str adds_whitespaces as for uicontrol expectations */\nfunction asNId(str) {\n    return str.replace(/\\s/g, '_');\n}\nd.asNId = asNId;\n\n//le maiuscole contano! //l'ordine per ora no\nd.dict/*ionary*/ = [\n    { nId: \"statoPresse\", currentName: \"StatoPresse\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [\n            { nId: \"Pressa1\", currentName: \"Pressa1\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa2\", currentName: \"Pressa2\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa3\", currentName: \"Pressa 3\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa4\", currentName: \"Pressa 4\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n        ]\n    },\n    { nId: \"graficiDiStato\", currentName: \"Grafici di Stato\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [] },\n    { nId: \"impostazioni\", currentName: \"Impostazioni\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [\n            //{ nId: \"tempPianoSup\", currentName:\"Indicatore di temperatura piano inferiore\",currentNId: asNId(this.currentName) },\n            //{ nId: \"tempPianoInf\", currentName:\"Indicatore di Temperatura Piano Superiore\",currentNId: asNId(this.currentName) },\n            //{ nId: \"pressPressata\", currentName:\"indicatore pressione di pressata\",currentNId: asNId(this.currentName) },\n        ]\n];\n   \n   \n\n\ntabs.sort((a, b) => { return (!a.order || a.order < b.order)?-1:+1 });\ngroups.sort((a, b) => { \n    if (a.tab == b.tab)\n        return (!a.order || a.order < b.order) ? -1 : +1;\n    else\n        return (a.tab < b.tab) ? -1 : +1;\n});\n\n\nd.groups=groups;\nd.tabs=tabs;\nd.tree=new Array();\nlet tabIdx = 0,lastId=groups[0].tab;\nfor(let g of groups){\n    if(g.tab!=lastId)\n        d.tree[tabIdx]=g;\n    else{\n        d.tree[++tabIdx]=new Array();\n        d.tree[tabIdx]=g;\n    }\n}\n\n\n/*\nfor (let i=0;i<tabs.length;i++){\n    d.tree[i]=new Array();\n    for (let g of groups) {\n        d.tree[i].push(g)\n    }\n}*/\n\n\n\n\n    /** @param {String} tabNameId nameId of the tab to look up in dictionary\n     *  @param {String} groupNameId nameId of the group to look up in dictionary\n     */\nd.realNId=function (tabNameId,groupNameId){\n    let i=0;\n    while (i < this.dict.length && this.dict[i].nId != tabNameId)\n        i++;\n    if(i<this.dict.length)\n        return this.dict[i].currentNId;\n    else{\n        node.warn({errMsg:\"nameId non presente nel dizionario,\\n controlla errori di battitura o aggiornalo in questo nodo\",dict:this.dict});\n        return \"\";\n    }\n}\n\nd.getNId = function (tabId,groupId){}\n\n//checks that dictionary is somewhat updated\n    //check that dict's names match at least one tab_ui's and group_ui's name extracted from flows.json\n    //the ones not found are loosely looked up again, attempting a fix (case or space changes) //see below\n    //throws a warning if an update is likely needed (edit dict's currentName with the new ones)\n\n\n    //controlla tabs\nlet fixed=[];\nfor(let dictTab of d.dict){\n    let found=false;\n    for(let tab of d.tabs){\n            //strict match\n        if(tab.name == dictTab.currentName){\n            found=true;\n            break;\n        }\n        else{   //loose match & autofix\n            let reg = new RegExp('^\\s*' + dictTab.currentName.replaceAll(/\\s+/gm, '\\[\\s+.]') + '\\s*$')\n            if (tab.name.test(reg,'i')){ //loose match: ignore spaces and case\n                dictTab.currentName=tab.name;\n                fixed.push(dictTab);\n                found=true;\n                break;\n                //dictTab.currentNId = asNId(dictTab.currentName)\n            }\n        }\n    }\n    if(!found){\n        node.warn(\"AGGIORNA DIZIONARIO: tab \"+dictTab.nId+\" di nome \"+dictTab.name+\" non trovato\");\n    }\n}\n    //controlla gruppi\nfor (let dictTab of d.dict)\n    for(let dictGroup of dictTab.groups){\n        \n    }\n\nlet fix;\nfor(let i=0, t=d.dict[i]; i<t.length ; i++){\n\n    for(let j=0, g=d.dict[i].groups ; j<g.length ; j++){\n            //look at expected pos\n        if(d.tree[i][j].name != d.dict[i][j].currentName){\n                //look everywhere\n            let found=false;\n            for(let tab of d.tree)\n                for(let group of tab)\n                    if(group.name == d.dict[i][j].currentName){\n                        found=true;\n                        break;\n                    }\n            if(!found){\n                if(!fix)\n                    fix = new Array();\n                fix.push({\"i\":i,\"j\":j});\n            }\n        }\n    }\n}\n\n//attempt to fix\nfor(let item of fix){\n    let dictName=d.dict[item.i].groups[item.j].currentName;\n    let treeName = d.tree[item.i][item.j].name;\n    let reg = new RegExp('^\\s*' + dictName.replaceAll(/\\s+/gm, '\\[\\s+.]') + '\\s*$');\n    let newName;\n        //look in expected pos\n    if (treeName.test(reg,'gmi') )\n       newName=treeName;\n    else for(let g of d.tree[item.i])\n        //look if tab moved\n}\n\nfor(tabs in tab)\n\n\n\n\n\n\n\nglobal.set(\"ui\",d);\n\nnode.warn(d);\nmsg.res=json;\n//node.log([\"clone utility: modificati \"+n+\" attributi\"]);\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 16,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 860,
-        "y": 390,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "07436340e2de1b4e",
-        "type": "file in",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "",
-        "filename": "C:\\Users\\Admin\\.node-red\\flows.json",
-        "filenameType": "str",
-        "format": "utf8",
-        "chunk": false,
-        "sendError": false,
-        "encoding": "none",
-        "allProps": false,
-        "x": 535,
-        "y": 390,
-        "wires": [
-            [
-                "e1b36492268250a4"
-            ]
-        ]
-    },
-    {
-        "id": "e1b36492268250a4",
-        "type": "json",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "",
-        "property": "payload",
-        "action": "obj",
-        "pretty": false,
-        "x": 715,
-        "y": 390,
-        "wires": [
-            [
-                "21596fad12177015"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "4619eafbe931738f",
-        "type": "inject",
-        "z": "2831664434f14a33",
-        "name": "OnStartup",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "0",
-        "topic": "",
-        "x": 260,
-        "y": 315,
-        "wires": [
-            [
-                "8cb975e2ac761a2c"
-            ]
-        ]
-    },
-    {
-        "id": "8cb975e2ac761a2c",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "name": "set global.uiAbs",
-        "func": "\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 445,
-        "y": 315,
-        "wires": [
-            []
         ]
     },
     {
@@ -3427,7 +3277,7 @@
         "to": "",
         "reg": false,
         "x": 1150,
-        "y": 2325,
+        "y": 2370,
         "wires": [
             [
                 "b34226be7162078f"
@@ -3457,7 +3307,7 @@
         "topic": "tempPianoInf",
         "topicType": "str",
         "x": 860,
-        "y": 2310,
+        "y": 2355,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3487,7 +3337,7 @@
         "topic": "tempPianoInf",
         "topicType": "str",
         "x": 860,
-        "y": 2355,
+        "y": 2400,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3517,7 +3367,7 @@
         "topic": "pressPressata",
         "topicType": "str",
         "x": 870,
-        "y": 2460,
+        "y": 2505,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3547,7 +3397,7 @@
         "topic": "pressPressata",
         "topicType": "str",
         "x": 860,
-        "y": 2415,
+        "y": 2460,
         "wires": [
             [
                 "f129b1cd09faa95a"
@@ -3565,7 +3415,7 @@
             "b34226be7162078f"
         ],
         "x": 800,
-        "y": 2640,
+        "y": 2685,
         "wires": [
             [
                 "dfae6536e47d96c1"
@@ -3584,26 +3434,8 @@
             "1f797f8d865e8ebd"
         ],
         "x": 1265,
-        "y": 2325,
+        "y": 2370,
         "wires": []
-    },
-    {
-        "id": "0e1e5be40d060bad",
-        "type": "function",
-        "z": "2831664434f14a33",
-        "d": true,
-        "name": "extract tabs and groups BKP",
-        "func": "\nconst json=msg.payload;\nconst fallback=[];\n\n    //case insensitive\nfunction getId(name,type=null,source=json){\n    name=name.toLowerCase();\n    for(let item of source)\n        if(item.name && item.name.toLowerCase()==name && (!type || type==type))\n            return item.id;\n    for(let item of fallback)\n        if (item.name && item.name.toLowerCase()==name && (!type || type==type))\n            return item.id;\n    node.error(\"id di \"+name+( !type ? \"\" : \" di tipo \"+type)+\" non trovato\");\n    node.warn({name,type,source,fallback});\n    return \"\";\n}\nfunction getGroupId(name, source=json) {\n    return getId(name, \"ui_group\", source);\n}\nfunction getTabId(name, source=json) {\n    return getId(name, \"ui_tab\", source);\n}\nvar groups=[], tabs=[];\nfor(let item of json){\n    if(item.type){\n        if (item.type == \"ui_group\")\n            groups.push(item);\n        else if( item.type==\"ui_tab\")\n            tabs.push(item);\n    }\n}\n\nvar d/*ictionary*/={/*groups:{},tabs:{},tree:{}*/};\nvar tabNameId=\"\";\nvar gNameId=\"\";\n\n\n/*\nlet id;\nfor(let t of tabs){\n    id = asNId(t.name);\n    d.tabs[id]=t;\n    d.tabs[id].idName=id;\n}\nfor(let g of groups){\n    id=\"\";\n    for(let t in d.tabs){\n        if(t.id==g.tab){\n            id=t.id;\n            break;\n        }\n    }\n    d.groups[]\n    d.groups[asNId(g.name)]\n}\n*/\n\n/** @param {String} str adds_whitespaces as for uicontrol expectations */\nfunction asNId(str) {\n    return str.replace(/\\s/g, '_');\n}\nd.asNId = asNId;\n\n//le maiuscole contano! //l'ordine per ora no\nd.dict/*ionary*/ = [\n    { nId: \"statoPresse\", currentName: \"StatoPresse\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [\n            { nId: \"Pressa1\", currentName: \"Pressa1\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa2\", currentName: \"Pressa2\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa3\", currentName: \"Pressa 3\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n            { nId: \"Pressa4\", currentName: \"Pressa 4\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');} },\n        ]\n    },\n    { nId: \"graficiDiStato\", currentName: \"Grafici di Stato\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [] },\n    { nId: \"impostazioni\", currentName: \"Impostazioni\", get currentNId(){ return this.currentName.replace(/\\s/g, '_');}, groups: [\n            //{ nId: \"tempPianoSup\", currentName:\"Indicatore di temperatura piano inferiore\",currentNId: asNId(this.currentName) },\n            //{ nId: \"tempPianoInf\", currentName:\"Indicatore di Temperatura Piano Superiore\",currentNId: asNId(this.currentName) },\n            //{ nId: \"pressPressata\", currentName:\"indicatore pressione di pressata\",currentNId: asNId(this.currentName) },\n        ]\n];\n   \n   \n\n\ntabs.sort((a, b) => { return (!a.order || a.order < b.order)?-1:+1 });\ngroups.sort((a, b) => { \n    if (a.tab == b.tab)\n        return (!a.order || a.order < b.order) ? -1 : +1;\n    else\n        return (a.tab < b.tab) ? -1 : +1;\n});\n\n\nd.groups=groups;\nd.tabs=tabs;\nd.tree=new Array();\nlet tabIdx = 0,lastId=groups[0].tab;\nfor(let g of groups){\n    if(g.tab!=lastId)\n        d.tree[tabIdx]=g;\n    else{\n        d.tree[++tabIdx]=new Array();\n        d.tree[tabIdx]=g;\n    }\n}\n\n\n/*\nfor (let i=0;i<tabs.length;i++){\n    d.tree[i]=new Array();\n    for (let g of groups) {\n        d.tree[i].push(g)\n    }\n}*/\n\n\n\n\n    /** @param {String} tabNameId nameId of the tab to look up in dictionary\n     *  @param {String} groupNameId nameId of the group to look up in dictionary\n     */\nd.realNId=function (tabNameId,groupNameId){\n    let i=0;\n    while (i < this.dict.length && this.dict[i].nId != tabNameId)\n        i++;\n    if(i<this.dict.length)\n        return this.dict[i].currentNId;\n    else{\n        node.warn({errMsg:\"nameId non presente nel dizionario,\\n controlla errori di battitura o aggiornalo in questo nodo\",dict:this.dict});\n        return \"\";\n    }\n}\n\nd.getNId = function (tabId,groupId){}\n\n//checks that dictionary is somewhat updated\n    //check that dict's names match at least one tab_ui's and group_ui's name extracted from flows.json\n    //the ones not found are loosely looked up again, attempting a fix (case or space changes) //see below\n    //throws a warning if an update is likely needed (edit dict's currentName with the new ones)\n\n\n    //controlla tabs\nlet fixed=[];\nfor(let dictTab of d.dict){\n    let found=false;\n    for(let tab of d.tabs){\n            //strict match\n        if(tab.name == dictTab.currentName){\n            found=true;\n            break;\n        }\n        else{   //loose match & autofix\n            let reg = new RegExp('^\\s*' + dictTab.currentName.replaceAll(/\\s+/gm, '\\[\\s+.]') + '\\s*$')\n            if (tab.name.test(reg,'i')){ //loose match: ignore spaces and case\n                dictTab.currentName=tab.name;\n                fixed.push(dictTab);\n                found=true;\n                break;\n                //dictTab.currentNId = asNId(dictTab.currentName)\n            }\n        }\n    }\n    if(!found){\n        node.warn(\"AGGIORNA DIZIONARIO: tab \"+dictTab.nId+\" di nome \"+dictTab.name+\" non trovato\");\n    }\n}\n    //controlla gruppi\nfor (let dictTab of d.dict)\n    for(let dictGroup of dictTab.groups){\n        \n    }\n\nlet fix;\nfor(let i=0, t=d.dict[i]; i<t.length ; i++){\n\n    for(let j=0, g=d.dict[i].groups ; j<g.length ; j++){\n            //look at expected pos\n        if(d.tree[i][j].name != d.dict[i][j].currentName){\n                //look everywhere\n            let found=false;\n            for(let tab of d.tree)\n                for(let group of tab)\n                    if(group.name == d.dict[i][j].currentName){\n                        found=true;\n                        break;\n                    }\n            if(!found){\n                if(!fix)\n                    fix = new Array();\n                fix.push({\"i\":i,\"j\":j});\n            }\n        }\n    }\n}\n\n//attempt to fix\nfor(let item of fix){\n    let dictName=d.dict[item.i].groups[item.j].currentName;\n    let treeName = d.tree[item.i][item.j].name;\n    let reg = new RegExp('^\\s*' + dictName.replaceAll(/\\s+/gm, '\\[\\s+.]') + '\\s*$');\n    let newName;\n        //look in expected pos\n    if (treeName.test(reg,'gmi') )\n       newName=treeName;\n    else for(let g of d.tree[item.i])\n        //look if tab moved\n}\n\nfor(tabs in tab)\n\n\n\n\n\n\n\nglobal.set(\"ui\",d);\n\nnode.warn(d);\nmsg.res=json;\n//node.log([\"clone utility: modificati \"+n+\" attributi\"]);\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 16,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 865,
-        "y": 450,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "6adf7e418418b659",
@@ -3612,8 +3444,8 @@
         "g": "83e9f4234bb5157e",
         "name": "come clonare",
         "info": "\n    seleziona nodi\n\n    export come json\n\n    avranno un aspetto simile a\n        {\n            \"id\": \"8688db4c9c99cada\",               \n            \"type\": \"ui_led\",       //nodo semplice\n            \"order\": 3,\n            \"group\": \"f139ce507b5170da\",\n            \"width\": 7,\n            \"height\": 1,\n            \"label\": \"emergenza attiva\",\n            ..stuff..\n            \"x\": 940,\n            \"y\": 420,\n            \"wires\": []\n        },\n        ..stuff..\n        {\n            \"id\": \"f139ce507b5170da\",\n            \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n            \"name\": \"Pressa 2\",\n            \"tab\": \"533e203349de7f15\",\n            \"order\": 2,\n            \"disp\": true,\n            \"width\": 9,\n            \"collapse\": false,\n            \"className\": \"\"\n        },\n        {\n            \"id\": \"533e203349de7f15\",\n            \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n            \"name\": \"Stato Presse\",\n            \"icon\": \"dashboard\",\n            \"order\": 1,\n            \"disabled\": false,\n            \"hidden\": false\n        },\n    CON UTILITY\n        incolla in payload l'export limitato\n        modifica clone utility a piacere (piu info all interno)\n        se ricevi errori: esporta l'intero progetto tramite il menu in alto a destra ed incollalo in \"full export\"    //nota: non tutti i config-nodes vengono inclusi negli export: l'utilty cercherà in fullExport quelli mancanti\n        \n    CON NOTEPAD\n        usa find/replace su notepad per:\n        - trovare l'id del nuovo gruppo\n        - rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n        -fare altre eventuali modifiche\n\n",
-        "x": 1370,
-        "y": 105,
+        "x": 1315,
+        "y": 405,
         "wires": []
     },
     {
@@ -3639,8 +3471,8 @@
         "topic": "",
         "payload": "{}",
         "payloadType": "json",
-        "x": 1305,
-        "y": 150,
+        "x": 1250,
+        "y": 450,
         "wires": [
             [
                 "fc435c5a1f9f0c92",
@@ -3662,8 +3494,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1710,
-        "y": 150,
+        "x": 1655,
+        "y": 450,
         "wires": []
     },
     {
@@ -3679,8 +3511,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1550,
-        "y": 105,
+        "x": 1495,
+        "y": 405,
         "wires": [
             [
                 "e5f487ee4d811b22"
@@ -3699,8 +3531,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1505,
-        "y": 150,
+        "x": 1450,
+        "y": 450,
         "wires": [
             [
                 "e5f487ee4d811b22"
@@ -3729,7 +3561,7 @@
         ],
         "uncaught": false,
         "x": 815,
-        "y": 975,
+        "y": 1020,
         "wires": [
             [
                 "cdfe98ebc6268de8"
@@ -3749,7 +3581,7 @@
         "finalize": "",
         "libs": [],
         "x": 985,
-        "y": 975,
+        "y": 1020,
         "wires": [
             []
         ]
@@ -3774,8 +3606,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 1410,
-        "y": 340,
+        "x": 1520,
+        "y": 795,
         "wires": [
             [
                 "15d6f446b735362b"
@@ -3805,8 +3637,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 1300,
-        "y": 340,
+        "x": 1410,
+        "y": 795,
         "wires": [
             [
                 "0b39f4fe0d2dcc2d"
@@ -3822,8 +3654,8 @@
         "g": "cccb0df7921dec2f",
         "name": "tmp stuff",
         "info": "",
-        "x": 1310,
-        "y": 295,
+        "x": 1420,
+        "y": 750,
         "wires": []
     },
     {
@@ -3854,8 +3686,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 1410,
-        "y": 400,
+        "x": 1520,
+        "y": 855,
         "wires": [
             [
                 "b7700a2027731da3"
@@ -3890,8 +3722,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 1415,
-        "y": 460,
+        "x": 1525,
+        "y": 915,
         "wires": [
             []
         ]
@@ -3917,8 +3749,8 @@
             "59b1cd6f5bc9dbd1",
             "f1066a75fb521eb7"
         ],
-        "x": 1525,
-        "y": 340,
+        "x": 1635,
+        "y": 795,
         "wires": []
     },
     {
@@ -3941,8 +3773,8 @@
             "929ff1413fe086d0",
             "50c404e996c58b6e"
         ],
-        "x": 1525,
-        "y": 400,
+        "x": 1635,
+        "y": 855,
         "wires": []
     },
     {
@@ -3953,7 +3785,7 @@
         "name": "Pressa1",
         "info": "",
         "x": 420,
-        "y": 1120,
+        "y": 1165,
         "wires": []
     },
     {
@@ -3968,7 +3800,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 1255,
+        "y": 1300,
         "wires": [
             [
                 "6f3718697fcc12eb",
@@ -3997,7 +3829,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 1270,
+        "y": 1315,
         "wires": [
             [
                 "eedb33ae969dfe56"
@@ -4022,7 +3854,7 @@
         "repair": false,
         "outputs": 1,
         "x": 625,
-        "y": 1450,
+        "y": 1495,
         "wires": [
             [
                 "eedb33ae969dfe56",
@@ -4045,7 +3877,7 @@
             "270fa03be490aaf8"
         ],
         "x": 715,
-        "y": 1240,
+        "y": 1285,
         "wires": [
             [
                 "eedb33ae969dfe56"
@@ -4068,7 +3900,7 @@
             "02b34e28a35b0193"
         ],
         "x": 1080,
-        "y": 1255,
+        "y": 1300,
         "wires": []
     },
     {
@@ -4086,7 +3918,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1040,
-        "y": 1195,
+        "y": 1240,
         "wires": []
     },
     {
@@ -4106,7 +3938,7 @@
         "repair": false,
         "outputs": 1,
         "x": 610,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "cbaef8a2a29aec91",
@@ -4128,7 +3960,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 1375,
+        "y": 1420,
         "wires": [
             [
                 "9442f133234af130"
@@ -4147,7 +3979,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 1315,
+        "y": 1360,
         "wires": [
             [
                 "d9707a1ddd27e51f"
@@ -4165,7 +3997,7 @@
             "ec61e58badd4618b"
         ],
         "x": 475,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "8c105fb9ba332d83"
@@ -4196,7 +4028,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 535,
-        "y": 1300,
+        "y": 1345,
         "wires": [
             [
                 "8c105fb9ba332d83"
@@ -4225,7 +4057,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "74d93a9f486336e2"
@@ -4254,7 +4086,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 1390,
+        "y": 1435,
         "wires": [
             [
                 "74ce7e7ffcdc83ee"
@@ -4275,7 +4107,7 @@
             "198980510e71b358"
         ],
         "x": 715,
-        "y": 1360,
+        "y": 1405,
         "wires": [
             [
                 "74ce7e7ffcdc83ee"
@@ -4294,7 +4126,7 @@
             "e4cb9dfb2e461e20"
         ],
         "x": 1080,
-        "y": 1375,
+        "y": 1420,
         "wires": []
     },
     {
@@ -4311,7 +4143,7 @@
             "ce4da829986578cc"
         ],
         "x": 715,
-        "y": 1300,
+        "y": 1345,
         "wires": [
             [
                 "74d93a9f486336e2"
@@ -4330,7 +4162,7 @@
             "5fd6da994b8f7cd0"
         ],
         "x": 1080,
-        "y": 1315,
+        "y": 1360,
         "wires": []
     },
     {
@@ -4341,7 +4173,7 @@
         "name": "config update",
         "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
         "x": 525,
-        "y": 1195,
+        "y": 1240,
         "wires": []
     },
     {
@@ -4401,7 +4233,7 @@
         "repair": false,
         "outputs": 9,
         "x": 565,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "b04dae3690891cd4"
@@ -4445,7 +4277,7 @@
             "92a5a0ca4441d597"
         ],
         "x": 350,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "d2baf0268056e3cc"
@@ -4464,7 +4296,7 @@
             "335b885cb4328c74"
         ],
         "x": 730,
-        "y": 1660,
+        "y": 1705,
         "wires": []
     },
     {
@@ -4478,7 +4310,7 @@
             "a3a97f1cf85d0347"
         ],
         "x": 730,
-        "y": 1690,
+        "y": 1735,
         "wires": []
     },
     {
@@ -4492,7 +4324,7 @@
             "226ddfe740d17c77"
         ],
         "x": 730,
-        "y": 1720,
+        "y": 1765,
         "wires": []
     },
     {
@@ -4507,7 +4339,7 @@
             "f762db553be7631d"
         ],
         "x": 730,
-        "y": 1750,
+        "y": 1795,
         "wires": []
     },
     {
@@ -4522,7 +4354,7 @@
             "c2fd121fa884180a"
         ],
         "x": 730,
-        "y": 1780,
+        "y": 1825,
         "wires": []
     },
     {
@@ -4537,7 +4369,7 @@
             "d0b5efc6d9553bf6"
         ],
         "x": 730,
-        "y": 1810,
+        "y": 1855,
         "wires": []
     },
     {
@@ -4553,7 +4385,7 @@
         "finalize": "",
         "libs": [],
         "x": 765,
-        "y": 1900,
+        "y": 1945,
         "wires": [
             []
         ]
@@ -4566,7 +4398,7 @@
         "name": "data inputs",
         "info": "",
         "x": 320,
-        "y": 1660,
+        "y": 1705,
         "wires": []
     },
     {
@@ -4577,7 +4409,7 @@
         "name": "nota: all data inputs must use this group (read me)",
         "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
         "x": 440,
-        "y": 1690,
+        "y": 1735,
         "wires": []
     },
     {
@@ -4595,7 +4427,7 @@
             "83681412164bda60"
         ],
         "x": 545,
-        "y": 1615,
+        "y": 1660,
         "wires": [
             [
                 "3a7d35a0bfec5b49"
@@ -4611,7 +4443,7 @@
         "name": "Pressa2",
         "info": "",
         "x": 2140,
-        "y": 1120,
+        "y": 1165,
         "wires": []
     },
     {
@@ -4626,7 +4458,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 1255,
+        "y": 1300,
         "wires": [
             [
                 "2b56c9d224d141fc",
@@ -4655,7 +4487,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 1270,
+        "y": 1315,
         "wires": [
             [
                 "04ad8981080a4bc2"
@@ -4680,7 +4512,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2345,
-        "y": 1450,
+        "y": 1495,
         "wires": [
             [
                 "04ad8981080a4bc2",
@@ -4703,7 +4535,7 @@
             "270fa03be490aaf8"
         ],
         "x": 2435,
-        "y": 1240,
+        "y": 1285,
         "wires": [
             [
                 "04ad8981080a4bc2"
@@ -4726,7 +4558,7 @@
             "02b34e28a35b0193"
         ],
         "x": 2800,
-        "y": 1255,
+        "y": 1300,
         "wires": []
     },
     {
@@ -4744,7 +4576,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 2760,
-        "y": 1195,
+        "y": 1240,
         "wires": []
     },
     {
@@ -4764,7 +4596,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2330,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "d621806b9d512da2",
@@ -4786,7 +4618,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 1375,
+        "y": 1420,
         "wires": [
             [
                 "50748153bedb7365"
@@ -4805,7 +4637,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 1315,
+        "y": 1360,
         "wires": [
             [
                 "781a5cd284d89138"
@@ -4823,7 +4655,7 @@
             "ec61e58badd4618b"
         ],
         "x": 2195,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "bb0e2980902fc869"
@@ -4854,7 +4686,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 2255,
-        "y": 1300,
+        "y": 1345,
         "wires": [
             [
                 "bb0e2980902fc869"
@@ -4883,7 +4715,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 1330,
+        "y": 1375,
         "wires": [
             [
                 "a85291cf3f906e79"
@@ -4912,7 +4744,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 1390,
+        "y": 1435,
         "wires": [
             [
                 "59d1d69b47306a55"
@@ -4933,7 +4765,7 @@
             "4207c18fb1c725a4"
         ],
         "x": 2435,
-        "y": 1360,
+        "y": 1405,
         "wires": [
             [
                 "59d1d69b47306a55"
@@ -4952,7 +4784,7 @@
             "e4cb9dfb2e461e20"
         ],
         "x": 2800,
-        "y": 1375,
+        "y": 1420,
         "wires": []
     },
     {
@@ -4969,7 +4801,7 @@
             "ce4da829986578cc"
         ],
         "x": 2435,
-        "y": 1300,
+        "y": 1345,
         "wires": [
             [
                 "a85291cf3f906e79"
@@ -4988,7 +4820,7 @@
             "5fd6da994b8f7cd0"
         ],
         "x": 2800,
-        "y": 1315,
+        "y": 1360,
         "wires": []
     },
     {
@@ -4999,7 +4831,7 @@
         "name": "config update",
         "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
         "x": 2245,
-        "y": 1195,
+        "y": 1240,
         "wires": []
     },
     {
@@ -5036,7 +4868,7 @@
         "showGlow": true,
         "name": "alife",
         "x": 3235,
-        "y": 1585,
+        "y": 1630,
         "wires": []
     },
     {
@@ -5068,7 +4900,7 @@
         "showGlow": true,
         "name": "emergenza",
         "x": 3120,
-        "y": 1645,
+        "y": 1690,
         "wires": []
     },
     {
@@ -5100,7 +4932,7 @@
         "showGlow": true,
         "name": "centralina idraulica",
         "x": 3145,
-        "y": 1690,
+        "y": 1735,
         "wires": []
     },
     {
@@ -5128,7 +4960,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3180,
-        "y": 1780,
+        "y": 1825,
         "wires": []
     },
     {
@@ -5156,7 +4988,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3175,
-        "y": 1885,
+        "y": 1930,
         "wires": []
     },
     {
@@ -5184,7 +5016,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3155,
-        "y": 1990,
+        "y": 2035,
         "wires": []
     },
     {
@@ -5195,7 +5027,7 @@
         "name": "UI Pressa2",
         "info": "",
         "x": 2755,
-        "y": 1540,
+        "y": 1585,
         "wires": []
     },
     {
@@ -5218,7 +5050,7 @@
         "topic": "topic",
         "outputs": 1,
         "x": 3080,
-        "y": 1585,
+        "y": 1630,
         "wires": [
             []
         ]
@@ -5236,7 +5068,7 @@
         "finalize": "",
         "libs": [],
         "x": 2990,
-        "y": 1885,
+        "y": 1930,
         "wires": [
             [
                 "e1b9292fa6bac2e3"
@@ -5256,7 +5088,7 @@
         "finalize": "",
         "libs": [],
         "x": 2990,
-        "y": 1990,
+        "y": 2035,
         "wires": [
             [
                 "29ec537f14d3d22a"
@@ -5277,7 +5109,7 @@
             "4207c18fb1c725a4"
         ],
         "x": 2815,
-        "y": 1990,
+        "y": 2035,
         "wires": [
             [
                 "c74e3acc86372d69"
@@ -5299,7 +5131,7 @@
             "ce4da829986578cc"
         ],
         "x": 2880,
-        "y": 1870,
+        "y": 1915,
         "wires": [
             [
                 "cec28be43f93e629"
@@ -5321,7 +5153,7 @@
             "270fa03be490aaf8"
         ],
         "x": 2815,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "baa146a03506aca9"
@@ -5339,7 +5171,7 @@
             "ae5dbeb3428c4fa0"
         ],
         "x": 2890,
-        "y": 1690,
+        "y": 1735,
         "wires": [
             [
                 "5057b85e84045f6c"
@@ -5359,7 +5191,7 @@
             "b7ba6d9287419416"
         ],
         "x": 2935,
-        "y": 1630,
+        "y": 1675,
         "wires": [
             [
                 "b94d03c6fa83589f"
@@ -5380,7 +5212,7 @@
             "55c8b97d147f8570"
         ],
         "x": 2890,
-        "y": 1585,
+        "y": 1630,
         "wires": [
             [
                 "fa61973aeffbf656"
@@ -5397,7 +5229,7 @@
             "b7700a2027731da3"
         ],
         "x": 2800,
-        "y": 1645,
+        "y": 1690,
         "wires": [
             [
                 "af9aace116c71617"
@@ -5421,7 +5253,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2850,
-        "y": 1645,
+        "y": 1690,
         "wires": [
             [
                 "b94d03c6fa83589f",
@@ -5441,7 +5273,7 @@
             "15d6f446b735362b"
         ],
         "x": 2680,
-        "y": 1885,
+        "y": 1930,
         "wires": [
             [
                 "d62d94327506c361"
@@ -5465,7 +5297,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2775,
-        "y": 1885,
+        "y": 1930,
         "wires": [
             [
                 "cec28be43f93e629",
@@ -5488,7 +5320,7 @@
         "finalize": "",
         "libs": [],
         "x": 2980,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "b55bf496d3cc1513"
@@ -5552,7 +5384,7 @@
         "repair": false,
         "outputs": 9,
         "x": 2285,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "80f16227937027de"
@@ -5596,7 +5428,7 @@
             "92a5a0ca4441d597"
         ],
         "x": 2070,
-        "y": 1780,
+        "y": 1825,
         "wires": [
             [
                 "cf898100deca5850"
@@ -5615,7 +5447,7 @@
             "6de7c21a06de5b4a"
         ],
         "x": 2450,
-        "y": 1660,
+        "y": 1705,
         "wires": []
     },
     {
@@ -5629,7 +5461,7 @@
             "619c850163c2ff76"
         ],
         "x": 2450,
-        "y": 1690,
+        "y": 1735,
         "wires": []
     },
     {
@@ -5643,7 +5475,7 @@
             "fe28da5c501e29bd"
         ],
         "x": 2450,
-        "y": 1720,
+        "y": 1765,
         "wires": []
     },
     {
@@ -5658,7 +5490,7 @@
             "a8134e53f1635cf6"
         ],
         "x": 2450,
-        "y": 1750,
+        "y": 1795,
         "wires": []
     },
     {
@@ -5673,7 +5505,7 @@
             "a418abe4b0a07dce"
         ],
         "x": 2450,
-        "y": 1780,
+        "y": 1825,
         "wires": []
     },
     {
@@ -5688,7 +5520,7 @@
             "da089c88f8c7df29"
         ],
         "x": 2450,
-        "y": 1810,
+        "y": 1855,
         "wires": []
     },
     {
@@ -5704,7 +5536,7 @@
         "finalize": "",
         "libs": [],
         "x": 2485,
-        "y": 1900,
+        "y": 1945,
         "wires": [
             []
         ]
@@ -5717,7 +5549,7 @@
         "name": "data inputs",
         "info": "",
         "x": 2040,
-        "y": 1660,
+        "y": 1705,
         "wires": []
     },
     {
@@ -5728,7 +5560,7 @@
         "name": "nota: all data inputs must use this group (read me)",
         "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
         "x": 2160,
-        "y": 1690,
+        "y": 1735,
         "wires": []
     },
     {
@@ -5746,7 +5578,7 @@
             "83681412164bda60"
         ],
         "x": 2265,
-        "y": 1615,
+        "y": 1660,
         "wires": [
             [
                 "80f16227937027de",
@@ -5763,7 +5595,7 @@
         "name": "Pressa3",
         "info": "",
         "x": 420,
-        "y": 2760,
+        "y": 2805,
         "wires": []
     },
     {
@@ -5778,7 +5610,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 2895,
+        "y": 2940,
         "wires": [
             [
                 "75da577310765314",
@@ -5807,7 +5639,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 2910,
+        "y": 2955,
         "wires": [
             [
                 "a9888cb6c3d71618"
@@ -5832,7 +5664,7 @@
         "repair": false,
         "outputs": 1,
         "x": 625,
-        "y": 3090,
+        "y": 3135,
         "wires": [
             [
                 "a9888cb6c3d71618",
@@ -5855,7 +5687,7 @@
             "270fa03be490aaf8"
         ],
         "x": 715,
-        "y": 2880,
+        "y": 2925,
         "wires": [
             [
                 "a9888cb6c3d71618"
@@ -5878,7 +5710,7 @@
             "02b34e28a35b0193"
         ],
         "x": 1080,
-        "y": 2895,
+        "y": 2940,
         "wires": []
     },
     {
@@ -5896,7 +5728,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1040,
-        "y": 2835,
+        "y": 2880,
         "wires": []
     },
     {
@@ -5916,7 +5748,7 @@
         "repair": false,
         "outputs": 1,
         "x": 610,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "915995140b4de971",
@@ -5938,7 +5770,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 3015,
+        "y": 3060,
         "wires": [
             [
                 "8d3a9da3ebbd52ad"
@@ -5957,7 +5789,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 905,
-        "y": 2955,
+        "y": 3000,
         "wires": [
             [
                 "b4234dd3d234156d"
@@ -5975,7 +5807,7 @@
             "ec61e58badd4618b"
         ],
         "x": 475,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "7445df5ea6b3979f"
@@ -6006,7 +5838,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 535,
-        "y": 2940,
+        "y": 2985,
         "wires": [
             [
                 "7445df5ea6b3979f"
@@ -6035,7 +5867,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "1ea30b05f8dafd77"
@@ -6064,7 +5896,7 @@
         "to": "",
         "reg": false,
         "x": 715,
-        "y": 3030,
+        "y": 3075,
         "wires": [
             [
                 "d9da898c0922e3a7"
@@ -6085,7 +5917,7 @@
             "da0a7793e40b3340"
         ],
         "x": 715,
-        "y": 3000,
+        "y": 3045,
         "wires": [
             [
                 "d9da898c0922e3a7"
@@ -6104,7 +5936,7 @@
             "e4cb9dfb2e461e20"
         ],
         "x": 1080,
-        "y": 3015,
+        "y": 3060,
         "wires": []
     },
     {
@@ -6121,7 +5953,7 @@
             "ce4da829986578cc"
         ],
         "x": 715,
-        "y": 2940,
+        "y": 2985,
         "wires": [
             [
                 "1ea30b05f8dafd77"
@@ -6140,7 +5972,7 @@
             "5fd6da994b8f7cd0"
         ],
         "x": 1080,
-        "y": 2955,
+        "y": 3000,
         "wires": []
     },
     {
@@ -6151,7 +5983,7 @@
         "name": "config update",
         "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
         "x": 525,
-        "y": 2835,
+        "y": 2880,
         "wires": []
     },
     {
@@ -6188,7 +6020,7 @@
         "showGlow": true,
         "name": "alife",
         "x": 1515,
-        "y": 3225,
+        "y": 3270,
         "wires": []
     },
     {
@@ -6220,7 +6052,7 @@
         "showGlow": true,
         "name": "emergenza",
         "x": 1400,
-        "y": 3285,
+        "y": 3330,
         "wires": []
     },
     {
@@ -6252,7 +6084,7 @@
         "showGlow": true,
         "name": "centralina idraulica",
         "x": 1425,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -6280,7 +6112,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1460,
-        "y": 3420,
+        "y": 3465,
         "wires": []
     },
     {
@@ -6308,7 +6140,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1455,
-        "y": 3525,
+        "y": 3570,
         "wires": []
     },
     {
@@ -6336,7 +6168,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1435,
-        "y": 3630,
+        "y": 3675,
         "wires": []
     },
     {
@@ -6347,7 +6179,7 @@
         "name": "UI Pressa3",
         "info": "",
         "x": 1035,
-        "y": 3180,
+        "y": 3225,
         "wires": []
     },
     {
@@ -6370,7 +6202,7 @@
         "topic": "topic",
         "outputs": 1,
         "x": 1360,
-        "y": 3225,
+        "y": 3270,
         "wires": [
             [
                 "f4ab1dce07fe7f11"
@@ -6390,7 +6222,7 @@
         "finalize": "",
         "libs": [],
         "x": 1270,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "ce8d2903e7974843"
@@ -6410,7 +6242,7 @@
         "finalize": "",
         "libs": [],
         "x": 1270,
-        "y": 3630,
+        "y": 3675,
         "wires": [
             [
                 "0fd972c0e636f906"
@@ -6431,7 +6263,7 @@
             "da0a7793e40b3340"
         ],
         "x": 1095,
-        "y": 3630,
+        "y": 3675,
         "wires": [
             [
                 "9ffbf76eead154a9"
@@ -6453,7 +6285,7 @@
             "ce4da829986578cc"
         ],
         "x": 1160,
-        "y": 3510,
+        "y": 3555,
         "wires": [
             [
                 "3d4881e0b3139213"
@@ -6475,7 +6307,7 @@
             "270fa03be490aaf8"
         ],
         "x": 1095,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "1cd1ba43a58cd415"
@@ -6493,7 +6325,7 @@
             "0270dc1e8f7e9aa7"
         ],
         "x": 1170,
-        "y": 3330,
+        "y": 3375,
         "wires": [
             [
                 "e5f7e9c22a058ed1"
@@ -6513,7 +6345,7 @@
             "397081947df56407"
         ],
         "x": 1215,
-        "y": 3270,
+        "y": 3315,
         "wires": [
             [
                 "555d91aa8bf28ae9"
@@ -6534,7 +6366,7 @@
             "55c8b97d147f8570"
         ],
         "x": 1170,
-        "y": 3225,
+        "y": 3270,
         "wires": [
             [
                 "87b78956ec5af576"
@@ -6551,7 +6383,7 @@
             "b7700a2027731da3"
         ],
         "x": 1080,
-        "y": 3285,
+        "y": 3330,
         "wires": [
             [
                 "d27d4300fc48fe25"
@@ -6575,7 +6407,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1130,
-        "y": 3285,
+        "y": 3330,
         "wires": [
             [
                 "555d91aa8bf28ae9",
@@ -6595,7 +6427,7 @@
             "15d6f446b735362b"
         ],
         "x": 960,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "e32d6d2b3ce23351"
@@ -6619,7 +6451,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1055,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "3d4881e0b3139213",
@@ -6642,7 +6474,7 @@
         "finalize": "",
         "libs": [],
         "x": 1260,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "ceea7655c2f32850"
@@ -6706,7 +6538,7 @@
         "repair": false,
         "outputs": 9,
         "x": 565,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "2b4e10741bb7b04a"
@@ -6750,7 +6582,7 @@
             "92a5a0ca4441d597"
         ],
         "x": 350,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "87748d9349a8604a"
@@ -6769,7 +6601,7 @@
             "6b8fb6f2bba64125"
         ],
         "x": 730,
-        "y": 3300,
+        "y": 3345,
         "wires": []
     },
     {
@@ -6783,7 +6615,7 @@
             "5a518d75c64bc0ea"
         ],
         "x": 730,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -6797,7 +6629,7 @@
             "49e591142a7bea9a"
         ],
         "x": 730,
-        "y": 3360,
+        "y": 3405,
         "wires": []
     },
     {
@@ -6812,7 +6644,7 @@
             "08f2f36c4afebcb3"
         ],
         "x": 730,
-        "y": 3390,
+        "y": 3435,
         "wires": []
     },
     {
@@ -6827,7 +6659,7 @@
             "c4d4ea455e2f73f4"
         ],
         "x": 730,
-        "y": 3420,
+        "y": 3465,
         "wires": []
     },
     {
@@ -6842,7 +6674,7 @@
             "7cf07817432db46f"
         ],
         "x": 730,
-        "y": 3450,
+        "y": 3495,
         "wires": []
     },
     {
@@ -6858,7 +6690,7 @@
         "finalize": "",
         "libs": [],
         "x": 765,
-        "y": 3540,
+        "y": 3585,
         "wires": [
             []
         ]
@@ -6871,7 +6703,7 @@
         "name": "data inputs",
         "info": "",
         "x": 320,
-        "y": 3300,
+        "y": 3345,
         "wires": []
     },
     {
@@ -6882,7 +6714,7 @@
         "name": "nota: all data inputs must use this group (read me)",
         "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
         "x": 440,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -6900,7 +6732,7 @@
             "83681412164bda60"
         ],
         "x": 545,
-        "y": 3255,
+        "y": 3300,
         "wires": [
             [
                 "2b4e10741bb7b04a",
@@ -6917,7 +6749,7 @@
         "name": "Pressa4",
         "info": "",
         "x": 2140,
-        "y": 2760,
+        "y": 2805,
         "wires": []
     },
     {
@@ -6932,7 +6764,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 2895,
+        "y": 2940,
         "wires": [
             [
                 "5d1ffc08cdd9417e",
@@ -6961,7 +6793,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 2910,
+        "y": 2955,
         "wires": [
             [
                 "e1b5bc2e6c76d5ad"
@@ -6986,7 +6818,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2345,
-        "y": 3090,
+        "y": 3135,
         "wires": [
             [
                 "e1b5bc2e6c76d5ad",
@@ -7009,7 +6841,7 @@
             "270fa03be490aaf8"
         ],
         "x": 2435,
-        "y": 2880,
+        "y": 2925,
         "wires": [
             [
                 "e1b5bc2e6c76d5ad"
@@ -7032,7 +6864,7 @@
             "02b34e28a35b0193"
         ],
         "x": 2800,
-        "y": 2895,
+        "y": 2940,
         "wires": []
     },
     {
@@ -7050,7 +6882,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 2760,
-        "y": 2835,
+        "y": 2880,
         "wires": []
     },
     {
@@ -7070,7 +6902,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2330,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "1bc3b7674dca7bb1",
@@ -7092,7 +6924,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 3015,
+        "y": 3060,
         "wires": [
             [
                 "f5c8f81833a15897"
@@ -7111,7 +6943,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 2625,
-        "y": 2955,
+        "y": 3000,
         "wires": [
             [
                 "f0c13cb1504a27fd"
@@ -7129,7 +6961,7 @@
             "ec61e58badd4618b"
         ],
         "x": 2195,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "48c82e4a47da27a2"
@@ -7160,7 +6992,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 2255,
-        "y": 2940,
+        "y": 2985,
         "wires": [
             [
                 "48c82e4a47da27a2"
@@ -7189,7 +7021,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 2970,
+        "y": 3015,
         "wires": [
             [
                 "f14a7d390f641315"
@@ -7218,7 +7050,7 @@
         "to": "",
         "reg": false,
         "x": 2435,
-        "y": 3030,
+        "y": 3075,
         "wires": [
             [
                 "251f8db3f4f7739c"
@@ -7239,7 +7071,7 @@
             "3e85a6139504bb70"
         ],
         "x": 2435,
-        "y": 3000,
+        "y": 3045,
         "wires": [
             [
                 "251f8db3f4f7739c"
@@ -7258,7 +7090,7 @@
             "e4cb9dfb2e461e20"
         ],
         "x": 2800,
-        "y": 3015,
+        "y": 3060,
         "wires": []
     },
     {
@@ -7275,7 +7107,7 @@
             "ce4da829986578cc"
         ],
         "x": 2435,
-        "y": 2940,
+        "y": 2985,
         "wires": [
             [
                 "f14a7d390f641315"
@@ -7294,7 +7126,7 @@
             "5fd6da994b8f7cd0"
         ],
         "x": 2800,
-        "y": 2955,
+        "y": 3000,
         "wires": []
     },
     {
@@ -7305,7 +7137,7 @@
         "name": "config update",
         "info": "\nseleziona nodi\n\nexport come json\n\navranno un aspetto simile a\n    {\n        \"id\": \"8688db4c9c99cada\",               \n        \"type\": \"ui_led\",       //nodo semplice\n        \"order\": 3,\n        \"group\": \"f139ce507b5170da\",\n        \"width\": 7,\n        \"height\": 1,\n        \"label\": \"emergenza attiva\",\n        ..stuff..\n        \"x\": 940,\n        \"y\": 420,\n        \"wires\": []\n    },\n    ..stuff..\n    {\n        \"id\": \"f139ce507b5170da\",\n        \"type\": \"ui_group\",          //nodo layout dashboard (widjet group)\n        \"name\": \"Pressa 2\",\n        \"tab\": \"533e203349de7f15\",\n        \"order\": 2,\n        \"disp\": true,\n        \"width\": 9,\n        \"collapse\": false,\n        \"className\": \"\"\n    },\n    {\n        \"id\": \"533e203349de7f15\",\n        \"type\": \"ui_tab\",           //nodo layout dashboard (tab)\n        \"name\": \"Stato Presse\",\n        \"icon\": \"dashboard\",\n        \"order\": 1,\n        \"disabled\": false,\n        \"hidden\": false\n    },\n\nusa find/replace su notepad per:\n- trovare l'id del nuovo gruppo\n- rimpiazzare \"group\": in tutti i nodi \"semplici\" con il nuovo id.\n-fare altre eventuali modifiche",
         "x": 2245,
-        "y": 2835,
+        "y": 2880,
         "wires": []
     },
     {
@@ -7342,7 +7174,7 @@
         "showGlow": true,
         "name": "alife",
         "x": 3235,
-        "y": 3225,
+        "y": 3270,
         "wires": []
     },
     {
@@ -7374,7 +7206,7 @@
         "showGlow": true,
         "name": "emergenza",
         "x": 3120,
-        "y": 3285,
+        "y": 3330,
         "wires": []
     },
     {
@@ -7406,7 +7238,7 @@
         "showGlow": true,
         "name": "centralina idraulica",
         "x": 3145,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -7434,7 +7266,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3180,
-        "y": 3420,
+        "y": 3465,
         "wires": []
     },
     {
@@ -7462,7 +7294,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3175,
-        "y": 3525,
+        "y": 3570,
         "wires": []
     },
     {
@@ -7490,7 +7322,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 3155,
-        "y": 3630,
+        "y": 3675,
         "wires": []
     },
     {
@@ -7501,7 +7333,7 @@
         "name": "UI Pressa4",
         "info": "",
         "x": 2755,
-        "y": 3180,
+        "y": 3225,
         "wires": []
     },
     {
@@ -7524,7 +7356,7 @@
         "topic": "topic",
         "outputs": 1,
         "x": 3080,
-        "y": 3225,
+        "y": 3270,
         "wires": [
             [
                 "d010763e4edae281"
@@ -7544,7 +7376,7 @@
         "finalize": "",
         "libs": [],
         "x": 2990,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "f8ac9b16d8e8c8c2"
@@ -7564,7 +7396,7 @@
         "finalize": "",
         "libs": [],
         "x": 2990,
-        "y": 3630,
+        "y": 3675,
         "wires": [
             [
                 "1a746e4647e62e33"
@@ -7585,7 +7417,7 @@
             "3e85a6139504bb70"
         ],
         "x": 2815,
-        "y": 3630,
+        "y": 3675,
         "wires": [
             [
                 "9db1eab124366579"
@@ -7607,7 +7439,7 @@
             "ce4da829986578cc"
         ],
         "x": 2880,
-        "y": 3510,
+        "y": 3555,
         "wires": [
             [
                 "f897649ee3d4d637"
@@ -7629,7 +7461,7 @@
             "270fa03be490aaf8"
         ],
         "x": 2815,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "9ea62a5cbd872003"
@@ -7647,7 +7479,7 @@
             "c1ce42b2a2628fb7"
         ],
         "x": 2890,
-        "y": 3330,
+        "y": 3375,
         "wires": [
             [
                 "71d2de9ac37ec537"
@@ -7667,7 +7499,7 @@
             "69f525ec93329760"
         ],
         "x": 2935,
-        "y": 3270,
+        "y": 3315,
         "wires": [
             [
                 "8bbfdd96182fe6ad"
@@ -7688,7 +7520,7 @@
             "55c8b97d147f8570"
         ],
         "x": 2890,
-        "y": 3225,
+        "y": 3270,
         "wires": [
             [
                 "a364218cd9c631be"
@@ -7705,7 +7537,7 @@
             "b7700a2027731da3"
         ],
         "x": 2800,
-        "y": 3285,
+        "y": 3330,
         "wires": [
             [
                 "dd016cb3fc084a9f"
@@ -7729,7 +7561,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2850,
-        "y": 3285,
+        "y": 3330,
         "wires": [
             [
                 "8bbfdd96182fe6ad",
@@ -7749,7 +7581,7 @@
             "15d6f446b735362b"
         ],
         "x": 2680,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "b367f658d4008f89"
@@ -7773,7 +7605,7 @@
         "repair": false,
         "outputs": 1,
         "x": 2775,
-        "y": 3525,
+        "y": 3570,
         "wires": [
             [
                 "f897649ee3d4d637",
@@ -7796,7 +7628,7 @@
         "finalize": "",
         "libs": [],
         "x": 2980,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "979923a0e6fc7490"
@@ -7860,7 +7692,7 @@
         "repair": false,
         "outputs": 9,
         "x": 2285,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "eb252be4f519ca75"
@@ -7904,7 +7736,7 @@
             "92a5a0ca4441d597"
         ],
         "x": 2070,
-        "y": 3420,
+        "y": 3465,
         "wires": [
             [
                 "53fe30989a4e2dd8"
@@ -7923,7 +7755,7 @@
             "c679d003b0d550aa"
         ],
         "x": 2450,
-        "y": 3300,
+        "y": 3345,
         "wires": []
     },
     {
@@ -7937,7 +7769,7 @@
             "63a0a8175ccb6c22"
         ],
         "x": 2450,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -7951,7 +7783,7 @@
             "db6e0934bd7af8da"
         ],
         "x": 2450,
-        "y": 3360,
+        "y": 3405,
         "wires": []
     },
     {
@@ -7966,7 +7798,7 @@
             "b6c50cf9f36205b4"
         ],
         "x": 2450,
-        "y": 3390,
+        "y": 3435,
         "wires": []
     },
     {
@@ -7981,7 +7813,7 @@
             "fb69eb13f1ed47f4"
         ],
         "x": 2450,
-        "y": 3420,
+        "y": 3465,
         "wires": []
     },
     {
@@ -7996,7 +7828,7 @@
             "184a5768cc88bec6"
         ],
         "x": 2450,
-        "y": 3450,
+        "y": 3495,
         "wires": []
     },
     {
@@ -8012,7 +7844,7 @@
         "finalize": "",
         "libs": [],
         "x": 2485,
-        "y": 3540,
+        "y": 3585,
         "wires": [
             []
         ]
@@ -8025,7 +7857,7 @@
         "name": "data inputs",
         "info": "",
         "x": 2040,
-        "y": 3300,
+        "y": 3345,
         "wires": []
     },
     {
@@ -8036,7 +7868,7 @@
         "name": "nota: all data inputs must use this group (read me)",
         "info": "\nall inputs should either use the mixed input \n OR the single link-outs INSIDE THIS GROUP to be properly handled and formatted\n\nfor example all inputs to gauges must also be sent to \"apply gauges config\"",
         "x": 2160,
-        "y": 3330,
+        "y": 3375,
         "wires": []
     },
     {
@@ -8054,7 +7886,7 @@
             "83681412164bda60"
         ],
         "x": 2265,
-        "y": 3255,
+        "y": 3300,
         "wires": [
             [
                 "eb252be4f519ca75",
@@ -8100,7 +7932,7 @@
         "repair": false,
         "outputs": 5,
         "x": 630,
-        "y": 760,
+        "y": 805,
         "wires": [
             [
                 "48f4e0f84560c01c"
@@ -8127,7 +7959,7 @@
         "name": "mixed uiPresse mixedDataIn in",
         "links": [],
         "x": 355,
-        "y": 760,
+        "y": 805,
         "wires": [
             [
                 "2032554750613969"
@@ -8147,7 +7979,7 @@
             "9890c53475b90fa6"
         ],
         "x": 900,
-        "y": 680,
+        "y": 725,
         "wires": [],
         "l": true
     },
@@ -8164,7 +7996,7 @@
         "finalize": "",
         "libs": [],
         "x": 830,
-        "y": 840,
+        "y": 885,
         "wires": [
             []
         ]
@@ -8181,7 +8013,7 @@
             "56377c4577552212"
         ],
         "x": 900,
-        "y": 720,
+        "y": 765,
         "wires": [],
         "l": true
     },
@@ -8197,7 +8029,7 @@
             "f0e330b3f6e390be"
         ],
         "x": 900,
-        "y": 760,
+        "y": 805,
         "wires": [],
         "l": true
     },
@@ -8213,7 +8045,7 @@
             "f53db4bd109ccc20"
         ],
         "x": 900,
-        "y": 800,
+        "y": 845,
         "wires": [],
         "l": true
     },
@@ -8225,7 +8057,7 @@
         "name": "sort press for data inputs",
         "info": "",
         "x": 335,
-        "y": 670,
+        "y": 715,
         "wires": []
     },
     {
@@ -8262,7 +8094,7 @@
         "showGlow": true,
         "name": "alife",
         "x": 1510,
-        "y": 1600,
+        "y": 1645,
         "wires": []
     },
     {
@@ -8294,7 +8126,7 @@
         "showGlow": true,
         "name": "emergenza",
         "x": 1395,
-        "y": 1660,
+        "y": 1705,
         "wires": []
     },
     {
@@ -8326,7 +8158,7 @@
         "showGlow": true,
         "name": "centralina idraulica",
         "x": 1420,
-        "y": 1705,
+        "y": 1750,
         "wires": []
     },
     {
@@ -8354,7 +8186,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1455,
-        "y": 1795,
+        "y": 1840,
         "wires": []
     },
     {
@@ -8382,7 +8214,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1450,
-        "y": 1900,
+        "y": 1945,
         "wires": []
     },
     {
@@ -8410,7 +8242,7 @@
         "seg2": "",
         "className": "gaugesCommonStyle",
         "x": 1430,
-        "y": 2005,
+        "y": 2050,
         "wires": []
     },
     {
@@ -8421,7 +8253,7 @@
         "name": "UI Pressa1",
         "info": "",
         "x": 1030,
-        "y": 1555,
+        "y": 1600,
         "wires": []
     },
     {
@@ -8437,7 +8269,7 @@
         "finalize": "",
         "libs": [],
         "x": 1265,
-        "y": 1900,
+        "y": 1945,
         "wires": [
             [
                 "d9ec1d7d3fd6fe80"
@@ -8457,7 +8289,7 @@
         "finalize": "",
         "libs": [],
         "x": 1265,
-        "y": 2005,
+        "y": 2050,
         "wires": [
             [
                 "d097048d7107f475"
@@ -8478,7 +8310,7 @@
             "198980510e71b358"
         ],
         "x": 1090,
-        "y": 2005,
+        "y": 2050,
         "wires": [
             [
                 "c1ec4a7757bf9a7c"
@@ -8500,7 +8332,7 @@
             "ce4da829986578cc"
         ],
         "x": 1155,
-        "y": 1885,
+        "y": 1930,
         "wires": [
             [
                 "0aa764285d1cf533"
@@ -8522,7 +8354,7 @@
             "270fa03be490aaf8"
         ],
         "x": 1090,
-        "y": 1795,
+        "y": 1840,
         "wires": [
             [
                 "9177fda6dbdb7382"
@@ -8540,7 +8372,7 @@
             "7e8e0c5575861e5a"
         ],
         "x": 1165,
-        "y": 1705,
+        "y": 1750,
         "wires": [
             [
                 "102a8a782e378ec9"
@@ -8560,7 +8392,7 @@
             "0dd9833c9af4a1b1"
         ],
         "x": 1210,
-        "y": 1645,
+        "y": 1690,
         "wires": [
             [
                 "779b3f472d68db10"
@@ -8577,7 +8409,7 @@
             "b04dae3690891cd4"
         ],
         "x": 1165,
-        "y": 1580,
+        "y": 1625,
         "wires": [
             [
                 "9e5f19ba303d1e7f"
@@ -8594,7 +8426,7 @@
             "b7700a2027731da3"
         ],
         "x": 1075,
-        "y": 1660,
+        "y": 1705,
         "wires": [
             [
                 "6ce016b7a2323a01"
@@ -8618,7 +8450,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1125,
-        "y": 1660,
+        "y": 1705,
         "wires": [
             [
                 "779b3f472d68db10",
@@ -8637,7 +8469,7 @@
             "15d6f446b735362b"
         ],
         "x": 955,
-        "y": 1900,
+        "y": 1945,
         "wires": [
             [
                 "24041115ac09d2d9"
@@ -8661,7 +8493,7 @@
         "repair": false,
         "outputs": 1,
         "x": 1050,
-        "y": 1900,
+        "y": 1945,
         "wires": [
             [
                 "0aa764285d1cf533",
@@ -8684,7 +8516,7 @@
         "finalize": "",
         "libs": [],
         "x": 1255,
-        "y": 1795,
+        "y": 1840,
         "wires": [
             [
                 "ab0465821b20c46b"
@@ -8710,7 +8542,7 @@
         "topic": "topic",
         "outputs": 1,
         "x": 1300,
-        "y": 1580,
+        "y": 1625,
         "wires": [
             []
         ]
@@ -12711,8 +12543,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 265,
+        "x": 750,
+        "y": 240,
         "wires": [
             []
         ]
@@ -12737,8 +12569,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 220,
+        "x": 750,
+        "y": 195,
         "wires": [
             []
         ]
@@ -12755,8 +12587,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 565,
-        "y": 220,
+        "x": 575,
+        "y": 195,
         "wires": [
             [
                 "062ce81d525ecefe"
@@ -12776,8 +12608,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 565,
-        "y": 265,
+        "x": 575,
+        "y": 240,
         "wires": [
             [
                 "b8bf553ba73175d1"
@@ -13083,7 +12915,7 @@
         "showLightness": false,
         "square": "true",
         "dynOutput": "false",
-        "order": 9,
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -13115,7 +12947,7 @@
         "showLightness": false,
         "square": "true",
         "dynOutput": "false",
-        "order": 8,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -13444,6 +13276,7 @@
         "id": "2b2c25ba59229fe0",
         "type": "link in",
         "z": "69a590bb3eaafea5",
+        "d": true,
         "name": "config.jsonRead_in",
         "links": [
             "afddbb067e0f39ac",
@@ -14010,6 +13843,7 @@
         "id": "35b66a3ec499c665",
         "type": "link in",
         "z": "69a590bb3eaafea5",
+        "d": true,
         "name": "config.jsonRead_in",
         "links": [
             "afddbb067e0f39ac",
@@ -14662,6 +14496,7 @@
         "id": "89b937e2a293b78b",
         "type": "link in",
         "z": "69a590bb3eaafea5",
+        "d": true,
         "name": "config.jsonRead_in",
         "links": [
             "afddbb067e0f39ac",
@@ -15037,7 +14872,7 @@
         "type": "complete",
         "z": "69a590bb3eaafea5",
         "d": true,
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "scope": [
             "40899b323fee0b76",
@@ -15072,14 +14907,14 @@
         "id": "c738458e2f0166fd",
         "type": "inject",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
-        "name": "poll 1s global.config",
+        "g": "b45e5b597df321ef",
+        "name": "poll 1.5s global.config",
         "props": [
             {
                 "p": "payload"
             }
         ],
-        "repeat": "1",
+        "repeat": "1.5",
         "crontab": "",
         "once": true,
         "onceDelay": "2",
@@ -15098,7 +14933,7 @@
         "id": "a79139d6fa8686e2",
         "type": "rbe",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "func": "rbe",
         "gap": "",
@@ -15112,7 +14947,8 @@
         "wires": [
             [
                 "47787bd5c3f095c5",
-                "d552f3455898102d"
+                "d552f3455898102d",
+                "34b28815286f8381"
             ]
         ],
         "l": false
@@ -15121,7 +14957,7 @@
         "id": "47787bd5c3f095c5",
         "type": "json",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "property": "payload",
         "action": "str",
@@ -15139,7 +14975,7 @@
         "id": "cd632756435b2754",
         "type": "file",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "filename": ".\\uiConfig.json",
         "filenameType": "str",
@@ -15159,7 +14995,7 @@
         "id": "9aac6231207dd902",
         "type": "file in",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "filename": ".\\uiConfig.json",
         "filenameType": "str",
@@ -15180,7 +15016,7 @@
         "id": "27b14ed1b833f3fa",
         "type": "inject",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "OnStartup0.1",
         "props": [],
         "repeat": "",
@@ -15200,7 +15036,7 @@
         "id": "711adcc293c4fe4e",
         "type": "json",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "property": "payload",
         "action": "obj",
@@ -15218,7 +15054,7 @@
         "id": "16a57738beed3d92",
         "type": "change",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "",
         "rules": [
             {
@@ -15247,7 +15083,7 @@
         "id": "0c1c5418ae454848",
         "type": "debug",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "written settings",
         "active": false,
         "tosidebar": true,
@@ -15265,7 +15101,7 @@
         "id": "afddbb067e0f39ac",
         "type": "link out",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "config.jsonRead_out",
         "mode": "link",
         "links": [
@@ -15282,7 +15118,7 @@
         "id": "d552f3455898102d",
         "type": "link out",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "OnConfigUpdate_out",
         "mode": "link",
         "links": [
@@ -15298,7 +15134,10 @@
             "23fa7a8de9d4b748",
             "71cdad2935eab809",
             "a3c95a133003aada",
-            "736f1d79123164d5"
+            "736f1d79123164d5",
+            "93745921a000afa6",
+            "6a909b80fd1cfba9",
+            "f352e5b1b926013a"
         ],
         "x": 690,
         "y": 580,
@@ -15310,7 +15149,7 @@
         "type": "change",
         "z": "69a590bb3eaafea5",
         "d": true,
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "get config",
         "rules": [
             {
@@ -15339,7 +15178,7 @@
         "id": "5d4297555cadcdff",
         "type": "inject",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "send",
         "props": [
             {
@@ -15366,7 +15205,7 @@
         "type": "complete",
         "z": "69a590bb3eaafea5",
         "d": true,
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "OnConfigUpdate",
         "scope": [
             "16a57738beed3d92",
@@ -15386,7 +15225,7 @@
         "type": "link out",
         "z": "69a590bb3eaafea5",
         "d": true,
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "OnConfigUpdateEvent_out",
         "mode": "link",
         "links": [],
@@ -15399,7 +15238,7 @@
         "id": "ef9feb95d1f12a3a",
         "type": "debug",
         "z": "69a590bb3eaafea5",
-        "g": "9c7714b3475b1f2b",
+        "g": "b45e5b597df321ef",
         "name": "read settings",
         "active": false,
         "tosidebar": true,
@@ -15623,97 +15462,14 @@
         ]
     },
     {
-        "id": "13d2e16bdac1b820",
-        "type": "catch",
-        "z": "69a590bb3eaafea5",
-        "d": true,
-        "g": "9c7714b3475b1f2b",
-        "name": "",
-        "scope": [
-            "9aac6231207dd902"
-        ],
-        "uncaught": false,
-        "x": 360,
-        "y": 340,
-        "wires": [
-            [
-                "7f28962bbf2edd96"
-            ]
-        ]
-    },
-    {
-        "id": "7f28962bbf2edd96",
-        "type": "function",
-        "z": "69a590bb3eaafea5",
-        "d": true,
-        "g": "9c7714b3475b1f2b",
-        "name": "catch uiConfig fileNotFound",
-        "func": "\nif(/^ENOENT/.test(msg.error) && !context.get(\"triedOnce\")){\n    context.set(\"triedOnce\");\n    return msg;\n}\nelse{\n    if (msg.error) {\n        node.error({ \"err\": msg.error.message, \"full\": msg });\n        //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n    }\n    else {\n        node.error(msg);\n    }\n    return null\n}",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 590,
-        "y": 340,
-        "wires": [
-            [
-                "636abe298d8940a7"
-            ],
-            [
-                "323cfea2dd074604"
-            ]
-        ]
-    },
-    {
-        "id": "323cfea2dd074604",
-        "type": "function",
-        "z": "69a590bb3eaafea5",
-        "d": true,
-        "g": "9c7714b3475b1f2b",
-        "name": "catch uiConfig",
-        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
-        "finalize": "",
-        "libs": [],
-        "x": 540,
-        "y": 380,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "636abe298d8940a7",
-        "type": "file",
-        "z": "69a590bb3eaafea5",
-        "d": true,
-        "g": "9c7714b3475b1f2b",
-        "name": "",
-        "filename": ".\\uiConfig.json",
-        "filenameType": "str",
-        "appendNewline": true,
-        "createDir": false,
-        "overwriteFile": "true",
-        "encoding": "none",
-        "x": 860,
-        "y": 360,
-        "wires": [
-            [
-                "9aac6231207dd902"
-            ]
-        ]
-    },
-    {
         "id": "80ce9f5ef71f266e",
         "type": "ui_template",
         "z": "69a590bb3eaafea5",
         "group": "a2dc8e5cbc92778b",
         "name": "\"utilizza colori di\"",
         "order": 5,
-        "width": "0",
-        "height": "0",
+        "width": 0,
+        "height": 0,
         "format": "<span style=\"margin-left:60px;position:relative;top:30px\">utilizza colori di</span>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -15754,8 +15510,8 @@
         "group": "db63de8125d253b0",
         "name": "\"utilizza colori di\"",
         "order": 4,
-        "width": "0",
-        "height": "0",
+        "width": 0,
+        "height": 0,
         "format": "<span style=\"margin-left:60px;position:relative;top:30px\">utilizza colori di</span>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -15775,8 +15531,8 @@
         "group": "d6dcf6dea0234745",
         "name": "\"utilizza colori di\"",
         "order": 4,
-        "width": "0",
-        "height": "0",
+        "width": 0,
+        "height": 0,
         "format": "<span style=\"margin-left:60px;position:relative;top:30px\">utilizza colori di</span>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -15788,6 +15544,228 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "93745921a000afa6",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "name": "OnConfigUpdate in",
+        "links": [
+            "d552f3455898102d"
+        ],
+        "x": 300,
+        "y": 960,
+        "wires": [
+            [
+                "351eace510045898"
+            ]
+        ]
+    },
+    {
+        "id": "6a909b80fd1cfba9",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "name": "OnConfigUpdate in",
+        "links": [
+            "d552f3455898102d"
+        ],
+        "x": 180,
+        "y": 1470,
+        "wires": [
+            [
+                "330da2b395af8bff"
+            ]
+        ]
+    },
+    {
+        "id": "f352e5b1b926013a",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "name": "OnConfigUpdate in",
+        "links": [
+            "d552f3455898102d"
+        ],
+        "x": 210,
+        "y": 2040,
+        "wires": [
+            [
+                "29e4829ae591da51"
+            ]
+        ]
+    },
+    {
+        "id": "13c1fa98c29f8f81",
+        "type": "debug",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "set def settings",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1270,
+        "y": 345,
+        "wires": []
+    },
+    {
+        "id": "636abe298d8940a7",
+        "type": "file",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "",
+        "filename": ".\\uiConfig.json",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 1060,
+        "y": 345,
+        "wires": [
+            [
+                "13c1fa98c29f8f81"
+            ]
+        ]
+    },
+    {
+        "id": "649be06b4b880b67",
+        "type": "json",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "",
+        "property": "payload",
+        "action": "str",
+        "pretty": false,
+        "x": 945,
+        "y": 345,
+        "wires": [
+            [
+                "636abe298d8940a7"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "0c0ba63642b01a89",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "setDefault",
+        "func": "msg.payload = {\n    \"tempPianoSup\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": false\n    },\n    \"pressPressata\": {\n        \"min\": 0,\n        \"max\": 10,\n        \"c1\": \"#ffffff\",\n        \"c2\": \"#000000\",\n        \"c3\": \"#000000\",\n        \"copyColors\": \"tempPianoSup\"\n    },\n    \"tempPianoInf\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": \"tempPianoSup\"\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 855,
+        "y": 345,
+        "wires": [
+            [
+                "649be06b4b880b67"
+            ]
+        ]
+    },
+    {
+        "id": "e517363a9bb66217",
+        "type": "inject",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 750,
+        "y": 315,
+        "wires": [
+            [
+                "0c0ba63642b01a89"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "7f28962bbf2edd96",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "catch uiConfig fileNotFound",
+        "func": "\nif(/ENOENT/.test(msg.error) && !context.get(\"triedOnce\")){\n    context.set(\"triedOnce\");\n    return msg;\n}\nelse{\n    if (msg.error) {\n        node.error({ \"err\": msg.error.message, \"full\": msg });\n        //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n    }\n    else {\n        node.error(msg);\n    }\n    return null\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 340,
+        "wires": [
+            [
+                "0c0ba63642b01a89"
+            ],
+            [
+                "323cfea2dd074604"
+            ]
+        ]
+    },
+    {
+        "id": "323cfea2dd074604",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "catch uiConfig",
+        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "13d2e16bdac1b820",
+        "type": "catch",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "",
+        "scope": [
+            "9aac6231207dd902"
+        ],
+        "uncaught": false,
+        "x": 300,
+        "y": 340,
+        "wires": [
+            [
+                "7f28962bbf2edd96"
+            ]
+        ]
+    },
+    {
+        "id": "34b28815286f8381",
+        "type": "debug",
+        "z": "69a590bb3eaafea5",
+        "g": "b45e5b597df321ef",
+        "name": "settings changed",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 635,
+        "y": 490,
+        "wires": []
     },
     {
         "id": "b0cd0777fbffd034",
