@@ -32,14 +32,6 @@
         "env": []
     },
     {
-        "id": "538b483fa008eb58",
-        "type": "tab",
-        "label": "utility: UI Abstraction",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "6f31d3b30c01f78f",
         "type": "tab",
         "label": "logo",
@@ -98,9 +90,9 @@
             "1f797f8d865e8ebd",
             "b34226be7162078f"
         ],
-        "x": 709,
+        "x": 699,
         "y": 2284,
-        "w": 592,
+        "w": 602,
         "h": 517
     },
     {
@@ -189,11 +181,12 @@
             "323cfea2dd074604",
             "636abe298d8940a7",
             "0c0ba63642b01a89",
-            "e517363a9bb66217"
+            "e517363a9bb66217",
+            "ede56b78491f126f"
         ],
         "x": 194,
         "y": 274,
-        "w": 937,
+        "w": 1192,
         "h": 392
     },
     {
@@ -322,7 +315,9 @@
             "6e645e2849c474eb"
         ],
         "x": 654,
-        "y": 1099
+        "y": 1099,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -399,7 +394,9 @@
             "85ef1e45805265d5"
         ],
         "x": 154,
-        "y": 14
+        "y": 14,
+        "w": 712,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -438,7 +435,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1224,
-        "y": 704
+        "y": 704,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "cccb0df7921dec2f",
@@ -491,7 +490,9 @@
             "c730f7caa8fa77ba"
         ],
         "x": 123,
-        "y": 1239
+        "y": 1239,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "a22652e0e5a00422",
@@ -512,9 +513,9 @@
             "4319550e30808765",
             "b1df0fb233ae57b9"
         ],
-        "x": 1918,
+        "x": 1908,
         "y": 2719,
-        "w": 1444,
+        "w": 1454,
         "h": 978
     },
     {
@@ -541,7 +542,9 @@
             "8b321fcb911b77fd"
         ],
         "x": 134,
-        "y": 699
+        "y": 699,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -648,7 +651,9 @@
             "8943b4549c5df00c"
         ],
         "x": 314,
-        "y": 259
+        "y": 259,
+        "w": 1112,
+        "h": 392
     },
     {
         "id": "d4f58c108037d973",
@@ -683,9 +688,9 @@
             "d9707a1ddd27e51f",
             "d10978b2469ceff3"
         ],
-        "x": 359,
+        "x": 349,
         "y": 1154,
-        "w": 797,
+        "w": 807,
         "h": 337
     },
     {
@@ -717,9 +722,9 @@
             "4c927a09f65231ae",
             "4520eaa7bb0621d3"
         ],
-        "x": 229,
+        "x": 219,
         "y": 1579,
-        "w": 617,
+        "w": 627,
         "h": 367
     },
     {
@@ -820,7 +825,9 @@
             "e0746bf6ad449f80"
         ],
         "x": 169,
-        "y": 1734
+        "y": 1734,
+        "w": 902,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -855,7 +862,9 @@
             "3f9469575ed20a91"
         ],
         "x": 149,
-        "y": 2299
+        "y": 2299,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -887,7 +896,9 @@
             "c23689e8b3ce4d15"
         ],
         "x": 159,
-        "y": 1929
+        "y": 1929,
+        "w": 1002,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -1180,8 +1191,10 @@
             "58387c00123218e3",
             "bdec638b99156315"
         ],
-        "x": 164,
-        "y": 1314
+        "x": 154,
+        "y": 1314,
+        "w": 1502,
+        "h": 382
     },
     {
         "id": "9c42f9c7d3cec4e7",
@@ -1217,9 +1230,9 @@
             "f0c13cb1504a27fd",
             "2001a99f7a6d5461"
         ],
-        "x": 2079,
+        "x": 2069,
         "y": 2794,
-        "w": 797,
+        "w": 807,
         "h": 337
     },
     {
@@ -1292,10 +1305,34 @@
             "115dcc4e5b9044ae",
             "6fe7854ecacb208f"
         ],
-        "x": 1944,
+        "x": 1934,
         "y": 3214,
-        "w": 617,
+        "w": 627,
         "h": 367
+    },
+    {
+        "id": "968c394fc0447039",
+        "type": "group",
+        "z": "69a590bb3eaafea5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5ebc37f009a0a667",
+            "382aef116df7b43a",
+            "19eb625743644893",
+            "e20b9892b6ecb65d"
+        ],
+        "x": 1164,
+        "y": 694,
+        "w": 462,
+        "h": 127
     },
     {
         "id": "9fa3722a335cb332",
@@ -1901,6 +1938,17 @@
         "order": 6,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "bcc9d4a1865e43c4",
+        "type": "ui_group",
+        "name": "popupGroup",
+        "tab": "a5b84c011240052c",
+        "order": 4,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": "hidden"
     },
     {
         "id": "e4455c60fa1954be",
@@ -9544,8 +9592,8 @@
         "resendOnRefresh": true,
         "templateScope": "global",
         "className": "",
-        "x": 720,
-        "y": 1800,
+        "x": 705,
+        "y": 1815,
         "wires": [
             []
         ]
@@ -9566,8 +9614,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 905,
-        "y": 1800,
+        "x": 890,
+        "y": 1815,
         "wires": [
             []
         ]
@@ -9588,8 +9636,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 705,
-        "y": 1845,
+        "x": 690,
+        "y": 1860,
         "wires": [
             []
         ]
@@ -9871,7 +9919,8 @@
         "y": 2175,
         "wires": [
             [
-                "9b820c04588a3822"
+                "9b820c04588a3822",
+                "0164e7ecb79094e5"
             ]
         ],
         "l": false
@@ -9942,7 +9991,8 @@
         "y": 2220,
         "wires": [
             [
-                "d42e3781f0fd7e8d"
+                "d42e3781f0fd7e8d",
+                "0164e7ecb79094e5"
             ]
         ],
         "l": false
@@ -9988,7 +10038,8 @@
         "y": 2265,
         "wires": [
             [
-                "d23ff2ec027956a6"
+                "d23ff2ec027956a6",
+                "0164e7ecb79094e5"
             ]
         ],
         "l": false
@@ -10589,7 +10640,8 @@
         "y": 1635,
         "wires": [
             [
-                "90d15b938fe04887"
+                "90d15b938fe04887",
+                "6b460dcd34b06c4a"
             ]
         ],
         "l": false
@@ -10663,7 +10715,8 @@
         "y": 1680,
         "wires": [
             [
-                "06995737ec64c385"
+                "06995737ec64c385",
+                "6b460dcd34b06c4a"
             ]
         ],
         "l": false
@@ -10711,7 +10764,8 @@
         "y": 1725,
         "wires": [
             [
-                "7e216c6e08250db0"
+                "7e216c6e08250db0",
+                "6b460dcd34b06c4a"
             ]
         ],
         "l": false
@@ -11283,7 +11337,8 @@
         "y": 1095,
         "wires": [
             [
-                "ca7c13217c8a527d"
+                "ca7c13217c8a527d",
+                "42ef803259cd7dc9"
             ]
         ],
         "l": false
@@ -11358,7 +11413,8 @@
         "y": 1140,
         "wires": [
             [
-                "37447a9eb7220bbd"
+                "37447a9eb7220bbd",
+                "42ef803259cd7dc9"
             ]
         ],
         "l": false
@@ -11406,7 +11462,8 @@
         "y": 1185,
         "wires": [
             [
-                "1a4ff677fdd5bfbd"
+                "1a4ff677fdd5bfbd",
+                "42ef803259cd7dc9"
             ]
         ],
         "l": false
@@ -12405,7 +12462,7 @@
         "z": "69a590bb3eaafea5",
         "g": "9c7714b3475b1f2b",
         "name": "catch uiConfig fileNotFound",
-        "func": "\nif(/^ENOENT/.test(msg.error.message) && !context.get(\"triedOnce\")){\n    context.set(\"triedOnce\");\n    return msg;\n}\nelse{\n    if (msg.error) {\n        node.error({ \"err\": msg.error.message, \"full\": msg });\n        //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n    }\n    else {\n        node.error(msg);\n    }\n    return null\n}",
+        "func": "\nif(/ENOENT/.test(msg.error.message) && !context.get(\"triedOnce\")){\n    context.set(\"triedOnce\");\n    return msg;\n}\nelse{\n    if (msg.error) {\n        node.error({ \"err\": msg.error.message, \"full\": msg });\n        //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n    }\n    else {\n        node.error(msg);\n    }\n    return null\n}",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -12456,7 +12513,8 @@
         "y": 345,
         "wires": [
             [
-                "9aac6231207dd902"
+                "9aac6231207dd902",
+                "ede56b78491f126f"
             ]
         ]
     },
@@ -12619,6 +12677,312 @@
             ]
         ],
         "l": true
+    },
+    {
+        "id": "5ebc37f009a0a667",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popup err 7s: must be in manual to edit",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"warn\",\n                \"Attenzione\",\n                `La modifica non avrà effetto se non si imposta \"utilizza colori\" su \"manuale\"`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1430,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "382aef116df7b43a",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "name": "err popup in",
+        "links": [
+            "0a8349e3527b9250",
+            "5f9517fef2310e0e",
+            "2169d054e3700ab8",
+            "27fc74e16b82ab92",
+            "3abf6a32855ea47e",
+            "a86c1b616a132159",
+            "55f71817928a674a",
+            "e0c696dc4bd89a75",
+            "a1b69c07b9936766"
+        ],
+        "x": 1220,
+        "y": 780,
+        "wires": [
+            [
+                "5ebc37f009a0a667"
+            ]
+        ]
+    },
+    {
+        "id": "19eb625743644893",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popupRouter",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"display:none\">\n    <div note=\"[popupRouter] example content\">\n        <p>The number is</p>\n        <font color=\"{{((msg.payload || 0) % 2 === 0) ? 'green' : 'red'}}\">\n            {{(msg.payload || 0) % 2 === 0 ? 'even' : 'odd'}}\n        </font>\n    </div>\n    <script note=\"[popupRouter] create popup container\">\n        //create popup container\n        $(function () {\n            if(!window.popupRouter_InitCalled){\n                window.popupRouter_InitCalled = true;\n                pushFunctions(); //append utils and popup pseudo-classes to windows.functions \n\n                var popupCont = document.createElement(\"div\");\n                popupCont.classList.add(\"popup-container\");\n                popupCont.id = \"mainPopupContainer\";\n                \n\n                //document.getElementsByTagName(\"body\")[0].append(popupCont);\n                let mainSect = getMainSect();\n                mainSect.append(popupCont);\n                console.log(\"[popupRouter][init()] appended popupContainer to \", mainSect, popupCont);\n            }else{\n                console.log(\"[popupRouter][init()] skipping init (popupRouter_InitCalled is def)\");\n            }\n            \n\n            function getMainSect(){\n                var mainSect = null;\n                for(el of document.getElementsByTagName(\"md-content\")[0].children){\n                    if(/section/i.test(el.tagName)){\n                        mainSect = el;\n                        break;\n                    }\n                }\n                if(!mainSect)\n                    console.warn(\"getMainSect(): not found\", mainSect)\n                //mainSect === null ?  : console.log(\"mainSect:\",mainSect);\n                return mainSect;\n            }\n        });\n        \n        function pushFunctions(){\n            let root = window.functions ?? (window.functions = new Object());\n            //import some utils. //avoid overwriting\n            root.utils ??= {};\n            root.utils = mergeRec(root.utils ,{\n                /** recursively merge two Objects\n                    * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n                    * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n                    * - -res.a===main.a\n                    * - -res.c===sec.c\n                    * - -res.b!==sec.b2\n                    * @param {Object} main\n                    * @param {Object} sec */\n                \"mergeRec\":mergeRec,\n                /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n                     * @param {any} value accepts anything\n                     * @returns {boolean}\n                     *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n                     */\n                \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n                    return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n                        // it has a prototype that's also truthy\n                        !!(value = Object.getPrototypeOf(value)) &&\n                        // which has `null` as parent prototype\n                        !Object.getPrototypeOf(value);\n                },\n                /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n                 *      skip non-function, assign wrapped to their original key\n                 *  @param root {Object} the object to parse for functions\n                 *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n                \"wrapFunctions\": function wrapFunctions(root, prefix) {\n                    prefix ?? console.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n                    const isPlainObj = this.isPlainObj;\n                    //recursively parse root\n                    //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n                    let desc;\n                    for (let k in root) {\n                        if (isPlainObj(root[k]))\n                            root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n                        else if (//is a simple function, or an arrow function\n                            //value of root[k] has type function\n                            typeof (root[k]) == \"function\"\n                            //root[k] itself is a function, not the result of it's getter call\n                            && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                            && !desc.get\n                        ) {\n                            //wrap in an exception catching function\n                            //trace errors back to their source, independently of the caller\n                            let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                            root[k] = function (...args) {\n                                try {\n                                    return cb.call(this, ...args)\n                                } catch (e) {\n                                    e.nrStack = (e.nrStack ?? []);\n                                    e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                                    e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                                    //console.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                                    throw e;\n                                }\n                            }\n                        }\n                    }\n                    return root;\n                }.bind(root.utils),\n                \"fromHtml\":function fromHtml(html, appendTo=document){\n                    if(arguments.length != fromHtml.length) throw new Error(\"arg length mismatch. \"+arguments.length+\"/\"+fromHtml.length);\n                    let factory = document.createElement(\"div\");\n                    // if(!factory){\n                    //     factory=document.createElement(\"div\");\n                    //     factory.id = \"htmlFactory\";\n                    //     factory.style.display = \"none\";\n                    //     factory.position = \"absolute\";\n                    //     document.lastElementChild.append(factory);\n                    // }\n                    factory.innerHTML = html;\n                    if(factory.children.length > 1)\n                        console.error(\"[<globFuncs>.utils.fromHtml()] more than 1 element created, when only the first will be returned.\",arguments,\"\\n->\",factory.children,);\n                    return factory.firstElementChild ?? console.error(\"[<globFuncs>.utils.fromHtml()] nothing created. returned null\",arguments);\n                },\n                /** some characters do not have an uppercase equivalent. They are considered to be lowercase by this func */\n                \"isLowerCase\":function isLowerCase(ch=null){\n                    return ch!==null && ch == ch?.toLowerCase?.();\n                }\n            });\n            //root.utils.wrapFunctions(root.utils,\"[<globFuncs>.utils]\");\n            //popup-specific functions\n            root.popup = {};\n            root.popup = root.utils.mergeRec(root.popup, {\n                \"getTemplate\":function getTemplate(type=\"info\",text=\"\"){\n                    const utils = window.functions.utils;\n                    if(!utils.isLowerCase(type?.[0]))\n                        type = type.toLowerCase();\n                    switch(type){\n                        default:{ console.warn(\"[<globFuncs>.utils] getTemplate(): invalid type \",type, \".used info\"); }\n                        case \"std\":\n                        case \"info\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"err\":\n                        case \"error\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup error\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"warn\":\n                        case \"warning\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup warning\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                    }\n                    \n                },\n                \"push\": function push(popup){\n                    document.getElementById(\"mainPopupContainer\").prepend(popup);\n                    return popup;\n                }.bind(root.popup),\n                \"popOlder\": function pop(){\n                    let cont = document.getElementById(\"mainPopupContainer\");\n                    var removed = cont.lastElementChild;\n                    if(cont.children.length)\n                        cont.lastElementChild?.remove?.();\n                    return removed;\n                },\n                \"show\":function show(type=\"info\",content=\"\",selfCloseMs=null, dismissable = true){\n                    const utils = window.functions.utils;\n                    var pUpClass = this;\n                    var popup = this.getTemplate(type, content);\n                    if(selfCloseMs !== null){\n                        setTimeout(()=>{\n                            for(var el of document.getElementById(\"mainPopupContainer\").children){\n                                if(el === popup){\n                                    el.remove();\n                                    console.log(\"removed \",el);\n                                }\n                            }\n                            console.warn(\"no popup matched with \",popup, \" after the timeout\");\n                        },selfCloseMs)\n                    }\n                    if(dismissable){\n                        popup.onclick = function (){\n                            console.log(\"clicked\",this);\n                            this.remove();\n                        }\n                    }\n                    this.push(popup);\n                }.bind(root.popup),\n                \"showTitled\":function showTitled(type=\"info\",title=\"\",txt=\"\",selfCloseMs=null, dismissable = true){\n                    this.show(type,`\n                    <span style=\"font-size:1.3em\">${title}</span>\n                    <div>${txt}</div>\n                    `,selfCloseMs, dismissable);\n                }.bind(root.popup),\n            });\n            //root.utils.wrapFunctions(root.popup,\"[<globFuncs>.popup]\");\n        }\n\n\n        /**\n        * @summary recursively merge two Objects\n            * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n            * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n            * - -res.a===main.a\n            * - -res.c===sec.c\n            * - -res.b!==sec.b2\n            * @param {Object} main \n            * @param {Object} sec */\n        function mergeRec(main, sec) {\n            for (let p in sec) {\n                //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n                //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n                if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                    thisFun(main[p], sec[p]);\n                else\n                    main[p] = sec[p];\n            }\n            return main;\n        }\n\n    </script>\n    <style note=\"[popupRouter]\">\n        .hidden {\n            display:none;\n        }\n        .popupRouter-card {\n            border: 1px solid green;\n            display:none;\n        }\n\n        .popupPusher {\n            border: 1px solid green;\n            display:none;\n        }\n        .popupPusher-card {\n            border: 1px solid green;\n            display:none;\n        }\n    \n        .popup-container {\n            /*border: 1px solid green;*/\n            width: max(30vw,600px);\n            position: fixed;\n            right:2vw;\n            padding-top: 0.3em;\n        }\n        \n        .popup-container .roundPopup {\n            text-align: left;\n            padding: 0.3em 1.5em;\n            margin-bottom: 1vh;\n            border: 3px solid gray;\n            border-radius: 10px;\n            background-color: rgb(243 243 243 / 100%); /* light gray */\n            color:#19196F;\n            width: fit-content;\n            margin-left: auto;\n            margin-right: 0;\n        }\n\n        .popup-container .roundPopup:hover {\n            background-color:#caeeff; /* light light blue */\n        }\n\n        .popup-container .roundPopup hr {\n            margin-left:-1.5em;\n            margin-right:-1.5em;\n        }\n\n        .popup-container .warning {\n            border-color: sandybrown;\n            background-color: lemonchiffon\n        }\n\n        .popup-container .error {\n            border-color: crimson;\n            background-color: #ffc0c0;\n        }\n    </style>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupRouter-card",
+        "x": 1355,
+        "y": 735,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e20b9892b6ecb65d",
+        "type": "inject",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1225,
+        "y": 735,
+        "wires": [
+            [
+                "5ebc37f009a0a667"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "ede56b78491f126f",
+        "type": "debug",
+        "z": "69a590bb3eaafea5",
+        "g": "9c7714b3475b1f2b",
+        "name": "setDefault settings",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1250,
+        "y": 345,
+        "wires": []
+    },
+    {
+        "id": "a86c1b616a132159",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1640,
+        "y": 2310,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "68fa2d6f68203010",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "payload.copyColors",
+        "property": "payload.copyColors",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1345,
+        "y": 2310,
+        "wires": [
+            [
+                "a86c1b616a132159"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "0164e7ecb79094e5",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1215,
+        "y": 2310,
+        "wires": [
+            [
+                "68fa2d6f68203010"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "e0c696dc4bd89a75",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1705,
+        "y": 1230,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "670d49c40d67d406",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "payload.copyColors",
+        "property": "payload.copyColors",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1410,
+        "y": 1230,
+        "wires": [
+            [
+                "e0c696dc4bd89a75"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "42ef803259cd7dc9",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1280,
+        "y": 1230,
+        "wires": [
+            [
+                "670d49c40d67d406"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "a1b69c07b9936766",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1640,
+        "y": 1770,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "6e5b88ecabe6b2ab",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "payload.copyColors",
+        "property": "payload.copyColors",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1345,
+        "y": 1770,
+        "wires": [
+            [
+                "a1b69c07b9936766"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "6b460dcd34b06c4a",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1215,
+        "y": 1770,
+        "wires": [
+            [
+                "6e5b88ecabe6b2ab"
+            ]
+        ],
+        "l": false
     },
     {
         "id": "b0cd0777fbffd034",
@@ -15602,310 +15966,6 @@
         "x": 905,
         "y": 1860,
         "wires": []
-    },
-    {
-        "id": "44f67bb2be82ec09",
-        "type": "function",
-        "z": "538b483fa008eb58",
-        "d": true,
-        "name": "uiAbs",
-        "func": "\nlet tabs=[];\nlet groups=[];\nlet tree=[];\n\nconst json=msg.payload;\n    //estract tabs and groups to sorted arrays\nfor(let item of json){\n    if(item.type==\"ui_tab\")\n        tabs.push(item);\n    else if(item.type==\"ui_group\")\n        groups.push(item);\n}\n\ntabs.sort((a,b)=>{\n    return (!a.order || a.order<b.order) ? -1 : 1\n});\ngroups.sort((a, b) => {\n    if(a.tab == b.tab)\n        return (!a.order || a.order < b.order) ? -1 : 1;\n    else\n        return (!a.tab < b.tab) ? -1 : 1;\n})\n\n\n    //costruisce il nameId che dashboard si aspetta a partire dall'attuale nome del gruppo/tab\nconst commonGetter = function (obj) {\n    if (!obj.currentNameIdBkp){\n        Math.random()>0.8 || node.warn({getterObjIs:obj});\n        obj.currentNameIdBkp = obj.currentName.trim().replaceAll(/\\s/g, '_');\n    }\n    return obj.currentNameIdBkp\n}\nconst dict/*ionary*/ = [\n    {\n        nameId: \"statoPresse\", id: \"533e203349de7f15\", currentName: \"StatoPresse\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter, groups: [\n            { nameId: \"pressa1\", id: \"de425a720011e6e9\", currentName: \"Pressa 1\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"pressa2\", id: \"f139ce507b5170da\", currentName: \"Pressa 2\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"pressa3\", id: \"c7137b451efabbac\", currentName: \"Pressa 3\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"pressa4\", id: \"13ed847e2817179c\", currentName: \"Pressa 4\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"tmpTools\", id: \"dc04b0c0c2689120\", currentName: \"tmpTools\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n        ]\n    },\n    {\n        nameId: \"graficiDiStato\", id: \"2d4a37310a5ce249\", currentName: \"Grafici di Stato\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter, groups: [\n            { nameId: \"pressa1\", id: \"57ea1d8425ab2254\", currentName: \"Pressa 1\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"group2\", id: \"4d2175afadb4dc79\", currentName: \"Group 2\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n        ]\n    },\n    {\n        nameId: \"gestioneOrdini\", id: \"836adb2b4d67f4ce\", currentName: \"Gestione Ordini\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter, groups: [\n            { nameId: \"queueTable\", id: \"77dcdddb4f97461c\", currentName: \"queueTable\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"historyTable\", id: \"b3c076eedf1fd2f8\", currentName: \"historyTable\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"toolBar\", id: \"ee2c7bc51cebda0e\", currentName: \"ToolBar\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"exampleTable\", id: \"6de891276c04fcd6\", currentName: \"exampleTable\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"completedTable\", id: \"b7f5c766a413446a\", currentName: \"completedTable\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n        ]\n    },\n    {\n        nameId: \"impostazioni\", id: \"a5b84c011240052c\", currentName: \"Impostazioni\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter, groups: [\n            { nameId: \"indicatoreDiTemperaturaPianoInferiore\", id: \"db63de8125d253b0\", currentName: \"Indicatore di temperatura piano inferiore\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"indicatoreDiTemperaturaPianoSuperiore\", id: \"a2dc8e5cbc92778b\", currentName: \"Indicatore di Temperatura Piano Superiore\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n            { nameId: \"indicatorePressioneDiPressata\", id: \"d6dcf6dea0234745\", currentName: \"indicatore pressione di pressata\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter },\n        ]\n    }\n];\n\n    //update dictionary names with current ones\nfor(let dictTab of dict){\n        //retrieve tabs names\n    for (let treeTab of tabs){\n        if(treeTab.id==dictTab.id){\n            dictTab.currentName=treeTab.name;\n            break;\n        }\n    }\n    if(!dictTab.currentName)\n        node.warn(\"id \"+dictTab.id+\" of tab \".dictTab.nId+\" not found\");\n    \n        //retrieve groups names\n    for(let dictGroup of dictTab.groups){\n        for (let treeGroup of groups) {\n            if (treeGroup.id == dictGroup.id) {\n                dictGroup.currentName = treeGroup.name;\n                break;\n            }\n        }\n        if (!dictGroup.currentName)\n            node.warn(\"id \" + dictGroup.id + \" of group \".dictGroup.nId + \" of \"+dictTab.nId+\" not found\");\n    }\n}\n/*\nlet finDict={}\nfor(let dictTab of dict){\n    if(finDict.hasOwnProperty(dictTab.nId))\n        node.warn(dictTab.nId+\" of \"+dictTab.currentName+\" is used twice\");\n    else\n        finDict[dictTab.nId].dictTab;\n}\n*/\n\n//Object.defineProperty(o, 'b', { get() { return this.a + 1; } });\n\nconst uiAbs={\n    //tabs:tabs,\n    //groups:groups\n    //tree:[],\n    dict:dict,\n\n    realNId(tabNId,groupNId){\n        for (let t of this.dict){\n            if (t.nameId == tabNId){\n                if(groupNId){\n                    for(let g of t.groups){\n                        if(g.nameId == groupNId)\n                            return t.currentNameId+'_'+g.currentNameId;\n                    }\n                    node.error(\"missing group \"+groupNId+\" from dictionary\");\n                    return \"\";\n                }\n                else\n                    return t.currentNameId;\n            }\n        }\n        node.error(\"missing tab \" + tabNId + \" from dictionary\");\n        return \"\";\n        //return dict[t].currentNameId+'_'+dict[t].groups[g].currentNameId;\n    }\n}\n\nglobal.set(\"uiAbs\",uiAbs);\nnode.warn(uiAbs);\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 815,
-        "y": 240,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "695d3eefce518dfc",
-        "type": "file in",
-        "z": "538b483fa008eb58",
-        "d": true,
-        "name": "",
-        "filename": "..\\flows.json",
-        "filenameType": "str",
-        "format": "utf8",
-        "chunk": false,
-        "sendError": false,
-        "encoding": "none",
-        "allProps": false,
-        "x": 360,
-        "y": 240,
-        "wires": [
-            [
-                "a712c940a9c38e4e"
-            ]
-        ]
-    },
-    {
-        "id": "a712c940a9c38e4e",
-        "type": "json",
-        "z": "538b483fa008eb58",
-        "d": true,
-        "name": "",
-        "property": "payload",
-        "action": "",
-        "pretty": false,
-        "x": 675,
-        "y": 240,
-        "wires": [
-            [
-                "44f67bb2be82ec09"
-            ]
-        ]
-    },
-    {
-        "id": "180c17dd118f9a2f",
-        "type": "function",
-        "z": "538b483fa008eb58",
-        "name": "utility:generate dictionary from current ui names",
-        "func": "\n\nconst commonGetter = function (obj) {\n    if (!obj.currentNameIdBkp)\n        obj.currentNameIdBkp = obj.currentName.trim().replaceAll(/\\s/g, '_');\n    return obj.currentNameIdBkp\n}\n\n    //a gOod example -> aGOodExample\nfunction toCamelCase(str) {\n    return str.replace(/^(.)/, (m, chr) => chr.toLowerCase()).replace(/[^a-zA-Z0-9]+(.)/g, (m, chr) => chr.toUpperCase()).replace(/\\s+/g, '');\n}\n\nfunction newDictEntry(item) {\n    let nId = toCamelCase(item.name.trim());\n    return { nameId: nId, id: item.id, currentName: item.name, get currentNameId() { return this.getter(this) }, currentNameIdBkp: \"\", getter: commonGetter }\n}\n//!! misses the trailing }\nfunction newDictEntry_asString(item) {\n    let nId = toCamelCase(item.name.trim());\n    return \"{ nameId:\\\"\" + nId + \"\\\", id:\\\"\" + item.id + \"\\\" , currentName:\\\"\" + item.name + \"\\\", get currentNameId() { return this.getter(this) }, currentNameIdBkp: \\\"\\\", getter: commonGetter \";\n}\n\n    //extract tabs and groups to sorted arrays\nfunction extractTabsAndGroups(flowJson){\n    let json = flowJson;\n    var tabs = [];\n    var groups = [];\n    var dict = \"\";\n\n    for (let item of json) {\n        if (item.type == \"ui_tab\")\n            tabs.push(item);\n        else if (item.type == \"ui_group\")\n            groups.push(item);\n    }\n\n    tabs.sort((a, b) => {\n        return (!a.order || a.order < b.order) ? -1 : 1\n    });\n    groups.sort((a, b) => {\n        if (a.tab == b.tab)\n            return (!a.order || a.order < b.order) ? -1 : 1;\n        else\n            return (!a.tab < b.tab) ? -1 : 1;\n    });\n\n    return {tabs:tabs,groups:groups};\n}\n\n\nfunction generateDictionaryFromCurrentNames(flowJson) {\n        //extract tabs and groups to sorted arrays\n    const ui=extractTabsAndGroups(flowJson);\n    var tabs=ui.tabs;\n    var groups=ui.groups;\n    var dict=new Array();\n\n    //generate dictionary\n    var tmpTabEntry;\n    for (let tab of tabs) {\n        tmpTabEntry = newDictEntry(tab);\n        tmpTabEntry.groups = new Array();\n        for (let group of groups)\n            if(group.tab == tab.id)\n                tmpTabEntry.groups.push(newDictEntry(group));\n        dict.push(tmpTabEntry);\n    }\n    \n    return dict;\n   \n}\n\nfunction generateDictionaryFromCurrentNames_asString(flowJson) {\n        //extract tabs and groups to sorted arrays\n    const ui = extractTabsAndGroups(flowJson);\n    var tabs = ui.tabs;\n    var groups = ui.groups;\n    var dict = \"\";\n\n    //generate dictionary\n    var tmpTabEntry;\n    var tmpGroupList;\n    dict+=\"[\\n\";\n    for (let tab of tabs) {\n        tmpTabEntry = \"\\t\"+newDictEntry_asString(tab);\n            //create group indented list\n        tmpGroupList = \"\";\n        for (let group of groups)\n            if (group.tab == tab.id)\n                tmpGroupList+=\"\\t\\t\"+newDictEntry_asString(group)+\"},\\n\";\n            //put all togheter\n        dict += tmpTabEntry + \", groups:[\" + (tmpGroupList ? \"\\n\"+tmpGroupList: \"\")+ \"\\t]},\\n\";\n    }\n    //dict = dict.replace(/..$/,'\\n]'); //trailing ,\\n -> \\n]\n    dict+=\"]\";\n    \n    //copy-paste this, editing whatever you need to\n    return dict;\n}\n\nfunction updateDictionaryFromCurrentNames(flowJson,dict) {\n   \n    return dict;\n}\n\n\nif(msg.topic==\"generate\"){\n    node.warn({ generatedSample: generateDictionaryFromCurrentNames(msg.payload) });\n\n    //copy-paste this, editing whatever you need to\n    return {payload: generateDictionaryFromCurrentNames_asString(msg.payload)};\n}else{\n    \n}\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 810,
-        "y": 420,
-        "wires": [
-            [
-                "12b95adfa06776f9"
-            ]
-        ]
-    },
-    {
-        "id": "2743a7c881bc8cbb",
-        "type": "file in",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "filename": "..\\flows.json",
-        "filenameType": "str",
-        "format": "utf8",
-        "chunk": false,
-        "sendError": false,
-        "encoding": "none",
-        "allProps": false,
-        "x": 315,
-        "y": 420,
-        "wires": [
-            [
-                "1952e1a3f7468577"
-            ]
-        ]
-    },
-    {
-        "id": "1952e1a3f7468577",
-        "type": "json",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "property": "payload",
-        "action": "",
-        "pretty": false,
-        "x": 575,
-        "y": 420,
-        "wires": [
-            [
-                "180c17dd118f9a2f"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "1e3ef1f67b0a40c2",
-        "type": "inject",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "generate",
-        "x": 155,
-        "y": 405,
-        "wires": [
-            [
-                "2743a7c881bc8cbb"
-            ]
-        ]
-    },
-    {
-        "id": "12b95adfa06776f9",
-        "type": "file",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "filename": "..\\generatedDictionary.tmp.js",
-        "filenameType": "str",
-        "appendNewline": true,
-        "createDir": true,
-        "overwriteFile": "true",
-        "encoding": "none",
-        "x": 1165,
-        "y": 420,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7d42a7676bdaf780",
-        "type": "exec",
-        "z": "538b483fa008eb58",
-        "command": "start notepad++ .\\.node-red\\generatedDictionary.tmp.js",
-        "addpay": "",
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "winHide": false,
-        "oldrc": false,
-        "name": "",
-        "x": 505,
-        "y": 525,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "f4a2e4a0aeb2a934",
-        "type": "complete",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "scope": [
-            "12b95adfa06776f9"
-        ],
-        "uncaught": false,
-        "x": 160,
-        "y": 525,
-        "wires": [
-            [
-                "7d42a7676bdaf780"
-            ]
-        ]
-    },
-    {
-        "id": "452d46ec7a9f4467",
-        "type": "comment",
-        "z": "538b483fa008eb58",
-        "name": "utility to generate a dictionary for uiAbstraction. useful for first time setup",
-        "info": "",
-        "x": 320,
-        "y": 360,
-        "wires": []
-    },
-    {
-        "id": "0f7707130eec9350",
-        "type": "inject",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "update",
-        "x": 155,
-        "y": 435,
-        "wires": [
-            [
-                "2743a7c881bc8cbb"
-            ]
-        ]
-    },
-    {
-        "id": "61e156149ff048c5",
-        "type": "ui_ui_control",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "events": "all",
-        "x": 725,
-        "y": 150,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b8f2b2bcea7430ea",
-        "type": "function",
-        "z": "538b483fa008eb58",
-        "name": "toggle smt",
-        "func": "const ui=global.get(\"uiAbs\");\n\nlet toggle = context.get(\"toggle\")\ncontext.set(\"toggle\",!toggle);\n\nif(toggle){\n    msg.payload = {\n        \"group\": {\n            \"hide\": [ui.realNId(\"fotovoltaico\", \"tmpEditingBar\")],\n            \"focus\": true\n        }\n    }\n}else{\n    msg.payload = {\n        \"group\": {\n            \"show\": [ui.realNId(\"fotovoltaico\", \"tmpEditingBar\")],\n            \"focus\": true\n        }\n    }\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 555,
-        "y": 150,
-        "wires": [
-            [
-                "61e156149ff048c5"
-            ]
-        ]
-    },
-    {
-        "id": "2454ad34c86ce96b",
-        "type": "inject",
-        "z": "538b483fa008eb58",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 380,
-        "y": 150,
-        "wires": [
-            [
-                "b8f2b2bcea7430ea"
-            ]
-        ]
-    },
-    {
-        "id": "642c982a954658f9",
-        "type": "inject",
-        "z": "538b483fa008eb58",
-        "d": true,
-        "name": "OnStartup0.1",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "0.1",
-        "topic": "",
-        "x": 190,
-        "y": 240,
-        "wires": [
-            [
-                "695d3eefce518dfc"
-            ]
-        ]
     },
     {
         "id": "42b8d6d1.fc68e8",
