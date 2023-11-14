@@ -187,7 +187,9 @@
             "a72b1c3580f09904"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -215,33 +217,9 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574
-    },
-    {
-        "id": "ee1fd54ec57a959c",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "88534f4f764fdb99",
-            "d8cfb4d7d6f20c04",
-            "1729bcf85315d37b",
-            "9da7d4d6e4e7a495",
-            "891c7b3250aa152a",
-            "e198712935d863ce",
-            "0fce669fac8b246c",
-            "ceb2f1af58e4621a"
-        ],
-        "x": 164,
-        "y": 134
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -310,7 +288,9 @@
             "588342109c719d84"
         ],
         "x": 173,
-        "y": 409
+        "y": 409,
+        "w": 1509,
+        "h": 1398
     },
     {
         "id": "2f4be50b7d91c706",
@@ -339,7 +319,9 @@
             "0ca3c958633a0c8b"
         ],
         "x": 124,
-        "y": 2584
+        "y": 2584,
+        "w": 1083,
+        "h": 637
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -707,37 +689,9 @@
             "8437a7d22a9f64c3"
         ],
         "x": 184,
-        "y": 1839
-    },
-    {
-        "id": "34db5f71c5fd7b36",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4c8e5c82af533d36",
-            "34fe0f797682d4b7",
-            "e579796d389a173e",
-            "7f049357115c53e0",
-            "b841b6eefb58def0",
-            "ee7df6ca341a90cc",
-            "f3860e59347fd377",
-            "8c2c42bc9a8767e9",
-            "645349eefb80cd73",
-            "7c8bd303c63bc52d",
-            "c9fa4cba41fe88a7",
-            "5e7a9cab577dae64"
-        ],
-        "x": 179,
-        "y": 2139
+        "y": 1839,
+        "w": 1252,
+        "h": 282
     },
     {
         "id": "dd28804963c0bc60",
@@ -941,7 +895,9 @@
             "d27598503a5b31c1"
         ],
         "x": 139,
-        "y": 4294
+        "y": 4294,
+        "w": 562,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -964,7 +920,9 @@
             "d02b6fbde106437f"
         ],
         "x": 139,
-        "y": 3649
+        "y": 3649,
+        "w": 542,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1003,7 +961,9 @@
             "44ede18dded35aa0"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1027,
+        "h": 397
     },
     {
         "id": "df7219d880358536",
@@ -1034,7 +994,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1065,7 +1027,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1108,7 +1072,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1171,7 +1137,9 @@
             "55d2fb1e2f4239c6"
         ],
         "x": 204,
-        "y": 484
+        "y": 484,
+        "w": 1452,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -2073,6 +2041,112 @@
         "h": 532
     },
     {
+        "id": "b7be1fbf76a073e2",
+        "type": "group",
+        "z": "2831664434f14a33",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5c169683e0be423b",
+            "da6f9a7c33d7d7bb",
+            "3b516af17cb05a18",
+            "0b18ce3fa23e0ba6",
+            "02531d3dbb4a7cfa",
+            "dca0193f9acb2785",
+            "984edf458e7e0e43",
+            "003fe15518af93a5",
+            "685e7e2495833654",
+            "dd90145cd4293ec4"
+        ],
+        "x": 259,
+        "y": 64,
+        "w": 672,
+        "h": 247
+    },
+    {
+        "id": "ee1fd54ec57a959c",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "88534f4f764fdb99",
+            "d8cfb4d7d6f20c04",
+            "9da7d4d6e4e7a495",
+            "891c7b3250aa152a",
+            "e198712935d863ce",
+            "0fce669fac8b246c",
+            "ceb2f1af58e4621a"
+        ],
+        "x": 179,
+        "y": 139,
+        "w": 777,
+        "h": 217
+    },
+    {
+        "id": "cbc36db7c52f56bd",
+        "type": "group",
+        "z": "69a590bb3eaafea5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e0159898d44cfae9",
+            "f6dfdebddb6b4ea5",
+            "07709d64d5b739e2",
+            "f93356f24f96a675"
+        ],
+        "x": 1129,
+        "y": 694,
+        "w": 422,
+        "h": 127
+    },
+    {
+        "id": "e64d1b9eb78e1d44",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "81a49ecdc6eebfee",
+            "c6847b06e1ed6fcb",
+            "7652703d56dd1baf",
+            "8b2375c11c170ba7",
+            "b0b63f27328cd857"
+        ],
+        "x": 1029,
+        "y": 169,
+        "w": 507,
+        "h": 187
+    },
+    {
         "id": "9fa3722a335cb332",
         "type": "ui_base",
         "theme": {
@@ -2967,6 +3041,28 @@
         "order": 6,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "bcc9d4a1865e43c4",
+        "type": "ui_group",
+        "name": "popupGroup",
+        "tab": "a5b84c011240052c",
+        "order": 4,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": "hidden"
+    },
+    {
+        "id": "8c268b6bfa27c24a",
+        "type": "ui_group",
+        "name": "PopupGroup",
+        "tab": "836adb2b4d67f4ce",
+        "order": 4,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": "hidden"
     },
     {
         "id": "e4455c60fa1954be",
@@ -8548,6 +8644,186 @@
         ]
     },
     {
+        "id": "5c169683e0be423b",
+        "type": "catch",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "catchAll",
+        "scope": null,
+        "uncaught": true,
+        "x": 490,
+        "y": 105,
+        "wires": [
+            [
+                "3b516af17cb05a18"
+            ]
+        ]
+    },
+    {
+        "id": "da6f9a7c33d7d7bb",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "set global utils",
+        "func": "//look into start tab",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "let thisClassName = \"utils\";\nlet def = {\n    \"errorBlink\": function (node, last = 1500, text = \"\") {\n        node.status({ fill: \"red\", text: text });\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, 250);\n        setTimeout(() => {\n            node.status({ fill: \"yellow\", text: text });\n        }, 350);\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, last)\n    },\n\n    \"##litEndian2int\": function (a, b) {\n        return a << 16 | b;\n    }, //msg.payload[0] << 16) | msg.payload[1]\n\n    \"isObject\"(v) {\n        return (typeof (v) == \"object\" && !Array.isArray(v) && v !== null)\n    },\n    /**\n     * converts a binary array to a single number\n     */\n    \"bitArrayToInt\"(arr) {\n        var res = 0;\n        for (let i = 0, minLen = Math.min(arr.length, 8 * 8); i < minLen; i++) {\n            if (arr[i])\n                res += Math.pow(2, i);\n        }\n        return res;\n    },\n\n    /** @summary capitalize the first character of a given string\n        * @param {string} word \n        * @return {string} new processed string\n        */\n    \"firstCharUp\"(word) {\n        return word.charAt(0).toUpperCase() + word.slice(1);\n    },\n\n    /**\n    * @summary recursively merge two Objects\n        * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n        * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n        * - -res.a===main.a\n        * - -res.c===sec.c\n        * - -res.b!==sec.b2\n        * @param {Object} main \n        * @param {Object} sec \n        */\n    \"mergeRec\": function thisFun(main, sec) {\n        for (let p in sec) {\n            //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n            //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n            //main[p] = sec[p];\n            if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                thisFun(main[p], sec[p]);\n            else\n                main[p] = sec[p];\n        }\n        return main;\n    }.bind(this),\n\n    /** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\n    \"callWhenDef\": function callWhenDef(cb, opts, ...varNames) {\n        //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n        if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n            var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n        //check for opts presence\n        if (typeof (opts) == \"string\")\n            varNames.push(opts);\n        let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n        var tout, intv, tmp;\n        //switch context to the one specified in ctx\n        var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n        //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n        //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n        let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n        //try immediately, before doing any work\n        if (varNames.every(name => store.get(name) !== undefined))\n            return wrappedCb()\n        //set timeout unless false or not specified\n        if (timeout) {\n            tout = setTimeout(() => {\n                clearInterval(intv);\n                errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n            }, timeout);\n        }\n        //set store-checking interval\n        intv = setInterval(() => {\n            if (!varNames.every(name => store.get(name) !== undefined))\n                return\n            clearTimeout(tout);\n            clearInterval(intv);\n            wrappedCb();\n        }, retryDelay)\n    },\n    /** pseudo random string generator\n     */\n    \"randomHexString4\": function () {\n        return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1); //1.X * 2^16 toString(radix) clipFirst //== 4 characters hex\n    },\n    /** returns an iterator-maker that uses the keys in orderedKeys to access its parent's properties\n         * @param {string[]} orderedKeys\n         * @returns {function} f() -> iterator object.\n         */\n    \"makeKeyIterator\": function (orderedKeys) {\n        return function () {\n            //console.log(\"2# this\",this); this === parent object\n            let keys = orderedKeys, idx = 0;\n            return {\n                next: () => {\n                    //console.log(this, idx, orderedKeys);\n                    return (idx < keys.length ? { value: this[keys[idx++]], done: false } : { done: true });\n                }\n            }\n        }\n    },\n    /** attach a general iterator going through all the enumerable obj's key.\n        * -Not very memory-performant as a redundant key[] array is stored\n        * @param {object} the object to which attach the iterator\n        * @returns {function} the attached iterator\n        */\n    \"generateIteratorFor\": function (obj) {\n        obj[Symbol.iterator] = this.makeKeyIterator(Object.keys(obj));\n        return obj[Symbol.iterator];\n    },\n    \"errorLog\"(...param) { return this.logError(...param); },\n    \"logError\": function thisFun(nodeRef, err) {\n        if (arguments.length != thisFun.length) throw new SyntaxError(`expected ${thisFun.length} arguments, got ${arguments.length}`);\n        var error = (typeof (err) == \"string\" ? { err: err } : err);\n        nodeRef.error(error);\n    },\n\n    /** the first time the property is accessed the value is calculated calling valueGetter() in obj, and the result is stored in propName_cache.\n        * - Subsequent calls will return propName_cache's value.\n        */\n    \"defineCachedProp\": function defineCachedProp(obj, propName, valueGetter) {\n        if (arguments.length != 3) throw new SyntaxError(\"defineCachedGetter() arguments mismatch\");\n        const propName_cache = propName + \"_cache\";\n\n        Object.defineProperty(obj, propName_cache, { value: undefined, writable: true, configurable: true }); //not enumerable\n        Object.defineProperty(obj, propName, {\n            get() {\n                return this[propName_cache] ?? (this[propName_cache] = valueGetter.call(this, this))\n            },\n            set(v) { this[propName_cache] = v },\n            enumerable: true,\n            configurable: true\n        })\n    },\n    \"removeIdx\": (arr, i) => (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop(),\n    \"removeAllOccurrences\": function (arr, val) {\n        for (let i = 0; i < arr.length; i++)\n            if (arr[i] == val)\n                (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop();\n    },\n\n    \"clone\": function (obj) {\n        return JSON.parse(global.get(thisClassName).safeStringify(obj));\n    },\n\n    \"safeStringify\": function safeStringify(obj, indent) {\n        var cache = [];\n        var cacheKeys = [];\n        return JSON.stringify(obj, (key, value) => {\n            if (typeof value === 'object' && value !== null) { //arrays and null are also \"objects\" //functions are too, but typeof returns \"function\" instead\n                //Duplicate reference found -> discard key / store\n                const idx = cache.indexOf(value)\n                //if duplicate found\n                //return twin's key instead\n                if (idx != -1) //-1 means not present\n                    return \"dupOf_\" + (cacheKeys[idx].toString() ?? \"root\");\n                //else store it\n                else {\n                    cache.push(value);\n                    cacheKeys.push(key);\n                }\n            }\n            return value;\n        }, indent);\n    },\n    /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n         * @param {any} value accepts anything\n         * @returns {boolean}\n         *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n         */\n    \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n        return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n            // it has a prototype that's also truthy\n            !!(value = Object.getPrototypeOf(value)) &&\n            // which has `null` as parent prototype\n            !Object.getPrototypeOf(value);\n    },\n    /** recursively looks up a target object enumerable childrens for properties that would need to be restored after a JSON conversion.\n         * @returns a mask of the original Object containing only the (restored) properties to restore.\n         */\n    \"toRestoreOf\": function toRestoreOf(origin) {\n        //let isPlainObj = global.get(thisClassName).isPlainObj;\n        let needsRecursion = (prop, target) => this.isPlainObj(target?.[prop]) //target is an object and target.prop is an object too\n        let needsRestoration = (prop, target) => {\n            return typeof (target[prop]) === \"function\"// && !node.warn(\"restored \"+prop+\":\"+typeof(target[prop]))\n        }\n        let empty = true; //optimize performance, avoiding recursive Object.keys calls\n        var toRes = {};\n        if (this.isPlainObj(origin))\n            Object.keys(origin).forEach(key => { //#TODO extend to non-enumerables\n                if (origin.toRestore)\n                    toRes[key] = origin.toRestore(origin[key])\n                else if (needsRecursion(key, origin)) {\n                    let tmp = toRestoreOf.call(this, origin[key]);\n                    if (tmp !== null)\n                        toRes[key] = tmp;\n                    // if(Object.keys(toRes[key]).length==0)\n                    //     delete toRes[key];\n                }\n                else if (needsRestoration(key, origin)) { //if is function\n                    toRes[key] = origin[key]\n                } else {\n                    //skip\n                }\n                if (toRes[key])\n                    empty = false;\n                //toRes[key] && node.warn(key+\" set\")\n            })\n        //return Object.keys(target).filter( key => needsRestoration(key, target))\n\n        return empty ? null : toRes;\n    },\n    /** pseudo alias of Object.assign\n        * only ADDS props and keeps the original refs for plain objects.\n        * ex.               {a:4, b:{a1:5, b1:6}},              //target\n        *                        {b:{      b1:\"v\", c1:7}, c:8}  //source\n        *   assign     ->   {a:4, b:{      b1:\"v\", c1:7}, c:8}  //b is a reference to source.b //a1 was lost\n        *   recAssign  ->   {a:4, b:{a1:5, b1:\"v\", c1:7}, c:8}  \n        */\n    \"recAssign\": function recAssign(target, source) {\n        for (let k in source)\n            target[k] = (this.isPlainObj(source[k]) ? recAssign.call(this, target[k] ?? {}, source[k]) : source[k])\n        return target;\n    },\n    /** \n        * \n        */\n    \"inflate\": function (target, source) {\n        let mask = this.toRestoreOf(source) ?? {};\n        return this.recAssign(target, mask);\n    },\n\n    // \"genericInflater\":function inflated(target, origin=this){ //assume target is a mask of origin, meaning origin has AT LEAST all props of target.\n    //     let utils=global.get(thisClassName);\n    //     let hasOwnInflater = targ => targ?.inflated\n    //     let restore = (prop, target, origin) => {\n    //         var tmp;\n    //         if(!(tmp=Object.getOwnPropertyDescriptor(origin, prop).enumerable))\n    //             Object.defineProperty(target,prop,tmp)\n    //         else if(typeof origin[prop]==\"function\")\n    //             target[prop] = origin[prop]\n    //         return target[prop];\n    //     }\n    //     //CHOOSE AN APPROACH: init all missing target vals\n    //     //target can be anything, origin is an object\n    //     //parse origin for all keys that need to be restored on a version of themselves that went throug a JSON.stringify(JSON.parse())\n    //         //set those keys using either an inflater defined by the key or a generic one. Feed the original value to the inflater, or undefined.\n    //     //returns an inflated version of target\n\n    //     let allKeysOf = obj => Object.keys(obj);\n    //     if(utils.isPlainObj(origin))\n    //         for(let k of allKeysOf(origin))\n    //             inflatedTarget[k] = inflated(target?.[k], origin[k])\n\n\n    //     //if is inflatable\n    //     var inflatedTarget={};\n    //     if(utils.isPlainObj(origin)){\n    //         //inflate all keys //#TODO include non-enumerables\n    //         for(let k of origin)\n    //             //use own inflation method //responsible for that key and all its children\n    //             if(hasOwnInflater(origin[k]))\n    //                 inflatedTarget[k] = origin[k].inflated(target?.[k]);\n    //             //recurse\n    //             else if(utils.isPlainObj(origin[k]))\n    //                 inflatedTarget[k] = inflated(target?.[k], origin[k])\n    //             //generic restoration //mutates target[k] if necessary, then returns it\n    //             else\n    //                 inflatedTarget[k] = target?.[k]!==undefined ? restore(k, target, origin)\n    //     }\n    //     else\n    //         return inflatedTarget;\n    // },\n    // /** recursively traverse object children calling the inflate/inflater method on all of them\n    //      * the method is supposed to restore all the properties that would not survive a JSON.parse(JSON.stringify()).\n    //      * restoring a class from its json, or restoring non enumerable properties and functions, for example.\n    //      * NOTE: a parent that implements \"inflate\" or \"inflater\" is responsible for all its children restoration, and \n    //      *       should therefore call the genericInflater() on all properties it chooses to not explicitly handle\n    //      */\n    // \"inflate\"(target){ return global.get(thisClassName).genericInflater.call(this, target) },\n    // \"ggenericInflater\":function inflate(target){\n    //     //looks for and calls inflate() methods for all keys\n    //         //recursing over objects\n    //     for(let k in target){\n    //         //if has inflate method\n    //         if(this && typeof(this[k])==\"object\" && this[k].inflate)\n    //             target[k] = this[k].inflate(target[k]);\n    //         else    //else recurse over object props\n    //             if(typeof(target[k])==\"object\" && this && typeof(this[k])==\"object\")\n    //                 inflate.call(this[k], target[k])\n    //     }\n    //     return target;\n    // },\n\n\n    /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n     *      skip non-function, assign wrapped to their original key\n     *  @param root {Object} the object to parse for functions\n     *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n    \"wrapFunctions\": function wrapFunctions(root, prefix) {\n        prefix ?? node.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n        const isPlainObj = this.isPlainObj;\n        //recursively parse root\n        //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n        let desc;\n        for (let k in root) {\n            if (isPlainObj(root[k]))\n                root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n            else if (//is a simple function, or an arrow function\n                //value of root[k] has type function\n                typeof (root[k]) == \"function\"\n                //root[k] itself is a function, not the result of it's getter call\n                && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                && !desc.get\n            ) {\n                //wrap in an exception catching function\n                //trace errors back to their source, independently of the caller\n                let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                root[k] = function (...args) {\n                    try {\n                        return cb.call(this, ...args)\n                    } catch (e) {\n                        e.nrStack = (e.nrStack ?? []);\n                        e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                        e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                        //node.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                        throw e;\n                    }\n                }\n            }\n        }\n        return root;\n    },\n    \"sortByType\": function sortByType(source, ...types) {\n\n        if (!Array.isArray(source))\n            if (typeof (source) == \"object\") { //assume it's an argument object\n                try {\n                    let tmp = [];\n                    for (var arg of source)\n                        tmp.push(arg);\n                    source = tmp;\n                } catch {\n                    return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n                }\n            }\n            else\n                return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n        if (source.length !== types?.length)\n            return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source lenght doesn't match types[]'s\", source: source, types: types, args: arguments });\n\n        const typedPairs = source.map(item => new Object({ val: item, type: typeof (item) }));\n        let findType = (type) => typedPairs.find(pair => pair.type == type) ?? node.warn({ txt: \"missing param typed \" + type });\n\n        var errors;\n        var ret = [];\n        for (var type of types) {\n            let idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx < 0) {\n                errors ?? (errors = []);\n                errors.push(type);\n                ret.push(null);\n            }\n            else {\n                ret.push(typedPairs[idx]);\n            }\n        }\n        if (errors)\n            node.error({ txt: `global.${thisClassName}.${sortByType.name}(): missing param typed ${errors.length > 1 ? `[${errors}]` : errors[0]}`, args: arguments });\n        return ret;\n    },\n    /**\n     * non implementato * /\n    \"logToFile\": () => { },\n    /**\n     * insieme a dbgLevelsMap rappresenta un enum di livelli di debug */\n    \"dbgLevels\": [\"error\",\"warning\", \"debug\", \"verbose\"],\n    //\"dbgLevelsMap\": generated below\n    /*v da testare v* /\n    /**\n     * Stampa un messaggio, con strategie diverse a seconda del tipo e del debugLevel globale.  \n     * Tutti i log dovrebbero passare di qui.  \n     * Gli argomenti vengono riordinati automaticamente. dbgPrint({extra:5},\"messaggio\"), dbgPrint(\"verbose\", \"something happened\") sono tutte chiamate legali\n     * \n     * @param _txt testo messaggio\n     * @param _infoObj campi extra da allegare, oltre a quelli automatici. In caso di clash vince infoObj.\n     * @param _level tipologia messaggio. accetta sia interi che stringhe. gli interi mappano utils.dbgLevels * /\n    \"dbgPrint\": function dbgPrint(_txt, _infoObj, _level) {\n        const utils = global.get(thisClassName);\n        const dbgLevelsMap = utils.dbgLevelsMap;\n\n        //compile-like check: all expected level ids exist\n        utils.assert([\"warning\", \"error\", \"debug\", \"verbose\"].every(key => (utils?.dbgLevelsMap?.[key] ?? null) !== null), \"dpgPrint(): missing one or more expected dbg level\", { exp: [\"warning\", \"error\", \"debug\", \"verbose\"], got: dbgLevelsMap });\n        \n        node.warn({txt:\"args pre sort\",args:{txt:_txt,level:_level,infoObj:_infoObj}})\n\n        //sort arguments, filling them with def vals when necessary\n        let argArray = [_level, _txt, _infoObj];\n        var typedPairs = argArray.map(item => new Object({ val: item, type: typeof (item) }));\n        \n        //pops a value from typedPairs, or returns defVal if nothing matches\n        let popValOfType = (type, defVal) => {\n            var idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx >= 0) {\n                var val = typedPairs[idx].val;\n                utils.removeIdx(typedPairs, idx);\n                return val;\n            }\n            else\n                return defVal;\n        }\n        var txt = popValOfType(\"string\",\"noTxt\");\n        var level = popValOfType(\"number\", null) ?? popValOfType(\"string\", null) ?? dbgLevelsMap[\"debug\"];\n        var infoObj = popValOfType(\"object\", {});\n\n        if(typeof level == \"string\"){\n            //sort txt and type, as they are both strings\n            let validLiterals = [\"warning\", \"warn\", \"error\", \"err\", \"debug\", \"dbg\", \"console\", \"stdout\"];\n            if (txt.length <= 7 && level.length > 7\n                || validLiterals.includes(txt))\n                [level, txt] = [txt, level];\n            //convert to numeric id\n            switch (level) {\n                case \"warning\":\n                case \"warn\":\n                    level = dbgLevelsMap[\"warning\"];\n                    break;\n                case \"error\":\n                case \"err\":\n                    level = dbgLevelsMap[\"error\"];\n                    break;\n                case \"debug\":\n                case \"dbg\":\n                    level = dbgLevelsMap[\"debug\"];\n                    break;\n                case \"verbose\":\n                case \"verb\":\n                    level = dbgLevelsMap[\"verbose\"];\n                    break;\n                default:\n                    node.error(\"error\", \"unknown log level: \" + level);//, { valid: validLiterals, got: level, args: arguments });\n                    break;\n            }\n        }\n\n        node.warn({ txt: \"args post sort\", args: { txt: txt, level: level, infoObj: infoObj } });\n\n        //define log vars\n        if (true || level <= global.get(\"dbgLevel\")){\n            //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/caller\n            var fName;\n            try { fName = dbgPrint.caller; } catch { fName = \"unreadable\" }\n            var nodeJsStack;\n            try { nodeJsStack = new Error().stack } catch { nodeJsStack = \"unreadable\" }\n            //default logging strategy\n            let defEditorLog = (logger) => logger.call(this,\n                utils.mergeRec({\n                    txt: txt,\n                    n: this.node.name,\n                    auto: {\n                        f: fName,\n                        id: this.node.id,\n                        _this: this,\n                        nodeJsStack: nodeJsStack\n                    }\n                }, infoObj));\n            node.warn({ txt: \"context\", ctx: [Object.getOwnPropertyNames(dbgPrint.caller).map(name => name + \":\" + dbgPrint.caller[name]), Object.getOwnPropertyNames(arguments.callee).map(name => name + \":\" + arguments.callee[name])]});\n            //pick logging strategy\n            switch (level) {\n                case dbgLevelsMap[\"warning\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"error\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"debug\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"verbose\"]:\n                    defEditorLog(this.warn);\n                    break;\n                default:\n                    node.error(\"unknown log level \" + level);\n                    break;\n            }\n        }\n\n    },\n\n    \"assert\": function assert(isOk, cb = \"assertion failed\", infoObj = {}) {\n        if (!global.get(\"isDbgMode\"))\n            return true;\n        if (typeof (isOk) == \"function\")\n            isOk = isOk();\n        if (!isOk)\n            if (typeof (cb) == \"function\")\n                // @ts-ignore\n                cb();\n            else\n                node.error(global.get(thisClassName).mergeRec({txt:cb},infoObj));\n                //global.get(thisClassName).dbgPrint(\"error\", cb, infoObj);\n        return isOk\n    },\n\n\n    \"pushGlobalClassInfo\": function pushGlobalClass(_class, name = null) {\n        if (global.get(\"isDbgMode\")) {\n            const utils = global.get(thisClassName);\n\n            name ?? _class.name;\n            utils.assert(typeof (_class) == \"function\", \"arg for class \" + name + \" is not a class\", { _class: _class });\n            utils.assert(typeof (name) == \"string\", \"type mismatch for arg 'name'. expected string, got \" + typeof (name));\n\n            if (!global.get(\"classesCheatSheet\"))\n                global.set(\"classesCheatSheet\", {});\n\n            let cs = global.get(\"classesCheatSheet\");\n            var methods = {};\n            var props = {};\n            for (var propName of Object.getOwnPropertyNames(_class)) {\n                if (typeof (_class[propName] == \"function\"))\n                    methods[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n                else\n                    props[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n            }\n            cs[name] = {\n                \"name\": _class.name,\n                \"methods\": methods,\n                \"props\": props\n            }\n        }\n    }\n    /*^ da testare ^*/\n};\n\ndef.dbgLevelsMap = (() => { var tmp = {}; def.dbgLevels.forEach((name, i) => tmp[name] = i); return tmp; })()\n\n\n\n\ndef.wrapFunctions(def, \"[\" + thisClassName + \"]\");\nglobal.set(thisClassName, def);\nnode.send(def);\nnode.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 180,
+        "wires": [
+            [
+                "02531d3dbb4a7cfa",
+                "dca0193f9acb2785"
+            ]
+        ]
+    },
+    {
+        "id": "3b516af17cb05a18",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "catchAll",
+        "func": "if(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"nrStack\":msg._error?.nrStack,\"full\":msg});\n}\nelse{\n    node.error(msg);\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 635,
+        "y": 105,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0b18ce3fa23e0ba6",
+        "type": "comment",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "GLOBALI",
+        "info": "",
+        "x": 345,
+        "y": 105,
+        "wires": []
+    },
+    {
+        "id": "02531d3dbb4a7cfa",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "def List class as global & utils.list",
+        "func": "let utils = msg;\nvar isObject = utils.isObject;\n\n\n/* javascript class cheatsheet\n    //everything is public.\n        #varname == private\n        *method() == private\n        get varname()/get varname:f() = getter for varname\n    //; at each line's end */\nclass List {\n    head;\n    //#lastPrev;\n    //get last(){ return (this.#lastPrev ? this.#lastPrev.next : this.head) }\n    last;\n\n    constructor() {\n        this.head = null;\n        this.last = this.head;\n    }\n\n    static isListNode(val){\n        return (isObject(val) && Object.hasOwnProperty(\"next\"))\n    }\n    static isTwoWayListNode(val){\n        return (List.isListNode(val) && Object.hasOwnProperty(\"prev\"));\n    }\n\n    peekFirst() {\n        return (this.head ? this.head.value : null);\n    }\n\n    popFirst() {\n        let res = this.peekFirst();\n        //remove\n        if (this.head && this.head.next)\n            this.head = this.head.next;\n        return res;\n    }\n\n    peekLast() {\n        return (this.last ? this.last.value : null);\n    }\n\n    popLast() {\n        if (!this.head)\n            return null;\n\n        let res = this.peekLast();\n\n        let n = this.head,\n            n2last = null; //'next-to-last' <=> 'penultimate'\n        while (n.next) {\n            n2last = n;\n            n = n.next;\n        }\n        n2last.next = null;\n        this.last = n2last;\n\n        return res;\n    }\n\n    /** creates a one-way list node with value=val */\n    static newNode(val) {\n        return { value: val, next: null }\n    }\n    /** creates a two-way list node with value=val and empty prev */\n    static newTwoWayNode(val) {\n        return { value: val, prev: null, next: null }\n    }\n    /** creates a two-way list node with value=val and empty prev */\n    static _append(el, listHead){\n        if (listHead) {\n            let node = listHead;\n            while (node.next) {\n                node = node.next;\n            }\n            node.next = (List.isListNode(el) ? el : List.newNode(el))\n            return node.next;\n        }\n        else {\n            return (List.isListNode(el) ? el : List.newNode(el));\n        }\n    }\n    append(el) { List._append(el, this.head) }\n\n    static _appendTwoWay(el, listHead) {\n        if (List.isTwoWayListNode(el))\n            List._append(el, listHead)\n        else\n            List._append(List.newTwoWayNode(el), listHead);\n    }\n\n\n    static _prepend(el, listHead){\n        let newHead  = (List.isListNode(el) ? el : List.newNode(el))\n        newHead.next = listHead;\n        return newHead;\n    }\n    prepend(el) {\n        this.head = List._prepend(el, this.head)\n    }\n\n    static _prependTwoWay(el,listHead){\n        let newHead = List._prepend(el, listHead);\n        if(listHead)\n            listHead.prev = newHead;\n        return newHead;\n    }\n\n    static iterator(listHead) {\n        return {\n            last: listHead,\n            next() {\n                if (this.last === null)\n                    return { done: true }\n                else {\n                    let ret = { value: this.last.value, done: false }\n                    this.last = this.last.next;\n                }\n            },\n            return(){} //optional, do cleanup routine (close db connection and such)\n        }\n    }\n\n    *[Symbol.iterator](){\n        return List.iterator(this.head);\n    }\n\n    toArray(){\n        var ret = [];\n        for(let val of this.head)\n            ret.push(val)\n        return ret;\n    }\n\n    toString(){\n        return this.toArray.toString();\n    }\n\n    values(){\n        return this.toArray();\n    }\n\n}\n\nconst twoWayListClass = class TwoWayList extends List {\n    //head\n    //last\n    constructor(){\n        super();\n    }\n\n    popLast(){\n        if(!this.head)\n            return null;\n        //pop\n        let ret = this.last ? this.last.value : null;\n        this.last = this.last.prev;\n        //pop() on \"lenght == 1\" => last===head===null -> skip\n        if(this.last)\n            this.last.next=null;\n        return ret;\n    }\n\n    static _prepend(...args){List._prependTwoWay.apply(null,args)};\n    prepend(el){\n       this.head = List._prependTwoWay(el);\n    }\n\n    static iterator(listHead){\n        let oneWay = List.iterator(listHead);\n        oneWay.prev = (function () {\n            if (this.last === null)\n                return { done: true }\n            else {\n                // @ts-ignore\n                let ret = { value: this.last.prev.value, done: false }\n                // @ts-ignore\n                this.last = this.last.prev;\n            }\n        }).bind(oneWay)\n        return oneWay;\n    }\n\n    inverseIterator(){\n        let it = TwoWayList.iterator(this.last);\n        [it.next, it.prev] = [it.prev, it.next];\n        return it;\n    }\n\n\n    \n}\n\nglobal.set(\"List\", List.prototype);\nglobal.set(\"TwoWayList\", twoWayListClass);\nglobal.set(\"List_list\", Object.getOwnPropertyNames(List));\n\nutils.List = List; global.set(\"utils\", utils);\n\nutils[\"pushGlobalClass\"] = function pushGlobalClass(_class, name){\n    \n}\n\n\n/* TypeError    \nnode.status({\n    fill: \"green\",\n    text: Object.keys(\n        utils.mergeRec(\n            new List(),\n            new twoWayListClass()\n        )\n    ).join(' & ')\n});\n/**/\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 635,
+        "y": 225,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dca0193f9acb2785",
+        "type": "link out",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "utils isDefinedEvent",
+        "mode": "link",
+        "links": [
+            "3502536b287b497d",
+            "e60ddb3d97dea1f3"
+        ],
+        "x": 630,
+        "y": 180,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "984edf458e7e0e43",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "allMain isDefinedEvent",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\n\n/** alternative to using link-nodes on libraries (which requires a ton of overhead and structures)\n * \n*/\nfunction callWhenDef(cb, ...globalNames) {\n    for (let name of globalNames)\n        if (global.get(name) === undefined || global.get(name) === null) {\n            setTimeout(callWhenDef, 300, cb, ...globalNames)\n            return\n        }\n    cb();\n}\n\nconst tout = setTimeout(()=>{\n    node.error(node.name+\" timeout. check node \"+node.id+\" for typos\")\n}, 10000)\ncallWhenDef(function () {\n   node.send({topic:\"isDefinedEvent\", payload:\"allMain\"})\n   clearTimeout(tout);\n}, \"utils\"/*,\"towersControl\",\"towersBitArray\",\"signalCells\"*/)",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 135,
+        "wires": [
+            [
+                "003fe15518af93a5"
+            ]
+        ]
+    },
+    {
+        "id": "003fe15518af93a5",
+        "type": "link out",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "allMain isDefinedEvent out",
+        "mode": "link",
+        "links": [
+            "685e7e2495833654",
+            "cc9d5b0b240172ae",
+            "8a7b266f172db654",
+            "41052036e4260285",
+            "5fe604351ee66213",
+            "eb51da252c184f8b",
+            "ee47774db553980b",
+            "2585275db935f830",
+            "a92151a1a1d8a360",
+            "fb72aaf30f378de5",
+            "53f5b685a1ec4809",
+            "807fcc0a56e37f7a"
+        ],
+        "x": 785,
+        "y": 135,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "685e7e2495833654",
+        "type": "link in",
+        "z": "2831664434f14a33",
+        "d": true,
+        "g": "b7be1fbf76a073e2",
+        "name": "allMain isDefinedEvent out",
+        "links": [
+            "003fe15518af93a5"
+        ],
+        "x": 890,
+        "y": 105,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dd90145cd4293ec4",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "set global dbgStuff",
+        "func": "//look in onStart",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "callWhenDef(\"utils\", () => {\n    const utils = global.get(\"utils\");\n    let lvlName = \"verbose\"\n    let lvl = utils.dbgLevelsMap[lvlName] ?? node.error(\"undefined dbgLevel: \" + lvlName) ?? 0\n    let isDbgMode = true;\n    global.set(\"dbgLevel\", lvl);\n    global.set(\"isDbgMode\", isDbgMode);\n\n    node.status({ fill: isDbgMode ? \"green\" : \"gray\", text: `isDbgMode: ${isDbgMode.toString().toUpperCase()} | level: ${utils.dbgLevels[lvl].toUpperCase()}` });\n})\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
+        "finalize": "",
+        "libs": [],
+        "x": 375,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "8ccf2a30f6795b42",
         "type": "ui_chart",
         "z": "36ca49c2bbce1ae5",
@@ -8590,89 +8866,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "88534f4f764fdb99",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "ee1fd54ec57a959c",
-        "name": "catchAll",
-        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
-        "finalize": "",
-        "libs": [],
-        "x": 855,
-        "y": 195,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d8cfb4d7d6f20c04",
-        "type": "catch",
-        "z": "2260f1f88d7c60bf",
-        "g": "ee1fd54ec57a959c",
-        "name": "",
-        "scope": null,
-        "uncaught": false,
-        "x": 675,
-        "y": 195,
-        "wires": [
-            [
-                "88534f4f764fdb99"
-            ]
-        ]
-    },
-    {
-        "id": "1729bcf85315d37b",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "g": "ee1fd54ec57a959c",
-        "name": "OnStartup0.1",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "0.1",
-        "topic": "",
-        "x": 295,
-        "y": 225,
-        "wires": [
-            [
-                "9da7d4d6e4e7a495"
-            ]
-        ]
-    },
-    {
-        "id": "9da7d4d6e4e7a495",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "ee1fd54ec57a959c",
-        "name": "set flow.tabUtils",
-        "func": "\nfunction twoDigit(x){\n    if(typeof x == \"string\")\n        x = parseInt(x);\n    return x<10 ? '0'+x : x;\n}\n\nconst tabUtils={\n    /**\n     * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n     * \n     * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n     * @param {object} tableRef reference to the row to check, must have a fieldName button.\n     * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n    */\n    posOf(rowId, tableRef) {\n        if (rowId<tableRef.length && tableRef[rowId].rowId == rowId)\n            return rowId;\n        for (let i = 0; i < tableRef.length; i++)\n            if (tableRef[i].rowId == rowId)\n                return i;\n        return -1; //not found\n    },\n\n    hasRow(rowId, tableRef) {\n        return this.posOf(rowId, tableRef) >= 0;\n    },\n\n    deleteRowId(rowId, tableRef) {\n        let pos = this.posOf(rowId);\n        if (pos >= 0) {\n            this.deleteRow(pos);\n            return true;\n        }\n        else\n            return false\n    },\n\n    deleteRow(rowIdx, tableRef) {\n        for (let i = rowIdx; i < tableRef.length - 1; i++) {\n            tableRef[i] = tableRef[i + 1];\n        }\n        tableRef.pop();\n        return true;\n    },\n    newRowId(table) {\n        //if table empty assign first \n        if(table.length == 0)\n            return 0; //first rowId\n        //if rowId equals its table's index -> use shortcut\n        if(table[table.length-1].rowId==table.length-1)\n            return table.length;\n        //else\n        //load all possible indexes\n        var indexes = new Array()\n        let i = 0;\n        for (let row of table)\n            indexes[i++] = true;\n        indexes[i++] = true;\n        //flag off the used ones\n        for (let row of table)\n            indexes[row.rowId] = false;\n        //return the first available one\n        i = 0;\n        while (!indexes[i])\n            i++;\n        return i;\n    },\n    queue:{\n        /** \n         * @borrows setStateInRow as setSingleState \n         * */\n        sendToPressButton:{\n            //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n            states: {\n                    //button //onClick: enqueue writes to plc\n                \"clickToSend\":\"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  carica  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                \"queued\": \"<center><span ><i class='fa fa-clock-o' style=\\\"margin-right:5px\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                \"loaded\":\"<center><span ><i class='fa fa-check' style=\\\"color:green;\\\"></i>    </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                \"clearing\": \"<center><span ><i class='fa fa-check' style=\\\"color:gray;\\\"></i>    </span></center>\",\n                    //not used\n                \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n            },\n            \n            getStateString(state) {\n                var stateString;\n                switch (state) {\n                    case 0: { stateString = \"clickToSend\"; break; }\n                    case 1: { stateString = \"queued\"; break; }\n                    case 2: { stateString = \"loaded\"; break; }\n                    case 3: { stateString = \"clearing\"; break; }\n                    case -1: { stateString = \"fail\"; break; }\n                    default: { node.error(\"unknown button state \" + state + \" \") }\n                    case false: { stateString = \"tableError\"; break }\n                }\n                //node.warn({stateStringSetTo:stateString});\n                return stateString;\n            },\n            getStateInt(stateString) {\n                var state;\n                switch (stateString) {\n                    case \"clickToSend\": { state = 0; break; }\n                    case \"queued\": { state = 1; break; }\n                    case \"loaded\": { state = 2; break; }\n                    case \"clearing\": { state = 3; break; }\n                    case \"fail\": { state = -1; break; }\n                    default: { node.error(\"unknown button state \" + state + \" \") }\n                    case \"tableError\": { state = false; break;}\n                }\n                //node.warn({ stateIntSetTo: state });\n                return state;\n            },\n            \n            \n\n            /** \n             * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to edit, must have a fieldName button.\n            */\n            setStateInRow(state,fieldName,rowRef){\n                var stateString = state;\n                if(typeof(state) == \"string\")\n                    state=this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n                \n                if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)){\n                    node.error(\"no \"+fieldName+\" button or unknown state \" + stateString)\n                    stateString = \"tableError\";\n                    state = this.getStateInt(stateString);\n                }\n                rowRef[fieldName] = this.states[stateString];\n                rowRef[fieldName+\"State\"] = state;\n                //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                return;\n            },\n            setSingleState(state,fieldName,rowRef){\n                return this.setStateInRow(state,fieldName,rowRef);\n            },\n\n            /* not working\n            setStateInTable(state, fieldName, rowRef, tableRef) {\n                var stateString = state;\n                if (typeof (state) == \"string\")\n                    state = this.getStateInt(state);\n                else\n                    stateString = this.getStateString(state);\n                \n                switch(stateString){\n                    case \"clickToSend\": {\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"queued\":{\n                        for(let row of tableRef){\n                            if(row.rowId!=rowRef.rowId){\n                                //queued -> clickToSend\n                                if(row[fieldName+\"State\"] == 1) \n                                    this.setStateInRow(0,fieldName,rowRef);\n                                //loaded -> clearing\n                                else if(row[fieldName+\"State\"] == 2)\n                                    this.setStateInRow(3,fieldName,rowRef);\n                            }\n                        }\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    //there can only be 1 per column\n                    case \"loaded\":{\n                        for(let row of tableRef){\n                            if (row.rowId != rowRef.rowId) {\n                                //loaded || clearing -> clickToSend\n                                if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                    this.setStateInRow(0,fieldName,rowRef);\n                            }\n                        }\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                    case \"clearing\":{\n                        this.setStateInRow(state, fieldName, rowRef);\n                        break;\n                    }\n                }\n                return;\n            },\n            */\n            \n\n            /**\n             * true if referenced press is currently loaded into the plc\n             * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n             * @param {object} reference to the row to check, must have a fieldName button.\n            */\n            isLoaded(fieldName, rowRef){ //true se questa riga è attualmente caricata nel plc\n                let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                return (stateString == \"clearing\" || stateString == \"loaded\");\n            }\n        },\n        \n        newRow(rowId) {\n            var row = {\n                rowId: rowId,\n                deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                id: \"\",\n                quantToDo: 1,\n                quantProd: 0,\n                progress: this.quantProd / this.quantToDo,\n                note: \"\"\n                //sendToPressa1,2,3.. :\n                //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n            }\n\n            let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n            for (let p of presse) {\n                row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                row[\"sendTo\"+p+\"State\"] = null;\n                this.sendToPressButton.setStateInRow(\"clickToSend\",\"sendTo\"+p,row);\n            }\n            return row;\n        }\n    },\n    history: {\n        newRow(rowId, doneByPressNum = 1) {\n            const dateObj = new Date();\n            let d=dateObj;\n            var row = {\n                rowId: rowId, //hidden\n                doneByPressNum: doneByPressNum,\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: twoDigit(d.getDate())+\".\"+twoDigit(1+d.getMonth())+\".\"+d.getFullYear(),\n                time: twoDigit(d.getHours())+\":\"+twoDigit(d.getMinutes())+\":\"+twoDigit(d.getSeconds()),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                note: \"\",\n            }\n\n            return row;\n        }\n    },\n    completed: {\n        newRow(rowId) {\n            const dateObj = new Date();\n            let d = dateObj;\n            var row = {\n                rowId: rowId, //hidden\n                //doneByPressNum: doneByPressNum, //hidden\n                cycleNumber: 0,\n                dateObj: new Date(),\n                date: twoDigit(d.getDate())+\".\"+twoDigit(1+d.getMonth())+\".\"+d.getFullYear(),\n                time: twoDigit(d.getHours())+\":\"+twoDigit(d.getMinutes())+\":\"+twoDigit(d.getSeconds()),\n                millis: Date.now(),\n                id: \"\",\n                quantProd: 0,\n                quantToDo: 0,\n                quantSumm: this.quantProd+\"/\"+this.quantToDo,\n                note: \"\",\n            }\n\n            return row;\n        }\n    }\n    \n}\n\n\nflow.set(\"tabUtils\", tabUtils);\n\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 515,
-        "y": 225,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "891c7b3250aa152a",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "ee1fd54ec57a959c",
-        "name": "set globals and utilities",
-        "info": "tabUtils\n    ha funzioni comuni a tutte le tabelle,\n    in aggiunta a quelle specifiche per le singole.",
-        "x": 290,
-        "y": 175,
-        "wires": []
     },
     {
         "id": "c309c3ce8e145478",
@@ -10663,66 +10856,6 @@
         "l": false
     },
     {
-        "id": "e198712935d863ce",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "ee1fd54ec57a959c",
-        "name": "set flow.uiConfig",
-        "func": "\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 525,
-        "y": 270,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "0fce669fac8b246c",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "ee1fd54ec57a959c",
-        "name": "set flow.params",
-        "func": "\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 515,
-        "y": 315,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ceb2f1af58e4621a",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "ee1fd54ec57a959c",
-        "name": "OnStartup0.1",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "0.1",
-        "topic": "",
-        "x": 295,
-        "y": 300,
-        "wires": [
-            [
-                "e198712935d863ce",
-                "0fce669fac8b246c"
-            ]
-        ]
-    },
-    {
         "id": "9145dcd7afd55580",
         "type": "catch",
         "z": "2260f1f88d7c60bf",
@@ -12146,10 +12279,9 @@
         "id": "4c8e5c82af533d36",
         "type": "function",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "handle clicked rows interactivity",
-        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //button.setStateInTable(\"clearing\",\"sendToPressa3\",table[activeRowIdx],table);\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if(rowIdx != activeRowIdx && button.getStateString(table[rowIdx][activeFieldName+\"State\"]) != \"clickToSend\")\n                    button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n            //set the one to loaded\n            button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx])\n            //button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({feedback:msg.action,fr0m:activeFieldName,appliedTo:activeRow});\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            //load order in plc as soon as it's free // -> queued //will change to loaded\n            case \"clickToSend\": {\n                for(let rowIdx in table){\n                    //queued -> clickToSend\n                    if(button.getStateString(table[rowIdx][activeFieldName+\"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\",activeFieldName,table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                //set it to queued\n                button.setSingleState(\"queued\",activeFieldName, table[activeRowIdx]);\n                //writes to plc\n                msg.action = \"load\";\n                break;\n            }\n            //cancel load // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setSingleState(\"clickToSend\", activeFieldName, table[activeRowIdx]);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n            //write empty order to plc asap //-> clearing //will go to clickToSend //will reset whole column to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n                //empty plc exc\n                    //feedback will reset all buttons to clickToSend\n                msg.action = \"clear\";\n                break;\n            }\n            //-> loaded //cancel clear\n            case \"clearing\": {\n                for (let rowIdx in table) {\n                    //queued -> clickToSend\n                    if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (load)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press=\"pressa\"+pressNum;\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n    \n    \n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    \n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse=false;\n    for(let i=0;i<4;i++){\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i+1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if(inUse){\n        return [refreshMsg] //de-update table\n    }\n    else{\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n    \n    \n    \n}\n\n",
-        "outputs": 2,
+        "func": "    //aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n    //params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\nconst requestPopup = (id) => { return { \"popupId\": id, \"srcMsg\": msg } }\n    //restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n    \n\n    //deleteButton\n        //create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n        //then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    // //check that the order is not loaded (deny if it is)\n    //     //non testato\n    // const tabUtils = flow.get(\"tabUtils\");\n    // const button = tabUtils.queue.sendToPressButton;\n    // if ([0, 1, 2, 3].some(idx => button.getStateString(activeRow[\"sendToPressa\" + (idx + 1) + \"State\"]) != \"clickToSend\")) {\n    //     return [refreshMsg, null, requestPopup(\"deleteDenied_inUse\")]\n    // }\n    \n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table){\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n        //refresh frontend\n    return refreshMsg;\n}\n\n    //sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)){\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    //button.setStateInTable(\"clearing\",\"sendToPressa3\",table[activeRowIdx],table);\n\n    //overwrite column's button states //the feedback holds what's currently true\n    if(msg.isFeedback){\n        //if clear   gray tick -> clickToSend + reset them all //nothing was sent after greenTick was canceled\n            //if original row was deleted: still reset them all\n        if(msg.action == \"clear\"){\n            //reset all buttons in the same column\n            for (let rowIdx in table)\n                button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n\n        }\n        else if(msg.action == \"load\"){\n            //if row was deleted\n                //throw alert?\n            if(activeRowIdx < 0){\n                node.error(\"received button feedback of deleted row\",{errId:\"missingRowException\",triggeringMsg:msg});\n                return null;\n            }\n            //reset all other buttons in the same column\n            for (let rowIdx in table)\n                if(rowIdx != activeRowIdx && button.getStateString(table[rowIdx][activeFieldName+\"State\"]) != \"clickToSend\")\n                    button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n            //set the one to loaded\n            button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx])\n            //button.setStateInTable(\"loaded\", activeFieldName, table[activeRowIdx]);\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({feedback:msg.action,fr0m:activeFieldName,appliedTo:activeRow});\n        return [refreshMsg, null];\n    }\n    //change clicked button state\n    else{\n        let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n        //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n        \n        switch (button.getStateString(state)) {\n            //load order in plc as soon as it's free // -> queued //will change to loaded\n            case \"clickToSend\": {\n                for(let rowIdx in table){\n                    //queued -> clickToSend\n                    if(button.getStateString(table[rowIdx][activeFieldName+\"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\",activeFieldName,table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                //set it to queued\n                button.setSingleState(\"queued\",activeFieldName, table[activeRowIdx]);\n                //writes to plc\n                msg.action = \"load\";\n                break;\n            }\n            //cancel load // -> clickToSend\n            case \"queued\": {\n                //just set it to clickToSend\n                button.setSingleState(\"clickToSend\", activeFieldName, table[activeRowIdx]);\n                //cancel action clickToSend\n                    //takes the spot of the previous action (clear)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n            //write empty order to plc asap //-> clearing //will go to clickToSend //will reset whole column to clickToSend\n            case \"loaded\": {\n                //just set it to clearing\n                button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n                //empty plc exc\n                    //feedback will reset all buttons to clickToSend\n                msg.action = \"clear\";\n                break;\n            }\n            //-> loaded //cancel clear\n            case \"clearing\": {\n                for (let rowIdx in table) {\n                    //queued -> clickToSend\n                    if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"queued\")\n                        button.setSingleState(\"clickToSend\", activeFieldName, table[rowIdx]);\n                    //loaded -> clearing\n                    else if (button.getStateString(table[rowIdx][activeFieldName + \"State\"]) == \"loaded\")\n                        button.setSingleState(\"clearing\", activeFieldName, table[rowIdx]);\n                }\n                button.setSingleState(\"loaded\", activeFieldName, table[activeRowIdx]);\n                //cancel action clear\n                    //takes the spot of the previous action (load)\n                    //if it has already been applied, its feedback is on the way and will update the table anyway\n                msg.action = \"nothing\";\n                break;\n            }\n        }\n        //write to plc and refresh frontend\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press=\"pressa\"+pressNum;\n        return [refreshMsg, msg];\n    }\n}\n    //updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n    \n    \n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    \n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse=false;\n    for(let i=0;i<4;i++){\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i+1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if (inUse) {\n        //return [refreshMsg] //de-update table\n        return [refreshMsg, null, requestPopup(\"editDenied_inUse\")];\n    }\n    else {\n        // if (activeFieldName == \"id\") {\n        //     if (table.some(row => row.rowId != activeRow.rowId && row.id == activeRow.id)) {\n        //         return [refreshMsg, null, requestPopup(\"editDenied_dupId\")];\n        //     }\n        // }\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n    \n    \n    \n}\n\n",
+        "outputs": 3,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -12162,6 +12294,9 @@
             ],
             [
                 "b841b6eefb58def0"
+            ],
+            [
+                "8e41af32d0466377"
             ]
         ]
     },
@@ -12169,7 +12304,6 @@
         "id": "34fe0f797682d4b7",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "queueTable event in",
         "links": [
             "d111c07926a908c5"
@@ -12187,7 +12321,6 @@
         "id": "e579796d389a173e",
         "type": "change",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "",
         "rules": [
             {
@@ -12215,7 +12348,6 @@
         "id": "7f049357115c53e0",
         "type": "link out",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "refreshQueueTable_out",
         "mode": "link",
         "links": [
@@ -12224,8 +12356,8 @@
             "107ba20c98b6cb03",
             "1ebe50be51bab839"
         ],
-        "x": 1130,
-        "y": 2220,
+        "x": 1045,
+        "y": 2205,
         "wires": [],
         "l": true
     },
@@ -12233,7 +12365,6 @@
         "id": "b841b6eefb58def0",
         "type": "switch",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "route?",
         "property": "payload",
         "propertyType": "msg",
@@ -12245,7 +12376,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 950,
+        "x": 940,
         "y": 2280,
         "wires": [
             [
@@ -12257,7 +12388,6 @@
         "id": "ee7df6ca341a90cc",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "pressa1 sendToPressRequest done in",
         "links": [
             "55d2fb1e2f4239c6",
@@ -12276,7 +12406,6 @@
         "id": "f3860e59347fd377",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "pressa2 sendToPressRequest done in",
         "links": [
             "55d2fb1e2f4239c6",
@@ -12295,7 +12424,6 @@
         "id": "8c2c42bc9a8767e9",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "pressa3 sendToPressRequest done in",
         "links": [
             "55d2fb1e2f4239c6",
@@ -12314,7 +12442,6 @@
         "id": "645349eefb80cd73",
         "type": "link in",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "pressa4 sendToPressRequest done in",
         "links": [
             "55d2fb1e2f4239c6",
@@ -12333,14 +12460,13 @@
         "id": "7c8bd303c63bc52d",
         "type": "link out",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "mixed sendToPressRequests out",
         "mode": "link",
         "links": [
             "8cc8b8736d1102b3",
             "584b8fd433a7e2cd"
         ],
-        "x": 1275,
+        "x": 1145,
         "y": 2280,
         "wires": [],
         "l": true
@@ -12349,7 +12475,6 @@
         "id": "c9fa4cba41fe88a7",
         "type": "comment",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "",
         "info": "no msg.press\npress inferred from topic: like \"sendToPressa1\"",
         "x": 570,
@@ -12361,7 +12486,6 @@
         "id": "5e7a9cab577dae64",
         "type": "comment",
         "z": "2260f1f88d7c60bf",
-        "g": "34db5f71c5fd7b36",
         "name": "handle button clicks and field edits",
         "info": "",
         "x": 380,
@@ -12449,6 +12573,376 @@
         "className": "",
         "x": 425,
         "y": 2625,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "88534f4f764fdb99",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "ee1fd54ec57a959c",
+        "name": "catchAll",
+        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 195,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d8cfb4d7d6f20c04",
+        "type": "catch",
+        "z": "2260f1f88d7c60bf",
+        "g": "ee1fd54ec57a959c",
+        "name": "",
+        "scope": null,
+        "uncaught": true,
+        "x": 710,
+        "y": 195,
+        "wires": [
+            [
+                "88534f4f764fdb99"
+            ]
+        ]
+    },
+    {
+        "id": "9da7d4d6e4e7a495",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "ee1fd54ec57a959c",
+        "name": "set flow.tabUtils",
+        "func": "",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 225,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "891c7b3250aa152a",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "ee1fd54ec57a959c",
+        "name": "set globals and utilities",
+        "info": "tabUtils\n    ha funzioni comuni a tutte le tabelle,\n    in aggiunta a quelle specifiche per le singole.",
+        "x": 305,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "e198712935d863ce",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "ee1fd54ec57a959c",
+        "name": "set flow.uiConfig",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0fce669fac8b246c",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "ee1fd54ec57a959c",
+        "name": "set flow.params",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 315,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ceb2f1af58e4621a",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "ee1fd54ec57a959c",
+        "name": "OnStartup0.1",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [
+                "e198712935d863ce",
+                "0fce669fac8b246c"
+            ]
+        ]
+    },
+    {
+        "id": "81a49ecdc6eebfee",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "e64d1b9eb78e1d44",
+        "group": "8c268b6bfa27c24a",
+        "name": "popupRouter",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"display:none\">\n    <div note=\"[popupRouter] example content\">\n        <p>The number is</p>\n        <font color=\"{{((msg.payload || 0) % 2 === 0) ? 'green' : 'red'}}\">\n            {{(msg.payload || 0) % 2 === 0 ? 'even' : 'odd'}}\n        </font>\n    </div>\n    <script note=\"[popupRouter] create popup container\">\n        //create popup container\n        $(function () {\n            if(!window.popupRouter_InitCalled){\n                window.popupRouter_InitCalled = true;\n                pushFunctions(); //append utils and popup pseudo-classes to windows.functions \n\n                var popupCont = document.createElement(\"div\");\n                popupCont.classList.add(\"popup-container\");\n                popupCont.id = \"mainPopupContainer\";\n                \n\n                //document.getElementsByTagName(\"body\")[0].append(popupCont);\n                let mainSect = getMainSect();\n                mainSect.append(popupCont);\n                console.log(\"[popupRouter][init()] appended popupContainer to \", mainSect, popupCont);\n            }else{\n                console.log(\"[popupRouter][init()] skipping init (popupRouter_InitCalled is def)\");\n            }\n            \n\n            function getMainSect(){\n                var mainSect = null;\n                for(el of document.getElementsByTagName(\"md-content\")[0].children){\n                    if(/section/i.test(el.tagName)){\n                        mainSect = el;\n                        break;\n                    }\n                }\n                if(!mainSect)\n                    console.warn(\"getMainSect(): not found\",mainSect);\n                //mainSect === null ? console.warn(\"mainSect:\",mainSect) : console.log(\"mainSect:\",mainSect);\n                return mainSect;\n            }\n        });\n        \n        function pushFunctions(){\n            let root = window.functions ?? (window.functions = new Object());\n            //import some utils. //avoid overwriting\n            root.utils ??= {};\n            root.utils = mergeRec(root.utils ,{\n                /** recursively merge two Objects\n                    * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n                    * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n                    * - -res.a===main.a\n                    * - -res.c===sec.c\n                    * - -res.b!==sec.b2\n                    * @param {Object} main\n                    * @param {Object} sec */\n                \"mergeRec\":mergeRec,\n                /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n                     * @param {any} value accepts anything\n                     * @returns {boolean}\n                     *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n                     */\n                \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n                    return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n                        // it has a prototype that's also truthy\n                        !!(value = Object.getPrototypeOf(value)) &&\n                        // which has `null` as parent prototype\n                        !Object.getPrototypeOf(value);\n                },\n                /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n                 *      skip non-function, assign wrapped to their original key\n                 *  @param root {Object} the object to parse for functions\n                 *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n                \"wrapFunctions\": function wrapFunctions(root, prefix) {\n                    prefix ?? console.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n                    const isPlainObj = this.isPlainObj;\n                    //recursively parse root\n                    //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n                    let desc;\n                    for (let k in root) {\n                        if (isPlainObj(root[k]))\n                            root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n                        else if (//is a simple function, or an arrow function\n                            //value of root[k] has type function\n                            typeof (root[k]) == \"function\"\n                            //root[k] itself is a function, not the result of it's getter call\n                            && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                            && !desc.get\n                        ) {\n                            //wrap in an exception catching function\n                            //trace errors back to their source, independently of the caller\n                            let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                            root[k] = function (...args) {\n                                try {\n                                    return cb.call(this, ...args)\n                                } catch (e) {\n                                    e.nrStack = (e.nrStack ?? []);\n                                    e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                                    e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                                    //console.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                                    throw e;\n                                }\n                            }\n                        }\n                    }\n                    return root;\n                }.bind(root.utils),\n                \"fromHtml\":function fromHtml(html, appendTo=document){\n                    if(arguments.length != fromHtml.length) throw new Error(\"arg length mismatch. \"+arguments.length+\"/\"+fromHtml.length);\n                    let factory = document.createElement(\"div\");\n                    // if(!factory){\n                    //     factory=document.createElement(\"div\");\n                    //     factory.id = \"htmlFactory\";\n                    //     factory.style.display = \"none\";\n                    //     factory.position = \"absolute\";\n                    //     document.lastElementChild.append(factory);\n                    // }\n                    factory.innerHTML = html;\n                    if(factory.children.length > 1)\n                        console.error(\"[<globFuncs>.utils.fromHtml()] more than 1 element created, when only the first will be returned.\",arguments,\"\\n->\",factory.children,);\n                    return factory.firstElementChild ?? console.error(\"[<globFuncs>.utils.fromHtml()] nothing created. returned null\",arguments);\n                },\n                /** some characters do not have an uppercase equivalent. They are considered to be lowercase by this func */\n                \"isLowerCase\":function isLowerCase(ch=null){\n                    return ch!==null && ch == ch?.toLowerCase?.();\n                }\n            });\n            //root.utils.wrapFunctions(root.utils,\"[<globFuncs>.utils]\");\n            //popup-specific functions\n            root.popup = {};\n            root.popup = root.utils.mergeRec(root.popup, {\n                \"getTemplate\":function getTemplate(type=\"info\",text=\"\"){\n                    const utils = window.functions.utils;\n                    if(!utils.isLowerCase(type?.[0]))\n                        type = type.toLowerCase();\n                    switch(type){\n                        default:{ console.warn(\"[<globFuncs>.utils] getTemplate(): invalid type \",type, \".used info\"); }\n                        case \"std\":\n                        case \"info\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"err\":\n                        case \"error\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup error\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"warn\":\n                        case \"warning\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup warning\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                    }\n                    \n                },\n                \"push\": function push(popup){\n                    document.getElementById(\"mainPopupContainer\").prepend(popup);\n                    return popup;\n                }.bind(root.popup),\n                \"popOlder\": function pop(){\n                    let cont = document.getElementById(\"mainPopupContainer\");\n                    var removed = cont.lastElementChild;\n                    if(cont.children.length)\n                        cont.lastElementChild?.remove?.();\n                    return removed;\n                },\n                \"show\":function show(type=\"info\",content=\"\",selfCloseMs=null, dismissable = true){\n                    const utils = window.functions.utils;\n                    var pUpClass = this;\n                    var popup = this.getTemplate(type, content);\n                    if(selfCloseMs !== null){\n                        setTimeout(()=>{\n                            for(var el of document.getElementById(\"mainPopupContainer\").children){\n                                if(el === popup){\n                                    el.remove();\n                                    console.log(\"removed \",el);\n                                }\n                            }\n                            console.warn(\"no popup matched with \",popup, \" after the timeout\");\n                        },selfCloseMs)\n                    }\n                    if(dismissable){\n                        popup.onclick = function (){\n                            console.log(\"clicked\",this);\n                            this.remove();\n                        }\n                    }\n                    this.push(popup);\n                }.bind(root.popup),\n                \"showTitled\":function showTitled(type=\"info\",title=\"\",txt=\"\",selfCloseMs=null, dismissable = true){\n                    this.show(type,`\n                    <span style=\"font-size:1.3em\">${title}</span>\n                    <div>${txt}</div>\n                    `,selfCloseMs, dismissable);\n                }.bind(root.popup),\n            });\n            //root.utils.wrapFunctions(root.popup,\"[<globFuncs>.popup]\");\n        }\n\n\n        /**\n        * @summary recursively merge two Objects\n            * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n            * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n            * - -res.a===main.a\n            * - -res.c===sec.c\n            * - -res.b!==sec.b2\n            * @param {Object} main \n            * @param {Object} sec */\n        function mergeRec(main, sec) {\n            for (let p in sec) {\n                //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n                //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n                if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                    thisFun(main[p], sec[p]);\n                else\n                    main[p] = sec[p];\n            }\n            return main;\n        }\n\n    </script>\n    <style note=\"[popupRouter]\">\n        .popupRouter-card {\n            border: 1px solid green;\n            display:none;\n        }\n\n        .popupPusher {\n            border: 1px solid green;\n            display:none;\n        }\n        .popupPusher-card {\n            border: 1px solid green;\n            display:none;\n        }\n    \n        .popup-container {\n            /*border: 1px solid green;*/\n            width: max(30vw,600px);\n            position: fixed;\n            right:2vw;\n            padding-top: 0.3em;\n        }\n        \n        .popup-container .roundPopup {\n            text-align: left;\n            padding: 0.3em 1.5em;\n            margin-bottom: 1vh;\n            border: 3px solid gray;\n            border-radius: 10px;\n            background-color: rgb(243 243 243 / 100%); /* light gray */\n            color:#19196F;\n            width: fit-content;\n            margin-left: auto;\n            margin-right: 0;\n        }\n\n        .popup-container .roundPopup:hover {\n            background-color:#caeeff; /* light light blue */\n        }\n\n        .popup-container .roundPopup hr {\n            margin-left:-1.5em;\n            margin-right:-1.5em;\n        }\n\n        .popup-container .warning {\n            border-color: sandybrown;\n            background-color: lemonchiffon\n        }\n\n        .popup-container .error {\n            border-color: crimson;\n            background-color: #ffc0c0;\n        }\n    </style>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupRouter-card",
+        "x": 1295,
+        "y": 210,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c6847b06e1ed6fcb",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "e64d1b9eb78e1d44",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.show(\n                \"error\",\n                `operazione non permessa.\n                <br>Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                null,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1280,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7652703d56dd1baf",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "e64d1b9eb78e1d44",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1135,
+        "y": 270,
+        "wires": [
+            [
+                "c6847b06e1ed6fcb"
+            ]
+        ]
+    },
+    {
+        "id": "8b2375c11c170ba7",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "e64d1b9eb78e1d44",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1135,
+        "y": 315,
+        "wires": [
+            [
+                "b0b63f27328cd857"
+            ]
+        ]
+    },
+    {
+        "id": "b0b63f27328cd857",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "e64d1b9eb78e1d44",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error: cannot edit while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                null,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1380,
+        "y": 315,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e41af32d0466377",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "name": "popupId",
+        "property": "popupId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "deleteDenied_inUse",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "editDenied_inUse",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "editDenied_dupId",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 1325,
+        "y": 2235,
+        "wires": [
+            [
+                "179f88f4f12b55bb"
+            ],
+            [
+                "279e1a725c8052f5"
+            ],
+            [
+                "6bd5b24222082719"
+            ],
+            [
+                "765efb76dc0d7fc3"
+            ]
+        ]
+    },
+    {
+        "id": "179f88f4f12b55bb",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: cannot delete while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile eliminare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1590,
+        "y": 2190,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "279e1a725c8052f5",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: cannot edit while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1580,
+        "y": 2220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6bd5b24222082719",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: duplicate id",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Id ordine non valido\",\n                `Esiste già un ordine che riporta l'id ${msg?.payload?.[msg.topic] ?? \"specificato\"}.\n                <br>Gli id devono essere unici per poter essere inseriti nel database di riferimento.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1550,
+        "y": 2250,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "765efb76dc0d7fc3",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "name": "error",
+        "func": "node.error({ err: \"unknown or missing popupId\", popupId: msg.popupId,fullMsg:msg});\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 1480,
+        "y": 2280,
         "wires": [
             []
         ]
@@ -12978,7 +13472,8 @@
         "y": 2175,
         "wires": [
             [
-                "9b820c04588a3822"
+                "9b820c04588a3822",
+                "f5c381b5ec72eda4"
             ]
         ],
         "l": false
@@ -13049,7 +13544,8 @@
         "y": 2220,
         "wires": [
             [
-                "d42e3781f0fd7e8d"
+                "d42e3781f0fd7e8d",
+                "f5c381b5ec72eda4"
             ]
         ],
         "l": false
@@ -13095,7 +13591,8 @@
         "y": 2265,
         "wires": [
             [
-                "d23ff2ec027956a6"
+                "d23ff2ec027956a6",
+                "f5c381b5ec72eda4"
             ]
         ],
         "l": false
@@ -13685,7 +14182,8 @@
         "y": 1635,
         "wires": [
             [
-                "90d15b938fe04887"
+                "90d15b938fe04887",
+                "f9db0017c651a201"
             ]
         ],
         "l": false
@@ -13756,7 +14254,8 @@
         "y": 1680,
         "wires": [
             [
-                "06995737ec64c385"
+                "06995737ec64c385",
+                "f9db0017c651a201"
             ]
         ],
         "l": false
@@ -13802,7 +14301,8 @@
         "y": 1725,
         "wires": [
             [
-                "7e216c6e08250db0"
+                "7e216c6e08250db0",
+                "f9db0017c651a201"
             ]
         ],
         "l": false
@@ -14364,7 +14864,8 @@
         "y": 1095,
         "wires": [
             [
-                "ca7c13217c8a527d"
+                "ca7c13217c8a527d",
+                "93cf5aa68bdd90b4"
             ]
         ],
         "l": false
@@ -14439,7 +14940,8 @@
         "y": 1140,
         "wires": [
             [
-                "37447a9eb7220bbd"
+                "37447a9eb7220bbd",
+                "93cf5aa68bdd90b4"
             ]
         ],
         "l": false
@@ -14487,7 +14989,8 @@
         "y": 1185,
         "wires": [
             [
-                "1a4ff677fdd5bfbd"
+                "1a4ff677fdd5bfbd",
+                "93cf5aa68bdd90b4"
             ]
         ],
         "l": false
@@ -15627,7 +16130,8 @@
         "y": 345,
         "wires": [
             [
-                "13c1fa98c29f8f81"
+                "13c1fa98c29f8f81",
+                "9aac6231207dd902"
             ]
         ]
     },
@@ -15655,7 +16159,7 @@
         "z": "69a590bb3eaafea5",
         "g": "b45e5b597df321ef",
         "name": "setDefault",
-        "func": "msg.payload = {\n    \"tempPianoSup\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": false\n    },\n    \"pressPressata\": {\n        \"min\": 0,\n        \"max\": 10,\n        \"c1\": \"#ffffff\",\n        \"c2\": \"#000000\",\n        \"c3\": \"#000000\",\n        \"copyColors\": \"tempPianoSup\"\n    },\n    \"tempPianoInf\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": \"tempPianoSup\"\n    }\n}\nreturn msg;",
+        "func": "msg.payload = {\n    \"tempPianoSup\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": false\n    },\n    \"pressPressata\": {\n        \"min\": 0,\n        \"max\": 10,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": \"tempPianoSup\"\n    },\n    \"tempPianoInf\": {\n        \"min\": 0,\n        \"max\": 250,\n        \"c1\": \"#2cbec6\",\n        \"c2\": \"#0c942e\",\n        \"c3\": \"#e42b2b\",\n        \"copyColors\": \"tempPianoSup\"\n    }\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -15765,6 +16269,275 @@
         "statusType": "auto",
         "x": 635,
         "y": 490,
+        "wires": []
+    },
+    {
+        "id": "93cf5aa68bdd90b4",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1290,
+        "y": 1230,
+        "wires": [
+            [
+                "fb52913cc5f5fed3"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "fb52913cc5f5fed3",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 1230,
+        "wires": [
+            [
+                "852f78815ff40211"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "852f78815ff40211",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "f6dfdebddb6b4ea5"
+        ],
+        "x": 1735,
+        "y": 1230,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "2fc894e0f20b7fcb",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "f6dfdebddb6b4ea5"
+        ],
+        "x": 1645,
+        "y": 1770,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "719f370d675764fe",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 1770,
+        "wires": [
+            [
+                "2fc894e0f20b7fcb"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "f9db0017c651a201",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1200,
+        "y": 1770,
+        "wires": [
+            [
+                "719f370d675764fe"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "1d4573414aeeb51d",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "f6dfdebddb6b4ea5"
+        ],
+        "x": 1620,
+        "y": 2310,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "f5c381b5ec72eda4",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1215,
+        "y": 2310,
+        "wires": [
+            [
+                "e779c7255cbbe3f2"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "e0159898d44cfae9",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "cbc36db7c52f56bd",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popup err 7s: must be in manual to edit",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"warn\",\n                \"Attenzione\",\n                `La modifica non avrà effetto se non si imposta \"utilizza colori\" su \"manuale\"`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1385,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f6dfdebddb6b4ea5",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "g": "cbc36db7c52f56bd",
+        "name": "err popup in",
+        "links": [
+            "852f78815ff40211",
+            "1d4573414aeeb51d",
+            "2169d054e3700ab8",
+            "2fc894e0f20b7fcb"
+        ],
+        "x": 1185,
+        "y": 780,
+        "wires": [
+            [
+                "e0159898d44cfae9"
+            ]
+        ]
+    },
+    {
+        "id": "07709d64d5b739e2",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "cbc36db7c52f56bd",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popupRouter",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"display:none\">\n    <div note=\"[popupRouter] example content\">\n        <p>The number is</p>\n        <font color=\"{{((msg.payload || 0) % 2 === 0) ? 'green' : 'red'}}\">\n            {{(msg.payload || 0) % 2 === 0 ? 'even' : 'odd'}}\n        </font>\n    </div>\n    <script note=\"[popupRouter] create popup container\">\n        //create popup container\n        $(function () {\n            if(!window.popupRouter_InitCalled){\n                window.popupRouter_InitCalled = true;\n                pushFunctions(); //append utils and popup pseudo-classes to windows.functions \n\n                var popupCont = document.createElement(\"div\");\n                popupCont.classList.add(\"popup-container\");\n                popupCont.id = \"mainPopupContainer\";\n                \n\n                //document.getElementsByTagName(\"body\")[0].append(popupCont);\n                let mainSect = getMainSect();\n                mainSect.append(popupCont);\n                console.log(\"[popupRouter][init()] appended popupContainer to \", mainSect);\n            }else{\n                console.log(\"[popupRouter][init()] skipping init (popupRouter_InitCalled is def)\");\n            }\n            \n\n            function getMainSect(){\n                var mainSect = null;\n                for(el of document.getElementsByTagName(\"md-content\")[0].children){\n                    if(/section/i.test(el.tagName)){\n                        mainSect = el;\n                        break;\n                    }\n                }\n                mainSect === null ? console.warn(\"mainSect:\",mainSect) : console.log(\"mainSect:\",mainSect);\n                return mainSect;\n            }\n        });\n        \n        function pushFunctions(){\n            let root = window.functions ?? (window.functions = new Object());\n            //import some utils. //avoid overwriting\n            root.utils ??= {};\n            root.utils = mergeRec(root.utils ,{\n                /** recursively merge two Objects\n                    * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n                    * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n                    * - -res.a===main.a\n                    * - -res.c===sec.c\n                    * - -res.b!==sec.b2\n                    * @param {Object} main\n                    * @param {Object} sec */\n                \"mergeRec\":mergeRec,\n                /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n                     * @param {any} value accepts anything\n                     * @returns {boolean}\n                     *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n                     */\n                \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n                    return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n                        // it has a prototype that's also truthy\n                        !!(value = Object.getPrototypeOf(value)) &&\n                        // which has `null` as parent prototype\n                        !Object.getPrototypeOf(value);\n                },\n                /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n                 *      skip non-function, assign wrapped to their original key\n                 *  @param root {Object} the object to parse for functions\n                 *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n                \"wrapFunctions\": function wrapFunctions(root, prefix) {\n                    prefix ?? console.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n                    const isPlainObj = this.isPlainObj;\n                    //recursively parse root\n                    //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n                    let desc;\n                    for (let k in root) {\n                        if (isPlainObj(root[k]))\n                            root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n                        else if (//is a simple function, or an arrow function\n                            //value of root[k] has type function\n                            typeof (root[k]) == \"function\"\n                            //root[k] itself is a function, not the result of it's getter call\n                            && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                            && !desc.get\n                        ) {\n                            //wrap in an exception catching function\n                            //trace errors back to their source, independently of the caller\n                            let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                            root[k] = function (...args) {\n                                try {\n                                    return cb.call(this, ...args)\n                                } catch (e) {\n                                    e.nrStack = (e.nrStack ?? []);\n                                    e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                                    e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                                    //console.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                                    throw e;\n                                }\n                            }\n                        }\n                    }\n                    return root;\n                }.bind(root.utils),\n                \"fromHtml\":function fromHtml(html, appendTo=document){\n                    if(arguments.length != fromHtml.length) throw new Error(\"arg length mismatch. \"+arguments.length+\"/\"+fromHtml.length);\n                    let factory = document.createElement(\"div\");\n                    // if(!factory){\n                    //     factory=document.createElement(\"div\");\n                    //     factory.id = \"htmlFactory\";\n                    //     factory.style.display = \"none\";\n                    //     factory.position = \"absolute\";\n                    //     document.lastElementChild.append(factory);\n                    // }\n                    factory.innerHTML = html;\n                    if(factory.children.length > 1)\n                        console.error(\"[<globFuncs>.utils.fromHtml()] more than 1 element created, when only the first will be returned.\",arguments,\"\\n->\",factory.children,);\n                    return factory.firstElementChild ?? console.error(\"[<globFuncs>.utils.fromHtml()] nothing created. returned null\",arguments);\n                },\n                /** some characters do not have an uppercase equivalent. They are considered to be lowercase by this func */\n                \"isLowerCase\":function isLowerCase(ch=null){\n                    return ch!==null && ch == ch?.toLowerCase?.();\n                }\n            });\n            //root.utils.wrapFunctions(root.utils,\"[<globFuncs>.utils]\");\n            //popup-specific functions\n            root.popup = {};\n            root.popup = root.utils.mergeRec(root.popup, {\n                \"getTemplate\":function getTemplate(type=\"info\",text=\"\"){\n                    const utils = window.functions.utils;\n                    if(!utils.isLowerCase(type?.[0]))\n                        type = type.toLowerCase();\n                    switch(type){\n                        default:{ console.warn(\"[<globFuncs>.utils] getTemplate(): invalid type \",type, \".used info\"); }\n                        case \"std\":\n                        case \"info\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"err\":\n                        case \"error\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup error\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"warn\":\n                        case \"warning\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup warning\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                    }\n                    \n                },\n                \"push\": function push(popup){\n                    document.getElementById(\"mainPopupContainer\").prepend(popup);\n                    return popup;\n                }.bind(root.popup),\n                \"popOlder\": function pop(){\n                    let cont = document.getElementById(\"mainPopupContainer\");\n                    var removed = cont.lastElementChild;\n                    if(cont.children.length)\n                        cont.lastElementChild?.remove?.();\n                    return removed;\n                },\n                \"show\":function show(type=\"info\",content=\"\",selfCloseMs=null, dismissable = true){\n                    const utils = window.functions.utils;\n                    var pUpClass = this;\n                    var popup = this.getTemplate(type, content);\n                    if(selfCloseMs !== null){\n                        setTimeout(()=>{\n                            for(var el of document.getElementById(\"mainPopupContainer\").children){\n                                if(el === popup){\n                                    el.remove();\n                                    console.log(\"removed \",el);\n                                }\n                            }\n                            console.warn(\"no popup matched with \",popup, \" after the timeout\");\n                        },selfCloseMs)\n                    }\n                    if(dismissable){\n                        popup.onclick = function (){\n                            console.log(\"clicked\",this);\n                            this.remove();\n                        }\n                    }\n                    this.push(popup);\n                }.bind(root.popup),\n                \"showTitled\":function showTitled(type=\"info\",title=\"\",txt=\"\",selfCloseMs=null, dismissable = true){\n                    this.show(type,`\n                    <span style=\"font-size:1.3em\">${title}</span>\n                    <div>${txt}</div>\n                    `,selfCloseMs, dismissable);\n                }.bind(root.popup),\n            });\n            //root.utils.wrapFunctions(root.popup,\"[<globFuncs>.popup]\");\n        }\n\n\n        /**\n        * @summary recursively merge two Objects\n            * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n            * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n            * - -res.a===main.a\n            * - -res.c===sec.c\n            * - -res.b!==sec.b2\n            * @param {Object} main \n            * @param {Object} sec */\n        function mergeRec(main, sec) {\n            for (let p in sec) {\n                //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n                //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n                if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                    thisFun(main[p], sec[p]);\n                else\n                    main[p] = sec[p];\n            }\n            return main;\n        }\n\n    </script>\n    <style note=\"[popupRouter]\">\n        .hidden {\n            display:none;\n        }\n        .popupRouter-card {\n            border: 1px solid green;\n            display:none;\n        }\n\n        .popupPusher {\n            border: 1px solid green;\n            display:none;\n        }\n        .popupPusher-card {\n            border: 1px solid green;\n            display:none;\n        }\n    \n        .popup-container {\n            /*border: 1px solid green;*/\n            width: max(30vw,600px);\n            position: fixed;\n            right:2vw;\n            padding-top: 0.3em;\n        }\n        \n        .popup-container .roundPopup {\n            text-align: left;\n            padding: 0.3em 1.5em;\n            margin-bottom: 1vh;\n            border: 3px solid gray;\n            border-radius: 10px;\n            background-color: rgb(243 243 243 / 100%); /* light gray */\n            color:#19196F;\n            width: fit-content;\n            margin-left: auto;\n            margin-right: 0;\n        }\n\n        .popup-container .roundPopup:hover {\n            background-color:#caeeff; /* light light blue */\n        }\n\n        .popup-container .roundPopup hr {\n            margin-left:-1.5em;\n            margin-right:-1.5em;\n        }\n\n        .popup-container .warning {\n            border-color: sandybrown;\n            background-color: lemonchiffon\n        }\n\n        .popup-container .error {\n            border-color: crimson;\n            background-color: #ffc0c0;\n        }\n    </style>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupRouter-card",
+        "x": 1320,
+        "y": 735,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f93356f24f96a675",
+        "type": "inject",
+        "z": "69a590bb3eaafea5",
+        "g": "cbc36db7c52f56bd",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1190,
+        "y": 735,
+        "wires": [
+            [
+                "e0159898d44cfae9"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "e779c7255cbbe3f2",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1350,
+        "y": 2310,
+        "wires": [
+            [
+                "1d4573414aeeb51d"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "16b9385eb2394d8b",
+        "type": "comment",
+        "z": "69a590bb3eaafea5",
+        "name": "NOT WORKING",
+        "info": "invece che ricevere un oggetto cfg riceve una stringa colore",
+        "x": 1525,
+        "y": 1260,
         "wires": []
     },
     {
