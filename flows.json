@@ -203,9 +203,7 @@
             "5fae85f555051914"
         ],
         "x": 74,
-        "y": 4219,
-        "w": 1122,
-        "h": 562
+        "y": 4219
     },
     {
         "id": "e2961306402a77aa",
@@ -233,9 +231,7 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574,
-        "w": 1082,
-        "h": 562
+        "y": 3574
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -260,9 +256,7 @@
             "ceb2f1af58e4621a"
         ],
         "x": 154,
-        "y": 139,
-        "w": 787,
-        "h": 217
+        "y": 139
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -331,9 +325,7 @@
             "588342109c719d84"
         ],
         "x": 153,
-        "y": 409,
-        "w": 1559,
-        "h": 1398
+        "y": 409
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -510,9 +502,7 @@
             "c6aaa02b97c6aeb4"
         ],
         "x": 174,
-        "y": 1839,
-        "w": 1422,
-        "h": 282
+        "y": 1839
     },
     {
         "id": "dd28804963c0bc60",
@@ -1027,9 +1017,7 @@
             "791b4bdbf17ea41b"
         ],
         "x": 118,
-        "y": 2584,
-        "w": 1173,
-        "h": 963
+        "y": 2584
     },
     {
         "id": "6c4911811d83d44b",
@@ -1065,9 +1053,7 @@
             "e57dbeee92a70061"
         ],
         "x": 169,
-        "y": 2134,
-        "w": 1652,
-        "h": 378
+        "y": 2134
     },
     {
         "id": "b2f2e2e832b5442a",
@@ -1521,9 +1507,7 @@
             "d27598503a5b31c1"
         ],
         "x": 119,
-        "y": 4294,
-        "w": 592,
-        "h": 232
+        "y": 4294
     },
     {
         "id": "70b9c5719558ad66",
@@ -1546,9 +1530,7 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649,
-        "w": 552,
-        "h": 232
+        "y": 3649
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1593,9 +1575,7 @@
             "f97cc9e5d5d42826"
         ],
         "x": 144,
-        "y": 2659,
-        "w": 1117,
-        "h": 487
+        "y": 2659
     },
     {
         "id": "df7219d880358536",
@@ -1626,9 +1606,7 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579,
-        "w": 1167,
-        "h": 202
+        "y": 1579
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1659,9 +1637,7 @@
             "e8a45a4aa7a22874"
         ],
         "x": 189,
-        "y": 1369,
-        "w": 1127,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1704,9 +1680,7 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979,
-        "w": 1237,
-        "h": 382
+        "y": 979
     },
     {
         "id": "588342109c719d84",
@@ -1774,9 +1748,7 @@
             "fad7e78f46d1c5dc"
         ],
         "x": 179,
-        "y": 484,
-        "w": 1507,
-        "h": 472
+        "y": 484
     },
     {
         "id": "a70fe69b7459b746",
@@ -2069,9 +2041,7 @@
             "35ec647ee9cef417"
         ],
         "x": 239,
-        "y": 3319,
-        "w": 582,
-        "h": 202
+        "y": 3319
     },
     {
         "id": "5290b04e5e87f604",
@@ -2102,9 +2072,7 @@
             "17247c321ff841aa"
         ],
         "x": 669,
-        "y": 2329,
-        "w": 912,
-        "h": 157
+        "y": 2329
     },
     {
         "id": "0d7119851507d372",
@@ -10830,8 +10798,7 @@
         "y": 2175,
         "wires": [
             [
-                "9b820c04588a3822",
-                "62d2126ffce75dfc"
+                "9b820c04588a3822"
             ]
         ],
         "l": false
@@ -10902,8 +10869,7 @@
         "y": 2220,
         "wires": [
             [
-                "d42e3781f0fd7e8d",
-                "62d2126ffce75dfc"
+                "d42e3781f0fd7e8d"
             ]
         ],
         "l": false
@@ -10949,8 +10915,7 @@
         "y": 2265,
         "wires": [
             [
-                "d23ff2ec027956a6",
-                "62d2126ffce75dfc"
+                "d23ff2ec027956a6"
             ]
         ],
         "l": false
@@ -11532,8 +11497,7 @@
         "y": 1635,
         "wires": [
             [
-                "90d15b938fe04887",
-                "68a45b34c474e270"
+                "90d15b938fe04887"
             ]
         ],
         "l": false
@@ -11607,8 +11571,7 @@
         "y": 1680,
         "wires": [
             [
-                "06995737ec64c385",
-                "68a45b34c474e270"
+                "06995737ec64c385"
             ]
         ],
         "l": false
@@ -11656,8 +11619,7 @@
         "y": 1725,
         "wires": [
             [
-                "7e216c6e08250db0",
-                "68a45b34c474e270"
+                "7e216c6e08250db0"
             ]
         ],
         "l": false
@@ -13603,50 +13565,6 @@
         ]
     },
     {
-        "id": "7fedc8fd40380f1d",
-        "type": "switch",
-        "z": "69a590bb3eaafea5",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": true,
-        "outputs": 1,
-        "x": 1290,
-        "y": 1245,
-        "wires": [
-            [
-                "e779c7255cbbe3f2"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "e779c7255cbbe3f2",
-        "type": "function",
-        "z": "69a590bb3eaafea5",
-        "name": "if not in manual mode",
-        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1420,
-        "y": 1245,
-        "wires": [
-            [
-                "0a8349e3527b9250"
-            ],
-            []
-        ]
-    },
-    {
         "id": "5ebc37f009a0a667",
         "type": "ui_template",
         "z": "69a590bb3eaafea5",
@@ -13669,20 +13587,6 @@
         ]
     },
     {
-        "id": "0a8349e3527b9250",
-        "type": "link out",
-        "z": "69a590bb3eaafea5",
-        "name": "popup err 7s: must be in manual to edit",
-        "mode": "link",
-        "links": [
-            "382aef116df7b43a"
-        ],
-        "x": 1735,
-        "y": 1245,
-        "wires": [],
-        "l": true
-    },
-    {
         "id": "382aef116df7b43a",
         "type": "link in",
         "z": "69a590bb3eaafea5",
@@ -13692,9 +13596,11 @@
             "0a8349e3527b9250",
             "5f9517fef2310e0e",
             "2169d054e3700ab8",
-            "27fc74e16b82ab92"
+            "27fc74e16b82ab92",
+            "535ba9127db1b1f9",
+            "fc2441c6421eff10"
         ],
-        "x": 1225,
+        "x": 1215,
         "y": 765,
         "wires": [
             [
@@ -13746,65 +13652,7 @@
         "l": false
     },
     {
-        "id": "62d2126ffce75dfc",
-        "type": "switch",
-        "z": "69a590bb3eaafea5",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": true,
-        "outputs": 1,
-        "x": 1215,
-        "y": 2325,
-        "wires": [
-            [
-                "e91805b8277e01c2"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "e91805b8277e01c2",
-        "type": "function",
-        "z": "69a590bb3eaafea5",
-        "name": "if not in manual mode",
-        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1355,
-        "y": 2325,
-        "wires": [
-            [
-                "5f9517fef2310e0e"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "5f9517fef2310e0e",
-        "type": "link out",
-        "z": "69a590bb3eaafea5",
-        "name": "popup err 7s: must be in manual to edit",
-        "mode": "link",
-        "links": [
-            "382aef116df7b43a"
-        ],
-        "x": 1660,
-        "y": 2325,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "68a45b34c474e270",
+        "id": "7fedc8fd40380f1d",
         "type": "switch",
         "z": "69a590bb3eaafea5",
         "d": true,
@@ -13819,38 +13667,17 @@
         "checkall": "false",
         "repair": true,
         "outputs": 1,
-        "x": 1200,
-        "y": 1785,
+        "x": 1260,
+        "y": 1230,
         "wires": [
             [
-                "b2bc99a6b8ea1a91"
+                "05114f908568e806"
             ]
         ],
         "l": false
     },
     {
-        "id": "b2bc99a6b8ea1a91",
-        "type": "function",
-        "z": "69a590bb3eaafea5",
-        "d": true,
-        "name": "if not in manual mode",
-        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1330,
-        "y": 1785,
-        "wires": [
-            [
-                "27fc74e16b82ab92"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "27fc74e16b82ab92",
+        "id": "0a8349e3527b9250",
         "type": "link out",
         "z": "69a590bb3eaafea5",
         "d": true,
@@ -13859,10 +13686,66 @@
         "links": [
             "382aef116df7b43a"
         ],
-        "x": 1645,
-        "y": 1785,
+        "x": 1735,
+        "y": 1260,
         "wires": [],
         "l": true
+    },
+    {
+        "id": "05114f908568e806",
+        "type": "change",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "to config.tempPianoSup",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "config.tempPianoSup",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1410,
+        "y": 1230,
+        "wires": [
+            [
+                "2396198ad8c76b6a"
+            ]
+        ]
+    },
+    {
+        "id": "2396198ad8c76b6a",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "payload.copyColors",
+        "property": "payload.copyColors",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1415,
+        "y": 1260,
+        "wires": [
+            [
+                "0a8349e3527b9250"
+            ],
+            []
+        ]
     },
     {
         "id": "b0cd0777fbffd034",
