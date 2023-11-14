@@ -193,9 +193,9 @@
             "34b28815286f8381",
             "13c1fa98c29f8f81"
         ],
-        "x": 189,
+        "x": 199,
         "y": 264,
-        "w": 1287,
+        "w": 1277,
         "h": 392
     },
     {
@@ -447,9 +447,9 @@
             "a70fe69b7459b746",
             "2639fa3be4067762"
         ],
-        "x": 1418,
+        "x": 1428,
         "y": 1254,
-        "w": 1559,
+        "w": 1539,
         "h": 1368
     },
     {
@@ -475,9 +475,9 @@
             "1be724ee4d388de3",
             "8b321fcb911b77fd"
         ],
-        "x": 574,
+        "x": 584,
         "y": 689,
-        "w": 692,
+        "w": 682,
         "h": 242
     },
     {
@@ -587,9 +587,9 @@
             "bf98577d363cef6f",
             "8943b4549c5df00c"
         ],
-        "x": 754,
+        "x": 764,
         "y": 249,
-        "w": 1102,
+        "w": 1082,
         "h": 392
     },
     {
@@ -619,7 +619,9 @@
             "05085880d56d9d9b"
         ],
         "x": 2819,
-        "y": 153
+        "y": 153,
+        "w": 808,
+        "h": 449
     },
     {
         "id": "2bbbe4dc6cfeb097",
@@ -642,7 +644,9 @@
             "aa40c2fd63e42b3c"
         ],
         "x": 2359,
-        "y": 139
+        "y": 139,
+        "w": 422,
+        "h": 172
     },
     {
         "id": "015cd5895c17da64",
@@ -673,7 +677,9 @@
             "c6691944eaed7410"
         ],
         "x": 2369,
-        "y": 639
+        "y": 639,
+        "w": 1222,
+        "h": 348
     },
     {
         "id": "5cf67bd384745bc4",
@@ -1086,7 +1092,9 @@
             "9b8f7a07ca442364"
         ],
         "x": 114,
-        "y": 94
+        "y": 94,
+        "w": 422,
+        "h": 172
     },
     {
         "id": "ee530506baeb12a5",
@@ -1112,7 +1120,9 @@
             "82e1195627ed2c7e"
         ],
         "x": 224,
-        "y": 484
+        "y": 484,
+        "w": 582,
+        "h": 172
     },
     {
         "id": "eed88747a97f2438",
@@ -1142,7 +1152,7 @@
         ],
         "x": 264,
         "y": 1984,
-        "w": 1132,
+        "w": 1127,
         "h": 217
     },
     {
@@ -1195,7 +1205,10 @@
             "0ca3c958633a0c8b",
             "a90666131d7bec15",
             "bd2c16c7828242aa",
-            "7169425350ce858f"
+            "7169425350ce858f",
+            "dc744adc92813c51",
+            "c0a4748db936f9cc",
+            "791b4bdbf17ea41b"
         ],
         "x": 124,
         "y": 2584,
@@ -1228,12 +1241,17 @@
             "7c8bd303c63bc52d",
             "c9fa4cba41fe88a7",
             "5e7a9cab577dae64",
-            "5290b04e5e87f604"
+            "fd35a10f22e96156",
+            "b41bbdca2293ce38",
+            "ddb88f35b436ab0b",
+            "5290b04e5e87f604",
+            "0754025c4011f690",
+            "e57dbeee92a70061"
         ],
         "x": 169,
-        "y": 2139,
-        "w": 1438,
-        "h": 373
+        "y": 2134,
+        "w": 1632,
+        "h": 378
     },
     {
         "id": "b2f2e2e832b5442a",
@@ -1425,9 +1443,9 @@
             "3fcc6bd133bdfd43",
             "3f9469575ed20a91"
         ],
-        "x": 1444,
+        "x": 1454,
         "y": 2314,
-        "w": 1202,
+        "w": 1182,
         "h": 282
     },
     {
@@ -1459,9 +1477,9 @@
             "260b48d27cf6b812",
             "c23689e8b3ce4d15"
         ],
-        "x": 1454,
+        "x": 1459,
         "y": 1944,
-        "w": 992,
+        "w": 987,
         "h": 362
     },
     {
@@ -1782,7 +1800,7 @@
         ],
         "x": 1459,
         "y": 1329,
-        "w": 1492,
+        "w": 1482,
         "h": 382
     },
     {
@@ -1808,7 +1826,9 @@
             "d577904798f15058"
         ],
         "x": 2849,
-        "y": 454
+        "y": 454,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "d07dfb333aed56ce",
@@ -1832,7 +1852,9 @@
             "4e11b2f45a32813c"
         ],
         "x": 3209,
-        "y": 179
+        "y": 179,
+        "w": 272,
+        "h": 162
     },
     {
         "id": "c6691944eaed7410",
@@ -1859,7 +1881,9 @@
             "e60338ef13bfc039"
         ],
         "x": 2589,
-        "y": 839
+        "y": 839,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "95f61ab7d0989272",
@@ -2141,9 +2165,7 @@
             "3490126aea58263e",
             "173599fe139ec4f9",
             "929252a9c840a64d",
-            "fe811fa1d8709aae",
-            "c981040cd205549e",
-            "266f4171f6e4d8ec"
+            "fe811fa1d8709aae"
         ],
         "x": 929,
         "y": 2074,
@@ -2203,12 +2225,38 @@
             "9c8b17a9a80fbb64",
             "ca44a98e624a94a4",
             "23eec5e679697f6b",
-            "2ebcd64580ac460d"
+            "2ebcd64580ac460d",
+            "e1eaca87a85fa4ab",
+            "17247c321ff841aa"
         ],
         "x": 669,
         "y": 2329,
         "w": 912,
         "h": 157
+    },
+    {
+        "id": "968c394fc0447039",
+        "type": "group",
+        "z": "69a590bb3eaafea5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5ebc37f009a0a667",
+            "382aef116df7b43a",
+            "19eb625743644893",
+            "e20b9892b6ecb65d"
+        ],
+        "x": 1169,
+        "y": 679,
+        "w": 432,
+        "h": 127
     },
     {
         "id": "9fa3722a335cb332",
@@ -3144,6 +3192,28 @@
         "order": 6,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "bcc9d4a1865e43c4",
+        "type": "ui_group",
+        "name": "popupGroup",
+        "tab": "a5b84c011240052c",
+        "order": 4,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": "hidden"
+    },
+    {
+        "id": "8c268b6bfa27c24a",
+        "type": "ui_group",
+        "name": "PopupGroup",
+        "tab": "836adb2b4d67f4ce",
+        "order": 4,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": "hidden"
     },
     {
         "id": "e4455c60fa1954be",
@@ -4787,8 +4857,7 @@
         "y": 2565,
         "wires": [
             [
-                "c1ec4a7757bf9a7c",
-                "c981040cd205549e"
+                "c1ec4a7757bf9a7c"
             ]
         ]
     },
@@ -4810,8 +4879,7 @@
         "y": 2355,
         "wires": [
             [
-                "9177fda6dbdb7382",
-                "266f4171f6e4d8ec"
+                "9177fda6dbdb7382"
             ]
         ]
     },
@@ -5658,42 +5726,6 @@
         "wires": []
     },
     {
-        "id": "c981040cd205549e",
-        "type": "debug",
-        "z": "2831664434f14a33",
-        "g": "535ab9848c1b1849",
-        "name": "debug 79",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1305,
-        "y": 2505,
-        "wires": []
-    },
-    {
-        "id": "266f4171f6e4d8ec",
-        "type": "debug",
-        "z": "2831664434f14a33",
-        "g": "535ab9848c1b1849",
-        "name": "debug 80",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1305,
-        "y": 2310,
-        "wires": []
-    },
-    {
         "id": "0a7637311a10d33c",
         "type": "debug",
         "z": "2831664434f14a33",
@@ -5754,7 +5786,7 @@
         "func": "",
         "outputs": 1,
         "noerr": 0,
-        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId);\n            if (pos >= 0) {\n                this.deleteRow(pos);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                setStateInRow(state, fieldName, rowRef) {\n                    //if (arguments.length != this.setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
+        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
         "finalize": "",
         "libs": [],
         "x": 275,
@@ -8467,7 +8499,8 @@
         "g": "b2c3d112c3d0c889",
         "name": "forceQueueJsonUpdate in",
         "links": [
-            "8f9a1f49027a6915"
+            "8f9a1f49027a6915",
+            "791b4bdbf17ea41b"
         ],
         "x": 345,
         "y": 1320,
@@ -9233,8 +9266,8 @@
         "z": "2260f1f88d7c60bf",
         "g": "6c4911811d83d44b",
         "name": "handle clicked rows interactivity",
-        "func": "//aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n//params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\n\n//restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n\n\n//deleteButton\n//create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n//then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table) {\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n    //refresh frontend\n    return refreshMsg;\n}\n\n//sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)) {\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    \n    let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n    //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n\n    let updateAndRefresh = ()=>{\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press = \"pressa\" + pressNum;\n        return [refreshMsg, msg];\n    }\n\n    switch (button.getStateString(state)) {\n        //load order in db\n        case \"clickToSend\": {\n            //set it to queued\n            button.setSingleState(\"queued\", activeFieldName, table[activeRowIdx]);\n            msg.action = \"load\";\n            return updateAndRefresh();\n        }\n        case \"queued\": {\n            return null;\n        }\n        //delete order from db\n        case \"loaded\": {\n            //just set it to clearing\n            button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n            msg.action = \"delete\";\n            return updateAndRefresh();\n        }\n        case \"clearing\": {\n            return null;\n        }\n    }\n}\n//updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n\n\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n\n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse = false;\n    for (let i = 0; i < 4; i++) {\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i + 1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if (inUse) {\n        return [refreshMsg] //de-update table\n    }\n    else {\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n\n\n\n}\n\n",
-        "outputs": 2,
+        "func": "//aliases for readablility\nlet activeRow = msg.payload;\nlet activeFieldName = msg.topic;\nlet refreshMsg = msg;\n//params //may someday move to a flow.variable or obj\nconst allowMultRowSel = flow.get(\"allowMultRowSel\") ?? true; //t|f if set it allows user to set an order to track multiple presses at once, by ticking more than one button on the same row\nconst requestPopup = (id)=>{return {\"popupId\":id, \"srcMsg\":msg}}\n//restituisce l'indice della riga con rowId==rowId in table\n//const posOf = flow.get(\"tabUtils\").posOf;\n/*\nfunction posOf(rowId,table){\n    //node.warn(\"posOf\"); \n        //probable shortcut\n    if(table[rowId].rowId==rowId)\n        return rowId;\n    let i=0\n    for(let row of table) {\n        //node.warn(\"posOf:\"+i); \n        if(row.rowId==rowId)\n            return i;\n        i++;\n    }\n}*/\n\n\n\n\n//deleteButton\n//create a NEW table without the row that needs to be deleted //preserves table[rowId].rowId == rowId\n//then refresh frontend\nif (activeFieldName == \"deleteButton\") {\n    const tabUtils = flow.get(\"tabUtils\");\n    //check that the order is not loaded (deny if it is)\n    const button = tabUtils.queue.sendToPressButton;\n    if ([0,1, 2, 3].some(idx => button.getStateString(activeRow[\"sendToPressa\" + (idx + 1) + \"State\"]) != \"clickToSend\")){\n        return [refreshMsg, null, requestPopup(\"deleteDenied_inUse\")]\n    }\n    \n\n    let table = flow.get(\"queueTable\");\n    let updatedTable = new Array();\n    for (let row of table) {\n        if (row.rowId != msg.payload.rowId)\n            updatedTable.push(row);\n    }\n\n    flow.set(\"queueTable\", updatedTable);\n    //refresh frontend\n    return refreshMsg;\n}\n\n//sendToPressa\nelse if (/sendToPressa/.test(activeFieldName)) {\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n    let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n\n    \n    let state = activeRow[activeFieldName + \"State\"] //ex. sendToPressa1State // 0 \"clickToSend\" | 1 \"loaded\" | -1 \"error\"\n    //state = !state; //loaded/error -> clickToSend   |   clickToSend -> loaded\n\n    let updateAndRefresh = ()=>{\n        flow.set(\"queueTable\", table);\n        node.warn({ clicked: button.getStateString(state), fr0m: activeFieldName, appliedTo: activeRow });\n        msg.press = \"pressa\" + pressNum;\n        return [refreshMsg, msg];\n    }\n\n    switch (button.getStateString(state)) {\n        //load order in db\n        case \"clickToSend\": {\n            //set it to queued\n            button.setSingleState(\"queued\", activeFieldName, table[activeRowIdx]);\n            msg.action = \"load\";\n            return updateAndRefresh();\n        }\n        case \"queued\": {\n            return null;\n        }\n        //delete order from db\n        case \"loaded\": {\n            //just set it to clearing\n            button.setSingleState(\"clearing\", activeFieldName, table[activeRowIdx]);\n            msg.action = \"delete\";\n            return updateAndRefresh();\n        }\n        case \"clearing\": {\n            return null;\n        }\n    }\n}\n//updates flow.table without refreshing frontend\nelse {\n    //flow.set(\"queueTable\", msg.options.data);\n\n\n    let table = flow.get(\"queueTable\");\n    let tabUtils = flow.get(\"tabUtils\");\n    let button = tabUtils.queue.sendToPressButton;\n    let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n\n\n    /*let inUse=false,i=0,stateString=\"\";\n    while (stateString =  && stateString !== undefined){\n        \n    }\n    */\n    let inUse = false;\n    for (let i = 0; i < 4; i++) {\n        if (button.getStateString(activeRow[\"sendToPressa\" + (i + 1) + \"State\"]) != \"clickToSend\") {\n            inUse = true;\n            break;\n        }\n    }\n    /*\n        //loop isGateOpen, breaks on false holding edit=false or on undefined holding edit=true\n    let editable=true,i=0;\n    do{\n        editable = global.get(\"pressa\" + (++i) + \"_isGateOpen\");\n    }while (global.get(\"pressa\" + (i+1) + \"_isGateOpen\"))\n    */\n    if (inUse) {\n        //return [refreshMsg] //de-update table\n        return [refreshMsg, null, requestPopup(\"editDenied_inUse\")];\n    }\n    else {\n        if(activeFieldName == \"id\"){\n            if (table.some(row => row.rowId != activeRow.rowId && row.id == activeRow.id)){\n                return [refreshMsg, null, requestPopup(\"editDenied_dupId\")];\n            }\n        }\n        flow.set(\"queueTable\", msg.options.data);\n        return null;\n    }\n\n\n\n}\n\n",
+        "outputs": 3,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -9247,6 +9280,9 @@
             ],
             [
                 "b841b6eefb58def0"
+            ],
+            [
+                "fd35a10f22e96156"
             ]
         ]
     },
@@ -9310,8 +9346,8 @@
             "107ba20c98b6cb03",
             "1ebe50be51bab839"
         ],
-        "x": 1130,
-        "y": 2220,
+        "x": 1105,
+        "y": 2205,
         "wires": [],
         "l": true
     },
@@ -9432,7 +9468,7 @@
             "8cc8b8736d1102b3",
             "584b8fd433a7e2cd"
         ],
-        "x": 1275,
+        "x": 1175,
         "y": 2280,
         "wires": [],
         "l": true
@@ -9643,7 +9679,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "7169425350ce858f",
         "name": "set queueTable",
-        "func": "const tabUtils = flow.get(\"tabUtils\");\n\nlet table = flow.get(\"queueTable\");\nlet dbTable = msg.payload;\n\nlet table_idMap = {};\ntable.forEach(row => table_idMap[row.id] = row);\n\nlet dbTable_idMap = {};\ndbTable.forEach(row => dbTable_idMap[row.ORDER_ID] = row);\n\n//merge dbTable on top of table\nfor(var row of dbTable){\n    let id = row.ORDER_ID\n    let tabRow = table_idMap[id];\n    //create new row if necessary\n    if (tabRow === undefined){\n        node.warn({ txt: \"dbSync added row for \" + id, _from: row });\n        tabRow = tabUtils.queue.newRow(tabUtils.newRowId(table));\n        table.push(tabRow);\n        table_idMap[tabRow.id] = tabRow;\n    }\n    //merge\n    tabRow.id = id;\n    tabRow.quantToDo = row.QUANT_TO_DO;\n    tabRow.quantProd = row.QUANT_PROD;\n    tabRow.opStatus = row.STATUS;\n}\n\n//update table buttons state\nlet button = tabUtils.queue.sendToPressButton;\nfor(var row of table){\n    //if is loaded\n    if (dbTable_idMap[row.id] !== undefined){\n        button.setSingleState(\"loaded\", \"sendToPressa1\", row);\n        node.warn({txt:\"riga \"+row.id+\" set to loaded\",row:row});\n    }\n    else\n        button.setSingleState(\"clickToSend\", \"sendToPressa1\", row);\n}\n\nnode.warn({txt:\"table set to\",tab:table,tabMap:table_idMap,dbMap:dbTable_idMap});\n\nmsg.queueTable_idMap = table_idMap;\nmsg.dbExcTable_idMap = dbTable_idMap;\nmsg.dbExcTable = dbTable;\nmsg.payload = table;\nflow.set(\"queueTable\", table);\nreturn msg;",
+        "func": "const tabUtils = flow.get(\"tabUtils\");\nconst utils = global.get(\"utils\");\n\nlet table = flow.get(\"queueTable\");\nlet dbTable = msg.payload;\n\nlet table_idMap = {};\ntable.forEach(row => table_idMap[row.id] = row);\n\nlet dbTable_idMap = {};\ndbTable.forEach(row => dbTable_idMap[row.ORDER_ID] = row);\n\n//merge dbTable on top of table\nfor(var row of dbTable){\n    let id = row.ORDER_ID\n    let tabRow = table_idMap[id];\n    //create new row if necessary\n    if (tabRow === undefined){\n        node.warn({ txt: \"dbSync added row for \" + id, _from: row });\n        tabRow = tabUtils.queue.newRow(tabUtils.newRowId(table));\n        table.push(tabRow);\n        table_idMap[tabRow.id] = tabRow;\n    }\n    //merge\n    tabRow.id = id;\n    tabRow.quantToDo = row.QUANT_TO_DO;\n    tabRow.quantProd = row.QUANT_PROD;\n    tabRow.opStatus = row.STATUS;\n}\n\n// //check no id are dupes\nvar sorted = table.map(row => row).sort((r1,r2) => r1.id > r2.id ? 1 : -1);\nvar dupes = {};\nsorted.forEach((row,i) => {\n    if(i>0 && row.id == sorted[i-1].id){\n        if (!dupes[row.id]){\n            dupes[row.id] = new Array();\n            dupes[row.id].push(sorted[i - 1])\n        }\n        dupes[row.id].push(row);\n    }\n});\nnode.warn({sorted:sorted});\nfor(var [key,dupArr] of Object.entries(dupes)){\n    node.warn({ \"err\": \"dupes found\", \"id\": dupArr?.[0]?.id, \"dupes\": dupArr });\n    let dupId = dupArr[0].id;\n    //salva la riga proveniente dal db, o arbitrariamente la prima se non esiste.\n    var validRow = dbTable.find(row => row.id == dupId) ?? utils.mergeRec({}, dupArr[0]);\n    //elimina tutte le righe duplicate\n    var rowIdToDelete = [];\n    table.forEach(row => {\n        if(row.id == dupId)\n            rowIdToDelete.push(row.rowId);\n    })\n    rowIdToDelete.forEach(rowId => tabUtils.deleteRowId(rowId, table));\n    //aggiungi riga sana\n    var newRow = tabUtils.queue.newRow(tabUtils.newRowId(table));\n    for(var key in newRow){\n        if(key != \"rowId\")\n            newRow[key] = validRow[key];\n    }\n}\n\n//update table buttons state\nlet button = tabUtils.queue.sendToPressButton;\nfor(var row of table){\n    //if is loaded\n    if (dbTable_idMap[row.id] !== undefined){\n        button.setSingleState(\"loaded\", \"sendToPressa1\", row);\n        node.warn({txt:\"riga \"+row.id+\" set to loaded\",row:row});\n    }\n    else{\n        button.setSingleState(\"clickToSend\", \"sendToPressa1\", row);\n        node.warn({ txt: \"riga \" + row.id + \" set to clickToSend\", row: row });\n    }\n}\n\nnode.warn({txt:\"table set to\",tab:table,tabMap:table_idMap,dbMap:dbTable_idMap});\n\nmsg.queueTable_idMap = table_idMap;\nmsg.dbExcTable_idMap = dbTable_idMap;\nmsg.dbExcTable = dbTable;\nmsg.payload = table;\nflow.set(\"queueTable\", table);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -9668,238 +9704,6 @@
         "y": 3420,
         "wires": [],
         "l": false
-    },
-    {
-        "id": "7ddb35334721dacc",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "insert/update row",
-        "func": "const db = global.get(\"db\");\n\n//aliases for readablility\nlet activeRow = msg.payload;\n// let activeFieldName = msg.topic;\n// let refreshMsg = msg;\n// //clicked row aliases\n// let table = flow.get(\"queueTable\");\n// let tabUtils = flow.get(\"tabUtils\");\n// let button = tabUtils.queue.sendToPressButton;\n// let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n// let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n// let state = button.getStateString(activeRow[activeFieldName + \"State\"]);\n\n//inserisci nuova riga.\n//se esiste già:\n//  se il suo status == 'w' aggiorna con i valori attuali (ovvero non fai nessuna modifica)\n//  altrimenti aggiorna con i valori che la nuova riga avrebbe avuto\nlet queryVals = [activeRow.id, 't', activeRow.quantToDo, activeRow.quantProd]\nlet queryTemplate = `\nINSERT INTO\n  oven.italmatic_exchange (ORDER_ID, STATUS, QUANT_TO_DO, QUANT_PROD)\nVALUES\n  (?, ?, ?, ?) AS new ON DUPLICATE KEY\nUPDATE\n  ORDER_ID = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.ORDER_ID,\n    new.ORDER_ID\n  ),\n  QUANT_TO_DO = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.QUANT_TO_DO,\n    new.QUANT_TO_DO\n  ),\n  QUANT_PROD = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.QUANT_PROD,\n    new.QUANT_PROD\n  ),\n  STATUS = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.STATUS,\n    new.STATUS\n  )\n`\n\nreturn db.attachQuery(db.sqlString.format(queryTemplate, queryVals), msg);\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 915,
-        "y": 2370,
-        "wires": [
-            [
-                "fcaae706643cc463"
-            ]
-        ]
-    },
-    {
-        "id": "fcaae706643cc463",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "Query Oven DB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 1110,
-        "y": 2370,
-        "wires": [
-            [
-                "04164ae60e60ec1f"
-            ]
-        ]
-    },
-    {
-        "id": "04164ae60e60ec1f",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "error",
-        "property": "error",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1260,
-        "y": 2370,
-        "wires": [
-            [
-                "9607aeea9b35b53f"
-            ],
-            [
-                "9607aeea9b35b53f"
-            ]
-        ]
-    },
-    {
-        "id": "9607aeea9b35b53f",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "refreshQueueTable_out",
-        "mode": "link",
-        "links": [
-            "3bea7933e72005a0",
-            "1d1e8e2742a7dcf8",
-            "107ba20c98b6cb03",
-            "1ebe50be51bab839"
-        ],
-        "x": 1445,
-        "y": 2370,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "2be7091d11a4cd0b",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "action",
-        "property": "action",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "load",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "delete",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": true,
-        "outputs": 3,
-        "x": 745,
-        "y": 2400,
-        "wires": [
-            [
-                "7ddb35334721dacc"
-            ],
-            [
-                "d344700abc468e2f"
-            ],
-            [
-                "2ebcd64580ac460d"
-            ]
-        ]
-    },
-    {
-        "id": "d344700abc468e2f",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "delete row",
-        "func": "const db = global.get(\"db\");\n\n//aliases for readablility\nlet activeRow = msg.payload;\n// let activeFieldName = msg.topic;\n// let refreshMsg = msg;\n// //clicked row aliases\n// let table = flow.get(\"queueTable\");\n// let tabUtils = flow.get(\"tabUtils\");\n// let button = tabUtils.queue.sendToPressButton;\n// let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n// let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n// let state = button.getStateString(activeRow[activeFieldName + \"State\"]);\n\nlet queryVals = [activeRow.id]\nlet queryTemplate = `\nDELETE FROM\n  oven.italmatic_exchange AS exc\nWHERE\n  exc.ORDER_ID = ?\n  AND exc.STATUS <> 'w'\n`\n\nreturn db.attachQuery(db.sqlString.format(queryTemplate, queryVals), msg);\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 895,
-        "y": 2415,
-        "wires": [
-            [
-                "9c8b17a9a80fbb64"
-            ]
-        ]
-    },
-    {
-        "id": "9c8b17a9a80fbb64",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "Query Oven DB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 1075,
-        "y": 2415,
-        "wires": [
-            [
-                "ca44a98e624a94a4"
-            ]
-        ]
-    },
-    {
-        "id": "ca44a98e624a94a4",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "error",
-        "property": "error",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1260,
-        "y": 2415,
-        "wires": [
-            [
-                "23eec5e679697f6b"
-            ],
-            [
-                "23eec5e679697f6b"
-            ]
-        ]
-    },
-    {
-        "id": "23eec5e679697f6b",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "refreshQueueTable_out",
-        "mode": "link",
-        "links": [
-            "3bea7933e72005a0",
-            "1d1e8e2742a7dcf8",
-            "107ba20c98b6cb03",
-            "1ebe50be51bab839"
-        ],
-        "x": 1445,
-        "y": 2415,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "2ebcd64580ac460d",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "5290b04e5e87f604",
-        "name": "error",
-        "func": "node.error({err:\"unknown or missing action\",action:msg.action,fullMsg:msg});\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
-        "finalize": "",
-        "libs": [],
-        "x": 875,
-        "y": 2445,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "e77d995be2094fb5",
@@ -10339,6 +10143,580 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "39d4ad4835d15c8a",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "group": "8c268b6bfa27c24a",
+        "name": "popupRouter",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"display:none\">\n    <div note=\"[popupRouter] example content\">\n        <p>The number is</p>\n        <font color=\"{{((msg.payload || 0) % 2 === 0) ? 'green' : 'red'}}\">\n            {{(msg.payload || 0) % 2 === 0 ? 'even' : 'odd'}}\n        </font>\n    </div>\n    <script note=\"[popupRouter] create popup container\">\n        //create popup container\n        $(function () {\n            if(!window.popupRouter_InitCalled){\n                window.popupRouter_InitCalled = true;\n                pushFunctions(); //append utils and popup pseudo-classes to windows.functions \n\n                var popupCont = document.createElement(\"div\");\n                popupCont.classList.add(\"popup-container\");\n                popupCont.id = \"mainPopupContainer\";\n                \n\n                //document.getElementsByTagName(\"body\")[0].append(popupCont);\n                let mainSect = getMainSect();\n                mainSect.append(popupCont);\n                console.log(\"[popupRouter][init()] appended popupContainer to \", mainSect, popupCont);\n            }else{\n                console.log(\"[popupRouter][init()] skipping init (popupRouter_InitCalled is def)\");\n            }\n            \n\n            function getMainSect(){\n                var mainSect = null;\n                for(el of document.getElementsByTagName(\"md-content\")[0].children){\n                    if(/section/i.test(el.tagName)){\n                        mainSect = el;\n                        break;\n                    }\n                }\n                mainSect === null ? console.warn(\"mainSect:\",mainSect) : console.log(\"mainSect:\",mainSect);\n                return mainSect;\n            }\n        });\n        \n        function pushFunctions(){\n            let root = window.functions ?? (window.functions = new Object());\n            //import some utils. //avoid overwriting\n            root.utils ??= {};\n            root.utils = mergeRec(root.utils ,{\n                /** recursively merge two Objects\n                    * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n                    * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n                    * - -res.a===main.a\n                    * - -res.c===sec.c\n                    * - -res.b!==sec.b2\n                    * @param {Object} main\n                    * @param {Object} sec */\n                \"mergeRec\":mergeRec,\n                /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n                     * @param {any} value accepts anything\n                     * @returns {boolean}\n                     *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n                     */\n                \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n                    return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n                        // it has a prototype that's also truthy\n                        !!(value = Object.getPrototypeOf(value)) &&\n                        // which has `null` as parent prototype\n                        !Object.getPrototypeOf(value);\n                },\n                /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n                 *      skip non-function, assign wrapped to their original key\n                 *  @param root {Object} the object to parse for functions\n                 *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n                \"wrapFunctions\": function wrapFunctions(root, prefix) {\n                    prefix ?? console.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n                    const isPlainObj = this.isPlainObj;\n                    //recursively parse root\n                    //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n                    let desc;\n                    for (let k in root) {\n                        if (isPlainObj(root[k]))\n                            root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n                        else if (//is a simple function, or an arrow function\n                            //value of root[k] has type function\n                            typeof (root[k]) == \"function\"\n                            //root[k] itself is a function, not the result of it's getter call\n                            && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                            && !desc.get\n                        ) {\n                            //wrap in an exception catching function\n                            //trace errors back to their source, independently of the caller\n                            let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                            root[k] = function (...args) {\n                                try {\n                                    return cb.call(this, ...args)\n                                } catch (e) {\n                                    e.nrStack = (e.nrStack ?? []);\n                                    e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                                    e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                                    //console.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                                    throw e;\n                                }\n                            }\n                        }\n                    }\n                    return root;\n                }.bind(root.utils),\n                \"fromHtml\":function fromHtml(html, appendTo=document){\n                    if(arguments.length != fromHtml.length) throw new Error(\"arg length mismatch. \"+arguments.length+\"/\"+fromHtml.length);\n                    let factory = document.createElement(\"div\");\n                    // if(!factory){\n                    //     factory=document.createElement(\"div\");\n                    //     factory.id = \"htmlFactory\";\n                    //     factory.style.display = \"none\";\n                    //     factory.position = \"absolute\";\n                    //     document.lastElementChild.append(factory);\n                    // }\n                    factory.innerHTML = html;\n                    if(factory.children.length > 1)\n                        console.error(\"[<globFuncs>.utils.fromHtml()] more than 1 element created, when only the first will be returned.\",arguments,\"\\n->\",factory.children,);\n                    return factory.firstElementChild ?? console.error(\"[<globFuncs>.utils.fromHtml()] nothing created. returned null\",arguments);\n                },\n                /** some characters do not have an uppercase equivalent. They are considered to be lowercase by this func */\n                \"isLowerCase\":function isLowerCase(ch=null){\n                    return ch!==null && ch == ch?.toLowerCase?.();\n                }\n            });\n            //root.utils.wrapFunctions(root.utils,\"[<globFuncs>.utils]\");\n            //popup-specific functions\n            root.popup = {};\n            root.popup = root.utils.mergeRec(root.popup, {\n                \"getTemplate\":function getTemplate(type=\"info\",text=\"\"){\n                    const utils = window.functions.utils;\n                    if(!utils.isLowerCase(type?.[0]))\n                        type = type.toLowerCase();\n                    switch(type){\n                        default:{ console.warn(\"[<globFuncs>.utils] getTemplate(): invalid type \",type, \".used info\"); }\n                        case \"std\":\n                        case \"info\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"err\":\n                        case \"error\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup error\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"warn\":\n                        case \"warning\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup warning\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                    }\n                    \n                },\n                \"push\": function push(popup){\n                    document.getElementById(\"mainPopupContainer\").prepend(popup);\n                    return popup;\n                }.bind(root.popup),\n                \"popOlder\": function pop(){\n                    let cont = document.getElementById(\"mainPopupContainer\");\n                    var removed = cont.lastElementChild;\n                    if(cont.children.length)\n                        cont.lastElementChild?.remove?.();\n                    return removed;\n                },\n                \"show\":function show(type=\"info\",content=\"\",selfCloseMs=null, dismissable = true){\n                    const utils = window.functions.utils;\n                    var pUpClass = this;\n                    var popup = this.getTemplate(type, content);\n                    if(selfCloseMs !== null){\n                        setTimeout(()=>{\n                            for(var el of document.getElementById(\"mainPopupContainer\").children){\n                                if(el === popup){\n                                    el.remove();\n                                    console.log(\"removed \",el);\n                                }\n                            }\n                            console.warn(\"no popup matched with \",popup, \" after the timeout\");\n                        },selfCloseMs)\n                    }\n                    if(dismissable){\n                        popup.onclick = function (){\n                            console.log(\"clicked\",this);\n                            this.remove();\n                        }\n                    }\n                    this.push(popup);\n                }.bind(root.popup),\n                \"showTitled\":function showTitled(type=\"info\",title=\"\",txt=\"\",selfCloseMs=null, dismissable = true){\n                    this.show(type,`\n                    <span style=\"font-size:1.3em\">${title}</span>\n                    <div>${txt}</div>\n                    `,selfCloseMs, dismissable);\n                }.bind(root.popup),\n            });\n            //root.utils.wrapFunctions(root.popup,\"[<globFuncs>.popup]\");\n        }\n\n\n        /**\n        * @summary recursively merge two Objects\n            * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n            * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n            * - -res.a===main.a\n            * - -res.c===sec.c\n            * - -res.b!==sec.b2\n            * @param {Object} main \n            * @param {Object} sec */\n        function mergeRec(main, sec) {\n            for (let p in sec) {\n                //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n                //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n                if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                    thisFun(main[p], sec[p]);\n                else\n                    main[p] = sec[p];\n            }\n            return main;\n        }\n\n    </script>\n    <style note=\"[popupRouter]\">\n        .popupRouter-card {\n            border: 1px solid green;\n            display:none;\n        }\n\n        .popupPusher {\n            border: 1px solid green;\n            display:none;\n        }\n        .popupPusher-card {\n            border: 1px solid green;\n            display:none;\n        }\n    \n        .popup-container {\n            /*border: 1px solid green;*/\n            width: max(30vw,600px);\n            position: fixed;\n            right:2vw;\n            padding-top: 0.3em;\n        }\n        \n        .popup-container .roundPopup {\n            text-align: left;\n            padding: 0.3em 1.5em;\n            margin-bottom: 1vh;\n            border: 3px solid gray;\n            border-radius: 10px;\n            background-color: rgb(243 243 243 / 100%); /* light gray */\n            color:#19196F;\n            width: fit-content;\n            margin-left: auto;\n            margin-right: 0;\n        }\n\n        .popup-container .roundPopup:hover {\n            background-color:#caeeff; /* light light blue */\n        }\n\n        .popup-container .roundPopup hr {\n            margin-left:-1.5em;\n            margin-right:-1.5em;\n        }\n\n        .popup-container .warning {\n            border-color: sandybrown;\n            background-color: lemonchiffon\n        }\n\n        .popup-container .error {\n            border-color: crimson;\n            background-color: #ffc0c0;\n        }\n    </style>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupRouter-card",
+        "x": 1285,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "28b52b3b5be96a1f",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.show(\n                \"error\",\n                `operazione non permessa.\n                <br>Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                null,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1270,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "214f39abc8051c27",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1125,
+        "y": 240,
+        "wires": [
+            [
+                "28b52b3b5be96a1f"
+            ]
+        ]
+    },
+    {
+        "id": "98025005e10497ba",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1125,
+        "y": 285,
+        "wires": [
+            [
+                "74f8e566994cacad"
+            ]
+        ]
+    },
+    {
+        "id": "74f8e566994cacad",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error: cannot edit while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                null,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1370,
+        "y": 285,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fd35a10f22e96156",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "6c4911811d83d44b",
+        "name": "popupId",
+        "property": "popupId",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "deleteDenied_inUse",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "editDenied_inUse",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "editDenied_dupId",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 1350,
+        "y": 2220,
+        "wires": [
+            [
+                "0754025c4011f690"
+            ],
+            [
+                "b41bbdca2293ce38"
+            ],
+            [
+                "e57dbeee92a70061"
+            ],
+            [
+                "ddb88f35b436ab0b"
+            ]
+        ]
+    },
+    {
+        "id": "b41bbdca2293ce38",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "6c4911811d83d44b",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: cannot edit while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile modificare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1615,
+        "y": 2205,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ddb88f35b436ab0b",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "6c4911811d83d44b",
+        "name": "error",
+        "func": "node.error({ err: \"unknown or missing popupId\", popupId: msg.popupId,fullMsg:msg});\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 1505,
+        "y": 2265,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7ddb35334721dacc",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "insert/update row",
+        "func": "const db = global.get(\"db\");\n\n//aliases for readablility\nlet activeRow = msg.payload;\n// let activeFieldName = msg.topic;\n// let refreshMsg = msg;\n// //clicked row aliases\n// let table = flow.get(\"queueTable\");\n// let tabUtils = flow.get(\"tabUtils\");\n// let button = tabUtils.queue.sendToPressButton;\n// let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n// let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n// let state = button.getStateString(activeRow[activeFieldName + \"State\"]);\n\n//inserisci nuova riga.\n//se esiste già:\n//  se il suo status == 'w' aggiorna con i valori attuali (ovvero non fai nessuna modifica)\n//  altrimenti aggiorna con i valori che la nuova riga avrebbe avuto\nlet queryVals = [activeRow.id, 't', activeRow.quantToDo, activeRow.quantProd]\nlet queryTemplate = `\nINSERT INTO\n  oven.italmatic_exchange (ORDER_ID, STATUS, QUANT_TO_DO, QUANT_PROD)\nVALUES\n  (?, ?, ?, ?) AS new ON DUPLICATE KEY\nUPDATE\n  ORDER_ID = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.ORDER_ID,\n    new.ORDER_ID\n  ),\n  QUANT_TO_DO = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.QUANT_TO_DO,\n    new.QUANT_TO_DO\n  ),\n  QUANT_PROD = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.QUANT_PROD,\n    new.QUANT_PROD\n  ),\n  STATUS = IF(\n    oven.italmatic_exchange.STATUS = 'w',\n    oven.italmatic_exchange.STATUS,\n    new.STATUS\n  )\n`\n\nreturn db.attachQuery(db.sqlString.format(queryTemplate, queryVals), msg);\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 915,
+        "y": 2370,
+        "wires": [
+            [
+                "fcaae706643cc463"
+            ]
+        ]
+    },
+    {
+        "id": "fcaae706643cc463",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "Query Oven DB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1110,
+        "y": 2370,
+        "wires": [
+            [
+                "04164ae60e60ec1f"
+            ]
+        ]
+    },
+    {
+        "id": "04164ae60e60ec1f",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "error",
+        "property": "error",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1260,
+        "y": 2370,
+        "wires": [
+            [
+                "9607aeea9b35b53f"
+            ],
+            [
+                "9607aeea9b35b53f"
+            ]
+        ]
+    },
+    {
+        "id": "9607aeea9b35b53f",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "refreshQueueTable_out",
+        "mode": "link",
+        "links": [
+            "3bea7933e72005a0",
+            "1d1e8e2742a7dcf8",
+            "107ba20c98b6cb03",
+            "1ebe50be51bab839"
+        ],
+        "x": 1445,
+        "y": 2370,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "2be7091d11a4cd0b",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "action",
+        "property": "action",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "load",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "delete",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 3,
+        "x": 745,
+        "y": 2400,
+        "wires": [
+            [
+                "7ddb35334721dacc"
+            ],
+            [
+                "d344700abc468e2f"
+            ],
+            [
+                "2ebcd64580ac460d"
+            ]
+        ]
+    },
+    {
+        "id": "d344700abc468e2f",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "delete row",
+        "func": "const db = global.get(\"db\");\n\n//aliases for readablility\nlet activeRow = msg.payload;\n// let activeFieldName = msg.topic;\n// let refreshMsg = msg;\n// //clicked row aliases\n// let table = flow.get(\"queueTable\");\n// let tabUtils = flow.get(\"tabUtils\");\n// let button = tabUtils.queue.sendToPressButton;\n// let activeRowIdx = tabUtils.posOf(activeRow.rowId, table);\n// let pressNum = activeFieldName.match(/sendToPressa([0-9]+)/)[1];\n// let state = button.getStateString(activeRow[activeFieldName + \"State\"]);\n\nlet queryVals = [activeRow.id]\nlet queryTemplate = `\nDELETE FROM\n  oven.italmatic_exchange AS exc\nWHERE\n  exc.ORDER_ID = ?\n  AND exc.STATUS <> 'w'\n`\n\nreturn db.attachQuery(db.sqlString.format(queryTemplate, queryVals), msg);\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 895,
+        "y": 2415,
+        "wires": [
+            [
+                "9c8b17a9a80fbb64",
+                "e1eaca87a85fa4ab"
+            ]
+        ]
+    },
+    {
+        "id": "9c8b17a9a80fbb64",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "Query Oven DB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1075,
+        "y": 2415,
+        "wires": [
+            [
+                "ca44a98e624a94a4",
+                "17247c321ff841aa"
+            ]
+        ]
+    },
+    {
+        "id": "ca44a98e624a94a4",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "error",
+        "property": "error",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1260,
+        "y": 2415,
+        "wires": [
+            [
+                "23eec5e679697f6b"
+            ],
+            [
+                "23eec5e679697f6b"
+            ]
+        ]
+    },
+    {
+        "id": "23eec5e679697f6b",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "refreshQueueTable_out",
+        "mode": "link",
+        "links": [
+            "3bea7933e72005a0",
+            "1d1e8e2742a7dcf8",
+            "107ba20c98b6cb03",
+            "1ebe50be51bab839"
+        ],
+        "x": 1445,
+        "y": 2415,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "2ebcd64580ac460d",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "error",
+        "func": "node.error({err:\"unknown or missing action\",action:msg.action,fullMsg:msg});\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
+        "finalize": "",
+        "libs": [],
+        "x": 875,
+        "y": 2445,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e1eaca87a85fa4ab",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "debug 79",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1035,
+        "y": 2445,
+        "wires": []
+    },
+    {
+        "id": "17247c321ff841aa",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "5290b04e5e87f604",
+        "name": "warn if nothing deleted",
+        "func": "\nif(msg.sql)\n    if (msg.sql.match(/\\s*DELETE/) && msg.payload.affectedRows == 0){\n        node.error({txt:\"[WARN] no rows deleted (vincolo non rispettato?)\", full:msg});\n        return msg;\n    }\n    else\n        return [null,msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1310,
+        "y": 2445,
+        "wires": [
+            [
+                "b41bbdca2293ce38"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "0754025c4011f690",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "6c4911811d83d44b",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: cannot delete while loaded",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Attenzione\",\n                `Non è possibile eliminare un ordine mentre quest'ultimo è caricato od in produzione.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1615,
+        "y": 2175,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e57dbeee92a70061",
+        "type": "ui_template",
+        "z": "2260f1f88d7c60bf",
+        "g": "6c4911811d83d44b",
+        "group": "8c268b6bfa27c24a",
+        "name": "popup error 7s: duplicate id",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"error\",\n                \"Id ordine non valido\",\n                `Esiste già un ordine che riporta l'id ${msg?.payload?.[msg.topic] ?? \"specificato\"}.\n                <br>Gli id devono essere unici per poter essere inseriti nel database di riferimento.`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1575,
+        "y": 2235,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dc744adc92813c51",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "7ca93f3dda4c162e",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "0.1",
+        "topic": "",
+        "x": 975,
+        "y": 3420,
+        "wires": [
+            [
+                "c0a4748db936f9cc"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "c0a4748db936f9cc",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7ca93f3dda4c162e",
+        "name": "delete duplicates",
+        "func": "const tabUtils = flow.get(\"tabUtils\");\nconst table = flow.get(\"queueTable\");\n\nvar idMap = {};\nfor(var row of table){\n    if(!idMap[row.id])\n        idMap[row.id] = new Array();\n    idMap[row.id].push(row);\n}\n\nvar toDel = [];\nfor(var [key, group] of Object.entries(idMap)){\n    node.warn({txt:\"parsing\",g:group});\n    if(group.length > 1){\n        group.forEach(row => toDel.push(row.rowId));\n        node.warn({ txt: \"pushed\", g: group, toDel:toDel });\n    }\n    else\n        node.warn({txt:\"nothing to remove in \",g:group});\n}\n\ntoDel.forEach(rowId => tabUtils.deleteRowId(rowId, table));\nflow.set(\"queueTable\", table);\n\nnode.warn({txt:\"removed dupes\",idMap:idMap, toDel:toDel, table:table})\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 3450,
+        "wires": [
+            [
+                "791b4bdbf17ea41b"
+            ]
+        ]
+    },
+    {
+        "id": "791b4bdbf17ea41b",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "7ca93f3dda4c162e",
+        "name": "forceQueueJsonUpdate out",
+        "mode": "link",
+        "links": [
+            "3cc72650169eec95"
+        ],
+        "x": 1080,
+        "y": 3480,
+        "wires": [],
+        "l": true
     },
     {
         "id": "a848fb1dfb6e367c",
@@ -10865,7 +11243,8 @@
         "y": 2175,
         "wires": [
             [
-                "9b820c04588a3822"
+                "9b820c04588a3822",
+                "62d2126ffce75dfc"
             ]
         ],
         "l": false
@@ -10936,7 +11315,8 @@
         "y": 2220,
         "wires": [
             [
-                "d42e3781f0fd7e8d"
+                "d42e3781f0fd7e8d",
+                "62d2126ffce75dfc"
             ]
         ],
         "l": false
@@ -10982,7 +11362,8 @@
         "y": 2265,
         "wires": [
             [
-                "d23ff2ec027956a6"
+                "d23ff2ec027956a6",
+                "62d2126ffce75dfc"
             ]
         ],
         "l": false
@@ -11564,7 +11945,8 @@
         "y": 1635,
         "wires": [
             [
-                "90d15b938fe04887"
+                "90d15b938fe04887",
+                "68a45b34c474e270"
             ]
         ],
         "l": false
@@ -11638,7 +12020,8 @@
         "y": 1680,
         "wires": [
             [
-                "06995737ec64c385"
+                "06995737ec64c385",
+                "68a45b34c474e270"
             ]
         ],
         "l": false
@@ -11686,7 +12069,8 @@
         "y": 1725,
         "wires": [
             [
-                "7e216c6e08250db0"
+                "7e216c6e08250db0",
+                "68a45b34c474e270"
             ]
         ],
         "l": false
@@ -12239,7 +12623,8 @@
         "y": 1095,
         "wires": [
             [
-                "ca7c13217c8a527d"
+                "ca7c13217c8a527d",
+                "7fedc8fd40380f1d"
             ]
         ],
         "l": false
@@ -12314,7 +12699,8 @@
         "y": 1140,
         "wires": [
             [
-                "37447a9eb7220bbd"
+                "37447a9eb7220bbd",
+                "7fedc8fd40380f1d"
             ]
         ],
         "l": false
@@ -12362,7 +12748,8 @@
         "y": 1185,
         "wires": [
             [
-                "1a4ff677fdd5bfbd"
+                "1a4ff677fdd5bfbd",
+                "7fedc8fd40380f1d"
             ]
         ],
         "l": false
@@ -13627,6 +14014,268 @@
                 "330da2b395af8bff"
             ]
         ]
+    },
+    {
+        "id": "7fedc8fd40380f1d",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1290,
+        "y": 1245,
+        "wires": [
+            [
+                "e779c7255cbbe3f2"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "e779c7255cbbe3f2",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 1245,
+        "wires": [
+            [
+                "0a8349e3527b9250"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5ebc37f009a0a667",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popup err 7s: must be in manual to edit",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div class=\"popupPusher\">\n</div>\n<script note=\"[popupPusher] fwd msgs to popup container\">\n    //forward messages to popup container\n    (function(scope) {\n    scope.$watch('msg', function(msg) {\n        if (msg) {\n            // Do something when msg arrives\n            //$(\"#my_\"+scope.$id).html(msg.payload);\n            console.log(\"[popupPusher] got msg\",msg);\n            window.functions.popup.showTitled(\n                \"warn\",\n                \"Attenzione\",\n                `La modifica non avrà effetto se non si imposta \"utilizza colori\" su \"manuale\"`,\n                7000,\n                !!\"dismissable\"\n            );\n        }\n        else{\n            console.log(\"[popupPusher] got empty msg\",msg);\n        }\n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupPusher-card",
+        "x": 1425,
+        "y": 765,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0a8349e3527b9250",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1695,
+        "y": 1245,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "382aef116df7b43a",
+        "type": "link in",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "name": "err popup in",
+        "links": [
+            "0a8349e3527b9250",
+            "5f9517fef2310e0e",
+            "2169d054e3700ab8",
+            "27fc74e16b82ab92"
+        ],
+        "x": 1225,
+        "y": 765,
+        "wires": [
+            [
+                "5ebc37f009a0a667"
+            ]
+        ]
+    },
+    {
+        "id": "19eb625743644893",
+        "type": "ui_template",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "group": "bcc9d4a1865e43c4",
+        "name": "popupRouter",
+        "order": 19,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"display:none\">\n    <div note=\"[popupRouter] example content\">\n        <p>The number is</p>\n        <font color=\"{{((msg.payload || 0) % 2 === 0) ? 'green' : 'red'}}\">\n            {{(msg.payload || 0) % 2 === 0 ? 'even' : 'odd'}}\n        </font>\n    </div>\n    <script note=\"[popupRouter] create popup container\">\n        //create popup container\n        $(function () {\n            if(!window.popupRouter_InitCalled){\n                window.popupRouter_InitCalled = true;\n                pushFunctions(); //append utils and popup pseudo-classes to windows.functions \n\n                var popupCont = document.createElement(\"div\");\n                popupCont.classList.add(\"popup-container\");\n                popupCont.id = \"mainPopupContainer\";\n                \n\n                //document.getElementsByTagName(\"body\")[0].append(popupCont);\n                let mainSect = getMainSect();\n                mainSect.append(popupCont);\n                console.log(\"[popupRouter][init()] appended popupContainer to \", mainSect);\n            }else{\n                console.log(\"[popupRouter][init()] skipping init (popupRouter_InitCalled is def)\");\n            }\n            \n\n            function getMainSect(){\n                var mainSect = null;\n                for(el of document.getElementsByTagName(\"md-content\")[0].children){\n                    if(/section/i.test(el.tagName)){\n                        mainSect = el;\n                        break;\n                    }\n                }\n                mainSect === null ? console.warn(\"mainSect:\",mainSect) : console.log(\"mainSect:\",mainSect);\n                return mainSect;\n            }\n        });\n        \n        function pushFunctions(){\n            let root = window.functions ?? (window.functions = new Object());\n            //import some utils. //avoid overwriting\n            root.utils ??= {};\n            root.utils = mergeRec(root.utils ,{\n                /** recursively merge two Objects\n                    * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n                    * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n                    * - -res.a===main.a\n                    * - -res.c===sec.c\n                    * - -res.b!==sec.b2\n                    * @param {Object} main\n                    * @param {Object} sec */\n                \"mergeRec\":mergeRec,\n                /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n                     * @param {any} value accepts anything\n                     * @returns {boolean}\n                     *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n                     */\n                \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n                    return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n                        // it has a prototype that's also truthy\n                        !!(value = Object.getPrototypeOf(value)) &&\n                        // which has `null` as parent prototype\n                        !Object.getPrototypeOf(value);\n                },\n                /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n                 *      skip non-function, assign wrapped to their original key\n                 *  @param root {Object} the object to parse for functions\n                 *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n                \"wrapFunctions\": function wrapFunctions(root, prefix) {\n                    prefix ?? console.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n                    const isPlainObj = this.isPlainObj;\n                    //recursively parse root\n                    //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n                    let desc;\n                    for (let k in root) {\n                        if (isPlainObj(root[k]))\n                            root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n                        else if (//is a simple function, or an arrow function\n                            //value of root[k] has type function\n                            typeof (root[k]) == \"function\"\n                            //root[k] itself is a function, not the result of it's getter call\n                            && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                            && !desc.get\n                        ) {\n                            //wrap in an exception catching function\n                            //trace errors back to their source, independently of the caller\n                            let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                            root[k] = function (...args) {\n                                try {\n                                    return cb.call(this, ...args)\n                                } catch (e) {\n                                    e.nrStack = (e.nrStack ?? []);\n                                    e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                                    e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                                    //console.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                                    throw e;\n                                }\n                            }\n                        }\n                    }\n                    return root;\n                }.bind(root.utils),\n                \"fromHtml\":function fromHtml(html, appendTo=document){\n                    if(arguments.length != fromHtml.length) throw new Error(\"arg length mismatch. \"+arguments.length+\"/\"+fromHtml.length);\n                    let factory = document.createElement(\"div\");\n                    // if(!factory){\n                    //     factory=document.createElement(\"div\");\n                    //     factory.id = \"htmlFactory\";\n                    //     factory.style.display = \"none\";\n                    //     factory.position = \"absolute\";\n                    //     document.lastElementChild.append(factory);\n                    // }\n                    factory.innerHTML = html;\n                    if(factory.children.length > 1)\n                        console.error(\"[<globFuncs>.utils.fromHtml()] more than 1 element created, when only the first will be returned.\",arguments,\"\\n->\",factory.children,);\n                    return factory.firstElementChild ?? console.error(\"[<globFuncs>.utils.fromHtml()] nothing created. returned null\",arguments);\n                },\n                /** some characters do not have an uppercase equivalent. They are considered to be lowercase by this func */\n                \"isLowerCase\":function isLowerCase(ch=null){\n                    return ch!==null && ch == ch?.toLowerCase?.();\n                }\n            });\n            //root.utils.wrapFunctions(root.utils,\"[<globFuncs>.utils]\");\n            //popup-specific functions\n            root.popup = {};\n            root.popup = root.utils.mergeRec(root.popup, {\n                \"getTemplate\":function getTemplate(type=\"info\",text=\"\"){\n                    const utils = window.functions.utils;\n                    if(!utils.isLowerCase(type?.[0]))\n                        type = type.toLowerCase();\n                    switch(type){\n                        default:{ console.warn(\"[<globFuncs>.utils] getTemplate(): invalid type \",type, \".used info\"); }\n                        case \"std\":\n                        case \"info\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"err\":\n                        case \"error\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup error\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                        case \"warn\":\n                        case \"warning\":{\n                            return utils.fromHtml(`\n                                <div class=\"roundPopup warning\">\n                                    <span>${text}</span>\n                                </div>\n                            `);\n                        }\n                    }\n                    \n                },\n                \"push\": function push(popup){\n                    document.getElementById(\"mainPopupContainer\").prepend(popup);\n                    return popup;\n                }.bind(root.popup),\n                \"popOlder\": function pop(){\n                    let cont = document.getElementById(\"mainPopupContainer\");\n                    var removed = cont.lastElementChild;\n                    if(cont.children.length)\n                        cont.lastElementChild?.remove?.();\n                    return removed;\n                },\n                \"show\":function show(type=\"info\",content=\"\",selfCloseMs=null, dismissable = true){\n                    const utils = window.functions.utils;\n                    var pUpClass = this;\n                    var popup = this.getTemplate(type, content);\n                    if(selfCloseMs !== null){\n                        setTimeout(()=>{\n                            for(var el of document.getElementById(\"mainPopupContainer\").children){\n                                if(el === popup){\n                                    el.remove();\n                                    console.log(\"removed \",el);\n                                }\n                            }\n                            console.warn(\"no popup matched with \",popup, \" after the timeout\");\n                        },selfCloseMs)\n                    }\n                    if(dismissable){\n                        popup.onclick = function (){\n                            console.log(\"clicked\",this);\n                            this.remove();\n                        }\n                    }\n                    this.push(popup);\n                }.bind(root.popup),\n                \"showTitled\":function showTitled(type=\"info\",title=\"\",txt=\"\",selfCloseMs=null, dismissable = true){\n                    this.show(type,`\n                    <span style=\"font-size:1.3em\">${title}</span>\n                    <div>${txt}</div>\n                    `,selfCloseMs, dismissable);\n                }.bind(root.popup),\n            });\n            //root.utils.wrapFunctions(root.popup,\"[<globFuncs>.popup]\");\n        }\n\n\n        /**\n        * @summary recursively merge two Objects\n            * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n            * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n            * - -res.a===main.a\n            * - -res.c===sec.c\n            * - -res.b!==sec.b2\n            * @param {Object} main \n            * @param {Object} sec */\n        function mergeRec(main, sec) {\n            for (let p in sec) {\n                //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n                //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n                if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                    thisFun(main[p], sec[p]);\n                else\n                    main[p] = sec[p];\n            }\n            return main;\n        }\n\n    </script>\n    <style note=\"[popupRouter]\">\n        .hidden {\n            display:none;\n        }\n        .popupRouter-card {\n            border: 1px solid green;\n            display:none;\n        }\n\n        .popupPusher {\n            border: 1px solid green;\n            display:none;\n        }\n        .popupPusher-card {\n            border: 1px solid green;\n            display:none;\n        }\n    \n        .popup-container {\n            /*border: 1px solid green;*/\n            width: max(30vw,600px);\n            position: fixed;\n            right:2vw;\n            padding-top: 0.3em;\n        }\n        \n        .popup-container .roundPopup {\n            text-align: left;\n            padding: 0.3em 1.5em;\n            margin-bottom: 1vh;\n            border: 3px solid gray;\n            border-radius: 10px;\n            background-color: rgb(243 243 243 / 100%); /* light gray */\n            color:#19196F;\n            width: fit-content;\n            margin-left: auto;\n            margin-right: 0;\n        }\n\n        .popup-container .roundPopup:hover {\n            background-color:#caeeff; /* light light blue */\n        }\n\n        .popup-container .roundPopup hr {\n            margin-left:-1.5em;\n            margin-right:-1.5em;\n        }\n\n        .popup-container .warning {\n            border-color: sandybrown;\n            background-color: lemonchiffon\n        }\n\n        .popup-container .error {\n            border-color: crimson;\n            background-color: #ffc0c0;\n        }\n    </style>\n</div>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "popupRouter-card",
+        "x": 1360,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e20b9892b6ecb65d",
+        "type": "inject",
+        "z": "69a590bb3eaafea5",
+        "g": "968c394fc0447039",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1230,
+        "y": 720,
+        "wires": [
+            [
+                "5ebc37f009a0a667"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "62d2126ffce75dfc",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1215,
+        "y": 2325,
+        "wires": [
+            [
+                "e91805b8277e01c2"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "e91805b8277e01c2",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1345,
+        "y": 2325,
+        "wires": [
+            [
+                "5f9517fef2310e0e"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5f9517fef2310e0e",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1620,
+        "y": 2325,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "68a45b34c474e270",
+        "type": "switch",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": true,
+        "outputs": 1,
+        "x": 1200,
+        "y": 1785,
+        "wires": [
+            [
+                "b2bc99a6b8ea1a91"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "b2bc99a6b8ea1a91",
+        "type": "function",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "if not in manual mode",
+        "func": "const cfg = msg.payload;\nif (cfg)\n    if(cfg.copyColors)\n        return msg;\n    else\n        return [null, msg];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 1785,
+        "wires": [
+            [
+                "27fc74e16b82ab92"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "27fc74e16b82ab92",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "d": true,
+        "name": "popup err 7s: must be in manual to edit",
+        "mode": "link",
+        "links": [
+            "382aef116df7b43a"
+        ],
+        "x": 1605,
+        "y": 1785,
+        "wires": [],
+        "l": true
     },
     {
         "id": "b0cd0777fbffd034",
@@ -18204,7 +18853,7 @@
         "type": "debug",
         "z": "467287adb311067b",
         "name": "MYSQL_OUT",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
