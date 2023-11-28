@@ -76,7 +76,9 @@
             "6173c68c398eeee3"
         ],
         "x": 844,
-        "y": 499
+        "y": 499,
+        "w": 707,
+        "h": 127
     },
     {
         "id": "3df0d3098de49375",
@@ -105,7 +107,9 @@
             "b34226be7162078f"
         ],
         "x": 514,
-        "y": 2334
+        "y": 2334,
+        "w": 592,
+        "h": 517
     },
     {
         "id": "43b5ce037e6e5304",
@@ -128,7 +132,9 @@
             "cdfe98ebc6268de8"
         ],
         "x": 669,
-        "y": 1129
+        "y": 1129,
+        "w": 452,
+        "h": 127
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -169,12 +175,11 @@
             "e517363a9bb66217",
             "649be06b4b880b67",
             "34b28815286f8381",
-            "13c1fa98c29f8f81"
+            "13c1fa98c29f8f81",
+            "5f026d8f174deb29"
         ],
         "x": 189,
-        "y": 264,
-        "w": 1287,
-        "h": 392
+        "y": 264
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -202,8 +207,10 @@
             "a72b1c3580f09904",
             "5fae85f555051914"
         ],
-        "x": 74,
-        "y": 4219
+        "x": 84,
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -231,7 +238,9 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -255,8 +264,10 @@
             "0fce669fac8b246c",
             "ceb2f1af58e4621a"
         ],
-        "x": 154,
-        "y": 139
+        "x": 164,
+        "y": 139,
+        "w": 777,
+        "h": 217
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -277,9 +288,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "408c86b39f332966",
@@ -302,7 +311,9 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089
+        "y": 1089,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -325,7 +336,9 @@
             "588342109c719d84"
         ],
         "x": 153,
-        "y": 409
+        "y": 409,
+        "w": 1719,
+        "h": 1398
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -350,7 +363,9 @@
             "85ef1e45805265d5"
         ],
         "x": 589,
-        "y": 4
+        "y": 4,
+        "w": 712,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -389,7 +404,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694
+        "y": 694,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "63f089643e332739",
@@ -411,8 +428,10 @@
             "a70fe69b7459b746",
             "2639fa3be4067762"
         ],
-        "x": 1418,
-        "y": 1254
+        "x": 1428,
+        "y": 1254,
+        "w": 1539,
+        "h": 1368
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -437,8 +456,10 @@
             "1be724ee4d388de3",
             "8b321fcb911b77fd"
         ],
-        "x": 574,
-        "y": 689
+        "x": 584,
+        "y": 689,
+        "w": 682,
+        "h": 242
     },
     {
         "id": "89618de1371e00e8",
@@ -464,7 +485,9 @@
             "23908ba29a765ed4"
         ],
         "x": 144,
-        "y": 824
+        "y": 824,
+        "w": 837,
+        "h": 252
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -502,7 +525,9 @@
             "c6aaa02b97c6aeb4"
         ],
         "x": 174,
-        "y": 1839
+        "y": 1839,
+        "w": 1422,
+        "h": 282
     },
     {
         "id": "dd28804963c0bc60",
@@ -543,8 +568,10 @@
             "bf98577d363cef6f",
             "8943b4549c5df00c"
         ],
-        "x": 754,
-        "y": 249
+        "x": 764,
+        "y": 249,
+        "w": 1082,
+        "h": 392
     },
     {
         "id": "5cf67bd384745bc4",
@@ -697,7 +724,9 @@
             "dd90145cd4293ec4"
         ],
         "x": 144,
-        "y": 64
+        "y": 64,
+        "w": 672,
+        "h": 247
     },
     {
         "id": "55a9133a1c5a95d1",
@@ -856,7 +885,9 @@
             "6ed432e955eed2af"
         ],
         "x": 899,
-        "y": 64
+        "y": 64,
+        "w": 432,
+        "h": 112
     },
     {
         "id": "eaa0ab9108712f87",
@@ -880,8 +911,10 @@
             "e4c7fdbeb50da316",
             "f980de469977c37f"
         ],
-        "x": 909,
-        "y": 229
+        "x": 919,
+        "y": 229,
+        "w": 427,
+        "h": 202
     },
     {
         "id": "cccb0df7921dec2f",
@@ -906,7 +939,9 @@
             "b7700a2027731da3"
         ],
         "x": 1314,
-        "y": 814
+        "y": 814,
+        "w": 342,
+        "h": 247
     },
     {
         "id": "ee530506baeb12a5",
@@ -961,7 +996,9 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984
+        "y": 1984,
+        "w": 1127,
+        "h": 217
     },
     {
         "id": "20b3e86b59e03511",
@@ -982,8 +1019,10 @@
             "6067e973b7dd40eb",
             "535ab9848c1b1849"
         ],
-        "x": 173,
-        "y": 1274
+        "x": 183,
+        "y": 1274,
+        "w": 1409,
+        "h": 1058
     },
     {
         "id": "7ca93f3dda4c162e",
@@ -1016,8 +1055,10 @@
             "c0a4748db936f9cc",
             "791b4bdbf17ea41b"
         ],
-        "x": 118,
-        "y": 2584
+        "x": 124,
+        "y": 2584,
+        "w": 1163,
+        "h": 963
     },
     {
         "id": "6c4911811d83d44b",
@@ -1053,7 +1094,9 @@
             "e57dbeee92a70061"
         ],
         "x": 169,
-        "y": 2134
+        "y": 2134,
+        "w": 1642,
+        "h": 378
     },
     {
         "id": "b2f2e2e832b5442a",
@@ -1077,7 +1120,9 @@
             "c2496432b0f56960"
         ],
         "x": 569,
-        "y": 2209
+        "y": 2209,
+        "w": 817,
+        "h": 157
     },
     {
         "id": "4c1f6debb662b115",
@@ -1107,7 +1152,9 @@
             "20568c91f483a968"
         ],
         "x": 449,
-        "y": 2419
+        "y": 2419,
+        "w": 907,
+        "h": 292
     },
     {
         "id": "968c394fc0447039",
@@ -1129,9 +1176,7 @@
             "e20b9892b6ecb65d"
         ],
         "x": 1169,
-        "y": 679,
-        "w": 452,
-        "h": 127
+        "y": 679
     },
     {
         "id": "6c37c577dff9338f",
@@ -1361,7 +1406,9 @@
             "0a7637311a10d33c"
         ],
         "x": 304,
-        "y": 1349
+        "y": 1349,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "6067e973b7dd40eb",
@@ -1392,8 +1439,10 @@
             "3be8e0ee10cd410f",
             "0264fb6e41a9c278"
         ],
-        "x": 199,
-        "y": 1794
+        "x": 209,
+        "y": 1794,
+        "w": 607,
+        "h": 367
     },
     {
         "id": "e2bd9331f9185534",
@@ -1417,10 +1466,13 @@
             "f496db4601480ad7",
             "17ccce6813bb1513",
             "b6bc7095606ea745",
-            "3b86202ba3e33fb7"
+            "3b86202ba3e33fb7",
+            "9d91f8e564086ea1"
         ],
-        "x": 1464,
-        "y": 1749
+        "x": 1459,
+        "y": 1754,
+        "w": 1107,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -1451,8 +1503,10 @@
             "3fcc6bd133bdfd43",
             "3f9469575ed20a91"
         ],
-        "x": 1444,
-        "y": 2314
+        "x": 1454,
+        "y": 2314,
+        "w": 1182,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1483,8 +1537,10 @@
             "260b48d27cf6b812",
             "c23689e8b3ce4d15"
         ],
-        "x": 1454,
-        "y": 1944
+        "x": 1459,
+        "y": 1944,
+        "w": 987,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -1506,8 +1562,10 @@
             "88e3d23a3ec9d6b0",
             "d27598503a5b31c1"
         ],
-        "x": 119,
-        "y": 4294
+        "x": 129,
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -1530,7 +1588,9 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1574,8 +1634,10 @@
             "22a43313b4628e06",
             "f97cc9e5d5d42826"
         ],
-        "x": 144,
-        "y": 2659
+        "x": 154,
+        "y": 2659,
+        "w": 1107,
+        "h": 487
     },
     {
         "id": "df7219d880358536",
@@ -1606,7 +1668,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1167,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1636,8 +1700,10 @@
             "a87b7f1bb3d8030d",
             "e8a45a4aa7a22874"
         ],
-        "x": 189,
-        "y": 1369
+        "x": 199,
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1680,7 +1746,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1237,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1745,10 +1813,16 @@
             "92ada735b313aded",
             "95a4cfea0458c7b9",
             "a99d6bf6adb7c08b",
-            "fad7e78f46d1c5dc"
+            "fad7e78f46d1c5dc",
+            "c141b9aa3a1d6d25",
+            "12bdad34026ac79d",
+            "4ca48d54d222612f",
+            "a649d4fecb2ca56a"
         ],
         "x": 179,
-        "y": 484
+        "y": 484,
+        "w": 1667,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -1789,7 +1863,9 @@
             "bdec638b99156315"
         ],
         "x": 1459,
-        "y": 1329
+        "y": 1329,
+        "w": 1482,
+        "h": 382
     },
     {
         "id": "95f61ab7d0989272",
@@ -2014,7 +2090,9 @@
             "fe811fa1d8709aae"
         ],
         "x": 894,
-        "y": 1714
+        "y": 1714,
+        "w": 672,
+        "h": 592
     },
     {
         "id": "7169425350ce858f",
@@ -2040,8 +2118,10 @@
             "9f4265f50b02e400",
             "35ec647ee9cef417"
         ],
-        "x": 239,
-        "y": 3319
+        "x": 249,
+        "y": 3319,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "5290b04e5e87f604",
@@ -2072,7 +2152,9 @@
             "17247c321ff841aa"
         ],
         "x": 669,
-        "y": 2329
+        "y": 2329,
+        "w": 912,
+        "h": 157
     },
     {
         "id": "0d7119851507d372",
@@ -2434,7 +2516,7 @@
         "connmode": "rack-slot",
         "adapter": "",
         "busaddr": "2",
-        "cycletime": "60000",
+        "cycletime": "10000",
         "timeout": "3000",
         "name": "PLC prodExc Siemens 1500 ",
         "vartable": [
@@ -3837,7 +3919,7 @@
             },
             {
                 "t": "eq",
-                "v": "setPointTemp",
+                "v": "setpointTemp",
                 "vt": "str"
             },
             {
@@ -3847,7 +3929,7 @@
             },
             {
                 "t": "eq",
-                "v": "setPointPress",
+                "v": "setpointPress",
                 "vt": "str"
             },
             {
@@ -4630,7 +4712,7 @@
         "func": "//look into start tab",
         "outputs": 1,
         "noerr": 0,
-        "initialize": "let thisClassName = \"utils\";\nlet def = {\n    \"errorBlink\": function (node, last = 1500, text = \"\") {\n        node.status({ fill: \"red\", text: text });\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, 250);\n        setTimeout(() => {\n            node.status({ fill: \"yellow\", text: text });\n        }, 350);\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, last)\n    },\n\n    \"##litEndian2int\": function (a, b) {\n        return a << 16 | b;\n    }, //msg.payload[0] << 16) | msg.payload[1]\n\n    \"isObject\"(v) {\n        return (typeof (v) == \"object\" && !Array.isArray(v) && v !== null)\n    },\n    /**\n     * converts a binary array to a single number\n     */\n    \"bitArrayToInt\"(arr) {\n        var res = 0;\n        for (let i = 0, minLen = Math.min(arr.length, 8 * 8); i < minLen; i++) {\n            if (arr[i])\n                res += Math.pow(2, i);\n        }\n        return res;\n    },\n\n    /** @summary capitalize the first character of a given string\n        * @param {string} word \n        * @return {string} new processed string\n        */\n    \"firstCharUp\"(word) {\n        return word.charAt(0).toUpperCase() + word.slice(1);\n    },\n\n    /**\n    * @summary recursively merge two Objects\n        * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n        * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n        * - -res.a===main.a\n        * - -res.c===sec.c\n        * - -res.b!==sec.b2\n        * @param {Object} main \n        * @param {Object} sec \n        */\n    \"mergeRec\": function thisFun(main, sec) {\n        for (let p in sec) {\n            //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n            //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n            //main[p] = sec[p];\n            if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                thisFun(main[p], sec[p]);\n            else\n                main[p] = sec[p];\n        }\n        return main;\n    }.bind(this),\n\n    /** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\n    \"callWhenDef\": function callWhenDef(cb, opts, ...varNames) {\n        //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n        if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n            var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n        //check for opts presence\n        if (typeof (opts) == \"string\")\n            varNames.push(opts);\n        let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n        var tout, intv, tmp;\n        //switch context to the one specified in ctx\n        var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n        //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n        //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n        let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n        //try immediately, before doing any work\n        if (varNames.every(name => store.get(name) !== undefined))\n            return wrappedCb()\n        //set timeout unless false or not specified\n        if (timeout) {\n            tout = setTimeout(() => {\n                clearInterval(intv);\n                errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n            }, timeout);\n        }\n        //set store-checking interval\n        intv = setInterval(() => {\n            if (!varNames.every(name => store.get(name) !== undefined))\n                return\n            clearTimeout(tout);\n            clearInterval(intv);\n            wrappedCb();\n        }, retryDelay)\n    },\n    /** pseudo random string generator\n     */\n    \"randomHexString4\": function () {\n        return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1); //1.X * 2^16 toString(radix) clipFirst //== 4 characters hex\n    },\n    /** returns an iterator-maker that uses the keys in orderedKeys to access its parent's properties\n         * @param {string[]} orderedKeys\n         * @returns {function} f() -> iterator object.\n         */\n    \"makeKeyIterator\": function (orderedKeys) {\n        return function () {\n            //console.log(\"2# this\",this); this === parent object\n            let keys = orderedKeys, idx = 0;\n            return {\n                next: () => {\n                    //console.log(this, idx, orderedKeys);\n                    return (idx < keys.length ? { value: this[keys[idx++]], done: false } : { done: true });\n                }\n            }\n        }\n    },\n    /** attach a general iterator going through all the enumerable obj's key.\n        * -Not very memory-performant as a redundant key[] array is stored\n        * @param {object} the object to which attach the iterator\n        * @returns {function} the attached iterator\n        */\n    \"generateIteratorFor\": function (obj) {\n        obj[Symbol.iterator] = this.makeKeyIterator(Object.keys(obj));\n        return obj[Symbol.iterator];\n    },\n    \"errorLog\"(...param) { return this.logError(...param); },\n    \"logError\": function thisFun(nodeRef, err) {\n        if (arguments.length != thisFun.length) throw new SyntaxError(`expected ${thisFun.length} arguments, got ${arguments.length}`);\n        var error = (typeof (err) == \"string\" ? { err: err } : err);\n        nodeRef.error(error);\n    },\n\n    /** the first time the property is accessed the value is calculated calling valueGetter() in obj, and the result is stored in propName_cache.\n        * - Subsequent calls will return propName_cache's value.\n        */\n    \"defineCachedProp\": function defineCachedProp(obj, propName, valueGetter) {\n        if (arguments.length != 3) throw new SyntaxError(\"defineCachedGetter() arguments mismatch\");\n        const propName_cache = propName + \"_cache\";\n\n        Object.defineProperty(obj, propName_cache, { value: undefined, writable: true, configurable: true }); //not enumerable\n        Object.defineProperty(obj, propName, {\n            get() {\n                return this[propName_cache] ?? (this[propName_cache] = valueGetter.call(this, this))\n            },\n            set(v) { this[propName_cache] = v },\n            enumerable: true,\n            configurable: true\n        })\n    },\n    \"removeIdx\": (arr, i) => (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop(),\n    \"removeAllOccurrences\": function (arr, val) {\n        for (let i = 0; i < arr.length; i++)\n            if (arr[i] == val)\n                (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop();\n    },\n\n    \"clone\": function (obj) {\n        return JSON.parse(global.get(thisClassName).safeStringify(obj));\n    },\n\n    \"safeStringify\": function safeStringify(obj, indent) {\n        var cache = [];\n        var cacheKeys = [];\n        return JSON.stringify(obj, (key, value) => {\n            if (typeof value === 'object' && value !== null) { //arrays and null are also \"objects\" //functions are too, but typeof returns \"function\" instead\n                //Duplicate reference found -> discard key / store\n                const idx = cache.indexOf(value)\n                //if duplicate found\n                //return twin's key instead\n                if (idx != -1) //-1 means not present\n                    return \"dupOf_\" + (cacheKeys[idx].toString() ?? \"root\");\n                //else store it\n                else {\n                    cache.push(value);\n                    cacheKeys.push(key);\n                }\n            }\n            return value;\n        }, indent);\n    },\n    /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n         * @param {any} value accepts anything\n         * @returns {boolean}\n         *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n         */\n    \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n        return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n            // it has a prototype that's also truthy\n            !!(value = Object.getPrototypeOf(value)) &&\n            // which has `null` as parent prototype\n            !Object.getPrototypeOf(value);\n    },\n    /** recursively looks up a target object enumerable childrens for properties that would need to be restored after a JSON conversion.\n         * @returns a mask of the original Object containing only the (restored) properties to restore.\n         */\n    \"toRestoreOf\": function toRestoreOf(origin) {\n        //let isPlainObj = global.get(thisClassName).isPlainObj;\n        let needsRecursion = (prop, target) => this.isPlainObj(target?.[prop]) //target is an object and target.prop is an object too\n        let needsRestoration = (prop, target) => {\n            return typeof (target[prop]) === \"function\"// && !node.warn(\"restored \"+prop+\":\"+typeof(target[prop]))\n        }\n        let empty = true; //optimize performance, avoiding recursive Object.keys calls\n        var toRes = {};\n        if (this.isPlainObj(origin))\n            Object.keys(origin).forEach(key => { //#TODO extend to non-enumerables\n                if (origin.toRestore)\n                    toRes[key] = origin.toRestore(origin[key])\n                else if (needsRecursion(key, origin)) {\n                    let tmp = toRestoreOf.call(this, origin[key]);\n                    if (tmp !== null)\n                        toRes[key] = tmp;\n                    // if(Object.keys(toRes[key]).length==0)\n                    //     delete toRes[key];\n                }\n                else if (needsRestoration(key, origin)) { //if is function\n                    toRes[key] = origin[key]\n                } else {\n                    //skip\n                }\n                if (toRes[key])\n                    empty = false;\n                //toRes[key] && node.warn(key+\" set\")\n            })\n        //return Object.keys(target).filter( key => needsRestoration(key, target))\n\n        return empty ? null : toRes;\n    },\n    /** pseudo alias of Object.assign\n        * only ADDS props and keeps the original refs for plain objects.\n        * ex.               {a:4, b:{a1:5, b1:6}},              //target\n        *                        {b:{      b1:\"v\", c1:7}, c:8}  //source\n        *   assign     ->   {a:4, b:{      b1:\"v\", c1:7}, c:8}  //b is a reference to source.b //a1 was lost\n        *   recAssign  ->   {a:4, b:{a1:5, b1:\"v\", c1:7}, c:8}  \n        */\n    \"recAssign\": function recAssign(target, source) {\n        for (let k in source)\n            target[k] = (this.isPlainObj(source[k]) ? recAssign.call(this, target[k] ?? {}, source[k]) : source[k])\n        return target;\n    },\n    /** \n        * \n        */\n    \"inflate\": function (target, source) {\n        let mask = this.toRestoreOf(source) ?? {};\n        return this.recAssign(target, mask);\n    },\n\n    // \"genericInflater\":function inflated(target, origin=this){ //assume target is a mask of origin, meaning origin has AT LEAST all props of target.\n    //     let utils=global.get(thisClassName);\n    //     let hasOwnInflater = targ => targ?.inflated\n    //     let restore = (prop, target, origin) => {\n    //         var tmp;\n    //         if(!(tmp=Object.getOwnPropertyDescriptor(origin, prop).enumerable))\n    //             Object.defineProperty(target,prop,tmp)\n    //         else if(typeof origin[prop]==\"function\")\n    //             target[prop] = origin[prop]\n    //         return target[prop];\n    //     }\n    //     //CHOOSE AN APPROACH: init all missing target vals\n    //     //target can be anything, origin is an object\n    //     //parse origin for all keys that need to be restored on a version of themselves that went throug a JSON.stringify(JSON.parse())\n    //         //set those keys using either an inflater defined by the key or a generic one. Feed the original value to the inflater, or undefined.\n    //     //returns an inflated version of target\n\n    //     let allKeysOf = obj => Object.keys(obj);\n    //     if(utils.isPlainObj(origin))\n    //         for(let k of allKeysOf(origin))\n    //             inflatedTarget[k] = inflated(target?.[k], origin[k])\n\n\n    //     //if is inflatable\n    //     var inflatedTarget={};\n    //     if(utils.isPlainObj(origin)){\n    //         //inflate all keys //#TODO include non-enumerables\n    //         for(let k of origin)\n    //             //use own inflation method //responsible for that key and all its children\n    //             if(hasOwnInflater(origin[k]))\n    //                 inflatedTarget[k] = origin[k].inflated(target?.[k]);\n    //             //recurse\n    //             else if(utils.isPlainObj(origin[k]))\n    //                 inflatedTarget[k] = inflated(target?.[k], origin[k])\n    //             //generic restoration //mutates target[k] if necessary, then returns it\n    //             else\n    //                 inflatedTarget[k] = target?.[k]!==undefined ? restore(k, target, origin)\n    //     }\n    //     else\n    //         return inflatedTarget;\n    // },\n    // /** recursively traverse object children calling the inflate/inflater method on all of them\n    //      * the method is supposed to restore all the properties that would not survive a JSON.parse(JSON.stringify()).\n    //      * restoring a class from its json, or restoring non enumerable properties and functions, for example.\n    //      * NOTE: a parent that implements \"inflate\" or \"inflater\" is responsible for all its children restoration, and \n    //      *       should therefore call the genericInflater() on all properties it chooses to not explicitly handle\n    //      */\n    // \"inflate\"(target){ return global.get(thisClassName).genericInflater.call(this, target) },\n    // \"ggenericInflater\":function inflate(target){\n    //     //looks for and calls inflate() methods for all keys\n    //         //recursing over objects\n    //     for(let k in target){\n    //         //if has inflate method\n    //         if(this && typeof(this[k])==\"object\" && this[k].inflate)\n    //             target[k] = this[k].inflate(target[k]);\n    //         else    //else recurse over object props\n    //             if(typeof(target[k])==\"object\" && this && typeof(this[k])==\"object\")\n    //                 inflate.call(this[k], target[k])\n    //     }\n    //     return target;\n    // },\n\n\n    /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n     *      skip non-function, assign wrapped to their original key\n     *  @param root {Object} the object to parse for functions\n     *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n    \"wrapFunctions\": function wrapFunctions(root, prefix) {\n        prefix ?? node.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n        const isPlainObj = this.isPlainObj;\n        //recursively parse root\n        //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n        let desc;\n        for (let k in root) {\n            if (isPlainObj(root[k]))\n                root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n            else if (//is a simple function, or an arrow function\n                //value of root[k] has type function\n                typeof (root[k]) == \"function\"\n                //root[k] itself is a function, not the result of it's getter call\n                && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                && !desc.get\n            ) {\n                //wrap in an exception catching function\n                //trace errors back to their source, independently of the caller\n                let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                root[k] = function (...args) {\n                    try {\n                        return cb.call(this, ...args)\n                    } catch (e) {\n                        e.nrStack = (e.nrStack ?? []);\n                        e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                        e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                        //node.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                        throw e;\n                    }\n                }\n            }\n        }\n        return root;\n    },\n    \"sortByType\": function sortByType(source, ...types) {\n\n        if (!Array.isArray(source))\n            if (typeof (source) == \"object\") { //assume it's an argument object\n                try {\n                    let tmp = [];\n                    for (var arg of source)\n                        tmp.push(arg);\n                    source = tmp;\n                } catch {\n                    return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n                }\n            }\n            else\n                return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n        if (source.length !== types?.length)\n            return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source lenght doesn't match types[]'s\", source: source, types: types, args: arguments });\n\n        const typedPairs = source.map(item => new Object({ val: item, type: typeof (item) }));\n        let findType = (type) => typedPairs.find(pair => pair.type == type) ?? node.warn({ txt: \"missing param typed \" + type });\n\n        var errors;\n        var ret = [];\n        for (var type of types) {\n            let idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx < 0) {\n                errors ?? (errors = []);\n                errors.push(type);\n                ret.push(null);\n            }\n            else {\n                ret.push(typedPairs[idx]);\n            }\n        }\n        if (errors)\n            node.error({ txt: `global.${thisClassName}.${sortByType.name}(): missing param typed ${errors.length > 1 ? `[${errors}]` : errors[0]}`, args: arguments });\n        return ret;\n    },\n    /**\n     * non implementato * /\n    \"logToFile\": () => { },\n    /**\n     * insieme a dbgLevelsMap rappresenta un enum di livelli di debug */\n    \"dbgLevels\": [\"error\",\"warning\", \"debug\", \"verbose\"],\n    //\"dbgLevelsMap\": generated below\n    /*v da testare v* /\n    /**\n     * Stampa un messaggio, con strategie diverse a seconda del tipo e del debugLevel globale.  \n     * Tutti i log dovrebbero passare di qui.  \n     * Gli argomenti vengono riordinati automaticamente. dbgPrint({extra:5},\"messaggio\"), dbgPrint(\"verbose\", \"something happened\") sono tutte chiamate legali\n     * \n     * @param _txt testo messaggio\n     * @param _infoObj campi extra da allegare, oltre a quelli automatici. In caso di clash vince infoObj.\n     * @param _level tipologia messaggio. accetta sia interi che stringhe. gli interi mappano utils.dbgLevels * /\n    \"dbgPrint\": function dbgPrint(_txt, _infoObj, _level) {\n        const utils = global.get(thisClassName);\n        const dbgLevelsMap = utils.dbgLevelsMap;\n\n        //compile-like check: all expected level ids exist\n        utils.assert([\"warning\", \"error\", \"debug\", \"verbose\"].every(key => (utils?.dbgLevelsMap?.[key] ?? null) !== null), \"dpgPrint(): missing one or more expected dbg level\", { exp: [\"warning\", \"error\", \"debug\", \"verbose\"], got: dbgLevelsMap });\n        \n        node.warn({txt:\"args pre sort\",args:{txt:_txt,level:_level,infoObj:_infoObj}})\n\n        //sort arguments, filling them with def vals when necessary\n        let argArray = [_level, _txt, _infoObj];\n        var typedPairs = argArray.map(item => new Object({ val: item, type: typeof (item) }));\n        \n        //pops a value from typedPairs, or returns defVal if nothing matches\n        let popValOfType = (type, defVal) => {\n            var idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx >= 0) {\n                var val = typedPairs[idx].val;\n                utils.removeIdx(typedPairs, idx);\n                return val;\n            }\n            else\n                return defVal;\n        }\n        var txt = popValOfType(\"string\",\"noTxt\");\n        var level = popValOfType(\"number\", null) ?? popValOfType(\"string\", null) ?? dbgLevelsMap[\"debug\"];\n        var infoObj = popValOfType(\"object\", {});\n\n        if(typeof level == \"string\"){\n            //sort txt and type, as they are both strings\n            let validLiterals = [\"warning\", \"warn\", \"error\", \"err\", \"debug\", \"dbg\", \"console\", \"stdout\"];\n            if (txt.length <= 7 && level.length > 7\n                || validLiterals.includes(txt))\n                [level, txt] = [txt, level];\n            //convert to numeric id\n            switch (level) {\n                case \"warning\":\n                case \"warn\":\n                    level = dbgLevelsMap[\"warning\"];\n                    break;\n                case \"error\":\n                case \"err\":\n                    level = dbgLevelsMap[\"error\"];\n                    break;\n                case \"debug\":\n                case \"dbg\":\n                    level = dbgLevelsMap[\"debug\"];\n                    break;\n                case \"verbose\":\n                case \"verb\":\n                    level = dbgLevelsMap[\"verbose\"];\n                    break;\n                default:\n                    node.error(\"error\", \"unknown log level: \" + level);//, { valid: validLiterals, got: level, args: arguments });\n                    break;\n            }\n        }\n\n        node.warn({ txt: \"args post sort\", args: { txt: txt, level: level, infoObj: infoObj } });\n\n        //define log vars\n        if (true || level <= global.get(\"dbgLevel\")){\n            //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/caller\n            var fName;\n            try { fName = dbgPrint.caller; } catch { fName = \"unreadable\" }\n            var nodeJsStack;\n            try { nodeJsStack = new Error().stack } catch { nodeJsStack = \"unreadable\" }\n            //default logging strategy\n            let defEditorLog = (logger) => logger.call(this,\n                utils.mergeRec({\n                    txt: txt,\n                    n: this.node.name,\n                    auto: {\n                        f: fName,\n                        id: this.node.id,\n                        _this: this,\n                        nodeJsStack: nodeJsStack\n                    }\n                }, infoObj));\n            node.warn({ txt: \"context\", ctx: [Object.getOwnPropertyNames(dbgPrint.caller).map(name => name + \":\" + dbgPrint.caller[name]), Object.getOwnPropertyNames(arguments.callee).map(name => name + \":\" + arguments.callee[name])]});\n            //pick logging strategy\n            switch (level) {\n                case dbgLevelsMap[\"warning\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"error\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"debug\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"verbose\"]:\n                    defEditorLog(this.warn);\n                    break;\n                default:\n                    node.error(\"unknown log level \" + level);\n                    break;\n            }\n        }\n\n    },\n\n    \"assert\": function assert(isOk, cb = \"assertion failed\", infoObj = {}) {\n        if (!global.get(\"isDbgMode\"))\n            return true;\n        if (typeof (isOk) == \"function\")\n            isOk = isOk();\n        if (!isOk)\n            if (typeof (cb) == \"function\")\n                // @ts-ignore\n                cb();\n            else\n                node.error(global.get(thisClassName).mergeRec({txt:cb},infoObj));\n                //global.get(thisClassName).dbgPrint(\"error\", cb, infoObj);\n        return isOk\n    },\n\n\n    \"pushGlobalClassInfo\": function pushGlobalClass(_class, name = null) {\n        if (global.get(\"isDbgMode\")) {\n            const utils = global.get(thisClassName);\n\n            name ?? _class.name;\n            utils.assert(typeof (_class) == \"function\", \"arg for class \" + name + \" is not a class\", { _class: _class });\n            utils.assert(typeof (name) == \"string\", \"type mismatch for arg 'name'. expected string, got \" + typeof (name));\n\n            if (!global.get(\"classesCheatSheet\"))\n                global.set(\"classesCheatSheet\", {});\n\n            let cs = global.get(\"classesCheatSheet\");\n            var methods = {};\n            var props = {};\n            for (var propName of Object.getOwnPropertyNames(_class)) {\n                if (typeof (_class[propName] == \"function\"))\n                    methods[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n                else\n                    props[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n            }\n            cs[name] = {\n                \"name\": _class.name,\n                \"methods\": methods,\n                \"props\": props\n            }\n        }\n    }\n    /*^ da testare ^*/\n};\n\ndef.dbgLevelsMap = (() => { var tmp = {}; def.dbgLevels.forEach((name, i) => tmp[name] = i); return tmp; })()\n\n\n\n\ndef.wrapFunctions(def, \"[\" + thisClassName + \"]\");\nglobal.set(thisClassName, def);\nnode.send(def);\nnode.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n",
+        "initialize": "let thisClassName = \"utils\";\nlet def = {\n    \"errorBlink\": function (node, last = 1500, text = \"\") {\n        node.status({ fill: \"red\", text: text });\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, 250);\n        setTimeout(() => {\n            node.status({ fill: \"yellow\", text: text });\n        }, 350);\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, last)\n    },\n\n    \"##litEndian2int\": function (a, b) {\n        return a << 16 | b;\n    }, //msg.payload[0] << 16) | msg.payload[1]\n\n    \"isObject\"(v) {\n        return (typeof (v) == \"object\" && !Array.isArray(v) && v !== null)\n    },\n    /**\n     * converts a binary array to a single number\n     */\n    \"bitArrayToInt\"(arr) {\n        var res = 0;\n        for (let i = 0, minLen = Math.min(arr.length, 8 * 8); i < minLen; i++) {\n            if (arr[i])\n                res += Math.pow(2, i);\n        }\n        return res;\n    },\n\n    /** @summary capitalize the first character of a given string\n        * @param {string} word \n        * @return {string} new processed string\n        */\n    \"firstCharUp\"(word) {\n        return word.charAt(0).toUpperCase() + word.slice(1);\n    },\n\n    /**\n    * @summary recursively merge two Objects\n        * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n        * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n        * - -res.a===main.a\n        * - -res.c===sec.c\n        * - -res.b!==sec.b2\n        * @param {Object} main \n        * @param {Object} sec \n        */\n    \"mergeRec\": function thisFun(main, sec) {\n        for (let p in sec) {\n            //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n            //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n            //main[p] = sec[p];\n            if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                thisFun(main[p], sec[p]);\n            else\n                main[p] = sec[p];\n        }\n        return main;\n    }.bind(this),\n\n    /** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\n    \"callWhenDef\": function callWhenDef(cb, opts, ...varNames) {\n        //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n        if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n            var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n        //check for opts presence\n        if (typeof (opts) == \"string\")\n            varNames.push(opts);\n        let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n        var tout, intv, tmp;\n        //switch context to the one specified in ctx\n        var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n        //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n        //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n        let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n        //try immediately, before doing any work\n        if (varNames.every(name => store.get(name) !== undefined))\n            return wrappedCb()\n        //set timeout unless false or not specified\n        if (timeout) {\n            tout = setTimeout(() => {\n                clearInterval(intv);\n                errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n            }, timeout);\n        }\n        //set store-checking interval\n        intv = setInterval(() => {\n            if (!varNames.every(name => store.get(name) !== undefined))\n                return\n            clearTimeout(tout);\n            clearInterval(intv);\n            wrappedCb();\n        }, retryDelay)\n    },\n    /** pseudo random string generator\n     */\n    \"randomHexString4\": function () {\n        return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1); //1.X * 2^16 toString(radix) clipFirst //== 4 characters hex\n    },\n    /** returns an iterator-maker that uses the keys in orderedKeys to access its parent's properties\n         * @param {string[]} orderedKeys\n         * @returns {function} f() -> iterator object.\n         */\n    \"makeKeyIterator\": function (orderedKeys) {\n        return function () {\n            //console.log(\"2# this\",this); this === parent object\n            let keys = orderedKeys, idx = 0;\n            return {\n                next: () => {\n                    //console.log(this, idx, orderedKeys);\n                    return (idx < keys.length ? { value: this[keys[idx++]], done: false } : { done: true });\n                }\n            }\n        }\n    },\n    /** attach a general iterator going through all the enumerable obj's key.\n        * -Not very memory-performant as a redundant key[] array is stored\n        * @param {object} the object to which attach the iterator\n        * @returns {function} the attached iterator\n        */\n    \"generateIteratorFor\": function (obj) {\n        obj[Symbol.iterator] = this.makeKeyIterator(Object.keys(obj));\n        return obj[Symbol.iterator];\n    },\n    \"errorLog\"(...param) { return this.logError(...param); },\n    \"logError\": function thisFun(nodeRef, err) {\n        if (arguments.length != thisFun.length) throw new SyntaxError(`expected ${thisFun.length} arguments, got ${arguments.length}`);\n        var error = (typeof (err) == \"string\" ? { err: err } : err);\n        nodeRef.error(error);\n    },\n\n    /** the first time the property is accessed the value is calculated calling valueGetter() in obj, and the result is stored in propName_cache.\n        * - Subsequent calls will return propName_cache's value.\n        */\n    \"defineCachedProp\": function defineCachedProp(obj, propName, valueGetter) {\n        if (arguments.length != 3) throw new SyntaxError(\"defineCachedGetter() arguments mismatch\");\n        const propName_cache = propName + \"_cache\";\n\n        Object.defineProperty(obj, propName_cache, { value: undefined, writable: true, configurable: true }); //not enumerable\n        Object.defineProperty(obj, propName, {\n            get() {\n                return this[propName_cache] ?? (this[propName_cache] = valueGetter.call(this, this))\n            },\n            set(v) { this[propName_cache] = v },\n            enumerable: true,\n            configurable: true\n        })\n    },\n    \"removeIdx\": (arr, i) => (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop(),\n    \"removeAllOccurrences\": function (arr, val) {\n        for (let i = 0; i < arr.length; i++)\n            if (arr[i] == val)\n                (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop();\n    },\n\n    \"clone\": function (obj) {\n        return JSON.parse(global.get(thisClassName).safeStringify(obj));\n    },\n\n    \"safeStringify\": function safeStringify(obj, indent) {\n        var cache = [];\n        var cacheKeys = [];\n        return JSON.stringify(obj, (key, value) => {\n            if (typeof value === 'object' && value !== null) { //arrays and null are also \"objects\" //functions are too, but typeof returns \"function\" instead\n                //Duplicate reference found -> discard key / store\n                const idx = cache.indexOf(value)\n                //if duplicate found\n                //return twin's key instead\n                if (idx != -1) //-1 means not present\n                    return \"dupOf_\" + (cacheKeys[idx].toString() ?? \"root\");\n                //else store it\n                else {\n                    cache.push(value);\n                    cacheKeys.push(key);\n                }\n            }\n            return value;\n        }, indent);\n    },\n    /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n         * @param {any} value accepts anything\n         * @returns {boolean}\n         *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n         */\n    \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n        return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n            // it has a prototype that's also truthy\n            !!(value = Object.getPrototypeOf(value)) &&\n            // which has `null` as parent prototype\n            !Object.getPrototypeOf(value);\n    },\n    /** recursively looks up a target object enumerable childrens for properties that would need to be restored after a JSON conversion.\n         * @returns a mask of the original Object containing only the (restored) properties to restore.\n         */\n    \"toRestoreOf\": function toRestoreOf(origin) {\n        //let isPlainObj = global.get(thisClassName).isPlainObj;\n        let needsRecursion = (prop, target) => this.isPlainObj(target?.[prop]) //target is an object and target.prop is an object too\n        let needsRestoration = (prop, target) => {\n            return typeof (target[prop]) === \"function\"// && !node.warn(\"restored \"+prop+\":\"+typeof(target[prop]))\n        }\n        let empty = true; //optimize performance, avoiding recursive Object.keys calls\n        var toRes = {};\n        if (this.isPlainObj(origin))\n            Object.keys(origin).forEach(key => { //#TODO extend to non-enumerables\n                if (origin.toRestore)\n                    toRes[key] = origin.toRestore(origin[key])\n                else if (needsRecursion(key, origin)) {\n                    let tmp = toRestoreOf.call(this, origin[key]);\n                    if (tmp !== null)\n                        toRes[key] = tmp;\n                    // if(Object.keys(toRes[key]).length==0)\n                    //     delete toRes[key];\n                }\n                else if (needsRestoration(key, origin)) { //if is function\n                    toRes[key] = origin[key]\n                } else {\n                    //skip\n                }\n                if (toRes[key])\n                    empty = false;\n                //toRes[key] && node.warn(key+\" set\")\n            })\n        //return Object.keys(target).filter( key => needsRestoration(key, target))\n\n        return empty ? null : toRes;\n    },\n    /** pseudo alias of Object.assign\n        * only ADDS props and keeps the original refs for plain objects.\n        * ex.               {a:4, b:{a1:5, b1:6}},              //target\n        *                        {b:{      b1:\"v\", c1:7}, c:8}  //source\n        *   assign     ->   {a:4, b:{      b1:\"v\", c1:7}, c:8}  //b is a reference to source.b //a1 was lost\n        *   recAssign  ->   {a:4, b:{a1:5, b1:\"v\", c1:7}, c:8}  \n        */\n    \"recAssign\": function recAssign(target, source) {\n        for (let k in source)\n            target[k] = (this.isPlainObj(source[k]) ? recAssign.call(this, target[k] ?? {}, source[k]) : source[k])\n        return target;\n    },\n    /** \n        * \n        */\n    \"inflate\": function (target, source) {\n        let mask = this.toRestoreOf(source) ?? {};\n        return this.recAssign(target, mask);\n    },\n\n    // \"genericInflater\":function inflated(target, origin=this){ //assume target is a mask of origin, meaning origin has AT LEAST all props of target.\n    //     let utils=global.get(thisClassName);\n    //     let hasOwnInflater = targ => targ?.inflated\n    //     let restore = (prop, target, origin) => {\n    //         var tmp;\n    //         if(!(tmp=Object.getOwnPropertyDescriptor(origin, prop).enumerable))\n    //             Object.defineProperty(target,prop,tmp)\n    //         else if(typeof origin[prop]==\"function\")\n    //             target[prop] = origin[prop]\n    //         return target[prop];\n    //     }\n    //     //CHOOSE AN APPROACH: init all missing target vals\n    //     //target can be anything, origin is an object\n    //     //parse origin for all keys that need to be restored on a version of themselves that went throug a JSON.stringify(JSON.parse())\n    //         //set those keys using either an inflater defined by the key or a generic one. Feed the original value to the inflater, or undefined.\n    //     //returns an inflated version of target\n\n    //     let allKeysOf = obj => Object.keys(obj);\n    //     if(utils.isPlainObj(origin))\n    //         for(let k of allKeysOf(origin))\n    //             inflatedTarget[k] = inflated(target?.[k], origin[k])\n\n\n    //     //if is inflatable\n    //     var inflatedTarget={};\n    //     if(utils.isPlainObj(origin)){\n    //         //inflate all keys //#TODO include non-enumerables\n    //         for(let k of origin)\n    //             //use own inflation method //responsible for that key and all its children\n    //             if(hasOwnInflater(origin[k]))\n    //                 inflatedTarget[k] = origin[k].inflated(target?.[k]);\n    //             //recurse\n    //             else if(utils.isPlainObj(origin[k]))\n    //                 inflatedTarget[k] = inflated(target?.[k], origin[k])\n    //             //generic restoration //mutates target[k] if necessary, then returns it\n    //             else\n    //                 inflatedTarget[k] = target?.[k]!==undefined ? restore(k, target, origin)\n    //     }\n    //     else\n    //         return inflatedTarget;\n    // },\n    // /** recursively traverse object children calling the inflate/inflater method on all of them\n    //      * the method is supposed to restore all the properties that would not survive a JSON.parse(JSON.stringify()).\n    //      * restoring a class from its json, or restoring non enumerable properties and functions, for example.\n    //      * NOTE: a parent that implements \"inflate\" or \"inflater\" is responsible for all its children restoration, and \n    //      *       should therefore call the genericInflater() on all properties it chooses to not explicitly handle\n    //      */\n    // \"inflate\"(target){ return global.get(thisClassName).genericInflater.call(this, target) },\n    // \"ggenericInflater\":function inflate(target){\n    //     //looks for and calls inflate() methods for all keys\n    //         //recursing over objects\n    //     for(let k in target){\n    //         //if has inflate method\n    //         if(this && typeof(this[k])==\"object\" && this[k].inflate)\n    //             target[k] = this[k].inflate(target[k]);\n    //         else    //else recurse over object props\n    //             if(typeof(target[k])==\"object\" && this && typeof(this[k])==\"object\")\n    //                 inflate.call(this[k], target[k])\n    //     }\n    //     return target;\n    // },\n\n\n    /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n     *      skip non-function, assign wrapped to their original key\n     *  @param root {Object} the object to parse for functions\n     *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n    \"wrapFunctions\": function wrapFunctions(root, prefix) {\n        prefix ?? node.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n        const isPlainObj = this.isPlainObj;\n        //recursively parse root\n        //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n        let desc;\n        for (let k in root) {\n            if (isPlainObj(root[k]))\n                root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n            else if (//is a simple function, or an arrow function\n                //value of root[k] has type function\n                typeof (root[k]) == \"function\"\n                //root[k] itself is a function, not the result of it's getter call\n                && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                && !desc.get\n            ) {\n                //wrap in an exception catching function\n                //trace errors back to their source, independently of the caller\n                let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                root[k] = function (...args) {\n                    try {\n                        return cb.call(this, ...args)\n                    } catch (e) {\n                        e.nrStack = (e.nrStack ?? []);\n                        e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                        e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                        //node.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                        throw e;\n                    }\n                }\n            }\n        }\n        return root;\n    },\n    \"sortByType\": function sortByType(source, ...types) {\n\n        if (!Array.isArray(source))\n            if (typeof (source) == \"object\") { //assume it's an argument object\n                try {\n                    let tmp = [];\n                    for (var arg of source)\n                        tmp.push(arg);\n                    source = tmp;\n                } catch {\n                    return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n                }\n            }\n            else\n                return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n        if (source.length !== types?.length)\n            return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source lenght doesn't match types[]'s\", source: source, types: types, args: arguments });\n\n        const typedPairs = source.map(item => new Object({ val: item, type: typeof (item) }));\n        let findType = (type) => typedPairs.find(pair => pair.type == type) ?? node.warn({ txt: \"missing param typed \" + type });\n\n        var errors;\n        var ret = [];\n        for (var type of types) {\n            let idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx < 0) {\n                errors ?? (errors = []);\n                errors.push(type);\n                ret.push(null);\n            }\n            else {\n                ret.push(typedPairs[idx]);\n            }\n        }\n        if (errors)\n            node.error({ txt: `global.${thisClassName}.${sortByType.name}(): missing param typed ${errors.length > 1 ? `[${errors}]` : errors[0]}`, args: arguments });\n        return ret;\n    },\n    /** self explaining */\n    \"isSet\": function thisFun(val){\n        return val !== null && val !== undefined;\n    },\n    /** php-like name */\n    \"isset\": function alias(){ return global.get(thisClassName)[\"isSet\"](...arguments);},\n    /** self explaining */\n    \"isNotSet\": function thisFun(val){\n        return val === null || val === undefined;\n    },\n    \"notIsset\": function alias() { return global.get(thisClassName)[\"isNotSet\"](...arguments); },\n    /**\n     * non implementato * /\n    \"logToFile\": () => { },\n    /**\n     * insieme a dbgLevelsMap rappresenta un enum di livelli di debug */\n    \"dbgLevels\": [\"error\",\"warning\", \"debug\", \"verbose\"],\n    //\"dbgLevelsMap\": generated below\n    /*v da testare v* /\n    /**\n     * Stampa un messaggio, con strategie diverse a seconda del tipo e del debugLevel globale.  \n     * Tutti i log dovrebbero passare di qui.  \n     * Gli argomenti vengono riordinati automaticamente. dbgPrint({extra:5},\"messaggio\"), dbgPrint(\"verbose\", \"something happened\") sono tutte chiamate legali\n     * \n     * @param _txt testo messaggio\n     * @param _infoObj campi extra da allegare, oltre a quelli automatici. In caso di clash vince infoObj.\n     * @param _level tipologia messaggio. accetta sia interi che stringhe. gli interi mappano utils.dbgLevels * /\n    \"dbgPrint\": function dbgPrint(_txt, _infoObj, _level) {\n        const utils = global.get(thisClassName);\n        const dbgLevelsMap = utils.dbgLevelsMap;\n\n        //compile-like check: all expected level ids exist\n        utils.assert([\"warning\", \"error\", \"debug\", \"verbose\"].every(key => (utils?.dbgLevelsMap?.[key] ?? null) !== null), \"dpgPrint(): missing one or more expected dbg level\", { exp: [\"warning\", \"error\", \"debug\", \"verbose\"], got: dbgLevelsMap });\n        \n        node.warn({txt:\"args pre sort\",args:{txt:_txt,level:_level,infoObj:_infoObj}})\n\n        //sort arguments, filling them with def vals when necessary\n        let argArray = [_level, _txt, _infoObj];\n        var typedPairs = argArray.map(item => new Object({ val: item, type: typeof (item) }));\n        \n        //pops a value from typedPairs, or returns defVal if nothing matches\n        let popValOfType = (type, defVal) => {\n            var idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx >= 0) {\n                var val = typedPairs[idx].val;\n                utils.removeIdx(typedPairs, idx);\n                return val;\n            }\n            else\n                return defVal;\n        }\n        var txt = popValOfType(\"string\",\"noTxt\");\n        var level = popValOfType(\"number\", null) ?? popValOfType(\"string\", null) ?? dbgLevelsMap[\"debug\"];\n        var infoObj = popValOfType(\"object\", {});\n\n        if(typeof level == \"string\"){\n            //sort txt and type, as they are both strings\n            let validLiterals = [\"warning\", \"warn\", \"error\", \"err\", \"debug\", \"dbg\", \"console\", \"stdout\"];\n            if (txt.length <= 7 && level.length > 7\n                || validLiterals.includes(txt))\n                [level, txt] = [txt, level];\n            //convert to numeric id\n            switch (level) {\n                case \"warning\":\n                case \"warn\":\n                    level = dbgLevelsMap[\"warning\"];\n                    break;\n                case \"error\":\n                case \"err\":\n                    level = dbgLevelsMap[\"error\"];\n                    break;\n                case \"debug\":\n                case \"dbg\":\n                    level = dbgLevelsMap[\"debug\"];\n                    break;\n                case \"verbose\":\n                case \"verb\":\n                    level = dbgLevelsMap[\"verbose\"];\n                    break;\n                default:\n                    node.error(\"error\", \"unknown log level: \" + level);//, { valid: validLiterals, got: level, args: arguments });\n                    break;\n            }\n        }\n\n        node.warn({ txt: \"args post sort\", args: { txt: txt, level: level, infoObj: infoObj } });\n\n        //define log vars\n        if (true || level <= global.get(\"dbgLevel\")){\n            //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/caller\n            var fName;\n            try { fName = dbgPrint.caller; } catch { fName = \"unreadable\" }\n            var nodeJsStack;\n            try { nodeJsStack = new Error().stack } catch { nodeJsStack = \"unreadable\" }\n            //default logging strategy\n            let defEditorLog = (logger) => logger.call(this,\n                utils.mergeRec({\n                    txt: txt,\n                    n: this.node.name,\n                    auto: {\n                        f: fName,\n                        id: this.node.id,\n                        _this: this,\n                        nodeJsStack: nodeJsStack\n                    }\n                }, infoObj));\n            node.warn({ txt: \"context\", ctx: [Object.getOwnPropertyNames(dbgPrint.caller).map(name => name + \":\" + dbgPrint.caller[name]), Object.getOwnPropertyNames(arguments.callee).map(name => name + \":\" + arguments.callee[name])]});\n            //pick logging strategy\n            switch (level) {\n                case dbgLevelsMap[\"warning\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"error\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"debug\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"verbose\"]:\n                    defEditorLog(this.warn);\n                    break;\n                default:\n                    node.error(\"unknown log level \" + level);\n                    break;\n            }\n        }\n\n    },\n\n    \"assert\": function assert(isOk, cb = \"assertion failed\", infoObj = {}) {\n        if (!global.get(\"isDbgMode\"))\n            return true;\n        if (typeof (isOk) == \"function\")\n            isOk = isOk();\n        if (!isOk)\n            if (typeof (cb) == \"function\")\n                // @ts-ignore\n                cb();\n            else\n                node.error(global.get(thisClassName).mergeRec({txt:cb},infoObj));\n                //global.get(thisClassName).dbgPrint(\"error\", cb, infoObj);\n        return isOk\n    },\n\n\n    \"pushGlobalClassInfo\": function pushGlobalClass(_class, name = null) {\n        if (global.get(\"isDbgMode\")) {\n            const utils = global.get(thisClassName);\n\n            name ?? _class.name;\n            utils.assert(typeof (_class) == \"function\", \"arg for class \" + name + \" is not a class\", { _class: _class });\n            utils.assert(typeof (name) == \"string\", \"type mismatch for arg 'name'. expected string, got \" + typeof (name));\n\n            if (!global.get(\"classesCheatSheet\"))\n                global.set(\"classesCheatSheet\", {});\n\n            let cs = global.get(\"classesCheatSheet\");\n            var methods = {};\n            var props = {};\n            for (var propName of Object.getOwnPropertyNames(_class)) {\n                if (typeof (_class[propName] == \"function\"))\n                    methods[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n                else\n                    props[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n            }\n            cs[name] = {\n                \"name\": _class.name,\n                \"methods\": methods,\n                \"props\": props\n            }\n        }\n    }\n    /*^ da testare ^*/\n};\n\ndef.dbgLevelsMap = (() => { var tmp = {}; def.dbgLevels.forEach((name, i) => tmp[name] = i); return tmp; })()\n\n\n\n\ndef.wrapFunctions(def, \"[\" + thisClassName + \"]\");\nglobal.set(thisClassName, def);\nnode.send(def);\nnode.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n",
         "finalize": "",
         "libs": [],
         "x": 255,
@@ -7445,7 +7527,7 @@
         "checkall": "false",
         "repair": true,
         "outputs": 4,
-        "x": 1100,
+        "x": 1150,
         "y": 600,
         "wires": [
             [
@@ -7479,7 +7561,8 @@
         "wires": [
             [
                 "bf7a7388b5301e71",
-                "fad7e78f46d1c5dc"
+                "fad7e78f46d1c5dc",
+                "a649d4fecb2ca56a"
             ]
         ]
     },
@@ -7500,7 +7583,8 @@
         "wires": [
             [
                 "ad642f1caae66ae0",
-                "fad7e78f46d1c5dc"
+                "fad7e78f46d1c5dc",
+                "4ca48d54d222612f"
             ]
         ]
     },
@@ -7521,7 +7605,8 @@
         "wires": [
             [
                 "94522e8fcaf7234f",
-                "fad7e78f46d1c5dc"
+                "fad7e78f46d1c5dc",
+                "12bdad34026ac79d"
             ]
         ]
     },
@@ -7572,8 +7657,8 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "\"[]\"",
-                "tot": "str"
+                "to": "[]",
+                "tot": "json"
             }
         ],
         "action": "",
@@ -7581,11 +7666,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 940,
+        "x": 920,
         "y": 600,
         "wires": [
             [
-                "6fbb1b9edbfec062"
+                "c141b9aa3a1d6d25"
             ]
         ]
     },
@@ -9693,8 +9778,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1610,
-        "y": 585,
+        "x": 1630,
+        "y": 680,
         "wires": [
             []
         ]
@@ -10272,6 +10357,78 @@
         "y": 3480,
         "wires": [],
         "l": true
+    },
+    {
+        "id": "c141b9aa3a1d6d25",
+        "type": "json",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "",
+        "property": "payload",
+        "action": "str",
+        "pretty": false,
+        "x": 1035,
+        "y": 600,
+        "wires": [
+            [
+                "6fbb1b9edbfec062"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "12bdad34026ac79d",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "generated queue.json",
+        "active": true,
+        "tosidebar": false,
+        "console": true,
+        "tostatus": false,
+        "complete": "{\"txt\":\"generated queue.json\",\t\"content\":payload}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1650,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "4ca48d54d222612f",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "generated completed.json",
+        "active": true,
+        "tosidebar": false,
+        "console": true,
+        "tostatus": false,
+        "complete": "{\"txt\":\"generated completed.json\",\t\"content\":payload}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1680,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "a649d4fecb2ca56a",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "588342109c719d84",
+        "name": "generated history.json",
+        "active": true,
+        "tosidebar": false,
+        "console": true,
+        "tostatus": false,
+        "complete": "{\"txt\":\"generated history.json\",\t\"content\":payload}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1650,
+        "y": 580,
+        "wires": []
     },
     {
         "id": "a848fb1dfb6e367c",
@@ -13332,7 +13489,8 @@
         "wires": [
             [
                 "9aac6231207dd902",
-                "13c1fa98c29f8f81"
+                "13c1fa98c29f8f81",
+                "5f026d8f174deb29"
             ]
         ]
     },
@@ -13748,6 +13906,24 @@
         ]
     },
     {
+        "id": "5f026d8f174deb29",
+        "type": "debug",
+        "z": "69a590bb3eaafea5",
+        "g": "9c7714b3475b1f2b",
+        "name": "generated uiConfig",
+        "active": true,
+        "tosidebar": false,
+        "console": true,
+        "tostatus": false,
+        "complete": "{\"txt\":\"generated uiConfig.json\",\t\"content\":payload}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1360,
+        "y": 380,
+        "wires": []
+    },
+    {
         "id": "b0cd0777fbffd034",
         "type": "catch",
         "z": "9922a8114f46702b",
@@ -13772,9 +13948,9 @@
         "mode": "all",
         "variable": "exc_id",
         "diff": false,
-        "name": "ifDiff -> all status 10s",
-        "x": 1595,
-        "y": 1835,
+        "name": "ifDiff -> all status 60s",
+        "x": 1600,
+        "y": 1840,
         "wires": [
             [
                 "17ccce6813bb1513"
@@ -13787,7 +13963,7 @@
         "z": "9922a8114f46702b",
         "g": "e2bd9331f9185534",
         "name": "pressa1 allStatus pressa1 ",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -13795,8 +13971,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1970,
-        "y": 1790,
+        "x": 1965,
+        "y": 1795,
         "wires": []
     },
     {
@@ -13805,17 +13981,17 @@
         "z": "9922a8114f46702b",
         "g": "e2bd9331f9185534",
         "name": "split with topic:varName",
-        "func": "\nlet keys=Object.keys(msg.payload);\n//node.warn(keys);\n    //from status_alife:true   to {topic:alife, payload:true}\nlet out=[];\nfor(let k of keys){\n    node.send({\n        topic:k.match(/\\w+_(.+)/)[1],\n        payload:msg.payload[k],\n    })\n    //out.push({\n    //     topic: k.match(/\\w+_(.+)/)[1],\n    //    payload: msg.payload[k],\n    //});\n}\n\n//node.warn(out);\nreturn null;",
+        "func": "\nlet keys=Object.keys(msg.payload);\n//node.warn(keys);\n    //from status_alife:true   to {topic:alife, payload:true}\nlet out=[];\nfor(let k of keys){\n    node.send({\n        topic:k.split('_')[1],\n        payload:msg.payload[k],\n    });\n    // out.push({\n    //     txt:\"spitting s7 vars\",\n    //     extracted: k.match(/\\w+_(.+)/)[1],\n    //     from: k.match(/\\w+_(.+)/),\n    //     withVal: msg.payload[k],\n    //     full:msg\n    // });\n}\n\n//node.warn({txt:\"splitted res\",res:out});\nreturn null;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1945,
-        "y": 1835,
+        "x": 1940,
+        "y": 1840,
         "wires": [
             [
-                "f496db4601480ad7"
+                "9d91f8e564086ea1"
             ]
         ]
     },
@@ -14114,7 +14290,7 @@
         "z": "9922a8114f46702b",
         "g": "408c86b39f332966",
         "name": "parse status",
-        "func": "\nfunction isLost(status) {\n    return status.fill == \"red\";\n}\n\nfunction isWarn(status){\n    return status.fill == \"orange\";\n}\n\nfunction isOk(status) {\n    return status.fill == \"green\"; //!isWarn(status) && !isLost(status);\n}\n\n\nif(msg.origin==\"prodExc\")\n    context.set(\"prodExc\", msg.status)\nelse\n    context.set(\"status\", msg.status)\nvar status = context.get(\"status\");\nvar prodExc= context.get(\"prodExc\");\n//node.warn({pr:prodExc,st:status});\n\nif (isLost(status) || isLost(prodExc)) {\n    msg.payload=false;\n    return msg;\n}\nelse if (isLost(status) || isLost(prodExc)) {\n    msg.payload = \"warn\";\n    return msg;\n}\nelse if(isOk(status) && isOk(prodExc)){\n    msg.payload = true;\n    return msg;\n}\nelse\n    return //do nothing\n",
+        "func": "const utils=global.get(\"utils\");\n\nfunction isLost(status) {\n    if (global.get(\"utils\").isNotSet(\"status\")) throw new Error(\"[isLost()] status can't be null\");\n    return status.fill == \"red\";\n}\n\nfunction isWarn(status){\n    if (global.get(\"utils\").isNotSet(\"status\")) throw new Error(\"[isWarn()] status can't be null\");\n    return status.fill == \"orange\";\n}\n\nfunction isOk(status) {\n    if (global.get(\"utils\").isNotSet(\"status\")) throw new Error(\"[isOk()] status can't be null\");\n    return status.fill == \"green\"; //!isWarn(status) && !isLost(status);\n}\n\nif(!(msg?.status?.fill ?? false)){\n    return node.warn({txt:\"missing status or fill\",full:msg,stat:msg.status,fill:msg.status.fill});\n}\nelse{\n    //update context\n    if(msg.origin==\"prodExc\")\n        context.set(\"prodExc\", msg.status)\n    else\n        context.set(\"status\", msg.status)\n\n    var status = context.get(\"status\") ?? {fill:\"red\"};\n    var prodExc= context.get(\"prodExc\") ?? {fill:\"red\"};\n\n\n    if (isLost(status) || isLost(prodExc)) {\n        msg.payload=false;\n        return msg;\n    }\n    else if (isLost(status) || isLost(prodExc)) {\n        msg.payload = \"warn\";\n        return msg;\n    }\n    else if(isOk(status) && isOk(prodExc)){\n        msg.payload = true;\n        return msg;\n    }\n    else\n        return //do nothing\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -14292,8 +14468,8 @@
         "g": "e2bd9331f9185534",
         "name": "poll status pressa1",
         "info": "",
-        "x": 1580,
-        "y": 1790,
+        "x": 1575,
+        "y": 1795,
         "wires": []
     },
     {
@@ -15634,8 +15810,8 @@
             "616b4fb31ab7fe25",
             "9890c53475b90fa6"
         ],
-        "x": 2210,
-        "y": 1835,
+        "x": 2430,
+        "y": 1840,
         "wires": [],
         "l": true
     },
@@ -15751,8 +15927,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 1,
-        "x": 1755,
-        "y": 1835,
+        "x": 1750,
+        "y": 1840,
         "wires": [
             [
                 "d1dbf0ba787aaf87",
@@ -15772,8 +15948,8 @@
             "46c2b8c68937078c",
             "dfb6b94f3d572af5"
         ],
-        "x": 1595,
-        "y": 1880,
+        "x": 1590,
+        "y": 1885,
         "wires": [
             [
                 "17ccce6813bb1513"
@@ -16861,8 +17037,8 @@
         "g": "e2bd9331f9185534",
         "name": "(senza prefisso status_)",
         "info": "",
-        "x": 1955,
-        "y": 1860,
+        "x": 1950,
+        "y": 1865,
         "wires": []
     },
     {
@@ -16890,7 +17066,7 @@
         "z": "9922a8114f46702b",
         "g": "b2f2e2e832b5442a",
         "name": "QueryDB AllProdExc",
-        "func": "const db = global.get(\"db\");\nconst query = context.get(\"query\") ?? (()=>{throw new Error(\"undefined prop 'query' in node.context\")})()\nconst s7Vars = msg.payload ?? node.error(\"no s7 var to merge\") ?? {};\n\n//ottieni dati e converti nella forma del vecchio progetto\ndb.attachQuery(query, msg);\nmsg.formatCb = function(msg){\n    let qRes = msg.payload;\n    //check query is success\n    if(!qRes || !qRes.length || msg.error)\n        node.error(\"db query failed or empty result\", msg);\n    \n    //from type RowDataPacket to normal object\n    msg.payload = {};\n    for (var [key, val] of Object.entries(qRes[0]))\n      msg.payload[key] = val;\n\n    //merge s7 vars on top //(only cycleRun)\n    for (var [key, val] of Object.entries(s7Vars))\n        msg.payload[key] = val;\n    \n    delete msg.formatCb;\n    return msg;\n}\n\nreturn msg;\n\n\n/*\nSELECT\n  p.CYCLE_NUMBER AS prod_CYCLE_NUMBER,\n  p.ORDER_ID AS prod_ORDER_ID,\n  p.BEGIN_TIME AS prod_BEGIN_TIME,\n  p.END_TIME AS prod_END_TIME,\n  p.QUANT_PROD AS prod_QUANT_PROD,\n  p.ESITO AS prod_ESITO,\n\n  exc.ORDER_ID AS exc_ORDER_ID,\n  exc.STATUS AS exc_STATUS,\n  exc.QUANT_TO_DO AS exc_QUANT_TO_DO,\n  exc.QUANT_PROD AS exc_QUANT_PROD\nFROM\n  (\n    SELECT\n      *\n    FROM\n      oven.italmatic_production\n    WHERE\n      CYCLE_NUMBER = (\n        SELECT\n          MAX(CYCLE_NUMBER)\n        FROM\n          oven.italmatic_production\n      )\n  ) AS p\n  LEFT JOIN oven.italmatic_exchange AS exc ON exc.ORDER_ID = p.ORDER_ID\n\n*/",
+        "func": "const db = global.get(\"db\");\nconst query = context.get(\"query\") ?? (()=>{throw new Error(\"undefined prop 'query' in node.context\")})()\nconst s7Vars = msg.payload ?? node.error(\"no s7 var to merge\") ?? {};\n\n//ottieni dati e converti nella forma del vecchio progetto\ndb.attachQuery(query, msg);\nmsg.formatCb = function(msg){\n    let qRes = msg.payload;\n    //check query is success\n    if(!qRes || msg.error)\n      return node.error(\"db query failed or empty result\", msg);\n    else if (!qRes.length )\n      node.warn({txt:\"db select query res was empty\",full:msg});\n\n    //from type RowDataPacket to normal object\n    msg.payload = {};\n    for (var [key, val] of Object.entries(qRes?.[0] ?? {}))\n      msg.payload[key] = val;\n\n    //merge s7 vars on top //(only cycleRun)\n    for (var [key, val] of Object.entries(s7Vars))\n        msg.payload[key] = val;\n    \n    delete msg.formatCb;\n    return msg;\n}\n\nreturn msg;\n\n\n/*\nSELECT\n  p.CYCLE_NUMBER AS prod_CYCLE_NUMBER,\n  p.ORDER_ID AS prod_ORDER_ID,\n  p.BEGIN_TIME AS prod_BEGIN_TIME,\n  p.END_TIME AS prod_END_TIME,\n  p.QUANT_PROD AS prod_QUANT_PROD,\n  p.ESITO AS prod_ESITO,\n\n  exc.ORDER_ID AS exc_ORDER_ID,\n  exc.STATUS AS exc_STATUS,\n  exc.QUANT_TO_DO AS exc_QUANT_TO_DO,\n  exc.QUANT_PROD AS exc_QUANT_PROD\nFROM\n  (\n    SELECT\n      *\n    FROM\n      oven.italmatic_production\n    WHERE\n      CYCLE_NUMBER = (\n        SELECT\n          MAX(CYCLE_NUMBER)\n        FROM\n          oven.italmatic_production\n      )\n  ) AS p\n  LEFT JOIN oven.italmatic_exchange AS exc ON exc.ORDER_ID = p.ORDER_ID\n\n*/",
         "outputs": 1,
         "noerr": 0,
         "initialize": "let ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\n\n//mappa di conversione da nomi DB a nomi s7 del progetto quadripressa\n    //non serve piu, ma potrebbe tornare utile\nlet prodPrefix = \"prod_\";\nlet _prodMap = ctxGet(\"prodMap\", {\n    \"CYCLE_NUMBER\": \"prod_cycleNumber\",\n    \"ORDER_ID\": \"prod_id\",\n    \"BEGIN_TIME\": \"prod_startTime\",\n    \"END_TIME\": \"prod_endTime\",\n    \"QUANT_PROD\": \"prod_quantProd\",\n    \"ESITO\": \"prod_esito\"\n});\n\n//mappa di conversione da nomi DB a nomi s7 del progetto quadripressa\nlet excPrefix = \"exc_\";\nlet _excMap = ctxGet(\"excMap\", {\n    \"ORDER_ID\": \"exc_id\",\n    \"STATUS\": \"exc_status\",\n    \"QUANT_TO_DO\": \"exc_quantToDo\",\n    \"QUANT_PROD\": \"exc_quantProd\",\n});\n\n\nlet _query = ctxGet(\"query\", `\nSELECT\n  p.CYCLE_NUMBER AS ${_prodMap[\"CYCLE_NUMBER\"]},\n  p.ORDER_ID AS ${_prodMap[\"ORDER_ID\"]},\n  p.BEGIN_TIME AS ${_prodMap[\"BEGIN_TIME\"]},\n  p.END_TIME AS ${_prodMap[\"END_TIME\"]},\n  p.QUANT_PROD AS ${_prodMap[\"QUANT_PROD\"]},\n  p.ESITO AS ${_prodMap[\"ESITO\"]},\n\n  exc.ORDER_ID AS ${_excMap[\"ORDER_ID\"]},\n  exc.STATUS AS ${_excMap[\"STATUS\"]},\n  exc.QUANT_TO_DO AS ${_excMap[\"QUANT_TO_DO\"]},\n  exc.QUANT_PROD AS ${_excMap[\"QUANT_PROD\"]}\nFROM\n  (\n    SELECT\n      *\n    FROM\n      oven.italmatic_production\n    WHERE\n      CYCLE_NUMBER = (\n        SELECT\n          MAX(CYCLE_NUMBER)\n        FROM\n          oven.italmatic_production\n      )\n  ) AS p\n  LEFT JOIN oven.italmatic_exchange AS exc ON exc.ORDER_ID = p.ORDER_ID\n`);\n\n/*\nSELECT\n  p.CYCLE_NUMBER AS prod_CYCLE_NUMBER,\n  p.ORDER_ID AS prod_ORDER_ID,\n  p.BEGIN_TIME AS prod_BEGIN_TIME,\n  p.END_TIME AS prod_END_TIME,\n  p.QUANT_PROD AS prod_QUANT_PROD,\n  p.ESITO AS prod_ESITO,\n\n  exc.ORDER_ID AS exc_ORDER_ID,\n  exc.STATUS AS exc_STATUS,\n  exc.QUANT_TO_DO AS exc_QUANT_TO_DO,\n  exc.QUANT_PROD AS exc_QUANT_PROD\nFROM\n  (\n    SELECT\n      *\n    FROM\n      oven.italmatic_production\n    WHERE\n      CYCLE_NUMBER = (\n        SELECT\n          MAX(CYCLE_NUMBER)\n        FROM\n          oven.italmatic_production\n      )\n  ) AS p\n  LEFT JOIN oven.italmatic_exchange AS exc ON exc.ORDER_ID = p.ORDER_ID\n\n*/",
@@ -16929,7 +17105,7 @@
         "z": "9922a8114f46702b",
         "g": "b2f2e2e832b5442a",
         "name": "merge",
-        "func": "return msg.formatCb(msg);",
+        "func": "return msg?.formatCb(msg) ?? node.error({txt:\"missing formatCb\",full:msg},msg);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({fill:\"grey\",shape:\"ring\",text:\"...\"});",
@@ -17296,6 +17472,26 @@
         "x": 565,
         "y": 2460,
         "wires": []
+    },
+    {
+        "id": "9d91f8e564086ea1",
+        "type": "function",
+        "z": "9922a8114f46702b",
+        "g": "e2bd9331f9185534",
+        "name": "map to old names",
+        "func": "let ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\n\nlet map = ctxGet(\"newToOldMap\",{\n    \"temperaturaPianoSuperiore\":\"tempPianoSup\"\n})\n\nif(map[msg.topic] !== undefined){\n    msg.topic = map[msg.topic];\n}\nelse{\n    if(ctxGet(\"dbg_unmapped\",{\n            \"alife\": true,\n            \"emergency\": true,\n            \"cycleActive\": true,\n            \"setpointTemp\": true,\n            \"setpointPress\": true,\n            \"pressPressata\": true,\n            \"idPressa\": true,\n        })[msg.topic] === undefined){\n        node.warn({ txt: \"unmapped varname. Missing update?\", varName: msg.topic, unmapped: context.get(\"dbg_unmapped\"), full:msg});\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2190,
+        "y": 1840,
+        "wires": [
+            [
+                "f496db4601480ad7"
+            ]
+        ]
     },
     {
         "id": "109d34b4b47bf77a",
@@ -18223,7 +18419,7 @@
         "func": "//look into onStart tab",
         "outputs": 1,
         "noerr": 0,
-        "initialize": "\nnode.status({ fill: \"yellow\", text: \"waiting deps\" });\nlet thisClassName = \"db\"; //mysql is somehow a reserved key, and does not get added to globals..\nlet self = ()=>global.get(thisClassName);\n\nlet sqlString = getSqlString();\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    let def = {\n        \"connCfg\":{\n            username:\"nodered_client\",\n            database:\"oven\",\n            host:\"192.168.33.44\",\n            port: 3306,\n            password:\"Luca140583\",\n        },\n        /** @summary \n            *  @desc \n            * @param {string} query valid mysql string\n            * @param {Object} msg the source msg object to use\n            * @param {function} onErr the cb fucntion that will be called if the query fails\n            */\n        \"attachQuery\": function (queryStr, msg = new Object(), onSqlErr = null) {\n            if (typeof (queryStr) != \"string\")\n                throw \"Argument Type Mismatch: query string vs \" + typeof (queryStr);\n            //copia tutto da connCfg (senza sovrascrivere)\n            let connCfg = global.get(thisClassName).connCfg;\n            for(var [key, val] of Object.entries(connCfg))\n                if(msg[key] === undefined)\n                    msg[key] = connCfg[key];            \n            //allega query\n            msg.sql = queryStr;\n            msg.onSqlErr = onSqlErr;\n            return msg;\n        },\n        /** easier to use sqlString.format() to build the whole query */\n        \"sanitize\": function sanitize(str){\n            global.get(thisClassName).sqlString.escape(str);\n        },\n        /** brute copy from https://www.npmjs.com/package/sqlstring?activeTab=readme\n         *  basic sanitizing and formatting for sql strings */\n        \"sqlString\": sqlString,\n    };\n\n    utils.wrapFunctions(def, \"[global.\"+thisClassName+\"]\");\n\n    global.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n});\n\n\n\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n    *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n    * @param {function} cb called once ALL globalName are defined\n    * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n    * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n    * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n    * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n    * @param  {...any} varNames series of strings\n    */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}\n\n\n//####################################################################################################\n\n//https://www.npmjs.com/package/sqlstring?activeTab=readme\nfunction getSqlString(){\n    var SqlString = {};\n\n    var ID_GLOBAL_REGEXP = /`/g;\n    var QUAL_GLOBAL_REGEXP = /\\./g;\n    var CHARS_GLOBAL_REGEXP = /[\\0\\b\\t\\n\\r\\x1a\\\"\\'\\\\]/g; // eslint-disable-line no-control-regex\n    var CHARS_ESCAPE_MAP = {\n        '\\0': '\\\\0',\n        '\\b': '\\\\b',\n        '\\t': '\\\\t',\n        '\\n': '\\\\n',\n        '\\r': '\\\\r',\n        '\\x1a': '\\\\Z',\n        '\"': '\\\\\"',\n        '\\'': '\\\\\\'',\n        '\\\\': '\\\\\\\\'\n    };\n\n    SqlString.escapeId = function escapeId(val, forbidQualified) {\n        if (Array.isArray(val)) {\n            var sql = '';\n\n            for (var i = 0; i < val.length; i++) {\n                sql += (i === 0 ? '' : ', ') + SqlString.escapeId(val[i], forbidQualified);\n            }\n\n            return sql;\n        } else if (forbidQualified) {\n            return '`' + String(val).replace(ID_GLOBAL_REGEXP, '``') + '`';\n        } else {\n            return '`' + String(val).replace(ID_GLOBAL_REGEXP, '``').replace(QUAL_GLOBAL_REGEXP, '`.`') + '`';\n        }\n    };\n\n    SqlString.escape = function escape(val, stringifyObjects, timeZone) {\n        if (val === undefined || val === null) {\n            return 'NULL';\n        }\n\n        switch (typeof val) {\n            case 'boolean': return (val) ? 'true' : 'false';\n            case 'number': return val + '';\n            case 'object':\n                if (Object.prototype.toString.call(val) === '[object Date]') {\n                    return SqlString.dateToString(val, timeZone || 'local');\n                } else if (Array.isArray(val)) {\n                    return SqlString.arrayToList(val, timeZone);\n                } else if (Buffer.isBuffer(val)) {\n                    return SqlString.bufferToString(val);\n                } else if (typeof val.toSqlString === 'function') {\n                    return String(val.toSqlString());\n                } else if (stringifyObjects) {\n                    return escapeString(val.toString());\n                } else {\n                    return SqlString.objectToValues(val, timeZone);\n                }\n            default: return escapeString(val);\n        }\n    };\n\n    SqlString.arrayToList = function arrayToList(array, timeZone) {\n        var sql = '';\n\n        for (var i = 0; i < array.length; i++) {\n            var val = array[i];\n\n            if (Array.isArray(val)) {\n                sql += (i === 0 ? '' : ', ') + '(' + SqlString.arrayToList(val, timeZone) + ')';\n            } else {\n                sql += (i === 0 ? '' : ', ') + SqlString.escape(val, true, timeZone);\n            }\n        }\n\n        return sql;\n    };\n\n    SqlString.format = function format(sql, values, stringifyObjects, timeZone) {\n        if (values == null) {\n            return sql;\n        }\n\n        if (!Array.isArray(values)) {\n            values = [values];\n        }\n\n        var chunkIndex = 0;\n        var placeholdersRegex = /\\?+/g;\n        var result = '';\n        var valuesIndex = 0;\n        var match;\n\n        while (valuesIndex < values.length && (match = placeholdersRegex.exec(sql))) {\n            var len = match[0].length;\n\n            if (len > 2) {\n                continue;\n            }\n\n            var value = len === 2\n                ? SqlString.escapeId(values[valuesIndex])\n                : SqlString.escape(values[valuesIndex], stringifyObjects, timeZone);\n\n            result += sql.slice(chunkIndex, match.index) + value;\n            chunkIndex = placeholdersRegex.lastIndex;\n            valuesIndex++;\n        }\n\n        if (chunkIndex === 0) {\n            // Nothing was replaced\n            return sql;\n        }\n\n        if (chunkIndex < sql.length) {\n            return result + sql.slice(chunkIndex);\n        }\n\n        return result;\n    };\n\n    SqlString.dateToString = function dateToString(date, timeZone = \"local\") {\n        var dt = new Date(date);\n\n        if (isNaN(dt.getTime())) {\n            return 'NULL';\n        }\n\n        var year;\n        var month;\n        var day;\n        var hour;\n        var minute;\n        var second;\n        var millisecond;\n\n        if (timeZone === 'local') {\n            year = dt.getFullYear();\n            month = dt.getMonth() + 1;\n            day = dt.getDate();\n            hour = dt.getHours();\n            minute = dt.getMinutes();\n            second = dt.getSeconds();\n            millisecond = dt.getMilliseconds();\n        } else {\n            var tz = convertTimezone(timeZone);\n\n            if (tz !== false && tz !== 0) {\n                dt.setTime(dt.getTime() + (tz * 60000));\n            }\n\n            year = dt.getUTCFullYear();\n            month = dt.getUTCMonth() + 1;\n            day = dt.getUTCDate();\n            hour = dt.getUTCHours();\n            minute = dt.getUTCMinutes();\n            second = dt.getUTCSeconds();\n            millisecond = dt.getUTCMilliseconds();\n        }\n\n        // YYYY-MM-DD HH:mm:ss.mmm\n        var str = zeroPad(year, 4) + '-' + zeroPad(month, 2) + '-' + zeroPad(day, 2) + ' ' +\n            zeroPad(hour, 2) + ':' + zeroPad(minute, 2) + ':' + zeroPad(second, 2) + '.' +\n            zeroPad(millisecond, 3);\n\n        return escapeString(str);\n    };\n\n    SqlString.bufferToString = function bufferToString(buffer) {\n        return 'X' + escapeString(buffer.toString('hex'));\n    };\n\n    SqlString.objectToValues = function objectToValues(object, timeZone) {\n        var sql = '';\n\n        for (var key in object) {\n            var val = object[key];\n\n            if (typeof val === 'function') {\n                continue;\n            }\n\n            sql += (sql.length === 0 ? '' : ', ') + SqlString.escapeId(key) + ' = ' + SqlString.escape(val, true, timeZone);\n        }\n\n        return sql;\n    };\n\n    SqlString.raw = function raw(sql) {\n        if (typeof sql !== 'string') {\n            throw new TypeError('argument sql must be a string');\n        }\n\n        return {\n            toSqlString: function toSqlString() { return sql; }\n        };\n    };\n\n    function escapeString(val) {\n        var chunkIndex = CHARS_GLOBAL_REGEXP.lastIndex = 0;\n        var escapedVal = '';\n        var match;\n\n        while ((match = CHARS_GLOBAL_REGEXP.exec(val))) {\n            escapedVal += val.slice(chunkIndex, match.index) + CHARS_ESCAPE_MAP[match[0]];\n            chunkIndex = CHARS_GLOBAL_REGEXP.lastIndex;\n        }\n\n        if (chunkIndex === 0) {\n            // Nothing was escaped\n            return \"'\" + val + \"'\";\n        }\n\n        if (chunkIndex < val.length) {\n            return \"'\" + escapedVal + val.slice(chunkIndex) + \"'\";\n        }\n\n        return \"'\" + escapedVal + \"'\";\n    }\n\n    function zeroPad(number, length) {\n        number = number.toString();\n        while (number.length < length) {\n            number = '0' + number;\n        }\n\n        return number;\n    }\n\n    function convertTimezone(tz) {\n        if (tz === 'Z') {\n            return 0;\n        }\n\n        var m = tz.match(/([\\+\\-\\s])(\\d\\d):?(\\d\\d)?/);\n        if (m) {\n            return (m[1] === '-' ? -1 : 1) * (parseInt(m[2], 10) + ((m[3] ? parseInt(m[3], 10) : 0) / 60)) * 60;\n        }\n        return false;\n    }\n\n    return SqlString;\n}\n\n",
+        "initialize": "\nnode.status({ fill: \"yellow\", text: \"waiting deps\" });\nlet thisClassName = \"db\"; //mysql is somehow a reserved key, and does not get added to globals..\nlet self = ()=>global.get(thisClassName);\n\nlet sqlString = getSqlString();\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    let def = {\n        \"connCfg\":{\n            username:\"nodered_client\",\n            database:\"oven\",\n            host:\"localhost\",\n            port: 3306,\n            password:\"Luca140583\",\n        },\n        /** @summary \n            *  @desc \n            * @param {string} query valid mysql string\n            * @param {Object} msg the source msg object to use\n            * @param {function} onErr the cb fucntion that will be called if the query fails\n            */\n        \"attachQuery\": function (queryStr, msg = new Object(), onSqlErr = null) {\n            if (typeof (queryStr) != \"string\")\n                throw \"Argument Type Mismatch: query string vs \" + typeof (queryStr);\n            //copia tutto da connCfg (senza sovrascrivere)\n            let connCfg = global.get(thisClassName).connCfg;\n            for(var [key, val] of Object.entries(connCfg))\n                if(msg[key] === undefined)\n                    msg[key] = connCfg[key];            \n            //allega query\n            msg.sql = queryStr;\n            msg.onSqlErr = onSqlErr;\n            return msg;\n        },\n        /** easier to use sqlString.format() to build the whole query */\n        \"sanitize\": function sanitize(str){\n            global.get(thisClassName).sqlString.escape(str);\n        },\n        /** brute copy from https://www.npmjs.com/package/sqlstring?activeTab=readme\n         *  basic sanitizing and formatting for sql strings */\n        \"sqlString\": sqlString,\n    };\n\n    utils.wrapFunctions(def, \"[global.\"+thisClassName+\"]\");\n\n    global.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n});\n\n\n\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n    *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n    * @param {function} cb called once ALL globalName are defined\n    * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n    * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n    * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n    * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n    * @param  {...any} varNames series of strings\n    */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}\n\n\n//####################################################################################################\n\n//https://www.npmjs.com/package/sqlstring?activeTab=readme\nfunction getSqlString(){\n    var SqlString = {};\n\n    var ID_GLOBAL_REGEXP = /`/g;\n    var QUAL_GLOBAL_REGEXP = /\\./g;\n    var CHARS_GLOBAL_REGEXP = /[\\0\\b\\t\\n\\r\\x1a\\\"\\'\\\\]/g; // eslint-disable-line no-control-regex\n    var CHARS_ESCAPE_MAP = {\n        '\\0': '\\\\0',\n        '\\b': '\\\\b',\n        '\\t': '\\\\t',\n        '\\n': '\\\\n',\n        '\\r': '\\\\r',\n        '\\x1a': '\\\\Z',\n        '\"': '\\\\\"',\n        '\\'': '\\\\\\'',\n        '\\\\': '\\\\\\\\'\n    };\n\n    SqlString.escapeId = function escapeId(val, forbidQualified) {\n        if (Array.isArray(val)) {\n            var sql = '';\n\n            for (var i = 0; i < val.length; i++) {\n                sql += (i === 0 ? '' : ', ') + SqlString.escapeId(val[i], forbidQualified);\n            }\n\n            return sql;\n        } else if (forbidQualified) {\n            return '`' + String(val).replace(ID_GLOBAL_REGEXP, '``') + '`';\n        } else {\n            return '`' + String(val).replace(ID_GLOBAL_REGEXP, '``').replace(QUAL_GLOBAL_REGEXP, '`.`') + '`';\n        }\n    };\n\n    SqlString.escape = function escape(val, stringifyObjects, timeZone) {\n        if (val === undefined || val === null) {\n            return 'NULL';\n        }\n\n        switch (typeof val) {\n            case 'boolean': return (val) ? 'true' : 'false';\n            case 'number': return val + '';\n            case 'object':\n                if (Object.prototype.toString.call(val) === '[object Date]') {\n                    return SqlString.dateToString(val, timeZone || 'local');\n                } else if (Array.isArray(val)) {\n                    return SqlString.arrayToList(val, timeZone);\n                } else if (Buffer.isBuffer(val)) {\n                    return SqlString.bufferToString(val);\n                } else if (typeof val.toSqlString === 'function') {\n                    return String(val.toSqlString());\n                } else if (stringifyObjects) {\n                    return escapeString(val.toString());\n                } else {\n                    return SqlString.objectToValues(val, timeZone);\n                }\n            default: return escapeString(val);\n        }\n    };\n\n    SqlString.arrayToList = function arrayToList(array, timeZone) {\n        var sql = '';\n\n        for (var i = 0; i < array.length; i++) {\n            var val = array[i];\n\n            if (Array.isArray(val)) {\n                sql += (i === 0 ? '' : ', ') + '(' + SqlString.arrayToList(val, timeZone) + ')';\n            } else {\n                sql += (i === 0 ? '' : ', ') + SqlString.escape(val, true, timeZone);\n            }\n        }\n\n        return sql;\n    };\n\n    SqlString.format = function format(sql, values, stringifyObjects, timeZone) {\n        if (values == null) {\n            return sql;\n        }\n\n        if (!Array.isArray(values)) {\n            values = [values];\n        }\n\n        var chunkIndex = 0;\n        var placeholdersRegex = /\\?+/g;\n        var result = '';\n        var valuesIndex = 0;\n        var match;\n\n        while (valuesIndex < values.length && (match = placeholdersRegex.exec(sql))) {\n            var len = match[0].length;\n\n            if (len > 2) {\n                continue;\n            }\n\n            var value = len === 2\n                ? SqlString.escapeId(values[valuesIndex])\n                : SqlString.escape(values[valuesIndex], stringifyObjects, timeZone);\n\n            result += sql.slice(chunkIndex, match.index) + value;\n            chunkIndex = placeholdersRegex.lastIndex;\n            valuesIndex++;\n        }\n\n        if (chunkIndex === 0) {\n            // Nothing was replaced\n            return sql;\n        }\n\n        if (chunkIndex < sql.length) {\n            return result + sql.slice(chunkIndex);\n        }\n\n        return result;\n    };\n\n    SqlString.dateToString = function dateToString(date, timeZone = \"local\") {\n        var dt = new Date(date);\n\n        if (isNaN(dt.getTime())) {\n            return 'NULL';\n        }\n\n        var year;\n        var month;\n        var day;\n        var hour;\n        var minute;\n        var second;\n        var millisecond;\n\n        if (timeZone === 'local') {\n            year = dt.getFullYear();\n            month = dt.getMonth() + 1;\n            day = dt.getDate();\n            hour = dt.getHours();\n            minute = dt.getMinutes();\n            second = dt.getSeconds();\n            millisecond = dt.getMilliseconds();\n        } else {\n            var tz = convertTimezone(timeZone);\n\n            if (tz !== false && tz !== 0) {\n                dt.setTime(dt.getTime() + (tz * 60000));\n            }\n\n            year = dt.getUTCFullYear();\n            month = dt.getUTCMonth() + 1;\n            day = dt.getUTCDate();\n            hour = dt.getUTCHours();\n            minute = dt.getUTCMinutes();\n            second = dt.getUTCSeconds();\n            millisecond = dt.getUTCMilliseconds();\n        }\n\n        // YYYY-MM-DD HH:mm:ss.mmm\n        var str = zeroPad(year, 4) + '-' + zeroPad(month, 2) + '-' + zeroPad(day, 2) + ' ' +\n            zeroPad(hour, 2) + ':' + zeroPad(minute, 2) + ':' + zeroPad(second, 2) + '.' +\n            zeroPad(millisecond, 3);\n\n        return escapeString(str);\n    };\n\n    SqlString.bufferToString = function bufferToString(buffer) {\n        return 'X' + escapeString(buffer.toString('hex'));\n    };\n\n    SqlString.objectToValues = function objectToValues(object, timeZone) {\n        var sql = '';\n\n        for (var key in object) {\n            var val = object[key];\n\n            if (typeof val === 'function') {\n                continue;\n            }\n\n            sql += (sql.length === 0 ? '' : ', ') + SqlString.escapeId(key) + ' = ' + SqlString.escape(val, true, timeZone);\n        }\n\n        return sql;\n    };\n\n    SqlString.raw = function raw(sql) {\n        if (typeof sql !== 'string') {\n            throw new TypeError('argument sql must be a string');\n        }\n\n        return {\n            toSqlString: function toSqlString() { return sql; }\n        };\n    };\n\n    function escapeString(val) {\n        var chunkIndex = CHARS_GLOBAL_REGEXP.lastIndex = 0;\n        var escapedVal = '';\n        var match;\n\n        while ((match = CHARS_GLOBAL_REGEXP.exec(val))) {\n            escapedVal += val.slice(chunkIndex, match.index) + CHARS_ESCAPE_MAP[match[0]];\n            chunkIndex = CHARS_GLOBAL_REGEXP.lastIndex;\n        }\n\n        if (chunkIndex === 0) {\n            // Nothing was escaped\n            return \"'\" + val + \"'\";\n        }\n\n        if (chunkIndex < val.length) {\n            return \"'\" + escapedVal + val.slice(chunkIndex) + \"'\";\n        }\n\n        return \"'\" + escapedVal + \"'\";\n    }\n\n    function zeroPad(number, length) {\n        number = number.toString();\n        while (number.length < length) {\n            number = '0' + number;\n        }\n\n        return number;\n    }\n\n    function convertTimezone(tz) {\n        if (tz === 'Z') {\n            return 0;\n        }\n\n        var m = tz.match(/([\\+\\-\\s])(\\d\\d):?(\\d\\d)?/);\n        if (m) {\n            return (m[1] === '-' ? -1 : 1) * (parseInt(m[2], 10) + ((m[3] ? parseInt(m[3], 10) : 0) / 60)) * 60;\n        }\n        return false;\n    }\n\n    return SqlString;\n}\n\n",
         "finalize": "",
         "libs": [],
         "x": 220,
