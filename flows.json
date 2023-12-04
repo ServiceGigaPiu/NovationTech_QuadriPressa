@@ -202,7 +202,9 @@
             "5fae85f555051914"
         ],
         "x": 84,
-        "y": 4219
+        "y": 4219,
+        "w": 1102,
+        "h": 562
     },
     {
         "id": "e2961306402a77aa",
@@ -230,7 +232,9 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574
+        "y": 3574,
+        "w": 1072,
+        "h": 562
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -255,7 +259,9 @@
             "ceb2f1af58e4621a"
         ],
         "x": 164,
-        "y": 139
+        "y": 139,
+        "w": 777,
+        "h": 217
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -322,7 +328,9 @@
             "588342109c719d84"
         ],
         "x": 153,
-        "y": 409
+        "y": 409,
+        "w": 1739,
+        "h": 1398
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -498,8 +506,10 @@
             "f1dbd319d32509fd",
             "c6aaa02b97c6aeb4"
         ],
-        "x": 184,
-        "y": 1839
+        "x": 174,
+        "y": 1839,
+        "w": 1412,
+        "h": 282
     },
     {
         "id": "dd28804963c0bc60",
@@ -580,9 +590,7 @@
             "18c21c6d00a60420"
         ],
         "x": 199,
-        "y": 109,
-        "w": 822,
-        "h": 397
+        "y": 109
     },
     {
         "id": "d5cd79b677b0e975",
@@ -607,9 +615,7 @@
             "6b3cbc7f60f41ee7"
         ],
         "x": 1044,
-        "y": 304,
-        "w": 437,
-        "h": 202
+        "y": 304
     },
     {
         "id": "9b2d800cf2d90b2c",
@@ -632,9 +638,7 @@
             "c37451428f3dc6ef"
         ],
         "x": 1044,
-        "y": 109,
-        "w": 427,
-        "h": 112
+        "y": 109
     },
     {
         "id": "d9d7192a2acbd5cc",
@@ -672,9 +676,7 @@
             "282f6db66c44f19a"
         ],
         "x": 234,
-        "y": 1024,
-        "w": 922,
-        "h": 558
+        "y": 1024
     },
     {
         "id": "b7be1fbf76a073e2",
@@ -725,9 +727,7 @@
             "b6da99b42391a973"
         ],
         "x": 199,
-        "y": 1924,
-        "w": 807,
-        "h": 172
+        "y": 1924
     },
     {
         "id": "c3501ed6e9dcfd95",
@@ -748,9 +748,7 @@
             "e591ac746b349b71"
         ],
         "x": 1079,
-        "y": 1954,
-        "w": 557,
-        "h": 127
+        "y": 1954
     },
     {
         "id": "3d124027146d0e22",
@@ -793,9 +791,7 @@
             "d8a6ec6838de37b8"
         ],
         "x": 169,
-        "y": 2149,
-        "w": 1503,
-        "h": 813
+        "y": 2149
     },
     {
         "id": "c7aff72d1a698bfc",
@@ -823,9 +819,7 @@
             "74dd883b5669e797"
         ],
         "x": 1053,
-        "y": 529,
-        "w": 673,
-        "h": 303
+        "y": 529
     },
     {
         "id": "2d1b2de20aa0c22b",
@@ -846,9 +840,7 @@
             "1740c7857c8fad72"
         ],
         "x": 1494,
-        "y": 184,
-        "w": 367,
-        "h": 112
+        "y": 184
     },
     {
         "id": "7ea99ce57f3030da",
@@ -1034,8 +1026,10 @@
             "791b4bdbf17ea41b",
             "53b729e6e0afd102"
         ],
-        "x": 128,
-        "y": 2584
+        "x": 124,
+        "y": 2584,
+        "w": 1182,
+        "h": 971
     },
     {
         "id": "6c4911811d83d44b",
@@ -1070,8 +1064,10 @@
             "0754025c4011f690",
             "e57dbeee92a70061"
         ],
-        "x": 179,
-        "y": 2134
+        "x": 169,
+        "y": 2134,
+        "w": 1642,
+        "h": 378
     },
     {
         "id": "b2f2e2e832b5442a",
@@ -1168,9 +1164,7 @@
             "9261c1f58513ca26"
         ],
         "x": 1963,
-        "y": 274,
-        "w": 849,
-        "h": 558
+        "y": 274
     },
     {
         "id": "290ebf86bbdaeb68",
@@ -1223,38 +1217,6 @@
         "h": 886
     },
     {
-        "id": "e0ed091823085ebe",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0757913a87ded3fa",
-            "f75b36f999eb95ab",
-            "0c9de8cc9225f76a",
-            "cef60f6c3f501915",
-            "dbdd050756e63420",
-            "7032dc6a9ca1038f",
-            "399c8f9cac35a840",
-            "99a9cc64e8d1d569",
-            "23129549f38ea39e",
-            "d2973ff3bcaa9233",
-            "8691fc0a65c5cfce",
-            "fc379554953cb51c",
-            "1f5105270c298506",
-            "6c1a1057d14e96d2"
-        ],
-        "x": 1530,
-        "y": 2591
-    },
-    {
         "id": "be2329cc51c75d4d",
         "type": "group",
         "z": "467287adb311067b",
@@ -1299,87 +1261,6 @@
         "y": 343,
         "w": 1322,
         "h": 293
-    },
-    {
-        "id": "7c766e01a9b8df79",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0e4b20669b1991d2",
-            "717b63f7415240cd",
-            "783c3ba87fe4eef9",
-            "266b770030d9929a",
-            "18cacbe1fdf81b66",
-            "f253fb372041d739",
-            "4fb42373e4e99b72",
-            "b357635eb2dd1a5c",
-            "b9418ba4daf6f362",
-            "1ce8b143c0fb178f",
-            "30715f75ad5b00a7",
-            "fe3cce29d5ac8ab5",
-            "eb41138075a3f5f1",
-            "57aa74da7c79273b",
-            "28c2cd2c514a389d",
-            "a36ab7c9d6dd6084",
-            "50628505893c1002",
-            "f703574d360ff934",
-            "85a4f8fe1df1e635",
-            "c7a6599d3d4e79fd",
-            "d609fbc501f3ddc4",
-            "ce350560b108ca9c",
-            "4b01fb2cb07dd1ea",
-            "a93364fc53191afa",
-            "be97d0df7a6b19a8",
-            "49301850ec6be08d",
-            "0ab174afb48ce030",
-            "a30ce2169c4078a4",
-            "f48b49fff7fd6a15",
-            "c8719ba1108367ee",
-            "9fe6bae37ffab67b",
-            "985a540f960687be",
-            "6b72246dcf1d4463"
-        ],
-        "x": 1748,
-        "y": 3047
-    },
-    {
-        "id": "9e4171e022a9d561",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "136aa432f7fbc0a5",
-            "92022a60d79443bd",
-            "601a36750da62e85",
-            "d14cf79a025d6493",
-            "a6a5b2fdccfda163",
-            "5549f905eb444cb9",
-            "f07f3592aff356d4",
-            "bbe8e4b529b1acb3",
-            "5eeaa688d6eefa90",
-            "787b16cc56aacf5d",
-            "a976f8361278473b",
-            "c53439603f4e4208"
-        ],
-        "x": 2194,
-        "y": 3639
     },
     {
         "id": "7a4a549b398c4c30",
@@ -1655,8 +1536,10 @@
             "88e3d23a3ec9d6b0",
             "d27598503a5b31c1"
         ],
-        "x": 139,
-        "y": 4294
+        "x": 129,
+        "y": 4294,
+        "w": 572,
+        "h": 232
     },
     {
         "id": "70b9c5719558ad66",
@@ -1678,8 +1561,10 @@
             "91ec12ac87115cdc",
             "d02b6fbde106437f"
         ],
-        "x": 139,
-        "y": 3649
+        "x": 129,
+        "y": 3649,
+        "w": 552,
+        "h": 232
     },
     {
         "id": "bd2c16c7828242aa",
@@ -1724,7 +1609,9 @@
             "f97cc9e5d5d42826"
         ],
         "x": 154,
-        "y": 2659
+        "y": 2659,
+        "w": 1107,
+        "h": 487
     },
     {
         "id": "df7219d880358536",
@@ -1755,7 +1642,9 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579
+        "y": 1579,
+        "w": 1157,
+        "h": 202
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -1786,7 +1675,9 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369
+        "y": 1369,
+        "w": 1117,
+        "h": 202
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -1829,7 +1720,9 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979
+        "y": 979,
+        "w": 1227,
+        "h": 382
     },
     {
         "id": "588342109c719d84",
@@ -1901,7 +1794,9 @@
             "6f329cf07ae77335"
         ],
         "x": 179,
-        "y": 484
+        "y": 484,
+        "w": 1687,
+        "h": 472
     },
     {
         "id": "a70fe69b7459b746",
@@ -1967,9 +1862,7 @@
             "842017b9a006b707"
         ],
         "x": 264,
-        "y": 1429,
-        "w": 627,
-        "h": 127
+        "y": 1429
     },
     {
         "id": "b99d3df5ef07d131",
@@ -2000,9 +1893,7 @@
             "be6cdfc7a6f5fa2c"
         ],
         "x": 204,
-        "y": 2704,
-        "w": 847,
-        "h": 232
+        "y": 2704
     },
     {
         "id": "b42e082536c528eb",
@@ -2029,9 +1920,7 @@
             "1b4cb03a20cec83f"
         ],
         "x": 734,
-        "y": 2329,
-        "w": 517,
-        "h": 202
+        "y": 2329
     },
     {
         "id": "3562e00f4ed04fb9",
@@ -2055,9 +1944,7 @@
             "a62e3a70e91d913b"
         ],
         "x": 944,
-        "y": 2179,
-        "w": 357,
-        "h": 142
+        "y": 2179
     },
     {
         "id": "51320eb4ac48f6d8",
@@ -2081,9 +1968,7 @@
             "1e1402bb46babf61"
         ],
         "x": 1314,
-        "y": 2209,
-        "w": 332,
-        "h": 172
+        "y": 2209
     },
     {
         "id": "2964739a3908b397",
@@ -2111,9 +1996,7 @@
             "53965897f5958030"
         ],
         "x": 239,
-        "y": 2569,
-        "w": 1062,
-        "h": 127
+        "y": 2569
     },
     {
         "id": "74dd883b5669e797",
@@ -2137,9 +2020,7 @@
             "7f3f720f5ffa9ec8"
         ],
         "x": 1079,
-        "y": 634,
-        "w": 247,
-        "h": 172
+        "y": 634
     },
     {
         "id": "535ab9848c1b1849",
@@ -2209,8 +2090,10 @@
             "d4ffa269abe8be44",
             "1bbf54fc1b8056eb"
         ],
-        "x": 259,
-        "y": 3319
+        "x": 249,
+        "y": 3319,
+        "w": 735,
+        "h": 210
     },
     {
         "id": "5290b04e5e87f604",
@@ -2241,7 +2124,9 @@
             "17247c321ff841aa"
         ],
         "x": 669,
-        "y": 2329
+        "y": 2329,
+        "w": 912,
+        "h": 157
     },
     {
         "id": "0d7119851507d372",
@@ -2270,9 +2155,7 @@
             "8eefeac72777a334"
         ],
         "x": 1989,
-        "y": 334,
-        "w": 797,
-        "h": 187
+        "y": 334
     },
     {
         "id": "9261c1f58513ca26",
@@ -2303,40 +2186,7 @@
             "8be2693bfd6a9a13"
         ],
         "x": 1994,
-        "y": 544,
-        "w": 752,
-        "h": 262
-    },
-    {
-        "id": "6c1a1057d14e96d2",
-        "type": "group",
-        "z": "2260f1f88d7c60bf",
-        "g": "e0ed091823085ebe",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "121fea383be28584",
-            "11f536ea3c1ff92a",
-            "0bf145e4ce9ab946",
-            "113af3e4c0c7bece",
-            "670bbd7264bc176f",
-            "3e3a86f4d1bad409",
-            "4df80b103f9d0110",
-            "c1fa16292f8d668d",
-            "f045162006284d0e",
-            "60d5255753a89049",
-            "3927c79dc18975ce",
-            "643dfc4aa2451942"
-        ],
-        "x": 2222,
-        "y": 2827
+        "y": 544
     },
     {
         "id": "c05cbc581f087383",
@@ -2419,6 +2269,158 @@
         "y": 794,
         "w": 972,
         "h": 122
+    },
+    {
+        "id": "e0ed091823085ebe",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0757913a87ded3fa",
+            "f75b36f999eb95ab",
+            "0c9de8cc9225f76a",
+            "cef60f6c3f501915",
+            "dbdd050756e63420",
+            "7032dc6a9ca1038f",
+            "399c8f9cac35a840",
+            "99a9cc64e8d1d569",
+            "23129549f38ea39e",
+            "d2973ff3bcaa9233",
+            "8691fc0a65c5cfce",
+            "fc379554953cb51c",
+            "1f5105270c298506",
+            "6c1a1057d14e96d2"
+        ],
+        "x": 1516,
+        "y": 2596,
+        "w": 1808,
+        "h": 440
+    },
+    {
+        "id": "7c766e01a9b8df79",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0e4b20669b1991d2",
+            "717b63f7415240cd",
+            "783c3ba87fe4eef9",
+            "266b770030d9929a",
+            "18cacbe1fdf81b66",
+            "f253fb372041d739",
+            "4fb42373e4e99b72",
+            "b357635eb2dd1a5c",
+            "b9418ba4daf6f362",
+            "1ce8b143c0fb178f",
+            "30715f75ad5b00a7",
+            "fe3cce29d5ac8ab5",
+            "eb41138075a3f5f1",
+            "57aa74da7c79273b",
+            "28c2cd2c514a389d",
+            "a36ab7c9d6dd6084",
+            "50628505893c1002",
+            "f703574d360ff934",
+            "85a4f8fe1df1e635",
+            "c7a6599d3d4e79fd",
+            "d609fbc501f3ddc4",
+            "ce350560b108ca9c",
+            "4b01fb2cb07dd1ea",
+            "a93364fc53191afa",
+            "be97d0df7a6b19a8",
+            "49301850ec6be08d",
+            "0ab174afb48ce030",
+            "a30ce2169c4078a4",
+            "f48b49fff7fd6a15",
+            "c8719ba1108367ee",
+            "9fe6bae37ffab67b",
+            "985a540f960687be",
+            "6b72246dcf1d4463"
+        ],
+        "x": 1744,
+        "y": 3052,
+        "w": 1760,
+        "h": 578
+    },
+    {
+        "id": "9e4171e022a9d561",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "136aa432f7fbc0a5",
+            "92022a60d79443bd",
+            "601a36750da62e85",
+            "d14cf79a025d6493",
+            "a6a5b2fdccfda163",
+            "5549f905eb444cb9",
+            "f07f3592aff356d4",
+            "bbe8e4b529b1acb3",
+            "5eeaa688d6eefa90",
+            "787b16cc56aacf5d",
+            "a976f8361278473b",
+            "c53439603f4e4208"
+        ],
+        "x": 2180,
+        "y": 3644,
+        "w": 1250,
+        "h": 210
+    },
+    {
+        "id": "6c1a1057d14e96d2",
+        "type": "group",
+        "z": "2260f1f88d7c60bf",
+        "g": "e0ed091823085ebe",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "121fea383be28584",
+            "11f536ea3c1ff92a",
+            "0bf145e4ce9ab946",
+            "113af3e4c0c7bece",
+            "670bbd7264bc176f",
+            "3e3a86f4d1bad409",
+            "4df80b103f9d0110",
+            "c1fa16292f8d668d",
+            "f045162006284d0e",
+            "60d5255753a89049",
+            "3927c79dc18975ce",
+            "643dfc4aa2451942"
+        ],
+        "x": 2218,
+        "y": 2832,
+        "w": 1080,
+        "h": 178
     },
     {
         "id": "9fa3722a335cb332",
@@ -10528,1437 +10530,6 @@
         ]
     },
     {
-        "id": "0e4b20669b1991d2",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "QueryDB cycle(last && incomplete) retry:10t / 2s / 20s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 10,\n  delay: 2 * 1000,\n  toutDelay: undefined,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\n\n\nconst pollCtx = msg[dbPoll.pollCtxKey];\n//last cycle row\npollCtx.query = ctxGet(\"query\", `\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime\n  FROM\n    cycle\n  WHERE\n    CYCLE_NUMBER =(\n      SELECT\n        MAX(CYCLE_NUMBER)\n      FROM\n        cycle\n    )\n`);\n\n//row is new <imply> endTime is undef\n  //endTime is: nullish || \"\\s*\" || \"null\" || \"undefined\" || <=startTime\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (node, resMsg, out_errTxt) {\n  if(resMsg.error){\n    out_errTxt.value = resMsg.error?.message ?? \"\";\n    return false;\n  }\n  if(utils.isNotSet(resMsg?.payload?.[0])){\n    node.error({txt:\"got empty or faily result while polling for last cycle number\",full:resMsg });\n    out_errTxt.value = \"empty or null result\";\n    return false;\n  }\n  if(resMsg.payload.length > 1)\n    node.error({ txt:\"got more than one row while polling for last cycle number\",full:msg });\n  \n  var maxRow = resMsg.payload[0];\n  switch(typeof(maxRow.endTime)){\n    case \"object\":{ //assume it's null\n      if(maxRow.endTime !== null)\n        node.error({txt:\"endTime is of type 'object' but not null. What object?\", endTime: maxRow.endTime,full:resMsg})\n      return true;\n    }\n    case \"undefined\":{\n      return true;\n    }\n    case \"string\":{\n      if (maxRow.endTime.match(/^\\s*(?:\\s*|null|undefined)\\s*$/i) || (!!Date.parse(maxRow.endtime) && Date.parse(maxRow.endTime) <= Date.parse(maxRow.startTime))){\n        return true;\n      }\n      else{\n        out_errTxt.value = \"endTime type === string but it's not a nullish date or nullish string\"\n        return false;\n      }\n    }\n    default:{\n      out_errTxt.value = \"unexpected type \"+typeof(maxRow.endTime)\n      return false;\n    }\n  }\n});\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);\n\n",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1992,
-        "y": 3168,
-        "wires": [
-            [
-                "18cacbe1fdf81b66"
-            ],
-            [],
-            [
-                "717b63f7415240cd"
-            ]
-        ],
-        "outputLabels": [
-            "success",
-            "dbQuery (retry)",
-            "any fail"
-        ]
-    },
-    {
-        "id": "717b63f7415240cd",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2008,
-        "y": 3216,
-        "wires": [
-            [
-                "0e4b20669b1991d2"
-            ]
-        ]
-    },
-    {
-        "id": "783c3ba87fe4eef9",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "QueryDB exc(orderId list)  retry: 6t / 2s / 30s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//clean other dbPollGet's state vars\nif (msg.dbPollGet?.isPollComplete) {\n  node.warn({ txt: \"you should delete old dbPollGet state vars from msg before passing it to another dbPollGet node\", full: msg });\n  delete msg.dbPollGet;\n}\n\n//dbPollGet common fields\nconst pollCtx = msg.dbPollGet;\npollCtx.attempts ?? (pollCtx.attempts = 0)\npollCtx.startTime ?? (pollCtx.startTime = Date.now())\npollCtx.sqlErrorList ?? (pollCtx.sqlErrorList = [])\npollCtx.isPollComplete ?? (pollCtx.isPollComplete = false);\n//node-specific cfg\npollCtx.maxAttempts ?? (pollCtx.maxAttempts = 6);\npollCtx.delay ?? (pollCtx.delay = 2 * 1000);\npollCtx.toutTolerance = pollCtx.maxAttempts * 150;\npollCtx.toutDelay ?? (pollCtx.toutDelay = Math.max(30 * 1000, pollCtx.maxAttempts * pollCtx.delay + pollCtx.toutTolerance));\npollCtx.toutTime ?? (pollCtx.toutTime = pollCtx.startTime + pollCtx.toutDelay);\n\n//CAUTION! running isSuccess() twice will always return true, as it also updates prevNotNullRes\npollCtx.prevNotNullRes ?? (pollCtx.prevNotNullRes = null);\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt){\n  var pollCtx = resMsg.dbPollGet;\n  //got twice the same result size\n  let didResMatch = pollCtx.prevNotNullRes && Array.isArray(resMsg.payload) && resMsg.payload.length == pollCtx.prevNotNullRes.length;\n  out_errTxt.value = didResMatch ? \"unequal results (\"+resMsg.payload?.length+\" vs \"+pollCtx?.prevNotNullRes?.length+\")\" : out_errTxt.value = resMsg.error?.message ?? \"\";\n  if(didResMatch && resMsg.payload.length == 0 && pollCtx.attempt != pollCtx.maxAttempt){\n    out_errTxt.value = \"got empty result. Waiting for late update before accepting it..\";\n    return false;\n  }\n  //update pollCtx\n  pollCtx.prevNotNullRes = resMsg.payload ?? pollCtx.prevNotNullRes;\n  return !resMsg.error && didResMatch;\n});\n\n\n//if is first attempt //attempt++\nif (pollCtx.attempts++ == 0) {\n  return [null, db.attachQuery(query, msg), null];\n}\nelse {\n  var outParam_errTxt = {};\n  //on success -> return\n  if (pollCtx.isSuccess(msg, outParam_errTxt)) {\n    //lock function value\n    pollCtx.isSuccess_originalFunc = pollCtx.isSuccess;\n    pollCtx.isSuccess = function () { return true };\n    //set info \"pollCompleted\"\n    pollCtx.isPollComplete = true;\n    return [msg, null, null];\n  }\n  //on fail\n  else {\n    //move error result to pollCtx\n    pollCtx.sqlErrorList.push({\n      \"txt\": outParam_errTxt.value,\n      \"error\": msg.error,\n      \"_error\": msg._error,\n      \"payload\": msg.payload\n    });\n    delete msg.error;\n    delete msg._error;\n    delete msg.payload;\n    //retry\n    if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n      setTimeout(() => {\n        node.send([null, msg, null]);\n      }, pollCtx.delay);\n    else {\n      //lock function value\n      pollCtx.isSuccess_originalFunc = pollCtx.isSuccess;\n      pollCtx.isSuccess = function () { return false };\n      //set info \"pollCompleted\"\n      pollCtx.isPollComplete = true;\n    }\n\n    //return fail\n    return [null, null, msg];\n  }\n}\n\n",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2406,
-        "y": 3536,
-        "wires": [
-            [
-                "d609fbc501f3ddc4"
-            ],
-            [],
-            [
-                "266b770030d9929a"
-            ]
-        ],
-        "outputLabels": [
-            "success",
-            "dbQuery (retry)",
-            "any fail"
-        ]
-    },
-    {
-        "id": "266b770030d9929a",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2420,
-        "y": 3584,
-        "wires": [
-            [
-                "783c3ba87fe4eef9"
-            ]
-        ]
-    },
-    {
-        "id": "985a540f960687be",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "SELECT <many> as <alias> FROM cycle JOINED (1:many) ital_production ON CYCLE_NUMBER JOINED (many:many) ital_exchange ON  ORDER_ID",
-        "info": "pollGet nodes recurse messages over themselves, updating a reserved msg property (msg.dbPollGet).\nAfter each node completes its poll cycle the useful results are moved over by trailing function nodes;\n    they are moved into msg.multiQueryData.<uniqueId>_pollRes\n    and have a consistent structure:\n            //dbPollGet common fields\n        const pollCtx = msg.dbPollGet;\n        pollCtx.attempts        ??= 0;\n        pollCtx.startTime        ??= Date.now();\n        pollCtx.sqlErrorList        ??= [];\n            //node-specific cfg\n        pollCtx.maxAttempts ?       ?= 10;\n        pollCtx.delay       ??= 2 * 1000;\n        pollCtx.toutTolerance       = pollCtx.maxAttempts * 150;\n        pollCtx.toutDelay       ??= pollCtx.maxAttempts * pollCtx.delay + pollCtx.toutTolerance;\n        pollCtx.toutTime        ??= pollCtx.startTime + pollCtx.toutDelay\n        pollCtx.isSuccess ??= function => true | false\n",
-        "x": 2276,
-        "y": 3088,
-        "wires": []
-    },
-    {
-        "id": "18cacbe1fdf81b66",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.lastCycleNumber",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nmsg.multiQueryData.lastCycleNumber = msg.payload?.[0]?.cycleNumber ?? node.error({txt:\"missing result\",full:msg});\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2394,
-        "y": 3152,
-        "wires": [
-            [
-                "28c2cd2c514a389d"
-            ]
-        ]
-    },
-    {
-        "id": "cf6b343f2f0a8d9a",
-        "type": "link in",
-        "z": "2260f1f88d7c60bf",
-        "name": "pressa1 allProdExc oncePerCycleEnd in",
-        "links": [
-            "479532ec132fba80"
-        ],
-        "x": 1584,
-        "y": 3280,
-        "wires": [
-            [
-                "4fb42373e4e99b72"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "50128141cfef2e47",
-        "type": "link in",
-        "z": "2260f1f88d7c60bf",
-        "name": "pressa1 allProdExc oncePerCycleStart in",
-        "links": [
-            "d475353a7f70bf2a"
-        ],
-        "x": 1584,
-        "y": 3168,
-        "wires": [
-            [
-                "0e4b20669b1991d2"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "f253fb372041d739",
-        "type": "q-gate",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "keep one",
-        "controlTopic": "control",
-        "defaultState": "queueing",
-        "openCmd": "open",
-        "closeCmd": "close",
-        "toggleCmd": "toggle",
-        "queueCmd": "queue",
-        "defaultCmd": "default",
-        "triggerCmd": "trigger",
-        "flushCmd": "flush",
-        "resetCmd": "reset",
-        "peekCmd": "peek",
-        "dropCmd": "drop",
-        "statusCmd": "status",
-        "maxQueueLength": "1",
-        "keepNewest": true,
-        "qToggle": false,
-        "persist": false,
-        "storeName": "memory",
-        "x": 2130,
-        "y": 3280,
-        "wires": [
-            [
-                "eb41138075a3f5f1"
-            ]
-        ]
-    },
-    {
-        "id": "4fb42373e4e99b72",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "trigger",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "trigger",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "control",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1944,
-        "y": 3280,
-        "wires": [
-            [
-                "f253fb372041d739"
-            ]
-        ]
-    },
-    {
-        "id": "b357635eb2dd1a5c",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1877,
-        "y": 3280,
-        "wires": [
-            [
-                "4fb42373e4e99b72"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "b9418ba4daf6f362",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1877,
-        "y": 3312,
-        "wires": [
-            [
-                "1ce8b143c0fb178f"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "1ce8b143c0fb178f",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "peek",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "peek",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "control",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1944,
-        "y": 3312,
-        "wires": [
-            [
-                "f253fb372041d739"
-            ]
-        ]
-    },
-    {
-        "id": "30715f75ad5b00a7",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "drop",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "flush",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "control",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1944,
-        "y": 3344,
-        "wires": [
-            [
-                "f253fb372041d739"
-            ]
-        ]
-    },
-    {
-        "id": "fe3cce29d5ac8ab5",
-        "type": "inject",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1877,
-        "y": 3344,
-        "wires": [
-            [
-                "30715f75ad5b00a7"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "eb41138075a3f5f1",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "QueryDB cycle(lastCycleNumber) retry:10t / 2s / 20s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 10,\n  delay: 2 * 1000,\n  toutDelay: undefined,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\nconst pollCtx = msg[dbPoll.pollCtxKey];\n\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt) {\n  //not (endTime is date && startTime is date && endTime > startTime)\n  if (!(Date.parse(resMsg.endTime) > Date.parse(resMsg.startTime))){ //parse(\"notADate\") <=> NaN  //NaN ><= int <=> false  //NaN ><= NaN <=> false\n    out_errTxt.value = \"cycle endTime has not been updated (it is not a date or is smaller than startTime) st:\" + Date.parse(resMsg.startTime) + \" end: \" + Date.parse(resMsg.endTime);\n    return false;\n  }\n  out_errTxt.value = resMsg.error?.message ?? \"\";\n  return !resMsg.error;\n});\n\n//seleziona la riga (una) con max cycNumber (quella appena prodotta)\nconst query = ctxGet(\"query\", `\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    RECIPE_NAME as recipeName,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime,\n    \\`COMMENT\\` as \\`note\\`\n  FROM\n    cycle\n  WHERE\n    CYCLE_NUMBER =(\n      SELECT\n        MAX(CYCLE_NUMBER)\n      FROM\n        cycle\n    )\n`);\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2432,
-        "y": 3280,
-        "wires": [
-            [
-                "a36ab7c9d6dd6084"
-            ],
-            [],
-            [
-                "57aa74da7c79273b"
-            ]
-        ],
-        "outputLabels": [
-            "success",
-            "dbQuery (retry)",
-            "any fail"
-        ]
-    },
-    {
-        "id": "57aa74da7c79273b",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2436,
-        "y": 3328,
-        "wires": [
-            [
-                "eb41138075a3f5f1"
-            ]
-        ]
-    },
-    {
-        "id": "28c2cd2c514a389d",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.cycleRowExists_pollRes",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.cycleRowExists_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2414,
-        "y": 3184,
-        "wires": [
-            [
-                "f253fb372041d739",
-                "f48b49fff7fd6a15"
-            ]
-        ]
-    },
-    {
-        "id": "a36ab7c9d6dd6084",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.cycleRow_pollRes",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.cycleRow_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2818,
-        "y": 3280,
-        "wires": [
-            [
-                "50628505893c1002",
-                "a30ce2169c4078a4"
-            ]
-        ]
-    },
-    {
-        "id": "50628505893c1002",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "QueryDB prod(lastCycleNum)  retry:6t / 2s / 30s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//verify msg holds the values required by the sql query\nlet lastCycleNumber = msg.multiQueryData?.lastCycleNumber;\nif (utils.isNotSet(lastCycleNumber)){\n  node.error({ txt: \"missing last cycle number. Aborted flow\", lastCycNum: lastCycleNumber, full:msg });\n  return null;\n}\n\n\n// //setup context\n//   //timedStore is a map over cycleNumber of the poll's result, needed to check whether two results match\n//   //it's deleted after toutDelay, when is certain it won't be needed any more by any concurrent poll\n//   //concurrency is not tested (can a context object be safely manipulated by concurrent threads?)\n// var timedStore = ctxGet(\"timedStore\", initTimedStore(lastCycleNumber, Date.now()));\n// timedStore[lastCycleNumber] ??=  {};\n// timedStore[lastCycleNumber].lastUsedTime = Date.now();\n// timedStore[lastCycleNumber].result = null;\n// //clear old timedStore entries\n// for(var [cycNum, store] of Object.entries(timedStore)){\n//   if(Date.now() - store.lastUsedTime > 1.2 * pollCtx.toutDelay){\n//     delete timedStore[cycNum];\n//   }\n// }\n// context.set(\"timedStore\",timedStore);\n\n//CAUTION! running isSuccess() twice will always return true, as it also updates prevNotNullRes\n  //overridden for final success and final fail outputs (remember to redact them if you copy this node)\npollCtx.prevNotNullRes ?? (pollCtx.prevResNotNull = null);\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt){\n  var pollCtx = resMsg.dbPollGet;\n  //got twice the same result size\n  let didResMatch = pollCtx.prevNotNullRes && Array.isArray(resMsg.payload) && resMsg.payload.length == pollCtx.prevNotNullRes.length;\n  out_errTxt.value = didResMatch ? \"unequal results (\"+resMsg.payload?.length+\" vs \"+pollCtx?.prevNotNullRes?.length+\")\" : out_errTxt.value = resMsg.error?.message ?? \"\";\n  if(didResMatch && resMsg.payload.length == 0 && pollCtx.attempt != pollCtx.maxAttempt){\n    out_errTxt.value = \"got empty result. Waiting for late update before accepting it..\";\n    return false;\n  }\n  //update pollCtx\n  pollCtx.prevNotNullRes = resMsg.payload ?? pollCtx.prevNotNullRes;\n  return !resMsg.error && didResMatch;\n});\n\n//seleziona le righe (+ di una) relative agli ordini appena prodotti\nconst query = db.sqlString.format(`\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    ORDER_ID as orderId,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime,\n    QUANT_PROD as quantProd,\n    ESITO as esito\n  FROM\n    italmatic_production\n  WHERE\n    CYCLE_NUMBER =  ?\n`, lastCycleNumber);\n\n\n\n//if is first attempt //attempt++\nif (pollCtx.attempts++ == 0) {\n  return [null, db.attachQuery(query, msg), null];\n}\nelse {\n  var outParam_errTxt = {};\n  //on success -> return\n  if (pollCtx.isSuccess(msg, outParam_errTxt)) {\n    //lock function value\n    pollCtx.isSuccess_originalFunc = pollCtx.isSuccess;\n    pollCtx.isSuccess = function () { return true };\n    //set info \"pollCompleted\"\n    pollCtx.isPollComplete = true;\n    return [msg, null, null];\n  }\n  //on fail\n  else {\n    //move error result to pollCtx\n    pollCtx.sqlErrorList.push({\n      \"txt\": outParam_errTxt.value,\n      \"error\": msg.error,\n      \"_error\": msg._error,\n      \"payload\": msg.payload\n    });\n    delete msg.error;\n    delete msg._error;\n    delete msg.payload;\n    //retry\n    if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n      setTimeout(() => {\n        node.send([null, msg, null]);\n      }, pollCtx.delay);\n    else {\n      //lock function value\n      pollCtx.isSuccess_originalFunc = pollCtx.isSuccess;\n      pollCtx.isSuccess = function () { return false };\n      //set info \"pollCompleted\"\n      pollCtx.isPollComplete = true;\n    }\n\n    //return fail\n    return [null, null, msg];\n  }\n}\n\n\n\n// function initTimedStore(lastCycleNumber, firstUseTime = Date.now()){\n//   lastCycleNumber ?? throw new RangeError(node.id+\": initTimedStore(): lastCycleNumber cannot be null\");\n//   return (() => { \n//     var obj = {\n//       cycleNumber:lastCycleNumber,\n//       firstUseTime: firstUseTime ?? Date.now(),\n//       result: null\n//     };\n//     Object.defineProperty(obj,\"asHumReadable\",{\n//       get: function (){\n//         return {\n//           cycleNumber: this.cycleNumber,\n//           result: this.result;\n//           firstUseTime: utils.msToScaledString(Date.now()-this.firstUseTime),\n//           lastUsedTime: utils.msToScaledString(Date.now()-this.lastUsedTime)\n//         }\n//       }.bind(obj)\n//     });\n//   )())\n// }\n\n",
-        "outputs": 3,
-        "noerr": 23,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2418,
-        "y": 3408,
-        "wires": [
-            [
-                "85a4f8fe1df1e635"
-            ],
-            [],
-            [
-                "f703574d360ff934"
-            ]
-        ],
-        "outputLabels": [
-            "success",
-            "dbQuery (retry)",
-            "any fail"
-        ]
-    },
-    {
-        "id": "f703574d360ff934",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2412,
-        "y": 3456,
-        "wires": [
-            [
-                "50628505893c1002"
-            ]
-        ]
-    },
-    {
-        "id": "85a4f8fe1df1e635",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.orderId",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nmsg.multiQueryData.orderId = msg.payload?.[0]?.ORDER_ID ?? node.error({txt:\"missing result\",full:msg});\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2780,
-        "y": 3392,
-        "wires": [
-            [
-                "c7a6599d3d4e79fd"
-            ]
-        ]
-    },
-    {
-        "id": "c7a6599d3d4e79fd",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.prodRowList_pollRes",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.prodRowList_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2820,
-        "y": 3424,
-        "wires": [
-            [
-                "be97d0df7a6b19a8"
-            ]
-        ]
-    },
-    {
-        "id": "d609fbc501f3ddc4",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "to multiQueryData.excRowList_pollRes",
-        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.excRowList_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2772,
-        "y": 3536,
-        "wires": [
-            [
-                "9fe6bae37ffab67b",
-                "bbe8e4b529b1acb3"
-            ]
-        ]
-    },
-    {
-        "id": "136aa432f7fbc0a5",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "ifOrderCompleted -> update tables",
-        "func": "var plcData=msg.payload;\nconst tabUtils = flow.get(\"tabUtils\");\nconst utils = flow.get(\"utils\");\nconst button = tabUtils.queue.sendToPressButton;\nconst pressNum = msg.press.match(/([0-9]+)$/)[1];\nconst db = global.get(\"db\");\n\nlet queueTable = flow.get(\"queueTable\");\n\nlet prodRowList = msg.multiQueryData.prodRowList_pollRes?.result ?? [];\nlet excRowList = msg.multiQueryData.excRowList_pollRes?.result ?? [];\n\nlet lastCycleNumber = msg.multiQueryData.lastCycleNumber;\nlet orderIdMap = {}; queueTable.forEach(row => orderIdMap[row.id] = row);\nlet queueIdxToDel = [];\n\n\n//sposta in completed\nfor (let dbRow of excRowList){\n    if (dbRow.quantProd >= dbRow.quantToDo && utils.isSet(orderIdMap[dbRow.orderId])){\n        var queueRow = orderIdMap[dbRow.orderId];\n        //crea riga\n        let newRow= tabUtils.completed.newRow();\n        newRow.id = queueRow.id;\n        newRow.cycleNumber = lastCycleNumber;\n        newRow.quantProd = dbRow.quantProd; //excRow.QUANT_PROD;\n        newRow.quantToDo = dbRow.quantToDo; //excRow.QUANT_TO_DO;\n        const getFallbackNote = ()=>{\n            let isNotEmpty = str => !str?.match?.(\"^\\s*$\");\n            let tmp;\n            return isNotEmpty(queueRow) ? queueRow.note :\n                isNotEmpty(dbRow) ? dbRow.note :\n                isNotEmpty(tmp = prodRowList.filter(row => row.orderId == dbRow.orderId)[0]?.note) ? tmp : \"\"\n        }\n        newRow.note = getFallbackNote();\n        //marca come da cancellare localmente\n        queueIdxToDel.push(queueRow.rowId);\n        //invia delete a DB\n        const deleteQueryTemplate = \"DELETE FROM oven.italmatic_exchange WHERE ORDER_ID = ? AND STATUS <> 'w'\";\n        node.send([null, db.attachQuery(db.sqlString.format(deleteQueryTemplate, dbRow.id))]);\n    }\n}\n\n//cancella localmente\nfor (let rowId of queueIdxToDel){\n    tabUtils.deleteRowId(rowId, queueTable);\n}\n\nreturn [msg, null];\n",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2716,
-        "y": 3712,
-        "wires": [
-            [
-                "5eeaa688d6eefa90"
-            ],
-            [
-                "d14cf79a025d6493",
-                "f07f3592aff356d4"
-            ]
-        ],
-        "outputLabels": [
-            "tableUpdateComplete",
-            "to dbQuery"
-        ]
-    },
-    {
-        "id": "92022a60d79443bd",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "push to historyTable",
-        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\nlet prodRowList = msg.multiQueryData.prodRow;\nlet excRowList = msg.multiQueryData.excRow;\n\n//newRow.id = plcData.prod_id;\nnewRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\nnewRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\nnewRow.quantProd = 1;\n//newRow.status = plcData.exc_status;\nnewRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\nnewRow.prodRow.cycleNumber;\nnewRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\nnewRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nhistoryTable.push(row);\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2674,
-        "y": 3760,
-        "wires": [
-            [
-                "787b16cc56aacf5d"
-            ]
-        ]
-    },
-    {
-        "id": "601a36750da62e85",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "tables max length",
-        "func": "//leftshift history when longer than maxLength\nlet table = flow.get(\"historyTable\");\nlet maxLength = 5000;\nlet newLength = 4200;\nif(table.length >= 5000){\n    let diff = table.length - newLength;\n    for(let i=0; i<newLength; i++)\n        table[i] = table[i+diff];\n    table.length = newLength;\n}\nflow.set(\"historyTable\",table);\n\n//leftshift completed when longer than maxLength\ntable = flow.get(\"completedTable\");\nmaxLength = 5000;\nnewLength = 4200;\nif (table.length >= 5000) {\n    let diff = table.length - newLength;\n    for (let i = 0; i < newLength; i++)\n        table[i] = table[i + diff];\n    table.length = newLength;\n}\nflow.set(\"completedTable\",table);\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2666,
-        "y": 3808,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d14cf79a025d6493",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2962,
-        "y": 3712,
-        "wires": [
-            [
-                "a6a5b2fdccfda163"
-            ]
-        ]
-    },
-    {
-        "id": "a6a5b2fdccfda163",
-        "type": "trigger",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "3s",
-        "op1": "",
-        "op2": "true",
-        "op1type": "nul",
-        "op2type": "bool",
-        "duration": "3",
-        "extend": false,
-        "overrideDelay": false,
-        "units": "s",
-        "reset": "",
-        "bytopic": "all",
-        "topic": "topic",
-        "outputs": 1,
-        "x": 3090,
-        "y": 3712,
-        "wires": [
-            [
-                "c53439603f4e4208",
-                "a976f8361278473b"
-            ]
-        ]
-    },
-    {
-        "id": "5549f905eb444cb9",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2489,
-        "y": 3760,
-        "wires": [
-            [
-                "136aa432f7fbc0a5",
-                "92022a60d79443bd",
-                "601a36750da62e85"
-            ]
-        ],
-        "l": false
-    },
-    {
-        "id": "ce350560b108ca9c",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "completes when endTime is set and > startTime",
-        "info": "",
-        "x": 2418,
-        "y": 3248,
-        "wires": []
-    },
-    {
-        "id": "4b01fb2cb07dd1ea",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "completes when last cycles's endTime is not set or < startTime",
-        "info": "",
-        "x": 1994,
-        "y": 3136,
-        "wires": []
-    },
-    {
-        "id": "a93364fc53191afa",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "completes on two equal-sized successes",
-        "info": "",
-        "x": 2422,
-        "y": 3376,
-        "wires": []
-    },
-    {
-        "id": "be97d0df7a6b19a8",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "isNotEmpty [ ]",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "jsonata_exp",
-                "v": "$count(multiQueryData.prodRowList_pollRes.result) <= 0",
-                "vt": "jsonata"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 3094,
-        "y": 3424,
-        "wires": [
-            [
-                "783c3ba87fe4eef9",
-                "c8719ba1108367ee"
-            ],
-            [
-                "0ab174afb48ce030"
-            ]
-        ]
-    },
-    {
-        "id": "49301850ec6be08d",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "completes on two equal-sized successes",
-        "info": "",
-        "x": 2400,
-        "y": 3504,
-        "wires": []
-    },
-    {
-        "id": "0ab174afb48ce030",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "NOTHING PRODUCED",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3352,
-        "y": 3440,
-        "wires": []
-    },
-    {
-        "id": "a30ce2169c4078a4",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "SELECTED CYCLE ROW",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3172,
-        "y": 3280,
-        "wires": []
-    },
-    {
-        "id": "f48b49fff7fd6a15",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "PRE SELECTED CYCLE ROW",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2812,
-        "y": 3184,
-        "wires": []
-    },
-    {
-        "id": "c8719ba1108367ee",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "SELECTED PROD ROW",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3352,
-        "y": 3408,
-        "wires": []
-    },
-    {
-        "id": "9fe6bae37ffab67b",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "SELECTED EXC ROW",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3112,
-        "y": 3536,
-        "wires": []
-    },
-    {
-        "id": "f07f3592aff356d4",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "REMOVED EXC ROW",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "\"event\"",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3012,
-        "y": 3744,
-        "wires": []
-    },
-    {
-        "id": "0757913a87ded3fa",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DB PollGet last cycleNumber x10/20s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n\n// var maxAtt = 10;\n// //var delay = 2*1000;\n// var timeout = 20*1000;\n// var delay = maxTimeout/maxRetry;\nvar [maxAtt, delay, timeout] = fromAttemptsAndTimeout(10,20*1000);\nvar startTime = Date.now();\n\n//set session vars\nif(!msg.dbPollGet)\n    msg.dbPollGet = {\"private\":{}};\nif(!msg.dbPollGet.private)\n    msg.dbPollGet.private = {};\n//if is self feedback msg\nif(msg?.dbPollGet?.private?.isSelfFB && msg?.dbPollGet?.private?.srcNodeId){\n    \n}\n\n\n\n\n//---------------------------------------------------------------------------------------------------------------------------------------------\n\nfunction displayStatus(){\n\n}\n\nfunction tryQuery(query)\n\nfunction fromAttemptsAndTimeout(att, tout){\n return [att, tout/att, tout]\n}\n\nfunction fromDelayAndTimeout(del,tout){\n    return [Math.round(tout/del), del, tout];\n}\n\nfunction fromDelayAndAttempts(del, att){\n    return [att,del,att*del];\n}\n\nfunction fromAttemptsAndDelay(){ return fromDelayAndAttempts(...arguments); }",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1696,
-        "y": 2880,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "f75b36f999eb95ab",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DB PollGet last prod row x5/10s",
-        "func": "\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1686,
-        "y": 2940,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "0c9de8cc9225f76a",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DB PollGet",
-        "func": "\nreturn msg;",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2258,
-        "y": 2692,
-        "wires": [
-            [
-                "cef60f6c3f501915"
-            ],
-            [
-                "399c8f9cac35a840"
-            ],
-            [
-                "d2973ff3bcaa9233"
-            ]
-        ]
-    },
-    {
-        "id": "cef60f6c3f501915",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "isCallback",
-        "property": "_linkSource",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 2435,
-        "y": 2635.75,
-        "wires": [
-            [
-                "7032dc6a9ca1038f"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "dbdd050756e63420",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "",
-        "links": [],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 2848,
-        "y": 2632,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7032dc6a9ca1038f",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DBPollGet_outType : singleFail",
-        "rules": [
-            {
-                "t": "set",
-                "p": "DBPollGet_outType",
-                "pt": "msg",
-                "to": "fail",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2648,
-        "y": 2632,
-        "wires": [
-            [
-                "dbdd050756e63420"
-            ]
-        ]
-    },
-    {
-        "id": "399c8f9cac35a840",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "isCallback",
-        "property": "_linkSource",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 2438,
-        "y": 2692,
-        "wires": [
-            [
-                "23129549f38ea39e"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "99a9cc64e8d1d569",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "",
-        "links": [],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 2828,
-        "y": 2692,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "23129549f38ea39e",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DBPollGet_outType : timeout",
-        "rules": [
-            {
-                "t": "set",
-                "p": "DBPollGet_outType",
-                "pt": "msg",
-                "to": "fail",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2638,
-        "y": 2692,
-        "wires": [
-            [
-                "99a9cc64e8d1d569"
-            ]
-        ]
-    },
-    {
-        "id": "d2973ff3bcaa9233",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "isCallback",
-        "property": "_linkSource",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 2438,
-        "y": 2752,
-        "wires": [
-            [
-                "fc379554953cb51c"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "8691fc0a65c5cfce",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "",
-        "links": [],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 2848,
-        "y": 2752,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "fc379554953cb51c",
-        "type": "change",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DBPollGet_outType : success",
-        "rules": [
-            {
-                "t": "set",
-                "p": "DBPollGet_outType",
-                "pt": "msg",
-                "to": "fail",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2648,
-        "y": 2752,
-        "wires": [
-            [
-                "8691fc0a65c5cfce"
-            ]
-        ]
-    },
-    {
-        "id": "1f5105270c298506",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "e0ed091823085ebe",
-        "name": "DB PollGet Template",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//clean other dbPollGet's state vars\nif (msg.dbPollGet.isPollComplete) {\n    node.warn({ txt: \"you should delete old dbPollGet state vars from msg before passing it to another dbPollGet node\", full: msg });\n    delete msg.dbPollGet;\n}\n\n//dbPollGet common fields\nmsg.dbPollGet ??= {}\nconst pollCtx = msg.dbPollGet;\npollCtx.attempts ??= 0;\npollCtx.startTime ??= Date.now();\npollCtx.sqlErrors ??= [];\n//node-specific cfg\n    // pollCtx.maxAttempts ??= 10;\n    // pollCtx.delay ??= 2 * 1000;\n    // pollCtx.tout ??= pollCtx.maxAttempts * pollCtx.delay + (100 * pollCtx.maxAttempts);\n    // pollCtx.toutTime ??= pollCtx.startTime + pollCtx.tout\n\npollCtx.isSuccess ??= function (resMsg, out_errTxt) {\n    out_errTxt.value = resMsg.error?.message ?? \"\";\n    return !resMsg.error;\n};\n\nconst query = ctxGet(\"query\", `\n  SELECT * FROM italmatic_production\n`)\n\npollCtx.attempts += 1;\n//if is first attempt\n//just try\nif (pollCtx.attempts == 0) {\n    return [null, db.attachQuery(query, msg), null];\n}\nelse {\n    var outParam_errTxt = {};\n    //on success -> return\n    if (pollCtx.isSuccess(msg, outParam_errTxt)) {\n        return [msg, null, null];\n    }\n    //on fail\n    else {\n        //move error result to pollCtx\n        pollCtx.sqlError.push({\n            \"txt\": outParam_errTxt.value,\n            \"error\": msg.error,\n            \"_error\": msg._error,\n            \"payload\": msg.payload\n        });\n        delete msg.error;\n        delete msg._error;\n        delete msg.payload;\n        //retry or return fail\n        if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n            return [null, db.attachQuery(query, msg), msg];\n        else\n            return [null, null, msg];\n    }\n}\n\n",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2056,
-        "y": 2900,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "121fea383be28584",
-        "type": "function",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "QueryDB cycle(last && incomplete) retry:10t / 2s / 20s",
-        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//clean other dbPollGet's state vars\nif (msg.dbPollGet.isPollComplete) {\n  node.warn({ txt: \"you should delete old dbPollGet state vars from msg before passing it to another dbPollGet node\", full: msg });\n  delete msg.dbPollGet;\n}\n\n//dbPollGet common fields\nmsg.dbPollGet ??= {}\nconst pollCtx = msg.dbPollGet;\npollCtx.attempts ??= 0;\npollCtx.startTime ??= Date.now();\npollCtx.sqlErrorList ??= [];\n//node-specific cfg\npollCtx.maxAttempts ??= 10;\npollCtx.delay ??= 2*1000;\npollCtx.toutTolerance = pollCtx.delay / 6;\npollCtx.toutDelay ??= pollCtx.maxAttempts * pollCtx.delay + pollCtx.toutTolerance;\npollCtx.toutTime ??= pollCtx.startTime + pollCtx.toutDelay\n\npollCtx.isSuccess ??= function (resMsg, out_errTxt){\n  out_errTxt.value = resMsg.error?.message ?? \"\";\n  return !resMsg.error;\n};\n\nconst query = ctxGet(\"query\",`\n  SELECT * FROM italmatic_production\n`)\n\n\n//if is first attempt //attempt++\nif(pollCtx.attempts++ == 0){\n  return [null, db.attachQuery(query, msg), null];\n}\nelse{\n  var outParam_errTxt = {};\n  //on success -> return\n  if (pollCtx.isSuccess(msg, outParam_errTxt)){\n    return [msg, null, null];\n  }\n  //on fail\n  else{\n    //move error result to pollCtx\n    pollCtx.sqlErrorList.push({\n      \"txt\": outParam_errTxt.value,\n      \"error\": msg.error,\n      \"_error\": msg._error,\n      \"payload\": msg.payload\n    });\n    delete msg.error;\n    delete msg._error;\n    delete msg.payload;\n    //retry\n    if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n      setTimeout(()=>{\n        node.send([null, msg, null]);\n      }, (pollCtx.startTime + (pollCtx.delay * (pollCtx.attempts-1))) - Date.now());\n    //return fail\n    return [null , null, msg];\n  }\n}\n\n",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2552,
-        "y": 2916,
-        "wires": [
-            [
-                "0bf145e4ce9ab946"
-            ],
-            [
-                "11f536ea3c1ff92a"
-            ],
-            [
-                "113af3e4c0c7bece"
-            ]
-        ],
-        "outputLabels": [
-            "success",
-            "dbQuery (retry)",
-            "any fail"
-        ]
-    },
-    {
-        "id": "11f536ea3c1ff92a",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "isFinalFail",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "jsonata_exp",
-                "v": "dbPollGet.maxAttempts >= $count(dbPollGet.sqlErrorList)",
-                "vt": "jsonata"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 2862,
-        "y": 2932,
-        "wires": [
-            [
-                "3e3a86f4d1bad409",
-                "60d5255753a89049"
-            ],
-            [
-                "4df80b103f9d0110",
-                "3927c79dc18975ce"
-            ]
-        ]
-    },
-    {
-        "id": "0bf145e4ce9ab946",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "success",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2852,
-        "y": 2900,
-        "wires": [
-            [
-                "670bbd7264bc176f",
-                "f045162006284d0e"
-            ]
-        ]
-    },
-    {
-        "id": "113af3e4c0c7bece",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "ToDB",
-        "links": [
-            "e425438737e4e626"
-        ],
-        "linkType": "static",
-        "timeout": "99999",
-        "x": 2504,
-        "y": 2964,
-        "wires": [
-            [
-                "121fea383be28584"
-            ]
-        ]
-    },
-    {
-        "id": "670bbd7264bc176f",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet SUCCESS",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3108,
-        "y": 2900,
-        "wires": []
-    },
-    {
-        "id": "3e3a86f4d1bad409",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet MID FAIL",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3108,
-        "y": 2932,
-        "wires": []
-    },
-    {
-        "id": "4df80b103f9d0110",
-        "type": "debug",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet MID FINAL FAIL",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3136,
-        "y": 2964,
-        "wires": []
-    },
-    {
-        "id": "c1fa16292f8d668d",
-        "type": "link in",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet cycleNumber in",
-        "links": [],
-        "x": 2263,
-        "y": 2916,
-        "wires": [
-            [
-                "121fea383be28584"
-            ]
-        ]
-    },
-    {
-        "id": "f045162006284d0e",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet cycleNumber success out",
-        "mode": "link",
-        "links": [],
-        "x": 2999,
-        "y": 2900,
-        "wires": []
-    },
-    {
-        "id": "60d5255753a89049",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet cycleNumber midFail out",
-        "mode": "link",
-        "links": [],
-        "x": 2999,
-        "y": 2932,
-        "wires": []
-    },
-    {
-        "id": "3927c79dc18975ce",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet cycleNumber finalFail out",
-        "mode": "link",
-        "links": [],
-        "x": 2999,
-        "y": 2964,
-        "wires": []
-    },
-    {
-        "id": "643dfc4aa2451942",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "d": true,
-        "g": "6c1a1057d14e96d2",
-        "name": "DBPollGet cycleNumber",
-        "info": "",
-        "x": 2360,
-        "y": 2868,
-        "wires": []
-    },
-    {
         "id": "53b729e6e0afd102",
         "type": "switch",
         "z": "2260f1f88d7c60bf",
@@ -12001,106 +10572,6 @@
         "wires": []
     },
     {
-        "id": "bbe8e4b529b1acb3",
-        "type": "link call",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "update queueTable fromDb",
-        "links": [],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 2330,
-        "y": 3760,
-        "wires": [
-            [
-                "5549f905eb444cb9"
-            ]
-        ]
-    },
-    {
-        "id": "5eeaa688d6eefa90",
-        "type": "switch",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 2929,
-        "y": 3680,
-        "wires": [
-            []
-        ],
-        "l": false
-    },
-    {
-        "id": "787b16cc56aacf5d",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "refreshHistoryTable_out",
-        "mode": "link",
-        "links": [
-            "0933e76415d3b0d8",
-            "a6ed287fa626363b"
-        ],
-        "x": 3010,
-        "y": 3792,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "a976f8361278473b",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "refreshCompletedTable_out",
-        "mode": "link",
-        "links": [
-            "15870b35cd8f1905"
-        ],
-        "x": 3288,
-        "y": 3712,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "c53439603f4e4208",
-        "type": "link out",
-        "z": "2260f1f88d7c60bf",
-        "g": "9e4171e022a9d561",
-        "name": "refreshQueueTable_out",
-        "mode": "link",
-        "links": [
-            "3bea7933e72005a0",
-            "1d1e8e2742a7dcf8",
-            "107ba20c98b6cb03",
-            "1ebe50be51bab839"
-        ],
-        "x": 3278,
-        "y": 3744,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "6b72246dcf1d4463",
-        "type": "comment",
-        "z": "2260f1f88d7c60bf",
-        "g": "7c766e01a9b8df79",
-        "name": "why not a single sql query? (readMe)",
-        "info": "there is no \"done\" event\nthe db is therefore polled adopting different strategies to ensure the data has been integrally written",
-        "x": 2932,
-        "y": 3088,
-        "wires": []
-    },
-    {
         "id": "bd2747c35b481472",
         "type": "debug",
         "z": "2260f1f88d7c60bf",
@@ -12135,6 +10606,1537 @@
         "x": 1456,
         "y": 816,
         "wires": []
+    },
+    {
+        "id": "cf6b343f2f0a8d9a",
+        "type": "link in",
+        "z": "2260f1f88d7c60bf",
+        "name": "pressa1 allProdExc oncePerCycleEnd in",
+        "links": [
+            "479532ec132fba80"
+        ],
+        "x": 1580,
+        "y": 3285,
+        "wires": [
+            [
+                "4fb42373e4e99b72"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "50128141cfef2e47",
+        "type": "link in",
+        "z": "2260f1f88d7c60bf",
+        "name": "pressa1 allProdExc oncePerCycleStart in",
+        "links": [
+            "d475353a7f70bf2a"
+        ],
+        "x": 1580,
+        "y": 3173,
+        "wires": [
+            [
+                "0e4b20669b1991d2"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "0757913a87ded3fa",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DB PollGet last cycleNumber x10/20s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n\n// var maxAtt = 10;\n// //var delay = 2*1000;\n// var timeout = 20*1000;\n// var delay = maxTimeout/maxRetry;\nvar [maxAtt, delay, timeout] = fromAttemptsAndTimeout(10,20*1000);\nvar startTime = Date.now();\n\n//set session vars\nif(!msg.dbPollGet)\n    msg.dbPollGet = {\"private\":{}};\nif(!msg.dbPollGet.private)\n    msg.dbPollGet.private = {};\n//if is self feedback msg\nif(msg?.dbPollGet?.private?.isSelfFB && msg?.dbPollGet?.private?.srcNodeId){\n    \n}\n\n\n\n\n//---------------------------------------------------------------------------------------------------------------------------------------------\n\nfunction displayStatus(){\n\n}\n\nfunction tryQuery(query)\n\nfunction fromAttemptsAndTimeout(att, tout){\n return [att, tout/att, tout]\n}\n\nfunction fromDelayAndTimeout(del,tout){\n    return [Math.round(tout/del), del, tout];\n}\n\nfunction fromDelayAndAttempts(del, att){\n    return [att,del,att*del];\n}\n\nfunction fromAttemptsAndDelay(){ return fromDelayAndAttempts(...arguments); }",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1692,
+        "y": 2885,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f75b36f999eb95ab",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DB PollGet last prod row x5/10s",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1682,
+        "y": 2945,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c9de8cc9225f76a",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DB PollGet",
+        "func": "\nreturn msg;",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2254,
+        "y": 2697,
+        "wires": [
+            [
+                "cef60f6c3f501915"
+            ],
+            [
+                "399c8f9cac35a840"
+            ],
+            [
+                "d2973ff3bcaa9233"
+            ]
+        ]
+    },
+    {
+        "id": "cef60f6c3f501915",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "isCallback",
+        "property": "_linkSource",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 2431,
+        "y": 2640.75,
+        "wires": [
+            [
+                "7032dc6a9ca1038f"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "dbdd050756e63420",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 2844,
+        "y": 2637,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7032dc6a9ca1038f",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DBPollGet_outType : singleFail",
+        "rules": [
+            {
+                "t": "set",
+                "p": "DBPollGet_outType",
+                "pt": "msg",
+                "to": "fail",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2644,
+        "y": 2637,
+        "wires": [
+            [
+                "dbdd050756e63420"
+            ]
+        ]
+    },
+    {
+        "id": "399c8f9cac35a840",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "isCallback",
+        "property": "_linkSource",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 2434,
+        "y": 2697,
+        "wires": [
+            [
+                "23129549f38ea39e"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "99a9cc64e8d1d569",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 2824,
+        "y": 2697,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "23129549f38ea39e",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DBPollGet_outType : timeout",
+        "rules": [
+            {
+                "t": "set",
+                "p": "DBPollGet_outType",
+                "pt": "msg",
+                "to": "fail",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2634,
+        "y": 2697,
+        "wires": [
+            [
+                "99a9cc64e8d1d569"
+            ]
+        ]
+    },
+    {
+        "id": "d2973ff3bcaa9233",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "isCallback",
+        "property": "_linkSource",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 2434,
+        "y": 2757,
+        "wires": [
+            [
+                "fc379554953cb51c"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "8691fc0a65c5cfce",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 2844,
+        "y": 2757,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc379554953cb51c",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DBPollGet_outType : success",
+        "rules": [
+            {
+                "t": "set",
+                "p": "DBPollGet_outType",
+                "pt": "msg",
+                "to": "fail",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2644,
+        "y": 2757,
+        "wires": [
+            [
+                "8691fc0a65c5cfce"
+            ]
+        ]
+    },
+    {
+        "id": "1f5105270c298506",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "e0ed091823085ebe",
+        "name": "DB PollGet Template",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//clean other dbPollGet's state vars\nif (msg.dbPollGet.isPollComplete) {\n    node.warn({ txt: \"you should delete old dbPollGet state vars from msg before passing it to another dbPollGet node\", full: msg });\n    delete msg.dbPollGet;\n}\n\n//dbPollGet common fields\nmsg.dbPollGet ??= {}\nconst pollCtx = msg.dbPollGet;\npollCtx.attempts ??= 0;\npollCtx.startTime ??= Date.now();\npollCtx.sqlErrors ??= [];\n//node-specific cfg\n    // pollCtx.maxAttempts ??= 10;\n    // pollCtx.delay ??= 2 * 1000;\n    // pollCtx.tout ??= pollCtx.maxAttempts * pollCtx.delay + (100 * pollCtx.maxAttempts);\n    // pollCtx.toutTime ??= pollCtx.startTime + pollCtx.tout\n\npollCtx.isSuccess ??= function (resMsg, out_errTxt) {\n    out_errTxt.value = resMsg.error?.message ?? \"\";\n    return !resMsg.error;\n};\n\nconst query = ctxGet(\"query\", `\n  SELECT * FROM italmatic_production\n`)\n\npollCtx.attempts += 1;\n//if is first attempt\n//just try\nif (pollCtx.attempts == 0) {\n    return [null, db.attachQuery(query, msg), null];\n}\nelse {\n    var outParam_errTxt = {};\n    //on success -> return\n    if (pollCtx.isSuccess(msg, outParam_errTxt)) {\n        return [msg, null, null];\n    }\n    //on fail\n    else {\n        //move error result to pollCtx\n        pollCtx.sqlError.push({\n            \"txt\": outParam_errTxt.value,\n            \"error\": msg.error,\n            \"_error\": msg._error,\n            \"payload\": msg.payload\n        });\n        delete msg.error;\n        delete msg._error;\n        delete msg.payload;\n        //retry or return fail\n        if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n            return [null, db.attachQuery(query, msg), msg];\n        else\n            return [null, null, msg];\n    }\n}\n\n",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2052,
+        "y": 2905,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "121fea383be28584",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "QueryDB cycle(last && incomplete) retry:10t / 2s / 20s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\n//routes: [ success , retry (dbQuery) , any fail ]\n\n//clean other dbPollGet's state vars\nif (msg.dbPollGet.isPollComplete) {\n  node.warn({ txt: \"you should delete old dbPollGet state vars from msg before passing it to another dbPollGet node\", full: msg });\n  delete msg.dbPollGet;\n}\n\n//dbPollGet common fields\nmsg.dbPollGet ??= {}\nconst pollCtx = msg.dbPollGet;\npollCtx.attempts ??= 0;\npollCtx.startTime ??= Date.now();\npollCtx.sqlErrorList ??= [];\n//node-specific cfg\npollCtx.maxAttempts ??= 10;\npollCtx.delay ??= 2*1000;\npollCtx.toutTolerance = pollCtx.delay / 6;\npollCtx.toutDelay ??= pollCtx.maxAttempts * pollCtx.delay + pollCtx.toutTolerance;\npollCtx.toutTime ??= pollCtx.startTime + pollCtx.toutDelay\n\npollCtx.isSuccess ??= function (resMsg, out_errTxt){\n  out_errTxt.value = resMsg.error?.message ?? \"\";\n  return !resMsg.error;\n};\n\nconst query = ctxGet(\"query\",`\n  SELECT * FROM italmatic_production\n`)\n\n\n//if is first attempt //attempt++\nif(pollCtx.attempts++ == 0){\n  return [null, db.attachQuery(query, msg), null];\n}\nelse{\n  var outParam_errTxt = {};\n  //on success -> return\n  if (pollCtx.isSuccess(msg, outParam_errTxt)){\n    return [msg, null, null];\n  }\n  //on fail\n  else{\n    //move error result to pollCtx\n    pollCtx.sqlErrorList.push({\n      \"txt\": outParam_errTxt.value,\n      \"error\": msg.error,\n      \"_error\": msg._error,\n      \"payload\": msg.payload\n    });\n    delete msg.error;\n    delete msg._error;\n    delete msg.payload;\n    //retry\n    if (pollCtx.attempts < pollCtx.maxAttempts && Date.now() < pollCtx.toutTime)\n      setTimeout(()=>{\n        node.send([null, msg, null]);\n      }, (pollCtx.startTime + (pollCtx.delay * (pollCtx.attempts-1))) - Date.now());\n    //return fail\n    return [null , null, msg];\n  }\n}\n\n",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2548,
+        "y": 2921,
+        "wires": [
+            [
+                "0bf145e4ce9ab946"
+            ],
+            [
+                "11f536ea3c1ff92a"
+            ],
+            [
+                "113af3e4c0c7bece"
+            ]
+        ],
+        "outputLabels": [
+            "success",
+            "dbQuery (retry)",
+            "any fail"
+        ]
+    },
+    {
+        "id": "11f536ea3c1ff92a",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "isFinalFail",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "jsonata_exp",
+                "v": "dbPollGet.maxAttempts >= $count(dbPollGet.sqlErrorList)",
+                "vt": "jsonata"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 2858,
+        "y": 2937,
+        "wires": [
+            [
+                "3e3a86f4d1bad409",
+                "60d5255753a89049"
+            ],
+            [
+                "4df80b103f9d0110",
+                "3927c79dc18975ce"
+            ]
+        ]
+    },
+    {
+        "id": "0bf145e4ce9ab946",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "success",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 2848,
+        "y": 2905,
+        "wires": [
+            [
+                "670bbd7264bc176f",
+                "f045162006284d0e"
+            ]
+        ]
+    },
+    {
+        "id": "113af3e4c0c7bece",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2500,
+        "y": 2969,
+        "wires": [
+            [
+                "121fea383be28584"
+            ]
+        ]
+    },
+    {
+        "id": "670bbd7264bc176f",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet SUCCESS",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3104,
+        "y": 2905,
+        "wires": []
+    },
+    {
+        "id": "3e3a86f4d1bad409",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet MID FAIL",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3104,
+        "y": 2937,
+        "wires": []
+    },
+    {
+        "id": "4df80b103f9d0110",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet MID FINAL FAIL",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3132,
+        "y": 2969,
+        "wires": []
+    },
+    {
+        "id": "c1fa16292f8d668d",
+        "type": "link in",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet cycleNumber in",
+        "links": [],
+        "x": 2259,
+        "y": 2921,
+        "wires": [
+            [
+                "121fea383be28584"
+            ]
+        ]
+    },
+    {
+        "id": "f045162006284d0e",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet cycleNumber success out",
+        "mode": "link",
+        "links": [],
+        "x": 2995,
+        "y": 2905,
+        "wires": []
+    },
+    {
+        "id": "60d5255753a89049",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet cycleNumber midFail out",
+        "mode": "link",
+        "links": [],
+        "x": 2995,
+        "y": 2937,
+        "wires": []
+    },
+    {
+        "id": "3927c79dc18975ce",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet cycleNumber finalFail out",
+        "mode": "link",
+        "links": [],
+        "x": 2995,
+        "y": 2969,
+        "wires": []
+    },
+    {
+        "id": "643dfc4aa2451942",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "d": true,
+        "g": "6c1a1057d14e96d2",
+        "name": "DBPollGet cycleNumber",
+        "info": "",
+        "x": 2356,
+        "y": 2873,
+        "wires": []
+    },
+    {
+        "id": "0e4b20669b1991d2",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "QueryDB cycle(last && incomplete) retry:10t / 2s / 20s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 10,\n  delay: 2 * 1000,\n  toutDelay: undefined,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\n\n\nconst pollCtx = msg[dbPoll.pollCtxKey];\n//last cycle row\npollCtx.query = ctxGet(\"query\", `\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime\n  FROM\n    cycle\n  WHERE\n    CYCLE_NUMBER =(\n      SELECT\n        MAX(CYCLE_NUMBER)\n      FROM\n        cycle\n    )\n`);\n\n//row is new <imply> endTime is undef\n  //endTime is: nullish || \"\\s*\" || \"null\" || \"undefined\" || <=startTime\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (node, resMsg, out_errTxt) {\n  if(resMsg.error){\n    out_errTxt.value = resMsg.error?.message ?? \"\";\n    return false;\n  }\n  if(utils.isNotSet(resMsg?.payload?.[0])){\n    node.error({txt:\"got empty or faily result while polling for last cycle number\",full:resMsg });\n    out_errTxt.value = \"empty or null result\";\n    return false;\n  }\n  if(resMsg.payload.length > 1)\n    node.error({ txt:\"got more than one row while polling for last cycle number\",full:msg });\n  \n  var maxRow = resMsg.payload[0];\n  switch(typeof(maxRow.endTime)){\n    case \"object\":{ //assume it's null\n      if(maxRow.endTime !== null)\n        node.error({txt:\"endTime is of type 'object' but not null. What object?\", endTime: maxRow.endTime,full:resMsg})\n      return true;\n    }\n    case \"undefined\":{\n      return true;\n    }\n    case \"string\":{\n      if (maxRow.endTime.match(/^\\s*(?:\\s*|null|undefined)\\s*$/i) || (!!Date.parse(maxRow.endtime) && Date.parse(maxRow.endTime) <= Date.parse(maxRow.startTime))){\n        return true;\n      }\n      else{\n        out_errTxt.value = \"endTime type === string but it's not a nullish date or nullish string\"\n        return false;\n      }\n    }\n    default:{\n      out_errTxt.value = \"unexpected type \"+typeof(maxRow.endTime)\n      return false;\n    }\n  }\n});\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);\n\n",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1988,
+        "y": 3173,
+        "wires": [
+            [
+                "18cacbe1fdf81b66"
+            ],
+            [],
+            [
+                "717b63f7415240cd"
+            ]
+        ],
+        "outputLabels": [
+            "success",
+            "dbQuery (retry)",
+            "any fail"
+        ]
+    },
+    {
+        "id": "717b63f7415240cd",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2004,
+        "y": 3221,
+        "wires": [
+            [
+                "0e4b20669b1991d2"
+            ]
+        ]
+    },
+    {
+        "id": "783c3ba87fe4eef9",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "QueryDB exc(orderId list)  retry: 6t / 2s / 30s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 10,\n  delay: 2 * 1000,\n  toutDelay: undefined,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\nconst pollCtx = msg[dbPoll.pollCtxKey];\n\n//CAUTION! running isSuccess() twice will always return true, as it also updates prevNotNullRes\n//overridden for final success and final fail outputs (remember to redact them if you copy this node)\npollCtx.prevNotNullRes ?? (pollCtx.prevNotNullRes = null);\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt){\n  var pollCtx = resMsg.dbPollGet;\n  //got twice the same result size\n  let didResMatch = pollCtx.prevNotNullRes && Array.isArray(resMsg.payload) && resMsg.payload.length == pollCtx.prevNotNullRes.length;\n  out_errTxt.value = didResMatch ? \"unequal results (\"+resMsg.payload?.length+\" vs \"+pollCtx?.prevNotNullRes?.length+\")\" : out_errTxt.value = resMsg.error?.message ?? \"\";\n  if(didResMatch && resMsg.payload.length == 0 && pollCtx.attempt != pollCtx.maxAttempt){\n    out_errTxt.value = \"got empty result. Waiting for late update before accepting it..\";\n    return false;\n  }\n  //update pollCtx\n  pollCtx.prevNotNullRes = resMsg.payload ?? pollCtx.prevNotNullRes;\n  return !resMsg.error && didResMatch;\n});\n\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);\n\n",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2402,
+        "y": 3541,
+        "wires": [
+            [
+                "d609fbc501f3ddc4"
+            ],
+            [],
+            [
+                "266b770030d9929a"
+            ]
+        ],
+        "outputLabels": [
+            "success",
+            "dbQuery (retry)",
+            "any fail"
+        ]
+    },
+    {
+        "id": "266b770030d9929a",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2416,
+        "y": 3589,
+        "wires": [
+            [
+                "783c3ba87fe4eef9"
+            ]
+        ]
+    },
+    {
+        "id": "18cacbe1fdf81b66",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.lastCycleNumber",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nmsg.multiQueryData.lastCycleNumber = msg.payload?.[0]?.cycleNumber ?? node.error({txt:\"missing result\",full:msg});\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2390,
+        "y": 3157,
+        "wires": [
+            [
+                "28c2cd2c514a389d"
+            ]
+        ]
+    },
+    {
+        "id": "f253fb372041d739",
+        "type": "q-gate",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "keep one",
+        "controlTopic": "control",
+        "defaultState": "queueing",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "queueCmd": "queue",
+        "defaultCmd": "default",
+        "triggerCmd": "trigger",
+        "flushCmd": "flush",
+        "resetCmd": "reset",
+        "peekCmd": "peek",
+        "dropCmd": "drop",
+        "statusCmd": "status",
+        "maxQueueLength": "1",
+        "keepNewest": true,
+        "qToggle": false,
+        "persist": false,
+        "storeName": "memory",
+        "x": 2126,
+        "y": 3285,
+        "wires": [
+            [
+                "eb41138075a3f5f1"
+            ]
+        ]
+    },
+    {
+        "id": "4fb42373e4e99b72",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "trigger",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "trigger",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1940,
+        "y": 3285,
+        "wires": [
+            [
+                "f253fb372041d739"
+            ]
+        ]
+    },
+    {
+        "id": "b357635eb2dd1a5c",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1873,
+        "y": 3285,
+        "wires": [
+            [
+                "4fb42373e4e99b72"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "b9418ba4daf6f362",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1873,
+        "y": 3317,
+        "wires": [
+            [
+                "1ce8b143c0fb178f"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "1ce8b143c0fb178f",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "peek",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "peek",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1940,
+        "y": 3317,
+        "wires": [
+            [
+                "f253fb372041d739"
+            ]
+        ]
+    },
+    {
+        "id": "30715f75ad5b00a7",
+        "type": "change",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "drop",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "flush",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1940,
+        "y": 3349,
+        "wires": [
+            [
+                "f253fb372041d739"
+            ]
+        ]
+    },
+    {
+        "id": "fe3cce29d5ac8ab5",
+        "type": "inject",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1873,
+        "y": 3349,
+        "wires": [
+            [
+                "30715f75ad5b00a7"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "eb41138075a3f5f1",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "QueryDB cycle(lastCycleNumber) retry:10t / 2s / 20s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 10,\n  delay: 2 * 1000,\n  toutDelay: undefined,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\nconst pollCtx = msg[dbPoll.pollCtxKey];\n\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt) {\n  //not (endTime is date && startTime is date && endTime > startTime)\n  if (!(Date.parse(resMsg.endTime) > Date.parse(resMsg.startTime))){ //parse(\"notADate\") <=> NaN  //NaN ><= int <=> false  //NaN ><= NaN <=> false\n    out_errTxt.value = \"cycle endTime has not been updated (it is not a date or is smaller than startTime) st:\" + Date.parse(resMsg.startTime) + \" end: \" + Date.parse(resMsg.endTime);\n    return false;\n  }\n  out_errTxt.value = resMsg.error?.message ?? \"\";\n  return !resMsg.error;\n});\n\n//seleziona la riga (una) con max cycNumber (quella appena prodotta)\nconst query = ctxGet(\"query\", `\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    RECIPE_NAME as recipeName,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime,\n    \\`COMMENT\\` as \\`note\\`\n  FROM\n    cycle\n  WHERE\n    CYCLE_NUMBER =(\n      SELECT\n        MAX(CYCLE_NUMBER)\n      FROM\n        cycle\n    )\n`);\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2428,
+        "y": 3285,
+        "wires": [
+            [
+                "a36ab7c9d6dd6084"
+            ],
+            [],
+            [
+                "57aa74da7c79273b"
+            ]
+        ],
+        "outputLabels": [
+            "success",
+            "dbQuery (retry)",
+            "any fail"
+        ]
+    },
+    {
+        "id": "57aa74da7c79273b",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2432,
+        "y": 3333,
+        "wires": [
+            [
+                "eb41138075a3f5f1"
+            ]
+        ]
+    },
+    {
+        "id": "28c2cd2c514a389d",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.cycleRowExists_pollRes",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.cycleRowExists_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2410,
+        "y": 3189,
+        "wires": [
+            [
+                "f253fb372041d739",
+                "f48b49fff7fd6a15"
+            ]
+        ]
+    },
+    {
+        "id": "a36ab7c9d6dd6084",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.cycleRow_pollRes",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.cycleRow_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2814,
+        "y": 3285,
+        "wires": [
+            [
+                "50628505893c1002",
+                "a30ce2169c4078a4"
+            ]
+        ]
+    },
+    {
+        "id": "50628505893c1002",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "QueryDB prod(lastCycleNum)  retry:6t / 2s / 30s",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n//verify msg holds the values required by the sql query\nlet lastCycleNumber = msg.multiQueryData?.lastCycleNumber;\nif (utils.isNotSet(lastCycleNumber)){\n  node.error({ txt: \"missing last cycle number. Aborted flow\", lastCycNum: lastCycleNumber, full:msg });\n  return null;\n}\n\n//setup pollCtx\ndbPoll.initPollCtx_core(node, msg);\ndbPoll.initPollCtx_cfg(node, msg, {\n  maxAttempts: 6,\n  delay: 2 * 1000,\n  toutDelay: 30 * 1000,   //undefined fields will be generated from other vals\n  toutTolerance: undefined,\n  toutTime: undefined\n})\nconst pollCtx = msg[dbPoll.pollCtxKey];\n\n// //setup context\n//   //timedStore is a map over cycleNumber of the poll's result, needed to check whether two results match\n//   //it's deleted after toutDelay, when is certain it won't be needed any more by any concurrent poll\n//   //concurrency is not tested (can a context object be safely manipulated by concurrent threads?)\n// var timedStore = ctxGet(\"timedStore\", initTimedStore(lastCycleNumber, Date.now()));\n// timedStore[lastCycleNumber] ??=  {};\n// timedStore[lastCycleNumber].lastUsedTime = Date.now();\n// timedStore[lastCycleNumber].result = null;\n// //clear old timedStore entries\n// for(var [cycNum, store] of Object.entries(timedStore)){\n//   if(Date.now() - store.lastUsedTime > 1.2 * pollCtx.toutDelay){\n//     delete timedStore[cycNum];\n//   }\n// }\n// context.set(\"timedStore\",timedStore);\n\n//CAUTION! running isSuccess() twice will always return true, as it also updates prevNotNullRes\n  //overridden for final success and final fail outputs (remember to redact them if you copy this node)\npollCtx.prevNotNullRes ?? (pollCtx.prevResNotNull = null);\npollCtx.isSuccess ?? (pollCtx.isSuccess = function (resMsg, out_errTxt){\n  var pollCtx = resMsg.dbPollGet;\n  //got twice the same result size\n  let didResMatch = pollCtx.prevNotNullRes && Array.isArray(resMsg.payload) && resMsg.payload.length == pollCtx.prevNotNullRes.length;\n  out_errTxt.value = didResMatch ? \"unequal results (\"+resMsg.payload?.length+\" vs \"+pollCtx?.prevNotNullRes?.length+\")\" : out_errTxt.value = resMsg.error?.message ?? \"\";\n  if(didResMatch && resMsg.payload.length == 0 && pollCtx.attempt != pollCtx.maxAttempt){\n    out_errTxt.value = \"got empty result. Waiting for late update before accepting it..\";\n    return false;\n  }\n  //update pollCtx\n  pollCtx.prevNotNullRes = resMsg.payload ?? pollCtx.prevNotNullRes;\n  return !resMsg.error && didResMatch;\n});\n\n//seleziona le righe (+ di una) relative agli ordini appena prodotti\npollCtx.query = db.sqlString.format(`\n  SELECT\n    CYCLE_NUMBER as cycleNumber,\n    ORDER_ID as orderId,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime,\n    QUANT_PROD as quantProd,\n    ESITO as esito\n  FROM\n    italmatic_production\n  WHERE\n    CYCLE_NUMBER =  ?\n`, lastCycleNumber);\n\n\n\n//dbPoll.validatePollCtxInit(node, msg); //commented since not explicitly defined stuff (except query and isSuccess())\nreturn dbPoll.performPollStep(node, msg);",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2414,
+        "y": 3413,
+        "wires": [
+            [
+                "85a4f8fe1df1e635"
+            ],
+            [],
+            [
+                "f703574d360ff934"
+            ]
+        ],
+        "outputLabels": [
+            "success",
+            "dbQuery (retry)",
+            "any fail"
+        ]
+    },
+    {
+        "id": "f703574d360ff934",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2408,
+        "y": 3461,
+        "wires": [
+            [
+                "50628505893c1002"
+            ]
+        ]
+    },
+    {
+        "id": "85a4f8fe1df1e635",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.orderId",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nmsg.multiQueryData.orderId = msg.payload?.[0]?.ORDER_ID ?? node.error({txt:\"missing result\",full:msg});\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2776,
+        "y": 3397,
+        "wires": [
+            [
+                "c7a6599d3d4e79fd"
+            ]
+        ]
+    },
+    {
+        "id": "c7a6599d3d4e79fd",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.prodRowList_pollRes",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.prodRowList_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2816,
+        "y": 3429,
+        "wires": [
+            [
+                "be97d0df7a6b19a8"
+            ]
+        ]
+    },
+    {
+        "id": "d609fbc501f3ddc4",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "to multiQueryData.excRowList_pollRes",
+        "func": "msg.multiQueryData ?? (msg.multiQueryData = {});\nif (msg.dbPollGet) {\n    var pollResObj = (msg.multiQueryData.excRowList_pollRes = msg.dbPollGet);\n    pollResObj.result = msg.payload;\n    global.get(\"utils\").addAliasTo(pollResObj, \"result\", \"payload\");\n    return msg;\n}\nelse\n    return node.error({ txt: \"missing poll result\", full: msg });",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2768,
+        "y": 3541,
+        "wires": [
+            [
+                "9fe6bae37ffab67b",
+                "bbe8e4b529b1acb3"
+            ]
+        ]
+    },
+    {
+        "id": "ce350560b108ca9c",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "completes when endTime is set and > startTime",
+        "info": "",
+        "x": 2414,
+        "y": 3253,
+        "wires": []
+    },
+    {
+        "id": "4b01fb2cb07dd1ea",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "completes when last cycles's endTime is not set or < startTime",
+        "info": "",
+        "x": 1990,
+        "y": 3141,
+        "wires": []
+    },
+    {
+        "id": "a93364fc53191afa",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "completes on two equal-sized successes",
+        "info": "",
+        "x": 2418,
+        "y": 3381,
+        "wires": []
+    },
+    {
+        "id": "be97d0df7a6b19a8",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "isNotEmpty [ ]",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "jsonata_exp",
+                "v": "$count(multiQueryData.prodRowList_pollRes.result) <= 0",
+                "vt": "jsonata"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 3090,
+        "y": 3429,
+        "wires": [
+            [
+                "783c3ba87fe4eef9",
+                "c8719ba1108367ee"
+            ],
+            [
+                "0ab174afb48ce030"
+            ]
+        ]
+    },
+    {
+        "id": "49301850ec6be08d",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "completes on two equal-sized successes",
+        "info": "",
+        "x": 2396,
+        "y": 3509,
+        "wires": []
+    },
+    {
+        "id": "0ab174afb48ce030",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "NOTHING PRODUCED",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3348,
+        "y": 3445,
+        "wires": []
+    },
+    {
+        "id": "a30ce2169c4078a4",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "SELECTED CYCLE ROW",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3168,
+        "y": 3285,
+        "wires": []
+    },
+    {
+        "id": "f48b49fff7fd6a15",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "PRE SELECTED CYCLE ROW",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2808,
+        "y": 3189,
+        "wires": []
+    },
+    {
+        "id": "c8719ba1108367ee",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "SELECTED PROD ROW",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3348,
+        "y": 3413,
+        "wires": []
+    },
+    {
+        "id": "9fe6bae37ffab67b",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "SELECTED EXC ROW",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3108,
+        "y": 3541,
+        "wires": []
+    },
+    {
+        "id": "985a540f960687be",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "SELECT <many> as <alias> FROM cycle JOINED (1:many) ital_production ON CYCLE_NUMBER JOINED (many:many) ital_exchange ON  ORDER_ID",
+        "info": "pollGet nodes recurse messages over themselves, updating a reserved msg property (msg.dbPollGet).\nAfter each node completes its poll cycle the useful results are moved over by trailing function nodes;\n    they are moved into msg.multiQueryData.<uniqueId>_pollRes\n    and have a consistent structure:\n            //dbPollGet common fields\n        const pollCtx = msg.dbPollGet;\n        pollCtx.attempts        ??= 0;\n        pollCtx.startTime        ??= Date.now();\n        pollCtx.sqlErrorList        ??= [];\n            //node-specific cfg\n        pollCtx.maxAttempts ?       ?= 10;\n        pollCtx.delay       ??= 2 * 1000;\n        pollCtx.toutTolerance       = pollCtx.maxAttempts * 150;\n        pollCtx.toutDelay       ??= pollCtx.maxAttempts * pollCtx.delay + pollCtx.toutTolerance;\n        pollCtx.toutTime        ??= pollCtx.startTime + pollCtx.toutDelay\n        pollCtx.isSuccess ??= function => true | false\n",
+        "x": 2272,
+        "y": 3093,
+        "wires": []
+    },
+    {
+        "id": "6b72246dcf1d4463",
+        "type": "comment",
+        "z": "2260f1f88d7c60bf",
+        "g": "7c766e01a9b8df79",
+        "name": "why not a single sql query? (readMe)",
+        "info": "there is no \"done\" event\nthe db is therefore polled adopting different strategies to ensure the data has been integrally written",
+        "x": 2928,
+        "y": 3093,
+        "wires": []
+    },
+    {
+        "id": "136aa432f7fbc0a5",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "ifOrderCompleted -> update tables",
+        "func": "var plcData=msg.payload;\nconst tabUtils = flow.get(\"tabUtils\");\nconst utils = flow.get(\"utils\");\nconst button = tabUtils.queue.sendToPressButton;\nconst pressNum = msg.press.match(/([0-9]+)$/)[1];\nconst db = global.get(\"db\");\n\nlet queueTable = flow.get(\"queueTable\");\n\nlet prodRowList = msg.multiQueryData.prodRowList_pollRes?.result ?? [];\nlet excRowList = msg.multiQueryData.excRowList_pollRes?.result ?? [];\n\nlet lastCycleNumber = msg.multiQueryData.lastCycleNumber;\nlet orderIdMap = {}; queueTable.forEach(row => orderIdMap[row.id] = row);\nlet queueIdxToDel = [];\n\n\n//sposta in completed\nfor (let dbRow of excRowList){\n    if (dbRow.quantProd >= dbRow.quantToDo && utils.isSet(orderIdMap[dbRow.orderId])){\n        var queueRow = orderIdMap[dbRow.orderId];\n        //crea riga\n        let newRow= tabUtils.completed.newRow();\n        newRow.id = queueRow.id;\n        newRow.cycleNumber = lastCycleNumber;\n        newRow.quantProd = dbRow.quantProd; //excRow.QUANT_PROD;\n        newRow.quantToDo = dbRow.quantToDo; //excRow.QUANT_TO_DO;\n        const getFallbackNote = ()=>{\n            let isNotEmpty = str => !str?.match?.(\"^\\s*$\");\n            let tmp;\n            return isNotEmpty(queueRow) ? queueRow.note :\n                isNotEmpty(dbRow) ? dbRow.note :\n                isNotEmpty(tmp = prodRowList.filter(row => row.orderId == dbRow.orderId)[0]?.note) ? tmp : \"\"\n        }\n        newRow.note = getFallbackNote();\n        //marca come da cancellare localmente\n        queueIdxToDel.push(queueRow.rowId);\n        //invia delete a DB\n        const deleteQueryTemplate = \"DELETE FROM oven.italmatic_exchange WHERE ORDER_ID = ? AND STATUS <> 'w'\";\n        node.send([null, db.attachQuery(db.sqlString.format(deleteQueryTemplate, dbRow.id))]);\n    }\n}\n\n//cancella localmente\nfor (let rowId of queueIdxToDel){\n    tabUtils.deleteRowId(rowId, queueTable);\n}\n\nreturn [msg, null];\n",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2712,
+        "y": 3717,
+        "wires": [
+            [
+                "5eeaa688d6eefa90"
+            ],
+            [
+                "d14cf79a025d6493",
+                "f07f3592aff356d4"
+            ]
+        ],
+        "outputLabels": [
+            "tableUpdateComplete",
+            "to dbQuery"
+        ]
+    },
+    {
+        "id": "92022a60d79443bd",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "push to historyTable",
+        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\nlet prodRowList = msg.multiQueryData.prodRow;\nlet excRowList = msg.multiQueryData.excRow;\n\n//newRow.id = plcData.prod_id;\nnewRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\nnewRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\nnewRow.quantProd = 1;\n//newRow.status = plcData.exc_status;\nnewRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\nnewRow.prodRow.cycleNumber;\nnewRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\nnewRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nhistoryTable.push(row);\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2670,
+        "y": 3765,
+        "wires": [
+            [
+                "787b16cc56aacf5d"
+            ]
+        ]
+    },
+    {
+        "id": "601a36750da62e85",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "tables max length",
+        "func": "//leftshift history when longer than maxLength\nlet table = flow.get(\"historyTable\");\nlet maxLength = 5000;\nlet newLength = 4200;\nif(table.length >= 5000){\n    let diff = table.length - newLength;\n    for(let i=0; i<newLength; i++)\n        table[i] = table[i+diff];\n    table.length = newLength;\n}\nflow.set(\"historyTable\",table);\n\n//leftshift completed when longer than maxLength\ntable = flow.get(\"completedTable\");\nmaxLength = 5000;\nnewLength = 4200;\nif (table.length >= 5000) {\n    let diff = table.length - newLength;\n    for (let i = 0; i < newLength; i++)\n        table[i] = table[i + diff];\n    table.length = newLength;\n}\nflow.set(\"completedTable\",table);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2662,
+        "y": 3813,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d14cf79a025d6493",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 2958,
+        "y": 3717,
+        "wires": [
+            [
+                "a6a5b2fdccfda163"
+            ]
+        ]
+    },
+    {
+        "id": "a6a5b2fdccfda163",
+        "type": "trigger",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "3s",
+        "op1": "",
+        "op2": "true",
+        "op1type": "nul",
+        "op2type": "bool",
+        "duration": "3",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 3086,
+        "y": 3717,
+        "wires": [
+            [
+                "c53439603f4e4208",
+                "a976f8361278473b"
+            ]
+        ]
+    },
+    {
+        "id": "5549f905eb444cb9",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 2485,
+        "y": 3765,
+        "wires": [
+            [
+                "136aa432f7fbc0a5",
+                "92022a60d79443bd",
+                "601a36750da62e85"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "f07f3592aff356d4",
+        "type": "debug",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "REMOVED EXC ROW",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "\"event\"",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 3008,
+        "y": 3749,
+        "wires": []
+    },
+    {
+        "id": "bbe8e4b529b1acb3",
+        "type": "link call",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "update queueTable fromDb",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 2326,
+        "y": 3765,
+        "wires": [
+            [
+                "5549f905eb444cb9"
+            ]
+        ]
+    },
+    {
+        "id": "5eeaa688d6eefa90",
+        "type": "switch",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 2925,
+        "y": 3685,
+        "wires": [
+            []
+        ],
+        "l": false
+    },
+    {
+        "id": "787b16cc56aacf5d",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "refreshHistoryTable_out",
+        "mode": "link",
+        "links": [
+            "0933e76415d3b0d8",
+            "a6ed287fa626363b"
+        ],
+        "x": 3006,
+        "y": 3797,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "a976f8361278473b",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "refreshCompletedTable_out",
+        "mode": "link",
+        "links": [
+            "15870b35cd8f1905"
+        ],
+        "x": 3284,
+        "y": 3717,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "c53439603f4e4208",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "9e4171e022a9d561",
+        "name": "refreshQueueTable_out",
+        "mode": "link",
+        "links": [
+            "3bea7933e72005a0",
+            "1d1e8e2742a7dcf8",
+            "107ba20c98b6cb03",
+            "1ebe50be51bab839"
+        ],
+        "x": 3274,
+        "y": 3749,
+        "wires": [],
+        "l": true
     },
     {
         "id": "a848fb1dfb6e367c",
