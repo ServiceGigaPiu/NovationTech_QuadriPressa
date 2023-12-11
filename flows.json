@@ -176,10 +176,13 @@
             "649be06b4b880b67",
             "34b28815286f8381",
             "13c1fa98c29f8f81",
-            "5f026d8f174deb29"
+            "5f026d8f174deb29",
+            "b18d526eca1b0a2a"
         ],
-        "x": 199,
-        "y": 264
+        "x": 182,
+        "y": 234,
+        "w": 1317,
+        "h": 392
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -262,11 +265,12 @@
             "891c7b3250aa152a",
             "e198712935d863ce",
             "0fce669fac8b246c",
-            "ceb2f1af58e4621a"
+            "ceb2f1af58e4621a",
+            "6d9e1f49eb50606d"
         ],
         "x": 164,
         "y": 139,
-        "w": 777,
+        "w": 778,
         "h": 217
     },
     {
@@ -288,7 +292,9 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724
+        "y": 724,
+        "w": 292,
+        "h": 82
     },
     {
         "id": "408c86b39f332966",
@@ -311,7 +317,9 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089
+        "y": 1089,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -335,7 +343,7 @@
         ],
         "x": 153,
         "y": 409,
-        "w": 1749,
+        "w": 1739,
         "h": 1398
     },
     {
@@ -358,10 +366,13 @@
             "09f63ed09817f46d",
             "79112dc81c4df1e1",
             "3d31803aef992266",
-            "85ef1e45805265d5"
+            "85ef1e45805265d5",
+            "12d506e3c36cb1e0"
         ],
         "x": 589,
-        "y": 4
+        "y": 4,
+        "w": 957,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -400,7 +411,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694
+        "y": 694,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "63f089643e332739",
@@ -422,8 +435,10 @@
             "a70fe69b7459b746",
             "2639fa3be4067762"
         ],
-        "x": 1428,
-        "y": 1254
+        "x": 1418,
+        "y": 1254,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -448,8 +463,10 @@
             "1be724ee4d388de3",
             "8b321fcb911b77fd"
         ],
-        "x": 576,
-        "y": 679
+        "x": 566,
+        "y": 679,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "89618de1371e00e8",
@@ -516,7 +533,7 @@
         ],
         "x": 1909,
         "y": 1829,
-        "w": 1422,
+        "w": 1412,
         "h": 282
     },
     {
@@ -558,8 +575,10 @@
             "bf98577d363cef6f",
             "8943b4549c5df00c"
         ],
-        "x": 764,
-        "y": 249
+        "x": 754,
+        "y": 249,
+        "w": 1102,
+        "h": 392
     },
     {
         "id": "5cf67bd384745bc4",
@@ -598,7 +617,9 @@
             "18c21c6d00a60420"
         ],
         "x": 199,
-        "y": 109
+        "y": 109,
+        "w": 822,
+        "h": 397
     },
     {
         "id": "d5cd79b677b0e975",
@@ -623,7 +644,9 @@
             "6b3cbc7f60f41ee7"
         ],
         "x": 1044,
-        "y": 304
+        "y": 304,
+        "w": 437,
+        "h": 202
     },
     {
         "id": "9b2d800cf2d90b2c",
@@ -646,7 +669,9 @@
             "c37451428f3dc6ef"
         ],
         "x": 1044,
-        "y": 109
+        "y": 109,
+        "w": 427,
+        "h": 112
     },
     {
         "id": "d9d7192a2acbd5cc",
@@ -684,7 +709,9 @@
             "282f6db66c44f19a"
         ],
         "x": 234,
-        "y": 1024
+        "y": 1024,
+        "w": 922,
+        "h": 558
     },
     {
         "id": "b7be1fbf76a073e2",
@@ -709,10 +736,11 @@
             "984edf458e7e0e43",
             "003fe15518af93a5",
             "685e7e2495833654",
-            "dd90145cd4293ec4"
+            "dd90145cd4293ec4",
+            "0b2bbbb8fc430d23"
         ],
-        "x": 144,
-        "y": 64,
+        "x": 139,
+        "y": 55,
         "w": 672,
         "h": 247
     },
@@ -737,7 +765,9 @@
             "b6da99b42391a973"
         ],
         "x": 199,
-        "y": 1924
+        "y": 1924,
+        "w": 807,
+        "h": 172
     },
     {
         "id": "c3501ed6e9dcfd95",
@@ -758,7 +788,9 @@
             "e591ac746b349b71"
         ],
         "x": 1079,
-        "y": 1954
+        "y": 1954,
+        "w": 557,
+        "h": 127
     },
     {
         "id": "3d124027146d0e22",
@@ -800,8 +832,10 @@
             "13b3c1e935ebdc18",
             "d8a6ec6838de37b8"
         ],
-        "x": 169,
-        "y": 2149
+        "x": 178,
+        "y": 2149,
+        "w": 1494,
+        "h": 813
     },
     {
         "id": "c7aff72d1a698bfc",
@@ -829,7 +863,9 @@
             "74dd883b5669e797"
         ],
         "x": 1053,
-        "y": 529
+        "y": 529,
+        "w": 673,
+        "h": 303
     },
     {
         "id": "2d1b2de20aa0c22b",
@@ -850,7 +886,9 @@
             "1740c7857c8fad72"
         ],
         "x": 1494,
-        "y": 184
+        "y": 184,
+        "w": 367,
+        "h": 112
     },
     {
         "id": "7ea99ce57f3030da",
@@ -899,9 +937,9 @@
             "e4c7fdbeb50da316",
             "f980de469977c37f"
         ],
-        "x": 899,
+        "x": 909,
         "y": 229,
-        "w": 447,
+        "w": 437,
         "h": 202
     },
     {
@@ -986,7 +1024,9 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984
+        "y": 1984,
+        "w": 1132,
+        "h": 217
     },
     {
         "id": "20b3e86b59e03511",
@@ -1110,8 +1150,10 @@
             "61ea0333115f4695",
             "cad2bd523c7147bc"
         ],
-        "x": 569,
-        "y": 2209
+        "x": 559,
+        "y": 2209,
+        "w": 827,
+        "h": 187
     },
     {
         "id": "4c1f6debb662b115",
@@ -1142,7 +1184,9 @@
             "e8b1b96a138f8bcc"
         ],
         "x": 449,
-        "y": 2419
+        "y": 2419,
+        "w": 907,
+        "h": 292
     },
     {
         "id": "968c394fc0447039",
@@ -1164,7 +1208,9 @@
             "e20b9892b6ecb65d"
         ],
         "x": 1169,
-        "y": 679
+        "y": 679,
+        "w": 442,
+        "h": 127
     },
     {
         "id": "6c37c577dff9338f",
@@ -1185,7 +1231,9 @@
             "9261c1f58513ca26"
         ],
         "x": 1963,
-        "y": 274
+        "y": 274,
+        "w": 849,
+        "h": 558
     },
     {
         "id": "290ebf86bbdaeb68",
@@ -1234,7 +1282,7 @@
         ],
         "x": 1563,
         "y": 82,
-        "w": 1355,
+        "w": 1345,
         "h": 886
     },
     {
@@ -1276,7 +1324,8 @@
             "77f9671dcbcb15aa",
             "43fe3f8bdc815511",
             "8a5972c9263117fa",
-            "8ee79690a1f9edf5"
+            "8ee79690a1f9edf5",
+            "d54be42788f5e0ad"
         ],
         "x": 128,
         "y": 343,
@@ -1309,7 +1358,9 @@
             "de28ab8a9c960787"
         ],
         "x": 809,
-        "y": 2824
+        "y": 2824,
+        "w": 1057,
+        "h": 202
     },
     {
         "id": "a5129725214b9c4b",
@@ -1414,7 +1465,7 @@
         ],
         "x": 129,
         "y": 1174,
-        "w": 1352,
+        "w": 1342,
         "h": 517
     },
     {
@@ -1528,7 +1579,7 @@
         ],
         "x": 133,
         "y": 1760,
-        "w": 1727,
+        "w": 1717,
         "h": 396
     },
     {
@@ -1562,7 +1613,7 @@
         ],
         "x": 134,
         "y": 904,
-        "w": 1102,
+        "w": 1092,
         "h": 202
     },
     {
@@ -1625,9 +1676,9 @@
             "d2cc8a993cf033bf",
             "05085880d56d9d9b"
         ],
-        "x": 2064,
+        "x": 2069,
         "y": 108,
-        "w": 828,
+        "w": 813,
         "h": 449
     },
     {
@@ -1651,9 +1702,9 @@
             "445fed90cc9ae04b",
             "aa40c2fd63e42b3c"
         ],
-        "x": 1594,
+        "x": 1604,
         "y": 184,
-        "w": 442,
+        "w": 422,
         "h": 172
     },
     {
@@ -1790,7 +1841,9 @@
             "9d91f8e564086ea1"
         ],
         "x": 1459,
-        "y": 1754
+        "y": 1754,
+        "w": 1117,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -1821,8 +1874,10 @@
             "3fcc6bd133bdfd43",
             "3f9469575ed20a91"
         ],
-        "x": 1454,
-        "y": 2314
+        "x": 1444,
+        "y": 2314,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1853,8 +1908,10 @@
             "260b48d27cf6b812",
             "c23689e8b3ce4d15"
         ],
-        "x": 1459,
-        "y": 1944
+        "x": 1454,
+        "y": 1944,
+        "w": 1002,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -1983,7 +2040,7 @@
         ],
         "x": 199,
         "y": 1579,
-        "w": 1167,
+        "w": 1157,
         "h": 202
     },
     {
@@ -2061,7 +2118,7 @@
         ],
         "x": 199,
         "y": 979,
-        "w": 1237,
+        "w": 1227,
         "h": 382
     },
     {
@@ -2135,7 +2192,7 @@
         ],
         "x": 179,
         "y": 484,
-        "w": 1697,
+        "w": 1687,
         "h": 472
     },
     {
@@ -2178,7 +2235,9 @@
             "0396c1363191d76c"
         ],
         "x": 1459,
-        "y": 1329
+        "y": 1329,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "95f61ab7d0989272",
@@ -2202,7 +2261,9 @@
             "842017b9a006b707"
         ],
         "x": 264,
-        "y": 1429
+        "y": 1429,
+        "w": 627,
+        "h": 127
     },
     {
         "id": "b99d3df5ef07d131",
@@ -2233,7 +2294,9 @@
             "be6cdfc7a6f5fa2c"
         ],
         "x": 204,
-        "y": 2704
+        "y": 2704,
+        "w": 847,
+        "h": 232
     },
     {
         "id": "b42e082536c528eb",
@@ -2260,7 +2323,9 @@
             "1b4cb03a20cec83f"
         ],
         "x": 734,
-        "y": 2329
+        "y": 2329,
+        "w": 517,
+        "h": 202
     },
     {
         "id": "3562e00f4ed04fb9",
@@ -2284,7 +2349,9 @@
             "a62e3a70e91d913b"
         ],
         "x": 944,
-        "y": 2179
+        "y": 2179,
+        "w": 357,
+        "h": 142
     },
     {
         "id": "51320eb4ac48f6d8",
@@ -2308,7 +2375,9 @@
             "1e1402bb46babf61"
         ],
         "x": 1314,
-        "y": 2209
+        "y": 2209,
+        "w": 332,
+        "h": 172
     },
     {
         "id": "2964739a3908b397",
@@ -2336,7 +2405,9 @@
             "53965897f5958030"
         ],
         "x": 239,
-        "y": 2569
+        "y": 2569,
+        "w": 1062,
+        "h": 127
     },
     {
         "id": "74dd883b5669e797",
@@ -2360,7 +2431,9 @@
             "7f3f720f5ffa9ec8"
         ],
         "x": 1079,
-        "y": 634
+        "y": 634,
+        "w": 247,
+        "h": 172
     },
     {
         "id": "535ab9848c1b1849",
@@ -2497,7 +2570,9 @@
             "8eefeac72777a334"
         ],
         "x": 1989,
-        "y": 334
+        "y": 334,
+        "w": 797,
+        "h": 187
     },
     {
         "id": "9261c1f58513ca26",
@@ -2528,7 +2603,9 @@
             "8be2693bfd6a9a13"
         ],
         "x": 1994,
-        "y": 544
+        "y": 544,
+        "w": 752,
+        "h": 262
     },
     {
         "id": "c05cbc581f087383",
@@ -2554,7 +2631,7 @@
         ],
         "x": 2104,
         "y": 409,
-        "w": 762,
+        "w": 752,
         "h": 122
     },
     {
@@ -2609,8 +2686,33 @@
         ],
         "x": 1844,
         "y": 794,
-        "w": 982,
+        "w": 972,
         "h": 122
+    },
+    {
+        "id": "fbffae5b882e4a3f",
+        "type": "group",
+        "z": "2831664434f14a33",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3bb76117f9c818d6",
+            "20f8b05e488b35ac",
+            "28b5bab842c22e19",
+            "f07a5882094bb355",
+            "da49e272d92e10a6"
+        ],
+        "x": 138,
+        "y": 327,
+        "w": 480,
+        "h": 162
     },
     {
         "id": "9fa3722a335cb332",
@@ -5015,8 +5117,8 @@
         "name": "catchAll",
         "scope": null,
         "uncaught": true,
-        "x": 375,
-        "y": 105,
+        "x": 370,
+        "y": 96,
         "wires": [
             [
                 "3b516af17cb05a18"
@@ -5035,8 +5137,8 @@
         "initialize": "let thisClassName = \"utils\";\n/** collection of callbacks like (def) => {//do some work here}.\n *      used to generate stuff that depends on other stuff, or is a function of it */\nlet postGen = []; let afterDef = (func) => { postGen.push(func); return \"toBeSet_afterward\"; };\n//defined object\nlet def = {\n    \"errorBlink\": function (node, last = 1500, text = \"\") {\n        node.status({ fill: \"red\", text: text });\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, 250);\n        setTimeout(() => {\n            node.status({ fill: \"yellow\", text: text });\n        }, 350);\n        setTimeout(() => {\n            node.status({ fill: \"\", text: text });\n        }, last)\n    },\n\n    \"##litEndian2int\": function (a, b) {\n        return a << 16 | b;\n    }, //msg.payload[0] << 16) | msg.payload[1]\n\n    \"isObject\"(v) {\n        return (typeof (v) == \"object\" && !Array.isArray(v) && v !== null)\n    },\n    /**\n     * converts a binary array to a single number\n     */\n    \"bitArrayToInt\"(arr) {\n        var res = 0;\n        for (let i = 0, minLen = Math.min(arr.length, 8 * 8); i < minLen; i++) {\n            if (arr[i])\n                res += Math.pow(2, i);\n        }\n        return res;\n    },\n\n    /** @summary capitalize the first character of a given string\n        * @param {string} word \n        * @return {string} new processed string\n        */\n    \"firstCharUp\"(word) {\n        return word.charAt(0).toUpperCase() + word.slice(1);\n    },\n\n    /**\n    * @summary recursively merge two Objects\n        * @desc overlay sec onto main. keeps properties of both. undefined properties of main are directly assigned from sec.\n        * - ex: main : {a, b:b1} sec:{b:b2, c} -> res:{a , b:b2, c} where:\n        * - -res.a===main.a\n        * - -res.c===sec.c\n        * - -res.b!==sec.b2\n        * @param {Object} main \n        * @param {Object} sec \n        */\n    \"mergeRec\": function thisFun(main, sec) {\n        for (let p in sec) {\n            //if(main[p]===undefined) //commented bcs implicitly included in the next if condition //(typeof(undefVar) <=> \"undefined\")\n            //if(deepCopy && typeof(main[p]) ==\"object\") //too big an hustle\n            //main[p] = sec[p];\n            if (sec[p].constructor == Object && typeof (main[p]) == \"object\")\n                thisFun(main[p], sec[p]);\n            else\n                main[p] = sec[p];\n        }\n        return main;\n    }.bind(this),\n\n    /** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\n    \"callWhenDef\": function callWhenDef(cb, opts, ...varNames) {\n        //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n        if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n            var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n        //check for opts presence\n        if (typeof (opts) == \"string\")\n            varNames.push(opts);\n        let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n        var tout, intv, tmp;\n        //switch context to the one specified in ctx\n        var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n        //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n        //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n        let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n        //try immediately, before doing any work\n        if (varNames.every(name => store.get(name) !== undefined))\n            return wrappedCb()\n        //set timeout unless false or not specified\n        if (timeout) {\n            tout = setTimeout(() => {\n                clearInterval(intv);\n                errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n            }, timeout);\n        }\n        //set store-checking interval\n        intv = setInterval(() => {\n            if (!varNames.every(name => store.get(name) !== undefined))\n                return\n            clearTimeout(tout);\n            clearInterval(intv);\n            wrappedCb();\n        }, retryDelay)\n    },\n    /** pseudo random string generator\n     */\n    \"randomHexString4\": function () {\n        return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1); //1.X * 2^16 toString(radix) clipFirst //== 4 characters hex\n    },\n    /** returns an iterator-maker that uses the keys in orderedKeys to access its parent's properties\n         * @param {string[]} orderedKeys\n         * @returns {function} f() -> iterator object.\n         */\n    \"makeKeyIterator\": function (orderedKeys) {\n        return function () {\n            //console.log(\"2# this\",this); this === parent object\n            let keys = orderedKeys, idx = 0;\n            return {\n                next: () => {\n                    //console.log(this, idx, orderedKeys);\n                    return (idx < keys.length ? { value: this[keys[idx++]], done: false } : { done: true });\n                }\n            }\n        }\n    },\n    /** attach a general iterator going through all the enumerable obj's key.\n        * -Not very memory-performant as a redundant key[] array is stored\n        * @param {object} the object to which attach the iterator\n        * @returns {function} the attached iterator\n        */\n    \"generateIteratorFor\": function (obj) {\n        obj[Symbol.iterator] = this.makeKeyIterator(Object.keys(obj));\n        return obj[Symbol.iterator];\n    },\n    \"errorLog\"(...param) { return this.logError(...param); },\n    \"logError\": function thisFun(nodeRef, err) {\n        if (arguments.length != thisFun.length) throw new SyntaxError(`expected ${thisFun.length} arguments, got ${arguments.length}`);\n        var error = (typeof (err) == \"string\" ? { err: err } : err);\n        nodeRef.error(error);\n    },\n\n    /** the first time the property is accessed the value is calculated calling valueGetter() in obj, and the result is stored in propName_cache.\n        * - Subsequent calls will return propName_cache's value.\n        */\n    \"defineCachedProp\": function defineCachedProp(obj, propName, valueGetter) {\n        if (arguments.length != 3) throw new SyntaxError(\"defineCachedGetter() arguments mismatch\");\n        const propName_cache = propName + \"_cache\";\n\n        Object.defineProperty(obj, propName_cache, { value: undefined, writable: true, configurable: true }); //not enumerable\n        Object.defineProperty(obj, propName, {\n            get() {\n                return this[propName_cache] ?? (this[propName_cache] = valueGetter.call(this, this))\n            },\n            set(v) { this[propName_cache] = v },\n            enumerable: true,\n            configurable: true\n        })\n    },\n    \"addAliasTo\": function thisFunc(obj, srcName, aliasName, isEnumerable = false) {\n        const utils = global.get(thisClassName);\n        if ([...arguments].some(arg => utils.isNotSet(arg))) throw new Error(`${thisFunc.length} non null args required. got ${arguments.length}: ${[...arguments].map(item => \"\" + item)}`);\n        if(obj[srcName] === undefined) throw new Error(\"trying to alias undefined prop \"+srcName+\". (with \"+aliasName+\"). Wrong argument order..?\");\n        \n        Object.defineProperty(obj, aliasName, {\n            enumerable: false,\n            get() { return this[srcName]; },\n            set(val) { return this[srcName] = val; }\n        });\n        return obj;\n    },\n    \"removeIdx\": (arr, i) => (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop(),\n    \"removeAllOccurrences\": function (arr, val) {\n        for (let i = 0; i < arr.length; i++)\n            if (arr[i] == val)\n                (i == arr.length - 1) ? arr.pop() : arr[i] = arr.pop();\n    },\n    /* range(5) <=> range(0,5) */\n    \"range\":function range(startAt, endAt = undefined){\n        endAt ?? ([startAt, endAt] = [0, startAt]);\n        if(startAt < endAt)\n            if(startAt == 0)\n                return [...Array(endAt).keys()]; //#MNOTE micro optimization\n            else\n                return [...Array(endAt - startAt).keys()].map(i => i + startAt);\n        else\n            return range(endAt, startAt).reverse(); range(0,5).map(i=>i*2)\n    },\n    /** uses ASCII codes.\n     *  charRange('z') <=> charRange('a','z') */\n    \"charRange\":function charRange(startChar, endChar = undefined){\n        const utils = global.get(thisClassName);\n        endChar ?? ([startChar, endChar] = ['a', startChar]);\n        if(startChar < endChar)\n            return String.fromCharCode(...utils.range(\n                endChar.charCodeAt(0) - startChar.charCodeAt(0),\n                startChar.charCodeAt(0)\n            ));\n        else\n            return charRange(endChar, startChar).reverse();\n    },\n    /** force a number to stay within a certain range, wrapping the value around.\n     *   ex wrap(-2,0,10) <=> 10-2 <=> 8\n    */\n    \"wrapIntAround\": function wrapIntAround(val, start, end) {\n        return val < start ? wrapIntAround(end - (start - val - 1), start, end)\n            : val > end ? wrapIntAround(start + (val - end -1), start, end)\n                : val\n    },\n    \"clone\": function (obj) {\n        return JSON.parse(global.get(thisClassName).safeStringify(obj));\n    },\n\n    \"safeStringify\": function safeStringify(obj, indent) {\n        var cache = [];\n        var cacheKeys = [];\n        return JSON.stringify(obj, (key, value) => {\n            if (typeof value === 'object' && value !== null) { //arrays and null are also \"objects\" //functions are too, but typeof returns \"function\" instead\n                //Duplicate reference found -> discard key / store\n                const idx = cache.indexOf(value)\n                //if duplicate found\n                //return twin's key instead\n                if (idx != -1) //-1 means not present\n                    return \"dupOf_\" + (cacheKeys[idx].toString() ?? \"root\");\n                //else store it\n                else {\n                    cache.push(value);\n                    cacheKeys.push(key);\n                }\n            }\n            return value;\n        }, indent);\n    },\n    /** checks wether a value is an Obj and has not more than 1 prototype in its proto chain.\n         * @param {any} value accepts anything\n         * @returns {boolean}\n         *  note: checking for value?.constructor===Object.prototype.constructor doesn't work as expected (object from different vm or \"realms\"?)\n         */\n    \"isPlainObj\": function isPlainObj(value) { //source:https://stackoverflow.com/questions/65787971/ways-to-determine-if-something-is-a-plain-object-in-javascript\n        return !!value &&          //rules out null && undef, which'd result in an except. for getPrototypeOf()\n            // it has a prototype that's also truthy\n            !!(value = Object.getPrototypeOf(value)) &&\n            // which has `null` as parent prototype\n            !Object.getPrototypeOf(value);\n    },\n    /** check if obj is an instance of Date()\n     *      a surpisingly troublesome matter.\n     *      Cannot trust proto-chain cuz global context may not be kept across js-vms (so no instanceof Date either).\n     *      you can: -use duck typing (check for characteristic member existence)\n     *               -use object.toString() == [object date]\n     *               -swear    */\n    \"isDateObject\":function isDateObject(dateObj, beStrict=false, outParam_reasonKey){\n        return !!dateObj?.toLocaleDateString\n            && !!dateObj?.setFullYear\n            //base.toString parse\n            && (!beStrict || (\n                Object.toString.call(dateObj).match(/^\\h*\\[?object\\h*date\\]?\\h*$/i)\n            ));\n    },\n    /** recursively looks up a target object enumerable childrens for properties that would need to be restored after a JSON conversion.\n         * @returns a mask of the original Object containing only the (restored) properties to restore.\n         */\n    \"toRestoreOf\": function toRestoreOf(origin) {\n        //let isPlainObj = global.get(thisClassName).isPlainObj;\n        let needsRecursion = (prop, target) => this.isPlainObj(target?.[prop]) //target is an object and target.prop is an object too\n        let needsRestoration = (prop, target) => {\n            return typeof (target[prop]) === \"function\"// && !node.warn(\"restored \"+prop+\":\"+typeof(target[prop]))\n        }\n        let empty = true; //optimize performance, avoiding recursive Object.keys calls\n        var toRes = {};\n        if (this.isPlainObj(origin))\n            Object.keys(origin).forEach(key => { //#TODO extend to non-enumerables\n                if (origin.toRestore)\n                    toRes[key] = origin.toRestore(origin[key])\n                else if (needsRecursion(key, origin)) {\n                    let tmp = toRestoreOf.call(this, origin[key]);\n                    if (tmp !== null)\n                        toRes[key] = tmp;\n                    // if(Object.keys(toRes[key]).length==0)\n                    //     delete toRes[key];\n                }\n                else if (needsRestoration(key, origin)) { //if is function\n                    toRes[key] = origin[key]\n                } else {\n                    //skip\n                }\n                if (toRes[key])\n                    empty = false;\n                //toRes[key] && node.warn(key+\" set\")\n            })\n        //return Object.keys(target).filter( key => needsRestoration(key, target))\n\n        return empty ? null : toRes;\n    },\n    /** pseudo alias of Object.assign\n        * only ADDS props and keeps the original refs for plain objects.\n        * ex.               {a:4, b:{a1:5, b1:6}},              //target\n        *                        {b:{      b1:\"v\", c1:7}, c:8}  //source\n        *   assign     ->   {a:4, b:{      b1:\"v\", c1:7}, c:8}  //b is a reference to source.b //a1 was lost\n        *   recAssign  ->   {a:4, b:{a1:5, b1:\"v\", c1:7}, c:8}  \n        */\n    \"recAssign\": function recAssign(target, source) {\n        for (let k in source)\n            target[k] = (this.isPlainObj(source[k]) ? recAssign.call(this, target[k] ?? {}, source[k]) : source[k])\n        return target;\n    },\n    /** \n        * \n        */\n    \"inflate\": function (target, source) {\n        let mask = this.toRestoreOf(source) ?? {};\n        return this.recAssign(target, mask);\n    },\n\n    // \"genericInflater\":function inflated(target, origin=this){ //assume target is a mask of origin, meaning origin has AT LEAST all props of target.\n    //     let utils=global.get(thisClassName);\n    //     let hasOwnInflater = targ => targ?.inflated\n    //     let restore = (prop, target, origin) => {\n    //         var tmp;\n    //         if(!(tmp=Object.getOwnPropertyDescriptor(origin, prop).enumerable))\n    //             Object.defineProperty(target,prop,tmp)\n    //         else if(typeof origin[prop]==\"function\")\n    //             target[prop] = origin[prop]\n    //         return target[prop];\n    //     }\n    //     //CHOOSE AN APPROACH: init all missing target vals\n    //     //target can be anything, origin is an object\n    //     //parse origin for all keys that need to be restored on a version of themselves that went throug a JSON.stringify(JSON.parse())\n    //         //set those keys using either an inflater defined by the key or a generic one. Feed the original value to the inflater, or undefined.\n    //     //returns an inflated version of target\n\n    //     let allKeysOf = obj => Object.keys(obj);\n    //     if(utils.isPlainObj(origin))\n    //         for(let k of allKeysOf(origin))\n    //             inflatedTarget[k] = inflated(target?.[k], origin[k])\n\n\n    //     //if is inflatable\n    //     var inflatedTarget={};\n    //     if(utils.isPlainObj(origin)){\n    //         //inflate all keys //#TODO include non-enumerables\n    //         for(let k of origin)\n    //             //use own inflation method //responsible for that key and all its children\n    //             if(hasOwnInflater(origin[k]))\n    //                 inflatedTarget[k] = origin[k].inflated(target?.[k]);\n    //             //recurse\n    //             else if(utils.isPlainObj(origin[k]))\n    //                 inflatedTarget[k] = inflated(target?.[k], origin[k])\n    //             //generic restoration //mutates target[k] if necessary, then returns it\n    //             else\n    //                 inflatedTarget[k] = target?.[k]!==undefined ? restore(k, target, origin)\n    //     }\n    //     else\n    //         return inflatedTarget;\n    // },\n    // /** recursively traverse object children calling the inflate/inflater method on all of them\n    //      * the method is supposed to restore all the properties that would not survive a JSON.parse(JSON.stringify()).\n    //      * restoring a class from its json, or restoring non enumerable properties and functions, for example.\n    //      * NOTE: a parent that implements \"inflate\" or \"inflater\" is responsible for all its children restoration, and \n    //      *       should therefore call the genericInflater() on all properties it chooses to not explicitly handle\n    //      */\n    // \"inflate\"(target){ return global.get(thisClassName).genericInflater.call(this, target) },\n    // \"ggenericInflater\":function inflate(target){\n    //     //looks for and calls inflate() methods for all keys\n    //         //recursing over objects\n    //     for(let k in target){\n    //         //if has inflate method\n    //         if(this && typeof(this[k])==\"object\" && this[k].inflate)\n    //             target[k] = this[k].inflate(target[k]);\n    //         else    //else recurse over object props\n    //             if(typeof(target[k])==\"object\" && this && typeof(this[k])==\"object\")\n    //                 inflate.call(this[k], target[k])\n    //     }\n    //     return target;\n    // },\n\n\n    /** recursively wrap root funct.and arrow funct. in an error-logging exception-catching function\n     *      skip non-function, assign wrapped to their original key\n     *  @param root {Object} the object to parse for functions\n     *  @param prefix {string} the name of root, will be displayed in its funcions and all its children's functions errors */\n    \"wrapFunctions\": function wrapFunctions(root, prefix) {\n        prefix ?? node.warn({ txt: \"[WHERE? WHO KNOWS!][wrapFunctions] missing 'prefix' argument. Errors will be harder to trace back.\", rootContent: root })\n        const isPlainObj = this.isPlainObj;\n        //recursively parse root\n        //root must be an object to avoid re-assigning all values //would require the use of prop descriptors to guarantee nothing is changed\n        let desc;\n        for (let k in root) {\n            if (isPlainObj(root[k]))\n                root[k] = wrapFunctions.call(this, root[k], prefix + `.${k}`);\n            else if (//is a simple function, or an arrow function\n                //value of root[k] has type function\n                typeof (root[k]) == \"function\"\n                //root[k] itself is a function, not the result of it's getter call\n                && (desc = Object.getOwnPropertyDescriptor(root, k)).value !== undefined    // @ts-ignore\n                && !desc.get\n            ) {\n                //wrap in an exception catching function\n                //trace errors back to their source, independently of the caller\n                let cb = root[k]; //must reside outside the function statement, or it will refer the modified function\n                root[k] = function (...args) {\n                    try {\n                        return cb.call(this, ...args)\n                    } catch (e) {\n                        e.nrStack = (e.nrStack ?? []);\n                        e.nrStack.push({ summ: `at ${k}(${args.join(\", \")}) of ${prefix}`, fName: k, args: args, root: prefix, err: e.message, e: e });\n                        e.message = e.message + `\\n   at ${k}() of ${prefix}`;\n                        //node.error(\"<wrapped>\"+prefix+(!cb.name ? \"\" : `[${cb.name}]`)+`${e.name} exception:${e.message},cause:${e.lineNumber??''}:${e.columnNumber??''}>${e.cause}`);\n                        throw e;\n                    }\n                }\n            }\n        }\n        return root;\n    },\n    \"sortByType\": function sortByType(source, ...types) {\n\n        if (!Array.isArray(source))\n            if (typeof (source) == \"object\") { //assume it's an argument object\n                try {\n                    let tmp = [];\n                    for (var arg of source)\n                        tmp.push(arg);\n                    source = tmp;\n                } catch {\n                    return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n                }\n            }\n            else\n                return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source is not an array\", source: source, args: arguments });\n        if (source.length !== types?.length)\n            return node.error({ txt: \"global.\" + thisClassName + \".sortByType(): source lenght doesn't match types[]'s\", source: source, types: types, args: arguments });\n\n        const typedPairs = source.map(item => new Object({ val: item, type: typeof (item) }));\n        let findType = (type) => typedPairs.find(pair => pair.type == type) ?? node.warn({ txt: \"missing param typed \" + type });\n\n        var errors;\n        var ret = [];\n        for (var type of types) {\n            let idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx < 0) {\n                errors ?? (errors = []);\n                errors.push(type);\n                ret.push(null);\n            }\n            else {\n                ret.push(typedPairs[idx]);\n            }\n        }\n        if (errors)\n            node.error({ txt: `global.${thisClassName}.${sortByType.name}(): missing param typed ${errors.length > 1 ? `[${errors}]` : errors[0]}`, args: arguments });\n        return ret;\n    },\n    /** self explaining */\n    \"isSet\": function thisFun(val) {\n        return val !== null && val !== undefined;\n    },\n    /** php-like name */\n    \"isset\": function alias() { return global.get(thisClassName)[\"isSet\"](...arguments); },\n    /** self explaining */\n    \"isNotSet\": function thisFun(val) {\n        return val === null || val === undefined;\n    },\n    \"notIsset\": function alias() { return global.get(thisClassName)[\"isNotSet\"](...arguments); },\n    /**   scales ms down to a more confortable unit returns it as a string with said unit as suffix. \n        *    int -> scaledFloat+'unit'     ex. '2.1h', '3.2gg', '26.3s' etc\n        */\n    \"msToScaledString\": function msToScaledString(ms) {\n        let units = [\"ms\", \"s\", \"min\", \"h\", \"gg\"];\n        let treshHoldMult = new Array(units.length).fill(2); //in terms of the associated unit // 1 hour == 3600ms -> if treshholdMult==2 then threshHold==3600*2\n        let unitFactors = [1, 1000, 60, 60, 24]; //in terms of the preceding unit //ex. min are 1*1000*60\n        //let getUnitFactor = (idx) => { var ret=0; for(let i=0;i<idx;i++) ret*=factor[i]; return ret; }\n\n        var unitFactor = unitFactors[0];\n        for (let i = 1; i < units.length; i++) {\n            let lastUF = unitFactor;\n            unitFactor *= unitFactors[i];\n            if (Math.abs(ms) < unitFactor * treshHoldMult[i])\n                return (ms / lastUF).toFixed(1) + units[i - 1];\n        }\n        return (ms / unitFactor).toFixed(1) + units[units.length - 1];\n    },\n    /**\n     * non implementato * /\n    \"logToFile\": () => { },s\n    /**\n     * insieme a dbgLevelsMap rappresenta un enum di livelli di debug */\n    \"dbgLevels\": [\"error\", \"warning\", \"debug\", \"verbose\"],\n    \"dbgLevelsMap\": afterDef(def => { var tmp = {}; def.dbgLevels.forEach((name, i) => tmp[name] = i); def.dbgLevelsMap=tmp; }),\n    /*v da testare v* /\n    /**\n     * Stampa un messaggio, con strategie diverse a seconda del tipo e del debugLevel globale.  \n     * Tutti i log dovrebbero passare di qui.  \n     * Gli argomenti vengono riordinati automaticamente. dbgPrint({extra:5},\"messaggio\"), dbgPrint(\"verbose\", \"something happened\") sono tutte chiamate legali\n     * \n     * @param _txt testo messaggio\n     * @param _infoObj campi extra da allegare, oltre a quelli automatici. In caso di clash vince infoObj.\n     * @param _level tipologia messaggio. accetta sia interi che stringhe. gli interi mappano utils.dbgLevels * /\n    \"dbgPrint\": function dbgPrint(_txt, _infoObj, _level) {\n        const utils = global.get(thisClassName);\n        const dbgLevelsMap = utils.dbgLevelsMap;\n\n        //compile-like check: all expected level ids exist\n        utils.assert([\"warning\", \"error\", \"debug\", \"verbose\"].every(key => (utils?.dbgLevelsMap?.[key] ?? null) !== null), \"dpgPrint(): missing one or more expected dbg level\", { exp: [\"warning\", \"error\", \"debug\", \"verbose\"], got: dbgLevelsMap });\n        \n        node.warn({txt:\"args pre sort\",args:{txt:_txt,level:_level,infoObj:_infoObj}})\n\n        //sort arguments, filling them with def vals when necessary\n        let argArray = [_level, _txt, _infoObj];\n        var typedPairs = argArray.map(item => new Object({ val: item, type: typeof (item) }));\n        \n        //pops a value from typedPairs, or returns defVal if nothing matches\n        let popValOfType = (type, defVal) => {\n            var idx = typedPairs.findIndex(pair => pair.type == type);\n            if (idx >= 0) {\n                var val = typedPairs[idx].val;\n                utils.removeIdx(typedPairs, idx);\n                return val;\n            }\n            else\n                return defVal;\n        }\n        var txt = popValOfType(\"string\",\"noTxt\");\n        var level = popValOfType(\"number\", null) ?? popValOfType(\"string\", null) ?? dbgLevelsMap[\"debug\"];\n        var infoObj = popValOfType(\"object\", {});\n\n        if(typeof level == \"string\"){\n            //sort txt and type, as they are both strings\n            let validLiterals = [\"warning\", \"warn\", \"error\", \"err\", \"debug\", \"dbg\", \"console\", \"stdout\"];\n            if (txt.length <= 7 && level.length > 7\n                || validLiterals.includes(txt))\n                [level, txt] = [txt, level];\n            //convert to numeric id\n            switch (level) {\n                case \"warning\":\n                case \"warn\":\n                    level = dbgLevelsMap[\"warning\"];\n                    break;\n                case \"error\":\n                case \"err\":\n                    level = dbgLevelsMap[\"error\"];\n                    break;\n                case \"debug\":\n                case \"dbg\":\n                    level = dbgLevelsMap[\"debug\"];\n                    break;\n                case \"verbose\":\n                case \"verb\":\n                    level = dbgLevelsMap[\"verbose\"];\n                    break;\n                default:\n                    node.error(\"error\", \"unknown log level: \" + level);//, { valid: validLiterals, got: level, args: arguments });\n                    break;\n            }\n        }\n\n        node.warn({ txt: \"args post sort\", args: { txt: txt, level: level, infoObj: infoObj } });\n\n        //define log vars\n        if (true || level <= global.get(\"dbgLevel\")){\n            //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/caller\n            var fName;\n            try { fName = dbgPrint.caller; } catch { fName = \"unreadable\" }\n            var nodeJsStack;\n            try { nodeJsStack = new Error().stack } catch { nodeJsStack = \"unreadable\" }\n            //default logging strategy\n            let defEditorLog = (logger) => logger.call(this,\n                utils.mergeRec({\n                    txt: txt,\n                    n: this.node.name,\n                    auto: {\n                        f: fName,\n                        id: this.node.id,\n                        _this: this,\n                        nodeJsStack: nodeJsStack\n                    }\n                }, infoObj));\n            node.warn({ txt: \"context\", ctx: [Object.getOwnPropertyNames(dbgPrint.caller).map(name => name + \":\" + dbgPrint.caller[name]), Object.getOwnPropertyNames(arguments.callee).map(name => name + \":\" + arguments.callee[name])]});\n            //pick logging strategy\n            switch (level) {\n                case dbgLevelsMap[\"warning\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"error\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"debug\"]:\n                    defEditorLog(this.warn);\n                    break;\n                case dbgLevelsMap[\"verbose\"]:\n                    defEditorLog(this.warn);\n                    break;\n                default:\n                    node.error(\"unknown log level \" + level);\n                    break;\n            }\n        }\n\n    },\n\n    \"assert\": function assert(isOk, cb = \"assertion failed\", infoObj = {}) {\n        if (!global.get(\"isDbgMode\"))\n            return true;\n        if (typeof (isOk) == \"function\")\n            isOk = isOk();\n        if (!isOk)\n            if (typeof (cb) == \"function\")\n                // @ts-ignore\n                cb();\n            else\n                node.error(global.get(thisClassName).mergeRec({txt:cb},infoObj));\n                //global.get(thisClassName).dbgPrint(\"error\", cb, infoObj);\n        return isOk\n    },\n\n\n    \"pushGlobalClassInfo\": function pushGlobalClass(_class, name = null) {\n        if (global.get(\"isDbgMode\")) {\n            const utils = global.get(thisClassName);\n\n            name ?? _class.name;\n            utils.assert(typeof (_class) == \"function\", \"arg for class \" + name + \" is not a class\", { _class: _class });\n            utils.assert(typeof (name) == \"string\", \"type mismatch for arg 'name'. expected string, got \" + typeof (name));\n\n            if (!global.get(\"classesCheatSheet\"))\n                global.set(\"classesCheatSheet\", {});\n\n            let cs = global.get(\"classesCheatSheet\");\n            var methods = {};\n            var props = {};\n            for (var propName of Object.getOwnPropertyNames(_class)) {\n                if (typeof (_class[propName] == \"function\"))\n                    methods[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n                else\n                    props[propName] = Object.getOwnPropertyDescriptor(_class, propName);\n            }\n            cs[name] = {\n                \"name\": _class.name,\n                \"methods\": methods,\n                \"props\": props\n            }\n        }\n    }\n    /*^ da testare ^*/\n};\n\npostGen.forEach(cb => cb(def));\n//def.dbgLevelsMap = (() => { var tmp = {}; def.dbgLevels.forEach((name, i) => tmp[name] = i); return tmp; })()\n\n\n\n\ndef.wrapFunctions(def, \"[\" + thisClassName + \"]\");\nglobal.set(thisClassName, def);\nnode.send(def);\nnode.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n",
         "finalize": "",
         "libs": [],
-        "x": 255,
-        "y": 180,
+        "x": 250,
+        "y": 171,
         "wires": [
             [
                 "02531d3dbb4a7cfa",
@@ -5050,16 +5152,18 @@
         "z": "2831664434f14a33",
         "g": "b7be1fbf76a073e2",
         "name": "catchAll",
-        "func": "if(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"nrStack\":msg._error?.nrStack,\"full\":msg});\n}\nelse{\n    node.error(msg);\n}\n",
+        "func": "if(msg.error){\n    node.error({\"err\":msg.error.message,\"src\":msg.error.source.id,\"n\":msg.error.source.name,\"nrStack\":msg._error?.nrStack,\"full\":msg});\n}\nelse{\n    node.error(msg);\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
         "finalize": "",
         "libs": [],
-        "x": 520,
-        "y": 105,
+        "x": 515,
+        "y": 96,
         "wires": [
-            []
+            [
+                "0b2bbbb8fc430d23"
+            ]
         ]
     },
     {
@@ -5069,8 +5173,8 @@
         "g": "b7be1fbf76a073e2",
         "name": "GLOBALI",
         "info": "",
-        "x": 230,
-        "y": 105,
+        "x": 225,
+        "y": 96,
         "wires": []
     },
     {
@@ -5085,8 +5189,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 520,
-        "y": 225,
+        "x": 515,
+        "y": 216,
         "wires": [
             []
         ]
@@ -5102,8 +5206,8 @@
             "3502536b287b497d",
             "e60ddb3d97dea1f3"
         ],
-        "x": 515,
-        "y": 180,
+        "x": 510,
+        "y": 171,
         "wires": [],
         "l": true
     },
@@ -5119,8 +5223,8 @@
         "initialize": "\n\n/** alternative to using link-nodes on libraries (which requires a ton of overhead and structures)\n * \n*/\nfunction callWhenDef(cb, ...globalNames) {\n    for (let name of globalNames)\n        if (global.get(name) === undefined || global.get(name) === null) {\n            setTimeout(callWhenDef, 300, cb, ...globalNames)\n            return\n        }\n    cb();\n}\n\nconst tout = setTimeout(()=>{\n    node.error(node.name+\" timeout. check node \"+node.id+\" for typos\")\n}, 10000)\ncallWhenDef(function () {\n   node.send({topic:\"isDefinedEvent\", payload:\"allMain\"})\n   clearTimeout(tout);\n}, \"utils\"/*,\"towersControl\",\"towersBitArray\",\"signalCells\"*/)",
         "finalize": "",
         "libs": [],
-        "x": 425,
-        "y": 135,
+        "x": 420,
+        "y": 126,
         "wires": [
             [
                 "003fe15518af93a5"
@@ -5148,8 +5252,8 @@
             "53f5b685a1ec4809",
             "807fcc0a56e37f7a"
         ],
-        "x": 670,
-        "y": 135,
+        "x": 665,
+        "y": 126,
         "wires": [],
         "l": true
     },
@@ -5163,8 +5267,8 @@
         "links": [
             "003fe15518af93a5"
         ],
-        "x": 775,
-        "y": 105,
+        "x": 769,
+        "y": 160,
         "wires": [
             []
         ]
@@ -5506,8 +5610,8 @@
         "initialize": "callWhenDef(\"utils\", () => {\n    const utils = global.get(\"utils\");\n    let lvlName = \"verbose\"\n    let lvl = utils.dbgLevelsMap[lvlName] ?? node.error(\"undefined dbgLevel: \" + lvlName + \" lvlCount:\" + utils.dbgLevelsMap?.length) ?? 0\n    let isDbgMode = true;\n    global.set(\"dbgLevel\", lvl);\n    global.set(\"isDbgMode\", isDbgMode);\n\n    node.status({ fill: isDbgMode ? \"green\" : \"gray\", text: `isDbgMode: ${isDbgMode.toString().toUpperCase()} | level: ${utils.dbgLevels[lvl].toUpperCase()}` });\n})\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
         "finalize": "",
         "libs": [],
-        "x": 260,
-        "y": 270,
+        "x": 255,
+        "y": 261,
         "wires": [
             []
         ]
@@ -5701,6 +5805,111 @@
         "wires": []
     },
     {
+        "id": "3bb76117f9c818d6",
+        "type": "file",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "",
+        "filename": ".\\allUncaugthErrors.log",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 482,
+        "y": 448,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "20f8b05e488b35ac",
+        "type": "json",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "",
+        "property": "payload",
+        "action": "str",
+        "pretty": true,
+        "x": 485,
+        "y": 416,
+        "wires": [
+            [
+                "3bb76117f9c818d6"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "28b5bab842c22e19",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "format err",
+        "func": "\nreturn {\n    \"payload\":msg\n};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 396,
+        "y": 416,
+        "wires": [
+            [
+                "20f8b05e488b35ac"
+            ]
+        ]
+    },
+    {
+        "id": "0b2bbbb8fc430d23",
+        "type": "link out",
+        "z": "2831664434f14a33",
+        "g": "b7be1fbf76a073e2",
+        "name": "log uncaught out",
+        "mode": "link",
+        "links": [
+            "f07a5882094bb355"
+        ],
+        "x": 666,
+        "y": 96,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "f07a5882094bb355",
+        "type": "link in",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "log uncaught in",
+        "links": [
+            "0b2bbbb8fc430d23",
+            "6d9e1f49eb50606d",
+            "b18d526eca1b0a2a",
+            "12d506e3c36cb1e0",
+            "07f96e7c3e05f85a",
+            "d54be42788f5e0ad"
+        ],
+        "x": 244,
+        "y": 416,
+        "wires": [
+            [
+                "28b5bab842c22e19"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "da49e272d92e10a6",
+        "type": "comment",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "GLOBAL ERR LOG",
+        "info": "",
+        "x": 254,
+        "y": 368,
+        "wires": []
+    },
+    {
         "id": "88534f4f764fdb99",
         "type": "function",
         "z": "2260f1f88d7c60bf",
@@ -5715,7 +5924,9 @@
         "x": 855,
         "y": 195,
         "wires": [
-            []
+            [
+                "6d9e1f49eb50606d"
+            ]
         ]
     },
     {
@@ -11261,6 +11472,21 @@
         "wires": []
     },
     {
+        "id": "6d9e1f49eb50606d",
+        "type": "link out",
+        "z": "2260f1f88d7c60bf",
+        "g": "ee1fd54ec57a959c",
+        "name": "log uncaught out",
+        "mode": "link",
+        "links": [
+            "f07a5882094bb355"
+        ],
+        "x": 826,
+        "y": 224,
+        "wires": [],
+        "l": true
+    },
+    {
         "id": "a848fb1dfb6e367c",
         "type": "ui_template",
         "z": "69a590bb3eaafea5",
@@ -11350,8 +11576,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 755,
-        "y": 225,
+        "x": 818,
+        "y": 128,
         "wires": [
             []
         ]
@@ -11376,8 +11602,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 760,
-        "y": 180,
+        "x": 823,
+        "y": 83,
         "wires": [
             []
         ]
@@ -11394,8 +11620,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 580,
-        "y": 180,
+        "x": 643,
+        "y": 83,
         "wires": [
             [
                 "062ce81d525ecefe"
@@ -11415,8 +11641,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 580,
-        "y": 225,
+        "x": 643,
+        "y": 128,
         "wires": [
             [
                 "b8bf553ba73175d1"
@@ -13674,8 +13900,8 @@
             "fc480e83d8d666c0"
         ],
         "uncaught": false,
-        "x": 305,
-        "y": 510,
+        "x": 298,
+        "y": 480,
         "wires": [
             [
                 "5f0e4cd2a231d950"
@@ -13700,8 +13926,8 @@
         "topic": "",
         "payload": "config",
         "payloadType": "global",
-        "x": 380,
-        "y": 540,
+        "x": 373,
+        "y": 510,
         "wires": [
             [
                 "a79139d6fa8686e2"
@@ -13721,8 +13947,8 @@
         "septopics": false,
         "property": "payload",
         "topi": "topic",
-        "x": 520,
-        "y": 540,
+        "x": 513,
+        "y": 510,
         "wires": [
             [
                 "47787bd5c3f095c5",
@@ -13741,8 +13967,8 @@
         "property": "payload",
         "action": "str",
         "pretty": false,
-        "x": 615,
-        "y": 525,
+        "x": 608,
+        "y": 495,
         "wires": [
             [
                 "cd632756435b2754"
@@ -13762,8 +13988,8 @@
         "createDir": false,
         "overwriteFile": "true",
         "encoding": "none",
-        "x": 725,
-        "y": 525,
+        "x": 718,
+        "y": 495,
         "wires": [
             [
                 "0c1c5418ae454848"
@@ -13783,8 +14009,8 @@
         "sendError": false,
         "encoding": "none",
         "allProps": false,
-        "x": 535,
-        "y": 430,
+        "x": 528,
+        "y": 400,
         "wires": [
             [
                 "711adcc293c4fe4e"
@@ -13803,8 +14029,8 @@
         "once": true,
         "onceDelay": "0.1",
         "topic": "",
-        "x": 315,
-        "y": 430,
+        "x": 308,
+        "y": 400,
         "wires": [
             [
                 "9aac6231207dd902"
@@ -13820,8 +14046,8 @@
         "property": "payload",
         "action": "obj",
         "pretty": false,
-        "x": 650,
-        "y": 430,
+        "x": 643,
+        "y": 400,
         "wires": [
             [
                 "16a57738beed3d92"
@@ -13849,8 +14075,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 775,
-        "y": 430,
+        "x": 768,
+        "y": 400,
         "wires": [
             [
                 "ef9feb95d1f12a3a",
@@ -13872,8 +14098,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 910,
-        "y": 525,
+        "x": 903,
+        "y": 495,
         "wires": []
     },
     {
@@ -13889,8 +14115,8 @@
             "35b66a3ec499c665",
             "2b2c25ba59229fe0"
         ],
-        "x": 910,
-        "y": 430,
+        "x": 903,
+        "y": 400,
         "wires": []
     },
     {
@@ -13918,8 +14144,8 @@
             "140264649d183346",
             "c7bd5c5451ed07f9"
         ],
-        "x": 685,
-        "y": 570,
+        "x": 678,
+        "y": 540,
         "wires": [],
         "l": true
     },
@@ -13944,8 +14170,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 465,
-        "y": 510,
+        "x": 458,
+        "y": 480,
         "wires": [
             [
                 "47787bd5c3f095c5",
@@ -13971,8 +14197,8 @@
         "topic": "",
         "payload": "config",
         "payloadType": "global",
-        "x": 425,
-        "y": 570,
+        "x": 418,
+        "y": 540,
         "wires": [
             [
                 "d552f3455898102d"
@@ -13991,8 +14217,8 @@
             "47787bd5c3f095c5"
         ],
         "uncaught": false,
-        "x": 475,
-        "y": 615,
+        "x": 468,
+        "y": 585,
         "wires": [
             [
                 "11d636077cbd1545"
@@ -14008,8 +14234,8 @@
         "name": "OnConfigUpdateEvent_out",
         "mode": "link",
         "links": [],
-        "x": 705,
-        "y": 615,
+        "x": 698,
+        "y": 585,
         "wires": [],
         "l": true
     },
@@ -14027,8 +14253,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 975,
-        "y": 460,
+        "x": 968,
+        "y": 430,
         "wires": []
     },
     {
@@ -14253,8 +14479,8 @@
             "9aac6231207dd902"
         ],
         "uncaught": false,
-        "x": 355,
-        "y": 330,
+        "x": 348,
+        "y": 300,
         "wires": [
             [
                 "7f28962bbf2edd96"
@@ -14273,8 +14499,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 585,
-        "y": 330,
+        "x": 578,
+        "y": 300,
         "wires": [
             [
                 "0c0ba63642b01a89"
@@ -14290,16 +14516,18 @@
         "z": "69a590bb3eaafea5",
         "g": "9c7714b3475b1f2b",
         "name": "catch uiConfig",
-        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
         "finalize": "",
         "libs": [],
-        "x": 535,
-        "y": 370,
+        "x": 512,
+        "y": 336,
         "wires": [
-            []
+            [
+                "b18d526eca1b0a2a"
+            ]
         ]
     },
     {
@@ -14314,8 +14542,8 @@
         "createDir": false,
         "overwriteFile": "true",
         "encoding": "none",
-        "x": 1115,
-        "y": 335,
+        "x": 1108,
+        "y": 305,
         "wires": [
             [
                 "9aac6231207dd902",
@@ -14421,8 +14649,8 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 805,
-        "y": 305,
+        "x": 798,
+        "y": 275,
         "wires": [
             [
                 "0c0ba63642b01a89"
@@ -14442,8 +14670,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
-        "y": 335,
+        "x": 903,
+        "y": 305,
         "wires": [
             [
                 "649be06b4b880b67"
@@ -14464,8 +14692,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1350,
-        "y": 335,
+        "x": 1343,
+        "y": 305,
         "wires": []
     },
     {
@@ -14477,8 +14705,8 @@
         "property": "payload",
         "action": "str",
         "pretty": false,
-        "x": 1000,
-        "y": 335,
+        "x": 993,
+        "y": 305,
         "wires": [
             [
                 "636abe298d8940a7"
@@ -14500,8 +14728,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 690,
-        "y": 480,
+        "x": 683,
+        "y": 450,
         "wires": []
     },
     {
@@ -14749,9 +14977,24 @@
         "targetType": "jsonata",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1360,
-        "y": 380,
+        "x": 1353,
+        "y": 350,
         "wires": []
+    },
+    {
+        "id": "b18d526eca1b0a2a",
+        "type": "link out",
+        "z": "69a590bb3eaafea5",
+        "g": "9c7714b3475b1f2b",
+        "name": "log uncaught out",
+        "mode": "link",
+        "links": [
+            "f07a5882094bb355"
+        ],
+        "x": 694,
+        "y": 336,
+        "wires": [],
+        "l": true
     },
     {
         "id": "b0cd0777fbffd034",
@@ -14831,16 +15074,18 @@
         "z": "9922a8114f46702b",
         "g": "81fdc4e21618ea8e",
         "name": "catchAll",
-        "func": "\n\nif(msg.error){\n    node.error({ \"err\": msg.error.message, \"src\": msg.error.source.id, \"n\": msg.error.source.name, \"nrStack\": msg._error?.nrStack, \"full\": msg });\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "func": "\n\nif(msg.error){\n    node.error({ \"err\": msg.error.message, \"src\": msg.error.source.id, \"n\": msg.error.source.name, \"nrStack\": msg._error?.nrStack, \"full\": msg });\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
         "finalize": "",
         "libs": [],
-        "x": 1095,
-        "y": 150,
+        "x": 1124,
+        "y": 144,
         "wires": [
-            []
+            [
+                "12d506e3c36cb1e0"
+            ]
         ]
     },
     {
@@ -14910,7 +15155,7 @@
         "z": "9922a8114f46702b",
         "g": "81fdc4e21618ea8e",
         "name": "catchPlc",
-        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\n",
+        "func": "\n\nif(msg.error){\n    node.error({\"err\":msg.error.message,\"full\":msg});\n    //context.set(\"errorCc\", context.get(\"errorCc\")+1);\n}\nelse{\n    node.error(msg);\n}\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "// Code added here will be run once\n// whenever the node is started.\nnode.status({ fill: \"gray\", shape: \"ring\", text: \"\" });\ncontext.set(\"outCc\", 0);\ncontext.set(\"errorCc\", 0);",
@@ -14919,7 +15164,9 @@
         "x": 1215,
         "y": 190,
         "wires": [
-            []
+            [
+                "12d506e3c36cb1e0"
+            ]
         ]
     },
     {
@@ -18643,6 +18890,21 @@
         "l": true
     },
     {
+        "id": "12d506e3c36cb1e0",
+        "type": "link out",
+        "z": "9922a8114f46702b",
+        "g": "81fdc4e21618ea8e",
+        "name": "log uncaught out",
+        "mode": "link",
+        "links": [
+            "f07a5882094bb355"
+        ],
+        "x": 1430,
+        "y": 176,
+        "wires": [],
+        "l": true
+    },
+    {
         "id": "109d34b4b47bf77a",
         "type": "link in",
         "z": "467287adb311067b",
@@ -19642,7 +19904,9 @@
         "x": 637,
         "y": 432,
         "wires": [
-            []
+            [
+                "d54be42788f5e0ad"
+            ]
         ]
     },
     {
@@ -23461,6 +23725,21 @@
         "x": 445,
         "y": 990,
         "wires": []
+    },
+    {
+        "id": "d54be42788f5e0ad",
+        "type": "link out",
+        "z": "467287adb311067b",
+        "g": "be2329cc51c75d4d",
+        "name": "log uncaught out",
+        "mode": "link",
+        "links": [
+            "f07a5882094bb355"
+        ],
+        "x": 822,
+        "y": 432,
+        "wires": [],
+        "l": true
     },
     {
         "id": "42b8d6d1.fc68e8",

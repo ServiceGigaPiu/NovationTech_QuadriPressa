@@ -1,5 +1,5 @@
-#script version 1.0.0
-#install app version 1.0.1
+#script version 1.1.0
+#install app version none
 param ([switch]$appOnly)
 write-host "`n  ## NODERED APP INSTALLER ## `n"
 
@@ -15,7 +15,7 @@ $node_dist = "node-v$node_version-x64"
 $node_url = "https://nodejs.org/dist/v$node_version/$node_dist.msi"
 
 # git
-$git_version = "2.39.0" #per modificare (non alla ceca) devi essere loggato su github e andare su https://github.com/git-for-windows/git/releases (repo ufficiale)
+$git_version = "2.39.2" #per modificare (non alla ceca) devi essere loggato su github e andare su https://github.com/git-for-windows/git/releases (repo ufficiale)
 $git_url = "https://github.com/git-for-windows/git/releases/download/v$git_version.windows.1/Git-$git_version-64-bit.exe"
 
 # node-red
@@ -34,8 +34,8 @@ $app_install_npmPackages = $TRUE
 
 
 # extras
-$gitExtension_version = "4.0.1" #per cambiare versione cambia l'url qua sotto, cercando su https://github.com/gitextensions/gitextensions/releases/
-$gitExtension_url = "https://github.com/gitextensions/gitextensions/releases/download/v4.0.1/GitExtensions-4.0.1.15887-f2567dea2.msi"
+$gitExtension_version = "3.5.4" #per cambiare versione cambia l'url qua sotto, cercando su https://github.com/gitextensions/gitextensions/releases/
+$gitExtension_url = "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-3.5.4.12724-65f01f399.msi"
 
 
 # activate / deactivate any install
@@ -43,7 +43,7 @@ $gitExtension_url = "https://github.com/gitextensions/gitextensions/releases/dow
 $install_node = $TRUE
 $install_git = $TRUE
 $install_nodered = $TRUE
-$install_app = $TRUE
+$install_app = $FALSE
 $install_gitExtension = $TRUE
 
 function confirm {
@@ -326,7 +326,7 @@ try {
 	    write-host "`n -- INSTALLAZIONE DI NODERED -- " -ForegroundColor blue -BackgroundColor white
             #install/error
 		if(get-command npm -errorAction silentlyContinue){
-			npm install -g --unsafe-perm node-red
+			npm install -g --unsafe-perm node-red@$nodered_version
 			write-host "`nnode-red installato`n"
 		}
 		else{
