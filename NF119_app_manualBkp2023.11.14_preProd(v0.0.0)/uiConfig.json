@@ -1,0 +1,1 @@
+{"tempPianoSup":{"min":0,"max":250,"c1":"#2cbec6","c2":"#0c942e","c3":"#e42b2b","copyColors":false},"pressPressata":{"min":0,"max":10,"c1":"#2cbec6","c2":"#0c942e","c3":"#e42b2b","copyColors":"tempPianoInf"},"tempPianoInf":{"min":0,"max":250,"c1":"#2cbec6","c2":"#0c942e","c3":"#e42b2b","copyColors":"tempPianoSup"}}
