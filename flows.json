@@ -180,9 +180,7 @@
             "b18d526eca1b0a2a"
         ],
         "x": 182,
-        "y": 234,
-        "w": 1317,
-        "h": 392
+        "y": 234
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -211,9 +209,7 @@
             "5fae85f555051914"
         ],
         "x": 84,
-        "y": 4219,
-        "w": 1102,
-        "h": 562
+        "y": 4219
     },
     {
         "id": "e2961306402a77aa",
@@ -241,9 +237,7 @@
             "78a704a3e466fce3"
         ],
         "x": 84,
-        "y": 3574,
-        "w": 1072,
-        "h": 562
+        "y": 3574
     },
     {
         "id": "ee1fd54ec57a959c",
@@ -269,9 +263,7 @@
             "6d9e1f49eb50606d"
         ],
         "x": 164,
-        "y": 139,
-        "w": 778,
-        "h": 217
+        "y": 139
     },
     {
         "id": "3a3a52a5dbc9568a",
@@ -292,9 +284,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "408c86b39f332966",
@@ -317,9 +307,7 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089,
-        "w": 382,
-        "h": 122
+        "y": 1089
     },
     {
         "id": "b0737e4c04737b82",
@@ -342,9 +330,7 @@
             "588342109c719d84"
         ],
         "x": 153,
-        "y": 409,
-        "w": 1739,
-        "h": 1398
+        "y": 409
     },
     {
         "id": "81fdc4e21618ea8e",
@@ -370,9 +356,7 @@
             "12d506e3c36cb1e0"
         ],
         "x": 589,
-        "y": 4,
-        "w": 957,
-        "h": 227
+        "y": 4
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -411,9 +395,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694,
-        "w": 1232,
-        "h": 307
+        "y": 694
     },
     {
         "id": "63f089643e332739",
@@ -436,9 +418,7 @@
             "2639fa3be4067762"
         ],
         "x": 1418,
-        "y": 1254,
-        "w": 1559,
-        "h": 1368
+        "y": 1254
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -464,9 +444,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 566,
-        "y": 679,
-        "w": 692,
-        "h": 242
+        "y": 679
     },
     {
         "id": "89618de1371e00e8",
@@ -532,9 +510,7 @@
             "c6aaa02b97c6aeb4"
         ],
         "x": 1909,
-        "y": 1829,
-        "w": 1412,
-        "h": 282
+        "y": 1829
     },
     {
         "id": "dd28804963c0bc60",
@@ -576,9 +552,7 @@
             "8943b4549c5df00c"
         ],
         "x": 754,
-        "y": 249,
-        "w": 1102,
-        "h": 392
+        "y": 249
     },
     {
         "id": "5cf67bd384745bc4",
@@ -617,9 +591,7 @@
             "18c21c6d00a60420"
         ],
         "x": 199,
-        "y": 109,
-        "w": 822,
-        "h": 397
+        "y": 109
     },
     {
         "id": "d5cd79b677b0e975",
@@ -644,9 +616,7 @@
             "6b3cbc7f60f41ee7"
         ],
         "x": 1044,
-        "y": 304,
-        "w": 437,
-        "h": 202
+        "y": 304
     },
     {
         "id": "9b2d800cf2d90b2c",
@@ -669,9 +639,7 @@
             "c37451428f3dc6ef"
         ],
         "x": 1044,
-        "y": 109,
-        "w": 427,
-        "h": 112
+        "y": 109
     },
     {
         "id": "d9d7192a2acbd5cc",
@@ -709,9 +677,7 @@
             "282f6db66c44f19a"
         ],
         "x": 234,
-        "y": 1024,
-        "w": 922,
-        "h": 558
+        "y": 1024
     },
     {
         "id": "b7be1fbf76a073e2",
@@ -765,9 +731,7 @@
             "b6da99b42391a973"
         ],
         "x": 199,
-        "y": 1924,
-        "w": 807,
-        "h": 172
+        "y": 1924
     },
     {
         "id": "c3501ed6e9dcfd95",
@@ -788,9 +752,7 @@
             "e591ac746b349b71"
         ],
         "x": 1079,
-        "y": 1954,
-        "w": 557,
-        "h": 127
+        "y": 1954
     },
     {
         "id": "3d124027146d0e22",
@@ -833,9 +795,7 @@
             "d8a6ec6838de37b8"
         ],
         "x": 178,
-        "y": 2149,
-        "w": 1494,
-        "h": 813
+        "y": 2149
     },
     {
         "id": "c7aff72d1a698bfc",
@@ -863,9 +823,7 @@
             "74dd883b5669e797"
         ],
         "x": 1053,
-        "y": 529,
-        "w": 673,
-        "h": 303
+        "y": 529
     },
     {
         "id": "2d1b2de20aa0c22b",
@@ -886,9 +844,7 @@
             "1740c7857c8fad72"
         ],
         "x": 1494,
-        "y": 184,
-        "w": 367,
-        "h": 112
+        "y": 184
     },
     {
         "id": "7ea99ce57f3030da",
@@ -937,9 +893,9 @@
             "e4c7fdbeb50da316",
             "f980de469977c37f"
         ],
-        "x": 909,
+        "x": 899,
         "y": 229,
-        "w": 437,
+        "w": 447,
         "h": 202
     },
     {
@@ -993,7 +949,7 @@
             "82e1195627ed2c7e"
         ],
         "x": 129,
-        "y": 664,
+        "y": 679,
         "w": 592,
         "h": 172
     },
@@ -1024,9 +980,7 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984,
-        "w": 1132,
-        "h": 217
+        "y": 1984
     },
     {
         "id": "20b3e86b59e03511",
@@ -1085,9 +1039,7 @@
             "53b729e6e0afd102"
         ],
         "x": 124,
-        "y": 2584,
-        "w": 1182,
-        "h": 971
+        "y": 2584
     },
     {
         "id": "6c4911811d83d44b",
@@ -1123,9 +1075,7 @@
             "e57dbeee92a70061"
         ],
         "x": 169,
-        "y": 2134,
-        "w": 1642,
-        "h": 378
+        "y": 2134
     },
     {
         "id": "b2f2e2e832b5442a",
@@ -1151,9 +1101,7 @@
             "cad2bd523c7147bc"
         ],
         "x": 559,
-        "y": 2209,
-        "w": 827,
-        "h": 187
+        "y": 2209
     },
     {
         "id": "4c1f6debb662b115",
@@ -1184,9 +1132,7 @@
             "e8b1b96a138f8bcc"
         ],
         "x": 449,
-        "y": 2419,
-        "w": 907,
-        "h": 292
+        "y": 2419
     },
     {
         "id": "968c394fc0447039",
@@ -1208,9 +1154,7 @@
             "e20b9892b6ecb65d"
         ],
         "x": 1169,
-        "y": 679,
-        "w": 442,
-        "h": 127
+        "y": 679
     },
     {
         "id": "6c37c577dff9338f",
@@ -1231,9 +1175,7 @@
             "9261c1f58513ca26"
         ],
         "x": 1963,
-        "y": 274,
-        "w": 849,
-        "h": 558
+        "y": 274
     },
     {
         "id": "290ebf86bbdaeb68",
@@ -1254,7 +1196,7 @@
             "1e2f855fb053fe66",
             "95a4f1fe5241a805",
             "e1dc7f1a029a50c6",
-            "b94d1614ef3d921f"
+            "25e586867aa60c2c"
         ],
         "x": 124,
         "y": 109,
@@ -1282,7 +1224,7 @@
         ],
         "x": 1563,
         "y": 82,
-        "w": 1345,
+        "w": 1355,
         "h": 886
     },
     {
@@ -1325,12 +1267,13 @@
             "43fe3f8bdc815511",
             "8a5972c9263117fa",
             "8ee79690a1f9edf5",
-            "d54be42788f5e0ad"
+            "d54be42788f5e0ad",
+            "30e6d608b9a93494"
         ],
         "x": 128,
         "y": 343,
         "w": 1322,
-        "h": 293
+        "h": 313
     },
     {
         "id": "1ea69c1647f48773",
@@ -1358,9 +1301,7 @@
             "de28ab8a9c960787"
         ],
         "x": 809,
-        "y": 2824,
-        "w": 1057,
-        "h": 202
+        "y": 2824
     },
     {
         "id": "a5129725214b9c4b",
@@ -1398,9 +1339,7 @@
             "a2b555ae2f9f3615"
         ],
         "x": 169,
-        "y": 1849,
-        "w": 1641,
-        "h": 220
+        "y": 1849
     },
     {
         "id": "69aa6256f2c9bd04",
@@ -1465,7 +1404,7 @@
         ],
         "x": 129,
         "y": 1174,
-        "w": 1342,
+        "w": 1352,
         "h": 517
     },
     {
@@ -1579,7 +1518,7 @@
         ],
         "x": 133,
         "y": 1760,
-        "w": 1717,
+        "w": 1727,
         "h": 396
     },
     {
@@ -1613,8 +1552,36 @@
         ],
         "x": 134,
         "y": 904,
-        "w": 1092,
+        "w": 1102,
         "h": 202
+    },
+    {
+        "id": "fbffae5b882e4a3f",
+        "type": "group",
+        "z": "2831664434f14a33",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3bb76117f9c818d6",
+            "20f8b05e488b35ac",
+            "28b5bab842c22e19",
+            "f07a5882094bb355",
+            "da49e272d92e10a6",
+            "e3ada4f65829a2e4",
+            "aa98e911ba741a0f",
+            "e6089c8b916b072f"
+        ],
+        "x": 134,
+        "y": 334,
+        "w": 484,
+        "h": 187
     },
     {
         "id": "9e4171e022a9d561",
@@ -1676,9 +1643,9 @@
             "d2cc8a993cf033bf",
             "05085880d56d9d9b"
         ],
-        "x": 2069,
+        "x": 2064,
         "y": 108,
-        "w": 813,
+        "w": 828,
         "h": 449
     },
     {
@@ -1702,9 +1669,9 @@
             "445fed90cc9ae04b",
             "aa40c2fd63e42b3c"
         ],
-        "x": 1604,
+        "x": 1594,
         "y": 184,
-        "w": 422,
+        "w": 442,
         "h": 172
     },
     {
@@ -1841,9 +1808,7 @@
             "9d91f8e564086ea1"
         ],
         "x": 1459,
-        "y": 1754,
-        "w": 1117,
-        "h": 172
+        "y": 1754
     },
     {
         "id": "21bbb7d46384e287",
@@ -1875,9 +1840,7 @@
             "3f9469575ed20a91"
         ],
         "x": 1444,
-        "y": 2314,
-        "w": 1202,
-        "h": 282
+        "y": 2314
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1909,9 +1872,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 1454,
-        "y": 1944,
-        "w": 1002,
-        "h": 362
+        "y": 1944
     },
     {
         "id": "3714a803248cefeb",
@@ -1934,9 +1895,7 @@
             "d27598503a5b31c1"
         ],
         "x": 129,
-        "y": 4294,
-        "w": 572,
-        "h": 232
+        "y": 4294
     },
     {
         "id": "70b9c5719558ad66",
@@ -1959,9 +1918,7 @@
             "d02b6fbde106437f"
         ],
         "x": 129,
-        "y": 3649,
-        "w": 552,
-        "h": 232
+        "y": 3649
     },
     {
         "id": "bd2c16c7828242aa",
@@ -2006,9 +1963,7 @@
             "f97cc9e5d5d42826"
         ],
         "x": 154,
-        "y": 2659,
-        "w": 1107,
-        "h": 487
+        "y": 2659
     },
     {
         "id": "df7219d880358536",
@@ -2039,9 +1994,7 @@
             "aaf22c351dd47989"
         ],
         "x": 199,
-        "y": 1579,
-        "w": 1157,
-        "h": 202
+        "y": 1579
     },
     {
         "id": "f0e4c9cb0e39cbf8",
@@ -2072,9 +2025,7 @@
             "e8a45a4aa7a22874"
         ],
         "x": 199,
-        "y": 1369,
-        "w": 1117,
-        "h": 202
+        "y": 1369
     },
     {
         "id": "b2c3d112c3d0c889",
@@ -2117,9 +2068,7 @@
             "be43df984cc12219"
         ],
         "x": 199,
-        "y": 979,
-        "w": 1227,
-        "h": 382
+        "y": 979
     },
     {
         "id": "588342109c719d84",
@@ -2191,9 +2140,7 @@
             "6f329cf07ae77335"
         ],
         "x": 179,
-        "y": 484,
-        "w": 1687,
-        "h": 472
+        "y": 484
     },
     {
         "id": "a70fe69b7459b746",
@@ -2235,9 +2182,7 @@
             "0396c1363191d76c"
         ],
         "x": 1459,
-        "y": 1329,
-        "w": 1492,
-        "h": 382
+        "y": 1329
     },
     {
         "id": "95f61ab7d0989272",
@@ -2261,9 +2206,7 @@
             "842017b9a006b707"
         ],
         "x": 264,
-        "y": 1429,
-        "w": 627,
-        "h": 127
+        "y": 1429
     },
     {
         "id": "b99d3df5ef07d131",
@@ -2294,9 +2237,7 @@
             "be6cdfc7a6f5fa2c"
         ],
         "x": 204,
-        "y": 2704,
-        "w": 847,
-        "h": 232
+        "y": 2704
     },
     {
         "id": "b42e082536c528eb",
@@ -2323,9 +2264,7 @@
             "1b4cb03a20cec83f"
         ],
         "x": 734,
-        "y": 2329,
-        "w": 517,
-        "h": 202
+        "y": 2329
     },
     {
         "id": "3562e00f4ed04fb9",
@@ -2349,9 +2288,7 @@
             "a62e3a70e91d913b"
         ],
         "x": 944,
-        "y": 2179,
-        "w": 357,
-        "h": 142
+        "y": 2179
     },
     {
         "id": "51320eb4ac48f6d8",
@@ -2375,9 +2312,7 @@
             "1e1402bb46babf61"
         ],
         "x": 1314,
-        "y": 2209,
-        "w": 332,
-        "h": 172
+        "y": 2209
     },
     {
         "id": "2964739a3908b397",
@@ -2405,9 +2340,7 @@
             "53965897f5958030"
         ],
         "x": 239,
-        "y": 2569,
-        "w": 1062,
-        "h": 127
+        "y": 2569
     },
     {
         "id": "74dd883b5669e797",
@@ -2431,9 +2364,7 @@
             "7f3f720f5ffa9ec8"
         ],
         "x": 1079,
-        "y": 634,
-        "w": 247,
-        "h": 172
+        "y": 634
     },
     {
         "id": "535ab9848c1b1849",
@@ -2506,9 +2437,7 @@
             "1bbf54fc1b8056eb"
         ],
         "x": 249,
-        "y": 3319,
-        "w": 735,
-        "h": 210
+        "y": 3319
     },
     {
         "id": "5290b04e5e87f604",
@@ -2539,9 +2468,7 @@
             "17247c321ff841aa"
         ],
         "x": 669,
-        "y": 2329,
-        "w": 912,
-        "h": 157
+        "y": 2329
     },
     {
         "id": "0d7119851507d372",
@@ -2570,9 +2497,7 @@
             "8eefeac72777a334"
         ],
         "x": 1989,
-        "y": 334,
-        "w": 797,
-        "h": 187
+        "y": 334
     },
     {
         "id": "9261c1f58513ca26",
@@ -2603,9 +2528,7 @@
             "8be2693bfd6a9a13"
         ],
         "x": 1994,
-        "y": 544,
-        "w": 752,
-        "h": 262
+        "y": 544
     },
     {
         "id": "c05cbc581f087383",
@@ -2631,7 +2554,7 @@
         ],
         "x": 2104,
         "y": 409,
-        "w": 752,
+        "w": 762,
         "h": 122
     },
     {
@@ -2686,33 +2609,8 @@
         ],
         "x": 1844,
         "y": 794,
-        "w": 972,
+        "w": 982,
         "h": 122
-    },
-    {
-        "id": "fbffae5b882e4a3f",
-        "type": "group",
-        "z": "2831664434f14a33",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3bb76117f9c818d6",
-            "20f8b05e488b35ac",
-            "28b5bab842c22e19",
-            "f07a5882094bb355",
-            "da49e272d92e10a6"
-        ],
-        "x": 138,
-        "y": 327,
-        "w": 480,
-        "h": 162
     },
     {
         "id": "9fa3722a335cb332",
@@ -5903,10 +5801,58 @@
         "type": "comment",
         "z": "2831664434f14a33",
         "g": "fbffae5b882e4a3f",
-        "name": "GLOBAL ERR LOG",
+        "name": "GLOBAL ERR LOG v1.0",
         "info": "",
-        "x": 254,
-        "y": 368,
+        "x": 275,
+        "y": 375,
+        "wires": []
+    },
+    {
+        "id": "e3ada4f65829a2e4",
+        "type": "catch",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "",
+        "scope": [
+            "3bb76117f9c818d6",
+            "20f8b05e488b35ac",
+            "28b5bab842c22e19",
+            "f07a5882094bb355"
+        ],
+        "uncaught": false,
+        "x": 420,
+        "y": 480,
+        "wires": [
+            [
+                "aa98e911ba741a0f"
+            ]
+        ]
+    },
+    {
+        "id": "aa98e911ba741a0f",
+        "type": "function",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "err",
+        "func": "//caution! do not throw to catch nodes from here, or you ll have an infinite loop\nif (msg.error) {\n    node.error({ \"err\": msg.error.message, \"src\": msg.error.source.id, \"n\": msg.error.source.name, \"nrStack\": msg._error?.nrStack, \"full\": msg });\n}\nelse {\n    node.error(msg);\n}",
+        "outputs": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 535,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "e6089c8b916b072f",
+        "type": "comment",
+        "z": "2831664434f14a33",
+        "g": "fbffae5b882e4a3f",
+        "name": "prevent infinite loops",
+        "info": "throw error > write to log > throws again..",
+        "x": 260,
+        "y": 480,
         "wires": []
     },
     {
@@ -19988,7 +19934,7 @@
         "finalize": "",
         "libs": [],
         "x": 335,
-        "y": 750,
+        "y": 765,
         "wires": [
             [
                 "1d1175d31cf3f808"
@@ -20008,7 +19954,7 @@
         "finalize": "",
         "libs": [],
         "x": 335,
-        "y": 795,
+        "y": 810,
         "wires": [
             [
                 "1d1175d31cf3f808"
@@ -20028,7 +19974,7 @@
         "onceDelay": 0.1,
         "topic": "",
         "x": 190,
-        "y": 750,
+        "y": 765,
         "wires": [
             [
                 "7961e440c9162f79"
@@ -20049,7 +19995,7 @@
         "onceDelay": 0.1,
         "topic": "",
         "x": 190,
-        "y": 795,
+        "y": 810,
         "wires": [
             [
                 "2078a48777b8a78e"
@@ -20074,7 +20020,7 @@
         "repair": true,
         "outputs": 1,
         "x": 475,
-        "y": 780,
+        "y": 795,
         "wires": [
             [
                 "f44f02576d246f6d"
@@ -20090,7 +20036,7 @@
         "name": "dbg: inject some rows into db",
         "info": "",
         "x": 280,
-        "y": 705,
+        "y": 720,
         "wires": []
     },
     {
@@ -20105,7 +20051,7 @@
         "linkType": "static",
         "timeout": "10",
         "x": 580,
-        "y": 765,
+        "y": 780,
         "wires": [
             [
                 "82e1195627ed2c7e"
@@ -20127,7 +20073,7 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 605,
-        "y": 795,
+        "y": 810,
         "wires": []
     },
     {
@@ -20422,7 +20368,7 @@
         "statusCmd": "status",
         "persist": false,
         "storeName": "memory",
-        "x": 385,
+        "x": 375,
         "y": 195,
         "wires": [
             [
@@ -20465,45 +20411,10 @@
         "y": 150,
         "wires": [
             [
-                "b94d1614ef3d921f"
+                "25e586867aa60c2c"
             ]
         ],
         "l": false
-    },
-    {
-        "id": "b94d1614ef3d921f",
-        "type": "change",
-        "z": "467287adb311067b",
-        "g": "290ebf86bbdaeb68",
-        "name": "toggle",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "control",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "toggle",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 415,
-        "y": 150,
-        "wires": [
-            [
-                "1e2f855fb053fe66"
-            ]
-        ]
     },
     {
         "id": "383ca0e1b93f7efa",
@@ -23740,6 +23651,37 @@
         "y": 432,
         "wires": [],
         "l": true
+    },
+    {
+        "id": "25e586867aa60c2c",
+        "type": "function",
+        "z": "467287adb311067b",
+        "g": "290ebf86bbdaeb68",
+        "name": "send global.db",
+        "func": "let thisClassName = \"db\";\nreturn global.get(thisClassName) ?? node.error(`global.${thisClassName} not yet def`);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 150,
+        "wires": [
+            [
+                "95a4f1fe5241a805"
+            ]
+        ]
+    },
+    {
+        "id": "30e6d608b9a93494",
+        "type": "comment",
+        "z": "467287adb311067b",
+        "g": "be2329cc51c75d4d",
+        "name": "SQL BKP: GRANT PRIVILEGES (per NF119_v1.2.0)",
+        "info": "/*\nquery per assegnare i privilegi sulle tabelle utilizzate.\nNON FUNZIONA su dev, perchè il db non è su localhost (ma su una vm CITECT separata).\n     Sostituisci localhost con % o assegna manualmente i massimi privilegi.\n*/\n\n/* parti da 0 */\nREVOKE ALL PRIVILEGES, GRANT OPTION\n  FROM 'nodered_client';\n\n/* assegna ampi privilegi a _production, ovvero la tabella su cui\n     gli ordini vengono inseriti/aggiornati da CITECT.\n     usati(prod):SELECT\n     usati(prod+dev):.., INSERT */\nGRANT\n\tDELETE, \n    INSERT, \n    SELECT, \n    SHOW VIEW, \n    UPDATE\nON oven.`italmatic_production`\nto 'nodered_client'@`localhost`;\n\n/* assegna ampi privilegi a _production, ovvero la tabella su cui\n     gli ordini vengono aggiornati da CITECT ed inseriti/cancellati da NodeRed.\n     usati(prod):SELECT, INSERT, DELETE\n     usati(prod+dev):.. */\nGRANT\n\tDELETE, \n    INSERT, \n    SELECT, \n    SHOW VIEW, \n    UPDATE\nON oven.`italmatic_exchange`\nto 'nodered_client'@`localhost`;\n\n/* assegna minimi privilegi a cycle, ovvero la tabella su cui\n     CITECT inserisce ogni ciclo.\n     usati(prod):SELECT,\n     usati(prod+dev):.., INSERT */\nGRANT\n    SELECT, \n    SHOW VIEW\nON oven.`cycle`\nto 'nodered_client'@`localhost`;\n\n",
+        "x": 355,
+        "y": 615,
+        "wires": []
     },
     {
         "id": "42b8d6d1.fc68e8",
