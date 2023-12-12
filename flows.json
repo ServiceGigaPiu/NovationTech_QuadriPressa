@@ -76,9 +76,7 @@
             "6173c68c398eeee3"
         ],
         "x": 1029,
-        "y": 649,
-        "w": 707,
-        "h": 127
+        "y": 649
     },
     {
         "id": "3df0d3098de49375",
@@ -106,10 +104,8 @@
             "1f797f8d865e8ebd",
             "b34226be7162078f"
         ],
-        "x": 502,
-        "y": 2388,
-        "w": 592,
-        "h": 517
+        "x": 492,
+        "y": 2388
     },
     {
         "id": "43b5ce037e6e5304",
@@ -132,9 +128,7 @@
             "cdfe98ebc6268de8"
         ],
         "x": 669,
-        "y": 1129,
-        "w": 452,
-        "h": 127
+        "y": 1129
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -180,9 +174,7 @@
             "b18d526eca1b0a2a"
         ],
         "x": 182,
-        "y": 234,
-        "w": 1317,
-        "h": 392
+        "y": 234
     },
     {
         "id": "f6a4cccae63b60ae",
@@ -210,9 +202,9 @@
             "a72b1c3580f09904",
             "5fae85f555051914"
         ],
-        "x": 84,
+        "x": 74,
         "y": 4219,
-        "w": 1102,
+        "w": 1122,
         "h": 562
     },
     {
@@ -242,7 +234,7 @@
         ],
         "x": 84,
         "y": 3574,
-        "w": 1072,
+        "w": 1082,
         "h": 562
     },
     {
@@ -268,9 +260,9 @@
             "ceb2f1af58e4621a",
             "6d9e1f49eb50606d"
         ],
-        "x": 164,
+        "x": 154,
         "y": 139,
-        "w": 777,
+        "w": 788,
         "h": 217
     },
     {
@@ -292,9 +284,7 @@
             "1f1ff5e26b2ddf38"
         ],
         "x": 799,
-        "y": 724,
-        "w": 292,
-        "h": 82
+        "y": 724
     },
     {
         "id": "408c86b39f332966",
@@ -317,9 +307,7 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089,
-        "w": 382,
-        "h": 122
+        "y": 1089
     },
     {
         "id": "b0737e4c04737b82",
@@ -343,7 +331,7 @@
         ],
         "x": 153,
         "y": 409,
-        "w": 1739,
+        "w": 1749,
         "h": 1398
     },
     {
@@ -370,9 +358,7 @@
             "12d506e3c36cb1e0"
         ],
         "x": 589,
-        "y": 4,
-        "w": 947,
-        "h": 227
+        "y": 4
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -411,9 +397,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694,
-        "w": 1232,
-        "h": 307
+        "y": 694
     },
     {
         "id": "63f089643e332739",
@@ -436,9 +420,7 @@
             "2639fa3be4067762"
         ],
         "x": 1418,
-        "y": 1254,
-        "w": 1559,
-        "h": 1368
+        "y": 1254
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -464,9 +446,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 566,
-        "y": 679,
-        "w": 692,
-        "h": 242
+        "y": 679
     },
     {
         "id": "89618de1371e00e8",
@@ -492,9 +472,7 @@
             "23908ba29a765ed4"
         ],
         "x": 144,
-        "y": 824,
-        "w": 837,
-        "h": 252
+        "y": 824
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -533,7 +511,7 @@
         ],
         "x": 1909,
         "y": 1829,
-        "w": 1412,
+        "w": 1422,
         "h": 282
     },
     {
@@ -576,9 +554,7 @@
             "8943b4549c5df00c"
         ],
         "x": 754,
-        "y": 249,
-        "w": 1102,
-        "h": 392
+        "y": 249
     },
     {
         "id": "5cf67bd384745bc4",
@@ -617,9 +593,7 @@
             "18c21c6d00a60420"
         ],
         "x": 199,
-        "y": 109,
-        "w": 822,
-        "h": 397
+        "y": 109
     },
     {
         "id": "d5cd79b677b0e975",
@@ -644,9 +618,7 @@
             "6b3cbc7f60f41ee7"
         ],
         "x": 1044,
-        "y": 304,
-        "w": 437,
-        "h": 202
+        "y": 304
     },
     {
         "id": "9b2d800cf2d90b2c",
@@ -669,9 +641,7 @@
             "c37451428f3dc6ef"
         ],
         "x": 1044,
-        "y": 109,
-        "w": 427,
-        "h": 112
+        "y": 109
     },
     {
         "id": "d9d7192a2acbd5cc",
@@ -709,9 +679,7 @@
             "282f6db66c44f19a"
         ],
         "x": 234,
-        "y": 1024,
-        "w": 922,
-        "h": 558
+        "y": 1024
     },
     {
         "id": "b7be1fbf76a073e2",
@@ -739,10 +707,8 @@
             "dd90145cd4293ec4",
             "0b2bbbb8fc430d23"
         ],
-        "x": 139,
-        "y": 55,
-        "w": 672,
-        "h": 247
+        "x": 129,
+        "y": 55
     },
     {
         "id": "55a9133a1c5a95d1",
@@ -765,9 +731,7 @@
             "b6da99b42391a973"
         ],
         "x": 199,
-        "y": 1924,
-        "w": 807,
-        "h": 172
+        "y": 1924
     },
     {
         "id": "c3501ed6e9dcfd95",
@@ -788,9 +752,7 @@
             "e591ac746b349b71"
         ],
         "x": 1079,
-        "y": 1954,
-        "w": 557,
-        "h": 127
+        "y": 1954
     },
     {
         "id": "3d124027146d0e22",
@@ -833,9 +795,7 @@
             "d8a6ec6838de37b8"
         ],
         "x": 169,
-        "y": 2149,
-        "w": 1503,
-        "h": 813
+        "y": 2149
     },
     {
         "id": "c7aff72d1a698bfc",
@@ -863,9 +823,7 @@
             "74dd883b5669e797"
         ],
         "x": 1053,
-        "y": 529,
-        "w": 673,
-        "h": 303
+        "y": 529
     },
     {
         "id": "2d1b2de20aa0c22b",
@@ -886,9 +844,7 @@
             "1740c7857c8fad72"
         ],
         "x": 1494,
-        "y": 184,
-        "w": 367,
-        "h": 112
+        "y": 184
     },
     {
         "id": "7ea99ce57f3030da",
@@ -911,9 +867,7 @@
             "6ed432e955eed2af"
         ],
         "x": 899,
-        "y": 64,
-        "w": 432,
-        "h": 112
+        "y": 64
     },
     {
         "id": "eaa0ab9108712f87",
@@ -937,10 +891,8 @@
             "e4c7fdbeb50da316",
             "f980de469977c37f"
         ],
-        "x": 904,
-        "y": 214,
-        "w": 437,
-        "h": 202
+        "x": 894,
+        "y": 214
     },
     {
         "id": "cccb0df7921dec2f",
@@ -965,9 +917,7 @@
             "b7700a2027731da3"
         ],
         "x": 1314,
-        "y": 814,
-        "w": 342,
-        "h": 247
+        "y": 814
     },
     {
         "id": "ee530506baeb12a5",
@@ -992,9 +942,9 @@
             "f44f02576d246f6d",
             "82e1195627ed2c7e"
         ],
-        "x": 129,
+        "x": 124,
         "y": 679,
-        "w": 592,
+        "w": 597,
         "h": 172
     },
     {
@@ -1024,9 +974,7 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984,
-        "w": 1132,
-        "h": 217
+        "y": 1984
     },
     {
         "id": "20b3e86b59e03511",
@@ -1047,10 +995,8 @@
             "6067e973b7dd40eb",
             "535ab9848c1b1849"
         ],
-        "x": 173,
-        "y": 1274,
-        "w": 1419,
-        "h": 1058
+        "x": 163,
+        "y": 1274
     },
     {
         "id": "7ca93f3dda4c162e",
@@ -1084,9 +1030,9 @@
             "791b4bdbf17ea41b",
             "53b729e6e0afd102"
         ],
-        "x": 124,
+        "x": 118,
         "y": 2584,
-        "w": 1182,
+        "w": 1188,
         "h": 971
     },
     {
@@ -1124,7 +1070,7 @@
         ],
         "x": 169,
         "y": 2134,
-        "w": 1642,
+        "w": 1652,
         "h": 378
     },
     {
@@ -1151,9 +1097,7 @@
             "cad2bd523c7147bc"
         ],
         "x": 559,
-        "y": 2209,
-        "w": 827,
-        "h": 187
+        "y": 2209
     },
     {
         "id": "4c1f6debb662b115",
@@ -1184,9 +1128,7 @@
             "e8b1b96a138f8bcc"
         ],
         "x": 449,
-        "y": 2419,
-        "w": 907,
-        "h": 292
+        "y": 2419
     },
     {
         "id": "968c394fc0447039",
@@ -1208,9 +1150,7 @@
             "e20b9892b6ecb65d"
         ],
         "x": 1169,
-        "y": 679,
-        "w": 432,
-        "h": 127
+        "y": 679
     },
     {
         "id": "6c37c577dff9338f",
@@ -1231,9 +1171,7 @@
             "9261c1f58513ca26"
         ],
         "x": 1963,
-        "y": 274,
-        "w": 849,
-        "h": 558
+        "y": 274
     },
     {
         "id": "290ebf86bbdaeb68",
@@ -1256,9 +1194,9 @@
             "e1dc7f1a029a50c6",
             "25e586867aa60c2c"
         ],
-        "x": 124,
+        "x": 114,
         "y": 109,
-        "w": 472,
+        "w": 482,
         "h": 127
     },
     {
@@ -1280,9 +1218,9 @@
             "015cd5895c17da64",
             "383ca0e1b93f7efa"
         ],
-        "x": 1563,
+        "x": 1553,
         "y": 82,
-        "w": 1345,
+        "w": 1365,
         "h": 886
     },
     {
@@ -1328,9 +1266,9 @@
             "d54be42788f5e0ad",
             "30e6d608b9a93494"
         ],
-        "x": 128,
+        "x": 118,
         "y": 343,
-        "w": 1322,
+        "w": 1332,
         "h": 313
     },
     {
@@ -1359,9 +1297,7 @@
             "de28ab8a9c960787"
         ],
         "x": 809,
-        "y": 2824,
-        "w": 1047,
-        "h": 202
+        "y": 2824
     },
     {
         "id": "a5129725214b9c4b",
@@ -1396,78 +1332,15 @@
             "1c7701faa07b0bae",
             "57e142f7eea02841",
             "87f7ce05c7d80d59",
-            "a2b555ae2f9f3615"
+            "a2b555ae2f9f3615",
+            "a204937f89f642b0",
+            "454a13e00d5b9e5b",
+            "2e0b4fb87e78be62"
         ],
-        "x": 169,
+        "x": 159,
         "y": 1849,
-        "w": 1641,
-        "h": 220
-    },
-    {
-        "id": "69aa6256f2c9bd04",
-        "type": "group",
-        "z": "467287adb311067b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4acd9c73f0879c01",
-            "06140d8a4d2499a7",
-            "3cb233de10369a68",
-            "50db3566aed008c1",
-            "b4403a2e7a8fb4d0",
-            "eef7b7f36f9758aa",
-            "7974e6edac1e59de",
-            "5f778b6711825fcf",
-            "69b85bc413b570fc",
-            "0691b74c98774d64",
-            "097a07dd9d2f509c",
-            "f50daf0c4e30d4eb",
-            "0790d927fe9905d2",
-            "cc7de937cce7ee42",
-            "32d818c186b9f117",
-            "14dd2aa3f24d764e",
-            "9bff0c518c4985f6",
-            "b9da37c944852df8",
-            "09ac4f74f0f13e29",
-            "48d36f1939668445",
-            "69f09cbf5d042517",
-            "31c955cdf3825d25",
-            "34bcc63c28f5fc05",
-            "dd00bdb14272d3f4",
-            "2a1c40448116ee56",
-            "358b050e5078acd4",
-            "a971e4f93ad39ca7",
-            "6c56f15f043c0473",
-            "d11b147b7597ffc0",
-            "5805f596341cb3a2",
-            "668ba0727e5c7e50",
-            "bab4bbbe0f4d2916",
-            "08680ee51511554d",
-            "832d00f09a14ebe3",
-            "46e4d5dc11327b5e",
-            "06478a7e9de8fde4",
-            "9f5d222a3b85d281",
-            "e77073d8e6d91811",
-            "e82c2d30593592ab",
-            "a12a92f26169293f",
-            "db707c303280e161",
-            "9ef3cf24dbfff175",
-            "2d382d60f4f2a299",
-            "323019d8daa8a8d2",
-            "c05ec4dc2727a82a",
-            "0e5aaf62340ff84e"
-        ],
-        "x": 129,
-        "y": 1174,
-        "w": 1342,
-        "h": 517
+        "w": 1661,
+        "h": 272
     },
     {
         "id": "aad49237e214af20",
@@ -1533,9 +1406,9 @@
             "9e4171e022a9d561",
             "e06cf1177698ef46"
         ],
-        "x": 132,
+        "x": 124,
         "y": 2194,
-        "w": 2592,
+        "w": 2610,
         "h": 849
     },
     {
@@ -1614,7 +1487,7 @@
         ],
         "x": 134,
         "y": 904,
-        "w": 1092,
+        "w": 1102,
         "h": 202
     },
     {
@@ -1649,10 +1522,8 @@
             "c2f6799a8cff1f0a",
             "0b11d06ac709bda3"
         ],
-        "x": 1639,
-        "y": 334,
-        "w": 912,
-        "h": 292
+        "x": 1634,
+        "y": 334
     },
     {
         "id": "98103edf08989487",
@@ -1690,9 +1561,29 @@
             "75841d635b83f19a"
         ],
         "x": 144,
-        "y": 334,
-        "w": 732,
-        "h": 269.5
+        "y": 334
+    },
+    {
+        "id": "235ab75c2ef190a9",
+        "type": "group",
+        "z": "467287adb311067b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e66e893159863176",
+            "d97b605f961c4697"
+        ],
+        "x": 103,
+        "y": 1148,
+        "w": 2381,
+        "h": 569
     },
     {
         "id": "9e4171e022a9d561",
@@ -1722,9 +1613,9 @@
             "a976f8361278473b",
             "c53439603f4e4208"
         ],
-        "x": 1448,
+        "x": 1438,
         "y": 2807,
-        "w": 1250,
+        "w": 1270,
         "h": 210
     },
     {
@@ -1754,9 +1645,9 @@
             "d2cc8a993cf033bf",
             "05085880d56d9d9b"
         ],
-        "x": 2069,
+        "x": 2059,
         "y": 108,
-        "w": 813,
+        "w": 833,
         "h": 449
     },
     {
@@ -1780,9 +1671,9 @@
             "445fed90cc9ae04b",
             "aa40c2fd63e42b3c"
         ],
-        "x": 1604,
+        "x": 1594,
         "y": 184,
-        "w": 422,
+        "w": 442,
         "h": 172
     },
     {
@@ -1814,9 +1705,9 @@
             "263134e42e86e47b",
             "c6691944eaed7410"
         ],
-        "x": 1589,
+        "x": 1579,
         "y": 594,
-        "w": 1267,
+        "w": 1277,
         "h": 348
     },
     {
@@ -1854,10 +1745,8 @@
             "d10978b2469ceff3",
             "0a7637311a10d33c"
         ],
-        "x": 304,
-        "y": 1349,
-        "w": 797,
-        "h": 337
+        "x": 294,
+        "y": 1349
     },
     {
         "id": "6067e973b7dd40eb",
@@ -1888,10 +1777,8 @@
             "3be8e0ee10cd410f",
             "0264fb6e41a9c278"
         ],
-        "x": 199,
-        "y": 1794,
-        "w": 617,
-        "h": 367
+        "x": 189,
+        "y": 1794
     },
     {
         "id": "e2bd9331f9185534",
@@ -1919,9 +1806,7 @@
             "9d91f8e564086ea1"
         ],
         "x": 1459,
-        "y": 1754,
-        "w": 1107,
-        "h": 172
+        "y": 1754
     },
     {
         "id": "21bbb7d46384e287",
@@ -1953,9 +1838,7 @@
             "3f9469575ed20a91"
         ],
         "x": 1444,
-        "y": 2314,
-        "w": 1202,
-        "h": 282
+        "y": 2314
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1987,9 +1870,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 1454,
-        "y": 1944,
-        "w": 992,
-        "h": 362
+        "y": 1944
     },
     {
         "id": "3714a803248cefeb",
@@ -2011,9 +1892,9 @@
             "88e3d23a3ec9d6b0",
             "d27598503a5b31c1"
         ],
-        "x": 129,
+        "x": 119,
         "y": 4294,
-        "w": 572,
+        "w": 592,
         "h": 232
     },
     {
@@ -2086,9 +1967,9 @@
             "22a43313b4628e06",
             "f97cc9e5d5d42826"
         ],
-        "x": 154,
+        "x": 144,
         "y": 2659,
-        "w": 1107,
+        "w": 1117,
         "h": 487
     },
     {
@@ -2121,7 +2002,7 @@
         ],
         "x": 199,
         "y": 1579,
-        "w": 1157,
+        "w": 1167,
         "h": 202
     },
     {
@@ -2152,9 +2033,9 @@
             "a87b7f1bb3d8030d",
             "e8a45a4aa7a22874"
         ],
-        "x": 199,
+        "x": 189,
         "y": 1369,
-        "w": 1117,
+        "w": 1127,
         "h": 202
     },
     {
@@ -2199,7 +2080,7 @@
         ],
         "x": 199,
         "y": 979,
-        "w": 1227,
+        "w": 1237,
         "h": 382
     },
     {
@@ -2273,7 +2154,7 @@
         ],
         "x": 179,
         "y": 484,
-        "w": 1687,
+        "w": 1697,
         "h": 472
     },
     {
@@ -2316,9 +2197,7 @@
             "0396c1363191d76c"
         ],
         "x": 1459,
-        "y": 1329,
-        "w": 1492,
-        "h": 382
+        "y": 1329
     },
     {
         "id": "95f61ab7d0989272",
@@ -2342,9 +2221,7 @@
             "842017b9a006b707"
         ],
         "x": 264,
-        "y": 1429,
-        "w": 627,
-        "h": 127
+        "y": 1429
     },
     {
         "id": "b99d3df5ef07d131",
@@ -2375,9 +2252,7 @@
             "be6cdfc7a6f5fa2c"
         ],
         "x": 204,
-        "y": 2704,
-        "w": 847,
-        "h": 232
+        "y": 2704
     },
     {
         "id": "b42e082536c528eb",
@@ -2404,9 +2279,7 @@
             "1b4cb03a20cec83f"
         ],
         "x": 734,
-        "y": 2329,
-        "w": 517,
-        "h": 202
+        "y": 2329
     },
     {
         "id": "3562e00f4ed04fb9",
@@ -2430,9 +2303,7 @@
             "a62e3a70e91d913b"
         ],
         "x": 944,
-        "y": 2179,
-        "w": 357,
-        "h": 142
+        "y": 2179
     },
     {
         "id": "51320eb4ac48f6d8",
@@ -2456,9 +2327,7 @@
             "1e1402bb46babf61"
         ],
         "x": 1314,
-        "y": 2209,
-        "w": 332,
-        "h": 172
+        "y": 2209
     },
     {
         "id": "2964739a3908b397",
@@ -2486,9 +2355,7 @@
             "53965897f5958030"
         ],
         "x": 239,
-        "y": 2569,
-        "w": 1062,
-        "h": 127
+        "y": 2569
     },
     {
         "id": "74dd883b5669e797",
@@ -2512,9 +2379,7 @@
             "7f3f720f5ffa9ec8"
         ],
         "x": 1079,
-        "y": 634,
-        "w": 247,
-        "h": 172
+        "y": 634
     },
     {
         "id": "535ab9848c1b1849",
@@ -2557,9 +2422,7 @@
             "fe811fa1d8709aae"
         ],
         "x": 894,
-        "y": 1714,
-        "w": 672,
-        "h": 592
+        "y": 1714
     },
     {
         "id": "7169425350ce858f",
@@ -2586,9 +2449,9 @@
             "d4ffa269abe8be44",
             "1bbf54fc1b8056eb"
         ],
-        "x": 249,
+        "x": 239,
         "y": 3319,
-        "w": 735,
+        "w": 745,
         "h": 210
     },
     {
@@ -2651,9 +2514,7 @@
             "8eefeac72777a334"
         ],
         "x": 1989,
-        "y": 334,
-        "w": 797,
-        "h": 187
+        "y": 334
     },
     {
         "id": "9261c1f58513ca26",
@@ -2684,9 +2545,101 @@
             "8be2693bfd6a9a13"
         ],
         "x": 1994,
-        "y": 544,
-        "w": 752,
-        "h": 262
+        "y": 544
+    },
+    {
+        "id": "e66e893159863176",
+        "type": "group",
+        "z": "467287adb311067b",
+        "g": "235ab75c2ef190a9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4af724ff7835f468",
+            "79270dbd8deea67c",
+            "566bb2cfd0626071",
+            "ded0197c2e495cff",
+            "3ec0e75fa65e5128",
+            "ca06e56e0aff55da"
+        ],
+        "x": 1484,
+        "y": 1175,
+        "w": 974,
+        "h": 130
+    },
+    {
+        "id": "d97b605f961c4697",
+        "type": "group",
+        "z": "467287adb311067b",
+        "g": "235ab75c2ef190a9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4acd9c73f0879c01",
+            "06140d8a4d2499a7",
+            "3cb233de10369a68",
+            "50db3566aed008c1",
+            "b4403a2e7a8fb4d0",
+            "eef7b7f36f9758aa",
+            "7974e6edac1e59de",
+            "5f778b6711825fcf",
+            "69b85bc413b570fc",
+            "0691b74c98774d64",
+            "097a07dd9d2f509c",
+            "f50daf0c4e30d4eb",
+            "0790d927fe9905d2",
+            "cc7de937cce7ee42",
+            "32d818c186b9f117",
+            "14dd2aa3f24d764e",
+            "9bff0c518c4985f6",
+            "b9da37c944852df8",
+            "09ac4f74f0f13e29",
+            "48d36f1939668445",
+            "69f09cbf5d042517",
+            "31c955cdf3825d25",
+            "34bcc63c28f5fc05",
+            "dd00bdb14272d3f4",
+            "2a1c40448116ee56",
+            "358b050e5078acd4",
+            "a971e4f93ad39ca7",
+            "6c56f15f043c0473",
+            "d11b147b7597ffc0",
+            "5805f596341cb3a2",
+            "668ba0727e5c7e50",
+            "bab4bbbe0f4d2916",
+            "08680ee51511554d",
+            "832d00f09a14ebe3",
+            "46e4d5dc11327b5e",
+            "06478a7e9de8fde4",
+            "9f5d222a3b85d281",
+            "e77073d8e6d91811",
+            "e82c2d30593592ab",
+            "a12a92f26169293f",
+            "db707c303280e161",
+            "9ef3cf24dbfff175",
+            "2d382d60f4f2a299",
+            "323019d8daa8a8d2",
+            "c05ec4dc2727a82a",
+            "0e5aaf62340ff84e"
+        ],
+        "x": 129,
+        "y": 1174,
+        "w": 1352,
+        "h": 517
     },
     {
         "id": "c05cbc581f087383",
@@ -2712,7 +2665,7 @@
         ],
         "x": 2104,
         "y": 409,
-        "w": 752,
+        "w": 762,
         "h": 122
     },
     {
@@ -2765,9 +2718,9 @@
             "aaacd9c0df2207bc",
             "e60338ef13bfc039"
         ],
-        "x": 1844,
+        "x": 1834,
         "y": 794,
-        "w": 972,
+        "w": 992,
         "h": 122
     },
     {
@@ -11847,7 +11800,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "a5129725214b9c4b",
         "name": "push to historyTable",
-        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\nlet row=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n// let prodRowList = msg.multiQueryData.prodRow;\n// let excRowList = msg.multiQueryData.excRow;\nlet prodExcRowList = msg.payload;\nlet lastCycleComment = msg.multiQueryData?.cycleRow_pollRes?.result?.[0]?.note ?? node.warn({ txt: \"[WARN] path to comment leads nowhere. Check multiQueryData\", path: \"msg.multiQueryData.cycleRow_pollRes.result[0].note\", full:msg });\n//newRow.id = plcData.prod_id;\n//newRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\n//newRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\n//newRow.status = plcData.exc_status;\n//newRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\n//newRow.cycleNumber = prodRow.cycleNumber;\n// newRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n// newRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nlet statAsStr = prodExcRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ?\n    \"parz.\" : \"compl.\";\nfor(let dbRow of prodExcRowList){\n    let newRow=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n    \n    newRow.id = dbRow.orderId;\n    newRow.cycleNumber = dbRow.cycleNumber;\n    newRow.quantProd = dbRow.prod_quantProd;\n    newRow.status = prodExcRowList.map(dbRow => { return { \"id\": dbRow.orderId, \"code\": dbRow.status } });\n    // newRow.statusAsString = prodExcRowList\n    //     .map(row => row.status)\n    //     .some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n    newRow.statusAsString = (\"\"+dbRow.esito) == \"2\" ? \"parz.\" : \"compl.\";\n    newRow.press = msg.press;\n    newRow.note = lastCycleComment ?? \"\";\n    //node.warn({ txt: \"pushing to history\", newRow: newRow, fromDb: dbRow, of: prodExcRowList, cycNote:lastCycleComment, full:msg });\n    historyTable.push(newRow);\n}\n\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);",
+        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\n// let prodRowList = msg.multiQueryData.prodRow;\n// let excRowList = msg.multiQueryData.excRow;\nlet prodExcRowList = msg.payload;\nlet lastCycleComment = msg.multiQueryData?.cycleRow_pollRes?.result?.[0]?.note ?? node.warn({ txt: \"[WARN] path to comment leads nowhere. Check multiQueryData\", path: \"msg.multiQueryData.cycleRow_pollRes.result[0].note\", full:msg });\n//newRow.id = plcData.prod_id;\n//newRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\n//newRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\n//newRow.status = plcData.exc_status;\n//newRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\n//newRow.cycleNumber = prodRow.cycleNumber;\n// newRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n// newRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nlet statAsStr = prodExcRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ?\n    \"parz.\" : \"compl.\";\nfor(let dbRow of prodExcRowList){\n    let newRow=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n    \n    newRow.id = dbRow.orderId;\n    newRow.cycleNumber = dbRow.cycleNumber;\n    newRow.quantProd = dbRow.prod_quantProd;\n    newRow.status = prodExcRowList.map(dbRow => { return { \"id\": dbRow.orderId, \"code\": dbRow.status } });\n    // newRow.statusAsString = prodExcRowList\n    //     .map(row => row.status)\n    //     .some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n    newRow.statusAsString = (\"\"+dbRow.esito) == \"2\" ? \"parz.\" : \"compl.\";\n    newRow.press = msg.press;\n    newRow.note = lastCycleComment ?? \"\";\n    //node.warn({ txt: \"pushing to history\", newRow: newRow, fromDb: dbRow, of: prodExcRowList, cycNote:lastCycleComment, full:msg });\n    historyTable.push(newRow);\n}\n\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12331,6 +12284,70 @@
             ]
         ],
         "l": false
+    },
+    {
+        "id": "a204937f89f642b0",
+        "type": "link in",
+        "z": "2260f1f88d7c60bf",
+        "g": "a5129725214b9c4b",
+        "name": "manual history import in",
+        "links": [
+            "4af724ff7835f468"
+        ],
+        "x": 770,
+        "y": 2080,
+        "wires": [
+            [
+                "454a13e00d5b9e5b"
+            ]
+        ],
+        "l": true
+    },
+    {
+        "id": "454a13e00d5b9e5b",
+        "type": "function",
+        "z": "2260f1f88d7c60bf",
+        "g": "a5129725214b9c4b",
+        "name": "push to historyTable",
+        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\n// let prodRowList = msg.multiQueryData.prodRow;\n// let excRowList = msg.multiQueryData.excRow;\nlet prodExcRowList = msg.payload;\nlet lastCycleComment = msg.multiQueryData?.cycleRow_pollRes?.result?.[0]?.note ?? node.warn({ txt: \"[WARN] path to comment leads nowhere. Check multiQueryData\", path: \"msg.multiQueryData.cycleRow_pollRes.result[0].note\", full:msg });\n//newRow.id = plcData.prod_id;\n//newRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\n//newRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\n//newRow.status = plcData.exc_status;\n//newRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\n//newRow.cycleNumber = prodRow.cycleNumber;\n// newRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n// newRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nlet statAsStr = prodExcRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ?\n    \"parz.\" : \"compl.\";\nfor(let dbRow of prodExcRowList){\n    let newRow=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n    \n    newRow.id = dbRow.orderId;\n    newRow.cycleNumber = dbRow.cycleNumber;\n    newRow.quantProd = dbRow.prod_quantProd;\n    newRow.status = prodExcRowList.map(dbRow => { return { \"id\": dbRow.orderId, \"code\": dbRow.status } });\n    // newRow.statusAsString = prodExcRowList\n    //     .map(row => row.status)\n    //     .some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n    newRow.statusAsString = (\"\"+dbRow.esito) == \"2\" ? \"parz.\" : \"compl.\";\n    newRow.press = msg.press;\n    newRow.note = lastCycleComment ?? \"\";\n    //node.warn({ txt: \"pushing to history\", newRow: newRow, fromDb: dbRow, of: prodExcRowList, cycNote:lastCycleComment, full:msg });\n\n    let d = newRow.dateObj = new Date(Date.parse(dbRow.endTime));\n    newRow.date = twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear();\n    newRow.time = twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds());\n    newRow.millis = Date.now();\n\n    historyTable.push(newRow);\n}\n\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);\n\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1012,
+        "y": 2080,
+        "wires": [
+            [
+                "2e0b4fb87e78be62"
+            ]
+        ]
+    },
+    {
+        "id": "2e0b4fb87e78be62",
+        "type": "trigger",
+        "z": "2260f1f88d7c60bf",
+        "g": "a5129725214b9c4b",
+        "name": "2s",
+        "op1": "",
+        "op2": "true",
+        "op1type": "nul",
+        "op2type": "bool",
+        "duration": "2",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 1186,
+        "y": 2080,
+        "wires": [
+            [
+                "b2cfef37ff094752"
+            ]
+        ]
     },
     {
         "id": "a848fb1dfb6e367c",
@@ -22523,7 +22540,7 @@
         "id": "4acd9c73f0879c01",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "INSERT sameCycle in prodTable",
         "func": "\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n\nlet lastRow = msg.payload?.[0];\nif(!lastRow)\n    return node.error(\"got empty result from prodTable. cannot INSERT a copy\");\n\nlet toSqlDate = dt => db.sqlString.dateToString(dt, \"local\").slice(1, -5);\nlet startTime = lastRow.startTime;//lastRow.endTime ?? (() => { let tmp = Date.now(); tmp.setHours(tmp.getHours() - 1); return tmp; })()\nlet endTime = lastRow.endTime;\n\nreturn db.attachQuery(\n    db.sqlString.format(`\n            INSERT INTO oven.italmatic_production\n                    (CYCLE_NUMBER, ORDER_ID, BEGIN_TIME, END_TIME, ESITO, QUANT_PROD)\n            VALUES  (?, ?, ?,  ?, true, '1')\n        `,\n        [\n            lastRow.cycleNumber,\n            msg.ordId,\n            toSqlDate(startTime),\n            toSqlDate(endTime)\n        ]\n    )\n);",
         "outputs": 1,
@@ -22543,7 +22560,7 @@
         "id": "06140d8a4d2499a7",
         "type": "link call",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ToDB",
         "links": [
             "e425438737e4e626"
@@ -22562,7 +22579,7 @@
         "id": "3cb233de10369a68",
         "type": "debug",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "prodTable INSERT",
         "active": true,
         "tosidebar": true,
@@ -22580,7 +22597,7 @@
         "id": "50db3566aed008c1",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ordId: id_1",
         "rules": [
             {
@@ -22608,7 +22625,7 @@
         "id": "b4403a2e7a8fb4d0",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ordId: id_2",
         "rules": [
             {
@@ -22636,7 +22653,7 @@
         "id": "eef7b7f36f9758aa",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ordId: id_3",
         "rules": [
             {
@@ -22664,7 +22681,7 @@
         "id": "7974e6edac1e59de",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [
             {
@@ -22695,7 +22712,7 @@
         "id": "5f778b6711825fcf",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [
             {
@@ -22726,7 +22743,7 @@
         "id": "69b85bc413b570fc",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [
             {
@@ -22757,7 +22774,7 @@
         "id": "0691b74c98774d64",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "payload:true",
         "props": [
             {
@@ -22783,7 +22800,7 @@
         "id": "097a07dd9d2f509c",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "payload:false",
         "props": [
             {
@@ -22809,7 +22826,7 @@
         "id": "f50daf0c4e30d4eb",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "SIMULA CICLO #DBG",
         "info": "",
         "x": 260,
@@ -22820,7 +22837,7 @@
         "id": "0790d927fe9905d2",
         "type": "switch",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -22845,7 +22862,7 @@
         "id": "cc7de937cce7ee42",
         "type": "link out",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "dbgLink simulaCiclo in",
         "mode": "link",
         "links": [
@@ -22872,7 +22889,9 @@
             "867483dc69ed67b2",
             "439c3801ec3fdf28",
             "1c086dfb06b5e0f8",
-            "3a62cbbc637d084b"
+            "3a62cbbc637d084b",
+            "ffeba802d96fe7f5",
+            "16035197b31f1e42"
         ],
         "x": 303,
         "y": 2588,
@@ -22893,7 +22912,8 @@
         "mode": "link",
         "links": [
             "650a926a311fecc6",
-            "51968d61999c8841"
+            "51968d61999c8841",
+            "d739a2d99177e1e5"
         ],
         "x": 1258,
         "y": 2288,
@@ -22960,7 +22980,8 @@
         "mode": "link",
         "links": [
             "650a926a311fecc6",
-            "51968d61999c8841"
+            "51968d61999c8841",
+            "d739a2d99177e1e5"
         ],
         "x": 1638,
         "y": 2438,
@@ -22977,7 +22998,8 @@
         "mode": "link",
         "links": [
             "650a926a311fecc6",
-            "51968d61999c8841"
+            "51968d61999c8841",
+            "d739a2d99177e1e5"
         ],
         "x": 1623,
         "y": 2573,
@@ -22994,7 +23016,8 @@
         "mode": "link",
         "links": [
             "650a926a311fecc6",
-            "51968d61999c8841"
+            "51968d61999c8841",
+            "d739a2d99177e1e5"
         ],
         "x": 1573,
         "y": 2723,
@@ -23062,7 +23085,7 @@
         "id": "32d818c186b9f117",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "INSERT in cycle",
         "func": "//send this from workbench, (ONLY in DBG ofc)\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\nlet lastCycNum = msg.payload?.[0]?.CYCLE_NUMBER ?? node.error(\"got empty result. using 0 as cyc num\") ?? 0;\n\nlet toSqlDate = dt => db.sqlString.dateToString(dt, \"local\").slice(1, -5);\nreturn db.attachQuery(db.sqlString.format(`\n    INSERT INTO\n      oven.cycle (\n        CYCLE_NUMBER,\n        RECIPE_NAME,\n        BEGIN_TIME,\n        BEGIN_USER,\n        END_TIME,\n        END_USER,\n        ENERGY,\n        COMMENT\n      )\n    VALUES\n      (\n        ?,\n        'none',\n        ?,\n        'system',\n        ?,\n        'system',\n        0,\n        'noComment'\n      );\n    `,[\n      lastCycNum +1,\n      toSqlDate(Date.now()),\n      toSqlDate(Date.now()),\n    ],\n  ),\n  msg\n);\n",
         "outputs": 1,
@@ -23461,7 +23484,7 @@
         "id": "14dd2aa3f24d764e",
         "type": "switch",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -23486,7 +23509,7 @@
         "id": "9bff0c518c4985f6",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "manSwitch",
         "func": "return context.get(\"onMsg\")(msg);",
         "outputs": 2,
@@ -23509,7 +23532,7 @@
         "id": "b9da37c944852df8",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [],
         "repeat": "",
@@ -23530,7 +23553,7 @@
         "id": "09ac4f74f0f13e29",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "INSERT newCycle in prodTable",
         "func": "\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n\nlet lastRow = msg.payload?.[0] ?? node.warn(\"got empty result from prodTable. Using 0 as cycNum\")\n    ?? [{ cycleNumber: 0 }];\n\nlet toSqlDate = dt => db.sqlString.dateToString(dt, \"local\").slice(1, -5);\nlet startTime = lastRow.endTime ?? (() => { let tmp = Date.now(); tmp.setHours(tmp.getHours()-1); return tmp; })()\nlet endTime = Date.now();\n\nreturn db.attachQuery(\n    db.sqlString.format(`\n        INSERT INTO\n            oven.italmatic_production (\n                CYCLE_NUMBER,\n                ORDER_ID,\n                BEGIN_TIME,\n                END_TIME,\n                ESITO,\n                QUANT_PROD\n            )\n        VALUES\n            (?, ?, ?, ?, true, '1')\n        `,\n        [\n            lastRow.cycleNumber + 1,\n            msg.ordId,\n            toSqlDate(startTime),\n            toSqlDate(endTime)\n        ]\n    )\n);",
         "outputs": 1,
@@ -23550,7 +23573,7 @@
         "id": "48d36f1939668445",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:1",
         "rules": [
             {
@@ -23585,7 +23608,7 @@
         "id": "69f09cbf5d042517",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [],
         "repeat": "",
@@ -23606,7 +23629,7 @@
         "id": "31c955cdf3825d25",
         "type": "trigger",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "op1": "",
         "op2": "true",
@@ -23632,7 +23655,7 @@
         "id": "34bcc63c28f5fc05",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [],
         "repeat": "",
@@ -23653,7 +23676,7 @@
         "id": "dd00bdb14272d3f4",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:1",
         "rules": [
             {
@@ -23689,7 +23712,7 @@
         "id": "2a1c40448116ee56",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:0",
         "rules": [
             {
@@ -23724,7 +23747,7 @@
         "id": "358b050e5078acd4",
         "type": "trigger",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "op1": "",
         "op2": "true",
@@ -23750,7 +23773,7 @@
         "id": "a971e4f93ad39ca7",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:1",
         "rules": [
             {
@@ -23786,7 +23809,7 @@
         "id": "6c56f15f043c0473",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:0",
         "rules": [
             {
@@ -23821,7 +23844,7 @@
         "id": "d11b147b7597ffc0",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "",
         "props": [],
         "repeat": "",
@@ -23842,7 +23865,7 @@
         "id": "5805f596341cb3a2",
         "type": "link call",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ToDB",
         "links": [
             "e425438737e4e626"
@@ -23861,7 +23884,7 @@
         "id": "668ba0727e5c7e50",
         "type": "debug",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "cycleTable INSERT",
         "active": true,
         "tosidebar": true,
@@ -23879,7 +23902,7 @@
         "id": "bab4bbbe0f4d2916",
         "type": "inject",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "CAUTION! THIS TABLE IS SHARED",
         "props": [],
         "repeat": "",
@@ -23899,7 +23922,7 @@
         "id": "08680ee51511554d",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "add dummy row to oven.cycle",
         "info": "",
         "x": 285,
@@ -23910,7 +23933,7 @@
         "id": "832d00f09a14ebe3",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "temporary unlock  using both \"set:1\"",
         "info": "",
         "x": 305,
@@ -23921,7 +23944,7 @@
         "id": "46e4d5dc11327b5e",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "manSwitch",
         "func": "return context.get(\"onMsg\")(msg);",
         "outputs": 2,
@@ -23942,7 +23965,7 @@
         "id": "06478a7e9de8fde4",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "manSwitch",
         "func": "return context.get(\"onMsg\")(msg);",
         "outputs": 2,
@@ -23963,7 +23986,7 @@
         "id": "9f5d222a3b85d281",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "GET last prod row",
         "func": "\nlet db = global.get(\"db\");\n\nlet dtNow = new Date();\nvar dtBef = new Date();\ndtBef.setHours( dtBef.getHours()-1);\n\nreturn db.attachQuery(\n    db.sqlString.format(`\n            SELECT\n                CYCLE_NUMBER as cycleNumber,\n                ORDER_ID as orderId,\n                BEGIN_TIME as startTime,\n                END_TIME as endTime,\n                QUANT_PROD as quantProd,\n                ESITO as esito\n            FROM\n                italmatic_production\n            WHERE\n                CYCLE_NUMBER =(\n                    SELECT\n                        MAX(CYCLE_NUMBER)\n                    FROM\n                        italmatic_production\n                    LIMIT 1\n                )\n        `,\n        [\n            msg.ordId,\n            db.sqlString.dateToString(dtNow,\"local\").slice(1,-5),\n            db.sqlString.dateToString(dtBef,\"local\").slice(1,-5)\n        ]\n    ),\n    msg\n);",
         "outputs": 1,
@@ -23983,7 +24006,7 @@
         "id": "e77073d8e6d91811",
         "type": "link call",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ToDB",
         "links": [
             "e425438737e4e626"
@@ -24003,7 +24026,7 @@
         "id": "e82c2d30593592ab",
         "type": "change",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "set:0",
         "rules": [
             {
@@ -24038,7 +24061,7 @@
         "id": "a12a92f26169293f",
         "type": "function",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "GET last cycle row",
         "func": "\nlet db = global.get(\"db\");\n\nlet dtNow = new Date();\nvar dtBef = new Date();\ndtBef.setHours( dtBef.getHours()-1);\n\nreturn db.attachQuery(\n    db.sqlString.format(`\n            SELECT\n                *\n            FROM\n                cycle\n            WHERE\n                CYCLE_NUMBER =(\n                    SELECT\n                        MAX(CYCLE_NUMBER)\n                    FROM\n                        cycle\n                    LIMIT 1\n                )\n        `\n    ),\n    msg\n);",
         "outputs": 1,
@@ -24058,7 +24081,7 @@
         "id": "db707c303280e161",
         "type": "link call",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "ToDB",
         "links": [
             "e425438737e4e626"
@@ -24151,7 +24174,7 @@
         "id": "9ef3cf24dbfff175",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "dopo la prima aggiunta passa da solo a \"agg. su stesso cycNum\"",
         "info": "",
         "x": 905,
@@ -24162,7 +24185,7 @@
         "id": "2d382d60f4f2a299",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "agg. ordine prodotto",
         "info": "",
         "x": 280,
@@ -24173,7 +24196,7 @@
         "id": "323019d8daa8a8d2",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "su nuovo NumCyc",
         "info": "",
         "x": 755,
@@ -24184,7 +24207,7 @@
         "id": "c05ec4dc2727a82a",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "su stesso NumCyc",
         "info": "",
         "x": 765,
@@ -24195,7 +24218,7 @@
         "id": "0e5aaf62340ff84e",
         "type": "comment",
         "z": "467287adb311067b",
-        "g": "69aa6256f2c9bd04",
+        "g": "d97b605f961c4697",
         "name": "simula inizio/fine s7",
         "info": "",
         "x": 265,
@@ -24584,6 +24607,115 @@
         "info": "/*\nquery per assegnare i privilegi sulle tabelle utilizzate.\nNON FUNZIONA su dev, perchè il db non è su localhost (ma su una vm CITECT separata).\n     Sostituisci localhost con % o assegna manualmente i massimi privilegi.\n*/\n\n/* parti da 0 */\nREVOKE ALL PRIVILEGES, GRANT OPTION\n  FROM 'nodered_client';\n\n/* assegna ampi privilegi a _production, ovvero la tabella su cui\n     gli ordini vengono inseriti/aggiornati da CITECT.\n     usati(prod):SELECT\n     usati(prod+dev):.., INSERT */\nGRANT\n\tDELETE, \n    INSERT, \n    SELECT, \n    SHOW VIEW, \n    UPDATE\nON oven.`italmatic_production`\nto 'nodered_client'@`localhost`;\n\n/* assegna ampi privilegi a _production, ovvero la tabella su cui\n     gli ordini vengono aggiornati da CITECT ed inseriti/cancellati da NodeRed.\n     usati(prod):SELECT, INSERT, DELETE\n     usati(prod+dev):.. */\nGRANT\n\tDELETE, \n    INSERT, \n    SELECT, \n    SHOW VIEW, \n    UPDATE\nON oven.`italmatic_exchange`\nto 'nodered_client'@`localhost`;\n\n/* assegna minimi privilegi a cycle, ovvero la tabella su cui\n     CITECT inserisce ogni ciclo.\n     usati(prod):SELECT,\n     usati(prod+dev):.., INSERT */\nGRANT\n    SELECT, \n    SHOW VIEW\nON oven.`cycle`\nto 'nodered_client'@`localhost`;\n\n",
         "x": 355,
         "y": 615,
+        "wires": []
+    },
+    {
+        "id": "4af724ff7835f468",
+        "type": "link out",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "manual history import out",
+        "mode": "link",
+        "links": [
+            "a204937f89f642b0"
+        ],
+        "x": 2312,
+        "y": 1264,
+        "wires": [],
+        "l": true
+    },
+    {
+        "id": "79270dbd8deea67c",
+        "type": "function",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "QueryDB last 500 cycle",
+        "func": "const ctxGet = (vName, defVal) => { let tmp; (tmp = context.get(vName)) ?? context.set(vName, defVal); return tmp ?? context.get(vName) }\nconst db = global.get(\"db\");\nconst utils = global.get(\"utils\");\n//routes: [ success , retry (dbQuery) , any fail ]\nconst dbPoll = db.polledQuery;\n\n// //check vals defined\n// if(utils.isNotSet(msg.payload))\n//   return node.error({txt:\"missing cycNum (payload)\",cycNum:msg.payload, full:msg});\n\n//seleziona la riga (una) con max cycNumber (quella appena prodotta)\nlet query = ctxGet(\"query\", `\n  SELECT\n    cyc.RECIPE_NAME as recipeName,\n    cyc.BEGIN_TIME as startTime,\n    cyc.END_TIME as endTime,\n    cyc.\\`COMMENT\\` as \\`note\\`,\n    \n    cyc.CYCLE_NUMBER as cycleNumber,\n    cyc.ORDER_ID as orderId,\n    BEGIN_TIME as startTime,\n    END_TIME as endTime,\n    cyc.QUANT_PROD as prod_quantProd,\n    ESITO as esito,\n    \n    \\`STATUS\\` as \\`status\\`,\n    QUANT_TO_DO as quantToDo,\n    italmatic_exchange.QUANT_PROD as exc_quantProd\n  FROM\n    (\n      SELECT\n        cycle.*,\n        italmatic_production.BEGIN_TIME as prod_startTime,\n        italmatic_production.END_TIME as prod_endTime,\n        italmatic_production.ESITO,\n        italmatic_production.ORDER_ID,\n        italmatic_production.QUANT_PROD\n      FROM\n        cycle\n      LEFT JOIN\n        italmatic_production ON italmatic_production.CYCLE_NUMBER = cycle.CYCLE_NUMBER\n      ORDER BY\n        cycle.CYCLE_NUMBER DESC\n      LIMIT\n        500\n    ) as cyc\n  LEFT JOIN\n    italmatic_exchange ON cyc.ORDER_ID = italmatic_exchange.ORDER_ID\n  ORDER BY\n    cyc.CYCLE_NUMBER ASC\n`);\n\nreturn db.attachQuery(query, msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1710,
+        "y": 1264,
+        "wires": [
+            [
+                "566bb2cfd0626071"
+            ]
+        ],
+        "outputLabels": [
+            "success"
+        ]
+    },
+    {
+        "id": "566bb2cfd0626071",
+        "type": "link call",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "ToDB",
+        "links": [
+            "e425438737e4e626"
+        ],
+        "linkType": "static",
+        "timeout": "99999",
+        "x": 1886,
+        "y": 1264,
+        "wires": [
+            [
+                "3ec0e75fa65e5128"
+            ]
+        ]
+    },
+    {
+        "id": "ded0197c2e495cff",
+        "type": "inject",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1553,
+        "y": 1264,
+        "wires": [
+            [
+                "79270dbd8deea67c"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "3ec0e75fa65e5128",
+        "type": "function",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "order,  split and send",
+        "func": "\nif(!Array.isArray(msg.payload))\n    return node.error({txt:\"null result\",full:msg});\n\nfor(var row of msg.payload){\n    let emulated = {\n        \"payload\":[row],\n        \"multiQueryData\":{\n            \"cycleRow_pollRes\": {\"result\":[row]},\n            \"joinedProdExcRowList_pollRes\":{\"result\":[row]}\n        }\n    }\n    \n    node.send(emulated);\n}\n\nnode.warn(\"all generated\");\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2068,
+        "y": 1264,
+        "wires": [
+            [
+                "4af724ff7835f468"
+            ]
+        ]
+    },
+    {
+        "id": "ca06e56e0aff55da",
+        "type": "comment",
+        "z": "467287adb311067b",
+        "g": "e66e893159863176",
+        "name": "IMPORT 500 FROM HISTORY",
+        "info": "",
+        "x": 1640,
+        "y": 1216,
         "wires": []
     },
     {
