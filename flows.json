@@ -76,7 +76,9 @@
             "6173c68c398eeee3"
         ],
         "x": 1029,
-        "y": 649
+        "y": 649,
+        "w": 707,
+        "h": 127
     },
     {
         "id": "3df0d3098de49375",
@@ -104,8 +106,10 @@
             "1f797f8d865e8ebd",
             "b34226be7162078f"
         ],
-        "x": 492,
-        "y": 2388
+        "x": 502,
+        "y": 2388,
+        "w": 592,
+        "h": 517
     },
     {
         "id": "43b5ce037e6e5304",
@@ -128,7 +132,9 @@
             "cdfe98ebc6268de8"
         ],
         "x": 669,
-        "y": 1129
+        "y": 1129,
+        "w": 452,
+        "h": 127
     },
     {
         "id": "9c7714b3475b1f2b",
@@ -202,9 +208,9 @@
             "a72b1c3580f09904",
             "5fae85f555051914"
         ],
-        "x": 74,
+        "x": 84,
         "y": 4219,
-        "w": 1122,
+        "w": 1102,
         "h": 562
     },
     {
@@ -234,7 +240,7 @@
         ],
         "x": 84,
         "y": 3574,
-        "w": 1082,
+        "w": 1072,
         "h": 562
     },
     {
@@ -260,9 +266,9 @@
             "ceb2f1af58e4621a",
             "6d9e1f49eb50606d"
         ],
-        "x": 154,
+        "x": 164,
         "y": 139,
-        "w": 788,
+        "w": 778,
         "h": 217
     },
     {
@@ -307,7 +313,9 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089
+        "y": 1089,
+        "w": 382,
+        "h": 122
     },
     {
         "id": "b0737e4c04737b82",
@@ -331,7 +339,7 @@
         ],
         "x": 153,
         "y": 409,
-        "w": 1749,
+        "w": 1739,
         "h": 1398
     },
     {
@@ -358,7 +366,9 @@
             "12d506e3c36cb1e0"
         ],
         "x": 589,
-        "y": 4
+        "y": 4,
+        "w": 957,
+        "h": 227
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -397,7 +407,9 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694
+        "y": 694,
+        "w": 1232,
+        "h": 307
     },
     {
         "id": "63f089643e332739",
@@ -420,7 +432,9 @@
             "2639fa3be4067762"
         ],
         "x": 1418,
-        "y": 1254
+        "y": 1254,
+        "w": 1559,
+        "h": 1368
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -446,7 +460,9 @@
             "8b321fcb911b77fd"
         ],
         "x": 566,
-        "y": 679
+        "y": 679,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "89618de1371e00e8",
@@ -472,7 +488,9 @@
             "23908ba29a765ed4"
         ],
         "x": 144,
-        "y": 824
+        "y": 824,
+        "w": 847,
+        "h": 252
     },
     {
         "id": "6b0818d4a0baca5e",
@@ -511,7 +529,7 @@
         ],
         "x": 1909,
         "y": 1829,
-        "w": 1422,
+        "w": 1412,
         "h": 282
     },
     {
@@ -554,7 +572,9 @@
             "8943b4549c5df00c"
         ],
         "x": 754,
-        "y": 249
+        "y": 249,
+        "w": 1102,
+        "h": 392
     },
     {
         "id": "5cf67bd384745bc4",
@@ -707,8 +727,10 @@
             "dd90145cd4293ec4",
             "0b2bbbb8fc430d23"
         ],
-        "x": 129,
-        "y": 55
+        "x": 139,
+        "y": 55,
+        "w": 672,
+        "h": 247
     },
     {
         "id": "55a9133a1c5a95d1",
@@ -867,7 +889,9 @@
             "6ed432e955eed2af"
         ],
         "x": 899,
-        "y": 64
+        "y": 64,
+        "w": 432,
+        "h": 112
     },
     {
         "id": "eaa0ab9108712f87",
@@ -891,8 +915,10 @@
             "e4c7fdbeb50da316",
             "f980de469977c37f"
         ],
-        "x": 894,
-        "y": 214
+        "x": 904,
+        "y": 214,
+        "w": 437,
+        "h": 202
     },
     {
         "id": "cccb0df7921dec2f",
@@ -917,7 +943,9 @@
             "b7700a2027731da3"
         ],
         "x": 1314,
-        "y": 814
+        "y": 814,
+        "w": 342,
+        "h": 247
     },
     {
         "id": "ee530506baeb12a5",
@@ -942,9 +970,9 @@
             "f44f02576d246f6d",
             "82e1195627ed2c7e"
         ],
-        "x": 124,
+        "x": 129,
         "y": 679,
-        "w": 597,
+        "w": 592,
         "h": 172
     },
     {
@@ -974,7 +1002,9 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984
+        "y": 1984,
+        "w": 1132,
+        "h": 217
     },
     {
         "id": "20b3e86b59e03511",
@@ -995,8 +1025,10 @@
             "6067e973b7dd40eb",
             "535ab9848c1b1849"
         ],
-        "x": 163,
-        "y": 1274
+        "x": 173,
+        "y": 1274,
+        "w": 1419,
+        "h": 1058
     },
     {
         "id": "7ca93f3dda4c162e",
@@ -1030,9 +1062,9 @@
             "791b4bdbf17ea41b",
             "53b729e6e0afd102"
         ],
-        "x": 118,
+        "x": 124,
         "y": 2584,
-        "w": 1188,
+        "w": 1182,
         "h": 971
     },
     {
@@ -1070,7 +1102,7 @@
         ],
         "x": 169,
         "y": 2134,
-        "w": 1652,
+        "w": 1642,
         "h": 378
     },
     {
@@ -1097,7 +1129,9 @@
             "cad2bd523c7147bc"
         ],
         "x": 559,
-        "y": 2209
+        "y": 2209,
+        "w": 827,
+        "h": 187
     },
     {
         "id": "4c1f6debb662b115",
@@ -1128,7 +1162,9 @@
             "e8b1b96a138f8bcc"
         ],
         "x": 449,
-        "y": 2419
+        "y": 2419,
+        "w": 907,
+        "h": 292
     },
     {
         "id": "968c394fc0447039",
@@ -1194,9 +1230,9 @@
             "e1dc7f1a029a50c6",
             "25e586867aa60c2c"
         ],
-        "x": 114,
+        "x": 124,
         "y": 109,
-        "w": 482,
+        "w": 472,
         "h": 127
     },
     {
@@ -1218,9 +1254,9 @@
             "015cd5895c17da64",
             "383ca0e1b93f7efa"
         ],
-        "x": 1553,
+        "x": 1563,
         "y": 82,
-        "w": 1365,
+        "w": 1345,
         "h": 886
     },
     {
@@ -1266,9 +1302,9 @@
             "d54be42788f5e0ad",
             "30e6d608b9a93494"
         ],
-        "x": 118,
+        "x": 128,
         "y": 343,
-        "w": 1332,
+        "w": 1322,
         "h": 313
     },
     {
@@ -1297,7 +1333,9 @@
             "de28ab8a9c960787"
         ],
         "x": 809,
-        "y": 2824
+        "y": 2824,
+        "w": 1057,
+        "h": 202
     },
     {
         "id": "a5129725214b9c4b",
@@ -1337,9 +1375,9 @@
             "454a13e00d5b9e5b",
             "2e0b4fb87e78be62"
         ],
-        "x": 159,
+        "x": 169,
         "y": 1849,
-        "w": 1661,
+        "w": 1641,
         "h": 272
     },
     {
@@ -1406,9 +1444,9 @@
             "9e4171e022a9d561",
             "e06cf1177698ef46"
         ],
-        "x": 124,
+        "x": 132,
         "y": 2194,
-        "w": 2610,
+        "w": 2592,
         "h": 849
     },
     {
@@ -1453,7 +1491,7 @@
         ],
         "x": 133,
         "y": 1760,
-        "w": 1727,
+        "w": 1717,
         "h": 396
     },
     {
@@ -1487,7 +1525,7 @@
         ],
         "x": 134,
         "y": 904,
-        "w": 1102,
+        "w": 1092,
         "h": 202
     },
     {
@@ -1523,7 +1561,9 @@
             "0b11d06ac709bda3"
         ],
         "x": 1634,
-        "y": 334
+        "y": 334,
+        "w": 917,
+        "h": 292
     },
     {
         "id": "98103edf08989487",
@@ -1561,7 +1601,9 @@
             "75841d635b83f19a"
         ],
         "x": 144,
-        "y": 334
+        "y": 334,
+        "w": 732,
+        "h": 269.5
     },
     {
         "id": "235ab75c2ef190a9",
@@ -1582,7 +1624,7 @@
         ],
         "x": 103,
         "y": 1148,
-        "w": 2381,
+        "w": 2371,
         "h": 569
     },
     {
@@ -1613,9 +1655,9 @@
             "a976f8361278473b",
             "c53439603f4e4208"
         ],
-        "x": 1438,
+        "x": 1448,
         "y": 2807,
-        "w": 1270,
+        "w": 1250,
         "h": 210
     },
     {
@@ -1645,9 +1687,9 @@
             "d2cc8a993cf033bf",
             "05085880d56d9d9b"
         ],
-        "x": 2059,
+        "x": 2069,
         "y": 108,
-        "w": 833,
+        "w": 813,
         "h": 449
     },
     {
@@ -1671,9 +1713,9 @@
             "445fed90cc9ae04b",
             "aa40c2fd63e42b3c"
         ],
-        "x": 1594,
+        "x": 1604,
         "y": 184,
-        "w": 442,
+        "w": 422,
         "h": 172
     },
     {
@@ -1705,9 +1747,9 @@
             "263134e42e86e47b",
             "c6691944eaed7410"
         ],
-        "x": 1579,
+        "x": 1589,
         "y": 594,
-        "w": 1277,
+        "w": 1267,
         "h": 348
     },
     {
@@ -1745,8 +1787,10 @@
             "d10978b2469ceff3",
             "0a7637311a10d33c"
         ],
-        "x": 294,
-        "y": 1349
+        "x": 304,
+        "y": 1349,
+        "w": 797,
+        "h": 337
     },
     {
         "id": "6067e973b7dd40eb",
@@ -1777,8 +1821,10 @@
             "3be8e0ee10cd410f",
             "0264fb6e41a9c278"
         ],
-        "x": 189,
-        "y": 1794
+        "x": 199,
+        "y": 1794,
+        "w": 617,
+        "h": 367
     },
     {
         "id": "e2bd9331f9185534",
@@ -1806,7 +1852,9 @@
             "9d91f8e564086ea1"
         ],
         "x": 1459,
-        "y": 1754
+        "y": 1754,
+        "w": 1117,
+        "h": 172
     },
     {
         "id": "21bbb7d46384e287",
@@ -1838,7 +1886,9 @@
             "3f9469575ed20a91"
         ],
         "x": 1444,
-        "y": 2314
+        "y": 2314,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1870,7 +1920,9 @@
             "c23689e8b3ce4d15"
         ],
         "x": 1454,
-        "y": 1944
+        "y": 1944,
+        "w": 1002,
+        "h": 362
     },
     {
         "id": "3714a803248cefeb",
@@ -1892,9 +1944,9 @@
             "88e3d23a3ec9d6b0",
             "d27598503a5b31c1"
         ],
-        "x": 119,
+        "x": 129,
         "y": 4294,
-        "w": 592,
+        "w": 572,
         "h": 232
     },
     {
@@ -1967,9 +2019,9 @@
             "22a43313b4628e06",
             "f97cc9e5d5d42826"
         ],
-        "x": 144,
+        "x": 154,
         "y": 2659,
-        "w": 1117,
+        "w": 1107,
         "h": 487
     },
     {
@@ -2002,7 +2054,7 @@
         ],
         "x": 199,
         "y": 1579,
-        "w": 1167,
+        "w": 1157,
         "h": 202
     },
     {
@@ -2033,9 +2085,9 @@
             "a87b7f1bb3d8030d",
             "e8a45a4aa7a22874"
         ],
-        "x": 189,
+        "x": 199,
         "y": 1369,
-        "w": 1127,
+        "w": 1117,
         "h": 202
     },
     {
@@ -2080,7 +2132,7 @@
         ],
         "x": 199,
         "y": 979,
-        "w": 1237,
+        "w": 1227,
         "h": 382
     },
     {
@@ -2154,7 +2206,7 @@
         ],
         "x": 179,
         "y": 484,
-        "w": 1697,
+        "w": 1687,
         "h": 472
     },
     {
@@ -2197,7 +2249,9 @@
             "0396c1363191d76c"
         ],
         "x": 1459,
-        "y": 1329
+        "y": 1329,
+        "w": 1492,
+        "h": 382
     },
     {
         "id": "95f61ab7d0989272",
@@ -2422,7 +2476,9 @@
             "fe811fa1d8709aae"
         ],
         "x": 894,
-        "y": 1714
+        "y": 1714,
+        "w": 672,
+        "h": 592
     },
     {
         "id": "7169425350ce858f",
@@ -2449,9 +2505,9 @@
             "d4ffa269abe8be44",
             "1bbf54fc1b8056eb"
         ],
-        "x": 239,
+        "x": 249,
         "y": 3319,
-        "w": 745,
+        "w": 735,
         "h": 210
     },
     {
@@ -2569,9 +2625,9 @@
             "3ec0e75fa65e5128",
             "ca06e56e0aff55da"
         ],
-        "x": 1484,
+        "x": 1492,
         "y": 1175,
-        "w": 974,
+        "w": 956,
         "h": 130
     },
     {
@@ -2638,7 +2694,7 @@
         ],
         "x": 129,
         "y": 1174,
-        "w": 1352,
+        "w": 1342,
         "h": 517
     },
     {
@@ -2665,7 +2721,7 @@
         ],
         "x": 2104,
         "y": 409,
-        "w": 762,
+        "w": 752,
         "h": 122
     },
     {
@@ -2718,9 +2774,9 @@
             "aaacd9c0df2207bc",
             "e60338ef13bfc039"
         ],
-        "x": 1834,
+        "x": 1844,
         "y": 794,
-        "w": 992,
+        "w": 972,
         "h": 122
     },
     {
@@ -6693,7 +6749,7 @@
         "func": "",
         "outputs": 1,
         "noerr": 0,
-        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
+        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: d.getFullYear() + \".\" + twoDigit(1 + d.getMonth()) + \".\" + twoDigit(d.getDate()),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: d.getFullYear() + \".\" + twoDigit(1 + d.getMonth()) + \".\" + twoDigit(d.getDate()),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
         "finalize": "",
         "libs": [],
         "x": 275,
@@ -12309,7 +12365,7 @@
         "z": "2260f1f88d7c60bf",
         "g": "a5129725214b9c4b",
         "name": "push to historyTable",
-        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\n// let prodRowList = msg.multiQueryData.prodRow;\n// let excRowList = msg.multiQueryData.excRow;\nlet prodExcRowList = msg.payload;\nlet lastCycleComment = msg.multiQueryData?.cycleRow_pollRes?.result?.[0]?.note ?? node.warn({ txt: \"[WARN] path to comment leads nowhere. Check multiQueryData\", path: \"msg.multiQueryData.cycleRow_pollRes.result[0].note\", full:msg });\n//newRow.id = plcData.prod_id;\n//newRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\n//newRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\n//newRow.status = plcData.exc_status;\n//newRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\n//newRow.cycleNumber = prodRow.cycleNumber;\n// newRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n// newRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nlet statAsStr = prodExcRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ?\n    \"parz.\" : \"compl.\";\nfor(let dbRow of prodExcRowList){\n    let newRow=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n    \n    newRow.id = dbRow.orderId;\n    newRow.cycleNumber = dbRow.cycleNumber;\n    newRow.quantProd = dbRow.prod_quantProd;\n    newRow.status = prodExcRowList.map(dbRow => { return { \"id\": dbRow.orderId, \"code\": dbRow.status } });\n    // newRow.statusAsString = prodExcRowList\n    //     .map(row => row.status)\n    //     .some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n    newRow.statusAsString = (\"\"+dbRow.esito) == \"2\" ? \"parz.\" : \"compl.\";\n    newRow.press = msg.press;\n    newRow.note = lastCycleComment ?? \"\";\n    //node.warn({ txt: \"pushing to history\", newRow: newRow, fromDb: dbRow, of: prodExcRowList, cycNote:lastCycleComment, full:msg });\n\n    let d = newRow.dateObj = new Date(Date.parse(dbRow.endTime));\n    newRow.date = twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear();\n    newRow.time = twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds());\n    newRow.millis = Date.now();\n\n    historyTable.push(newRow);\n}\n\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);\n\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}",
+        "func": "//var plcData = msg.payload;\nlet refreshMsg = msg;\nvar historyTable = flow.get(\"historyTable\");\nconst tabUtils = flow.get(\"tabUtils\");\n\n// let prodRowList = msg.multiQueryData.prodRow;\n// let excRowList = msg.multiQueryData.excRow;\nlet prodExcRowList = msg.payload;\nlet lastCycleComment = msg.multiQueryData?.cycleRow_pollRes?.result?.[0]?.note ?? node.warn({ txt: \"[WARN] path to comment leads nowhere. Check multiQueryData\", path: \"msg.multiQueryData.cycleRow_pollRes.result[0].note\", full:msg });\n//newRow.id = plcData.prod_id;\n//newRow.id = prodRowList.map(row => row.orderId).sort().join(\", \");\n//newRow.cycleNumber = msg.multiQueryData.lastCycleNumber;\n//newRow.quantProd = plcData.prod_quantProd;\n//newRow.status = plcData.exc_status;\n//newRow.status = excRowList.map(row => { return { \"id\": row.orderId, \"code\": row.status}});\n//newRow.cycleNumber = plcData.prod_cycleNumber;\n//newRow.cycleNumber = prodRow.cycleNumber;\n// newRow.press = msg.press;\n//newRow.statusAsString = (plcData.exc_status == \"2\" || plcData.exc_status == 2) ? \"parz.\" : \"compl.\";\n// newRow.statusAsString = excRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n\nlet statAsStr = prodExcRowList.map(row => row.status).some(code => code == \"2\" || code == 2) ?\n    \"parz.\" : \"compl.\";\nfor(let dbRow of prodExcRowList){\n    let newRow=tabUtils.history.newRow(tabUtils.newRowId(historyTable));\n    \n    newRow.id = dbRow.orderId;\n    newRow.cycleNumber = dbRow.cycleNumber;\n    newRow.quantProd = dbRow.prod_quantProd;\n    newRow.status = prodExcRowList.map(dbRow => { return { \"id\": dbRow.orderId, \"code\": dbRow.status } });\n    // newRow.statusAsString = prodExcRowList\n    //     .map(row => row.status)\n    //     .some(code => code == \"2\" || code == 2) ? \"parz.\" : \"compl.\";\n    newRow.statusAsString = (\"\"+dbRow.esito) == \"2\" ? \"parz.\" : \"compl.\";\n    newRow.press = msg.press;\n    newRow.note = lastCycleComment ?? \"\";\n    //node.warn({ txt: \"pushing to history\", newRow: newRow, fromDb: dbRow, of: prodExcRowList, cycNote:lastCycleComment, full:msg });\n\n    let d = newRow.dateObj = new Date(Date.parse(dbRow.endTime));\n    newRow.date = d.getFullYear() + \".\" + twoDigit(1 + d.getMonth()) + \".\" + twoDigit(d.getDate());\n    newRow.time = twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds());\n    newRow.millis = Date.now();\n\n    historyTable.push(newRow);\n}\n\n\n\nflow.set(\"historyTable\", historyTable);\nnode.send(refreshMsg);\n\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
