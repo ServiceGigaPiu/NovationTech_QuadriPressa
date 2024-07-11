@@ -40,6 +40,14 @@
         "env": []
     },
     {
+        "id": "708d99fc82830cbe",
+        "type": "tab",
+        "label": "keepalive",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "7da3a158c918645d",
         "type": "group",
         "z": "2831664434f14a33",
@@ -9740,7 +9748,7 @@
         "func": "",
         "outputs": 1,
         "noerr": 0,
-        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: twoDigit(d.getDate()) + \".\" + twoDigit(1 + d.getMonth()) + \".\" + d.getFullYear(),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
+        "initialize": "\nfunction twoDigit(x) {\n    if (typeof x == \"string\")\n        x = parseInt(x);\n    return x < 10 ? '0' + x : x;\n}\n\ncallWhenDef(\"utils\",()=>{\n    const utils = global.get(\"utils\");\n    \n    const thisClassName = \"tabUtils\";\n    const def = {\n        /**\n         * returns the index of the row with rowId==rowId in the provided table, -1 if not found\n         * \n         * @param {number} rowId name of the button to affect, like \"sendToPressa1\"\n         * @param {object} tableRef reference to the row to check, must have a fieldName button.\n         * @return {number} the index of the row with rowId==rowId in the provided table, -1 if not found\n        */\n        posOf(rowId, tableRef) {\n            if (rowId < tableRef.length && tableRef[rowId].rowId == rowId)\n                return rowId;\n            for (let i = 0; i < tableRef.length; i++)\n                if (tableRef[i].rowId == rowId)\n                    return i;\n            return -1; //not found\n        },\n\n        hasRow(rowId, tableRef) {\n            return this.posOf(rowId, tableRef) >= 0;\n        },\n\n        deleteRowId(rowId, tableRef) {\n            let pos = this.posOf(rowId, tableRef);\n            if (pos >= 0) {\n                this.deleteRow(pos, tableRef);\n                return true;\n            }\n            else\n                return false\n        },\n\n        deleteRow(rowIdx, tableRef) {\n            for (let i = rowIdx; i < tableRef.length - 1; i++) {\n                tableRef[i] = tableRef[i + 1];\n            }\n            tableRef.pop();\n            return true;\n        },\n        newRowId(table) {\n            //if table empty assign first \n            if (table.length == 0)\n                return 0; //first rowId\n            //if rowId equals its table's index -> use shortcut\n            if (table[table.length - 1].rowId == table.length - 1)\n                return table.length;\n            //else\n            //load all possible indexes\n            var indexes = new Array()\n            let i = 0;\n            for (let row of table)\n                indexes[i++] = true;\n            indexes[i++] = true;\n            //flag off the used ones\n            for (let row of table)\n                indexes[row.rowId] = false;\n            //return the first available one\n            i = 0;\n            while (!indexes[i])\n                i++;\n            return i;\n        },\n        queue: {\n            /** \n             * @borrows setStateInRow as setSingleState \n             * */\n            sendToPressButton: {\n                //states the button can be in\n                //\"state\" are effimerous, will change on its own\n                //\"button\" will stay as they are until clicked\n                states: {\n                    //button //onClick: enqueue writes to plc\n                    \"clickToSend\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px\\\"></i>  abilita  </span></center>\",\n                    //state //onClick: reset to clickTosend and enqueue empty plc action\n                    \"queued\": \"<center><span ><i class='fa fa-arrow-up' style=\\\"margin-right:5px; color:gray;\\\"></i>  in attesa  </span></center>\",\n                    //button //onClick: reset to clearing and enqueue empty plc action\n                    \"loaded\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px\\\"></i>  disabilita  </span></center>\",\n                    //state //onClick: reset to clearing and enqueue empty plc action\n                    \"clearing\": \"<center><span ><i class='fa fa-minus' style=\\\"margin-right:5px; color:gray;\\\"></i> disabilita </span></center>\",\n                    //not used\n                    \"fail\": \"<center><span ><i class='fa fa-times' style=\\\"color:red;\\\"></i></span></center>\",\n                    //something went wrong in a function\n                    \"tableError\": \"<span style=\\\"color: red\\\"> tableError </span>\"\n                },\n\n                getStateString(state) {\n                    var stateString;\n                    switch (state) {\n                        case 0: { stateString = \"clickToSend\"; break; }\n                        case 1: { stateString = \"queued\"; break; }\n                        case 2: { stateString = \"loaded\"; break; }\n                        case 3: { stateString = \"clearing\"; break; }\n                        case -1: { stateString = \"fail\"; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case false: { stateString = \"tableError\"; break }\n                    }\n                    //node.warn({stateStringSetTo:stateString});\n                    return stateString;\n                },\n                getStateInt(stateString) {\n                    var state;\n                    switch (stateString) {\n                        case \"clickToSend\": { state = 0; break; }\n                        case \"queued\": { state = 1; break; }\n                        case \"loaded\": { state = 2; break; }\n                        case \"clearing\": { state = 3; break; }\n                        case \"fail\": { state = -1; break; }\n                        default: { node.error(\"unknown button state \" + state + \" \") }\n                        case \"tableError\": { state = false; break; }\n                    }\n                    //node.warn({ stateIntSetTo: state });\n                    return state;\n                },\n\n\n\n                /** \n                 * @param {(-1|\"fail\"|0|\"clickToSend\"|1|\"queued\"|2|\"loaded\"|3|\"clearing\")} state state to set\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to edit, must have a fieldName button.\n                */\n                \"setStateInRow\": function setStateInRow(state, fieldName, rowRef) {\n                    if (arguments.length != setStateInRow.length) throw new SyntaxError(\"missing args\");\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    //node.warn({f:\"setStateInRow\",params:{state:state,fieldName:fieldName,rowRef:rowRef,stateString:stateString}});\n\n                    if (!rowRef.hasOwnProperty(fieldName) || !this.states.hasOwnProperty(stateString)) {\n                        node.error(\"no \" + fieldName + \" button or unknown state \" + stateString)\n                        stateString = \"tableError\";\n                        state = this.getStateInt(stateString);\n                    }\n                    rowRef[fieldName] = this.states[stateString];\n                    rowRef[fieldName + \"State\"] = state;\n                    //node.warn({applied:state,toBtn:fieldName,inRow:rowRef});\n                    return;\n                },\n                setSingleState(state, fieldName, rowRef) {\n                    return this.setStateInRow(state, fieldName, rowRef);\n                },\n\n                /* not working\n                setStateInTable(state, fieldName, rowRef, tableRef) {\n                    var stateString = state;\n                    if (typeof (state) == \"string\")\n                        state = this.getStateInt(state);\n                    else\n                        stateString = this.getStateString(state);\n                    \n                    switch(stateString){\n                        case \"clickToSend\": {\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"queued\":{\n                            for(let row of tableRef){\n                                if(row.rowId!=rowRef.rowId){\n                                    //queued -> clickToSend\n                                    if(row[fieldName+\"State\"] == 1) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                    //loaded -> clearing\n                                    else if(row[fieldName+\"State\"] == 2)\n                                        this.setStateInRow(3,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        //there can only be 1 per column\n                        case \"loaded\":{\n                            for(let row of tableRef){\n                                if (row.rowId != rowRef.rowId) {\n                                    //loaded || clearing -> clickToSend\n                                    if(row[fieldName+\"State\"] == 2 || row[fieldName+\"State\"] == 3) \n                                        this.setStateInRow(0,fieldName,rowRef);\n                                }\n                            }\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                        case \"clearing\":{\n                            this.setStateInRow(state, fieldName, rowRef);\n                            break;\n                        }\n                    }\n                    return;\n                },\n                */\n\n\n                /**\n                 * true if referenced press is currently loaded into the plc\n                 * @param {string} fieldName name of the button to affect, like \"sendToPressa1\"\n                 * @param {object} reference to the row to check, must have a fieldName button.\n                */\n                isLoaded(fieldName, rowRef) { //true se questa riga è attualmente caricata nel plc\n                    let stateString = this.getStateString(rowRef[fieldName + \"State\"]);\n                    return (stateString == \"clearing\" || stateString == \"loaded\");\n                }\n            },\n\n            newRow(rowId) {\n                var row = {\n                    rowId: rowId,\n                    deleteButton: \"<center><i class='fa fa-trash-o' ></i></center>\",\n                    id: \"\",\n                    quantToDo: 1,\n                    quantProd: 0,\n                    progress: this.quantProd / this.quantToDo,\n                    note: \"\"\n                    //sendToPressa1,2,3.. :\n                    //sendToPressa1(2,3..)State: 0 (click2Send) | 1 (sentAndOk) | -1 (loading?)\n                }\n\n                let presse = [\"Pressa1\", \"Pressa2\", \"Pressa3\", \"Pressa4\"];\n                for (let p of presse) {\n                    row[\"sendTo\" + p] = `<center>\n                    <span style=\"display:inline; \"><i class='fa fa-arrow-up' style=\"padding-right:5px;\"></i>load</span>\n                    <span style=\"display:none; \"><i class='fa fa-check' style=\"color:green;\"></i></span>\n                    <span style=\"display:none; \"><i class='fa fa-cross' style=\"color:red; padding-right:5px; \"></i> errore</span>\n                </center>`; //onCLick works\n                    row[\"sendTo\" + p + \"State\"] = null;\n                    this.sendToPressButton.setStateInRow(\"clickToSend\", \"sendTo\" + p, row);\n                }\n                return row;\n            }\n        },\n        history: {\n            newRow(rowId, doneByPressNum = 1) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    doneByPressNum: doneByPressNum,\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: d.getFullYear() + \".\" + twoDigit(1 + d.getMonth()) + \".\" + twoDigit(d.getDate()),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        },\n        completed: {\n            newRow(rowId) {\n                const dateObj = new Date();\n                let d = dateObj;\n                var row = {\n                    rowId: rowId, //hidden\n                    //doneByPressNum: doneByPressNum, //hidden\n                    cycleNumber: 0,\n                    dateObj: new Date(),\n                    date: d.getFullYear() + \".\" + twoDigit(1 + d.getMonth()) + \".\" + twoDigit(d.getDate()),\n                    time: twoDigit(d.getHours()) + \":\" + twoDigit(d.getMinutes()) + \":\" + twoDigit(d.getSeconds()),\n                    millis: Date.now(),\n                    id: \"\",\n                    quantProd: 0,\n                    quantToDo: 0,\n                    quantSumm: this.quantProd + \"/\" + this.quantToDo,\n                    note: \"\",\n                }\n\n                return row;\n            }\n        }\n\n    }\n\n\n    utils.wrapFunctions(def, \"[\" + thisClassName + \"]\");\n    flow.set(thisClassName, def);\n    node.send(def);\n    node.status({ fill: \"green\", text: Object.keys(def).join(' & ') });\n\n});\n\n\n\n/** @summary repeatedly tries to fetch all varNames with store.get().\n     *  @desc may be used with inverse parameters. Like (?...varNames, ?opts, cb). Supports (\"name\",\"name\",cb), (opts, cb) cases.\n        * @param {function} cb called once ALL globalName are defined\n        * @param {Object} opts object holding optional function params. can be omitted passing the first globalName instead.\n        * @param {number} opts.timeout ms delay after which stop trying and either call opts.errorCb() or log an error. defaults to 15000\n        * @param {number} opts.retryDelay ms between each attempt. defaults to 100\n        * @param {function} opts.errorCb function to call after timeout. defaults to falsy, logging a warning\n        * @param  {...any} varNames series of strings\n        */\nfunction callWhenDef(cb, opts, ...varNames) {\n    //check for argument reverse order -> //treat as (?...varNames, ?opts, cb) //easier to read\n    if (typeof (cb) == \"string\") // @ts-ignore //ignore type mismatch\n        var [cb, opts = {}, ...varNames] = [...arguments].reverse(); //\"var\",cb -> cb, \"var\"\n    //check for opts presence\n    if (typeof (opts) == \"string\")\n        varNames.push(opts);\n    let { timeout = 3000, retryDelay = 100, errorCb = null, ctx = \"global\" } = (typeof (opts) == \"string\" ? {} : (opts ?? {}));\n    var tout, intv, tmp;\n    //switch context to the one specified in ctx\n    var store = ctx === \"global\" ? global : ctx === \"flow\" ? flow : ctx === \"context\" ? context : (() => { node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']. passed \" + ctx + \" of type \" + typeof (ctx)); return global })();\n    //const store = function (c = ctx) { return {global:global, flow:flow, context:context}[c] ??  (()=>{ node.error(\"[callWhenDef] param opts.context must be a string among ['context','global','flow']\"); return global })() }\n    //detect and warn about \"return msg\" erroneous usage //(cb is not supposed to return anything)\n    let wrappedCb = () => tmp = cb() && (tmp ?? node.warn({ txt: \"[callWhenDef] detected possible typo, did you mean to use node.send(msg)?\", returned: tmp, args: arguments }))\n\n    //try immediately, before doing any work\n    if (varNames.every(name => store.get(name) !== undefined))\n        return wrappedCb()\n    //set timeout unless false or not specified\n    if (timeout) {\n        tout = setTimeout(() => {\n            clearInterval(intv);\n            errorCb ? errorCb(...arguments) : node.warn({ err: \"callWhenDef_Timeout\", arg: arguments, isDef: varNames.map(name => store.get(name) !== undefined) })\n        }, timeout);\n    }\n    //set store-checking interval\n    intv = setInterval(() => {\n        if (!varNames.every(name => store.get(name) !== undefined))\n            return\n        clearTimeout(tout);\n        clearInterval(intv);\n        wrappedCb();\n    }, retryDelay)\n}",
         "finalize": "",
         "libs": [],
         "x": 290,
@@ -16193,6 +16201,305 @@
         "y": 90,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "295aa6d86f376712",
+        "type": "file",
+        "z": "708d99fc82830cbe",
+        "name": ".\\data\\imalive.data",
+        "filename": ".\\data\\imalive.data",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 705,
+        "y": 240,
+        "wires": [
+            [
+                "07fe87bfb3df389c"
+            ]
+        ]
+    },
+    {
+        "id": "ec16cc208fb52a24",
+        "type": "inject",
+        "z": "708d99fc82830cbe",
+        "name": "2.5s",
+        "props": [],
+        "repeat": "2.5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "2",
+        "topic": "",
+        "x": 185,
+        "y": 240,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ]
+    },
+    {
+        "id": "1cb192512b4ac89c",
+        "type": "inject",
+        "z": "708d99fc82830cbe",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 225,
+        "y": 210,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "07fe87bfb3df389c",
+        "type": "debug",
+        "z": "708d99fc82830cbe",
+        "name": "WRITE IMALIVE OUTPUT",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "bc680b851a674196",
+        "type": "catch",
+        "z": "708d99fc82830cbe",
+        "name": "",
+        "scope": [
+            "295aa6d86f376712"
+        ],
+        "uncaught": false,
+        "x": 690,
+        "y": 180,
+        "wires": [
+            [
+                "07fe87bfb3df389c"
+            ]
+        ]
+    },
+    {
+        "id": "49f5692f30e1ca60",
+        "type": "change",
+        "z": "708d99fc82830cbe",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 240,
+        "wires": [
+            [
+                "295aa6d86f376712"
+            ]
+        ]
+    },
+    {
+        "id": "25ea9ebf053b25d4",
+        "type": "gate",
+        "z": "708d99fc82830cbe",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "open",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 375,
+        "y": 240,
+        "wires": [
+            [
+                "49f5692f30e1ca60"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "26fb3e85cdb00ac4",
+        "type": "inject",
+        "z": "708d99fc82830cbe",
+        "name": "toggle",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "toggle",
+        "payloadType": "str",
+        "x": 440,
+        "y": 200,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ]
+    },
+    {
+        "id": "69850afc06872217",
+        "type": "file",
+        "z": "708d99fc82830cbe",
+        "name": "msg.destpath",
+        "filename": "destpath",
+        "filenameType": "msg",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 715,
+        "y": 390,
+        "wires": [
+            [
+                "800feb31814b1630"
+            ]
+        ]
+    },
+    {
+        "id": "260a61cee85799e5",
+        "type": "inject",
+        "z": "708d99fc82830cbe",
+        "name": "onStartup 0.1",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 175,
+        "y": 390,
+        "wires": [
+            [
+                "397ec2f0e1c0e145"
+            ]
+        ]
+    },
+    {
+        "id": "4a44c81d4789dc86",
+        "type": "file in",
+        "z": "708d99fc82830cbe",
+        "name": "msg.srcpath",
+        "filename": "srcpath",
+        "filenameType": "msg",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "utf8",
+        "allProps": false,
+        "x": 525,
+        "y": 390,
+        "wires": [
+            [
+                "69850afc06872217"
+            ]
+        ]
+    },
+    {
+        "id": "38d7fe348efc79f2",
+        "type": "debug",
+        "z": "708d99fc82830cbe",
+        "name": "WRITE PID OUTPUT",
+        "active": false,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": false,
+        "complete": "\"copied PID from \"&msg.srcpath&\" to \"&msg.destpath",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1075,
+        "y": 390,
+        "wires": []
+    },
+    {
+        "id": "397ec2f0e1c0e145",
+        "type": "change",
+        "z": "708d99fc82830cbe",
+        "name": "set paths",
+        "rules": [
+            {
+                "t": "set",
+                "p": "srcpath",
+                "pt": "msg",
+                "to": "data\\\\pid.data",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "destpath",
+                "pt": "msg",
+                "to": "data\\\\runningpid.data",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 345,
+        "y": 390,
+        "wires": [
+            [
+                "4a44c81d4789dc86"
+            ]
+        ]
+    },
+    {
+        "id": "800feb31814b1630",
+        "type": "function",
+        "z": "708d99fc82830cbe",
+        "name": "PID log",
+        "func": "node.log(\"copied PID \" + msg.payload + \" from \" + msg.srcpath.replace(\"\\\\\\\\\", \"\\\\\") + \" to \" + msg.destpath.replace(\"\\\\\\\\\", \"\\\\\"));\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 390,
+        "wires": [
+            [
+                "38d7fe348efc79f2"
+            ]
         ]
     }
 ]
