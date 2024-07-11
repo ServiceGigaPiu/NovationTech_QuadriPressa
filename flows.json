@@ -56,6 +56,14 @@
         "env": []
     },
     {
+        "id": "0dfc28e6b5e108c4",
+        "type": "tab",
+        "label": "keepalive",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "7da3a158c918645d",
         "type": "group",
         "z": "2831664434f14a33",
@@ -268,7 +276,7 @@
         ],
         "x": 164,
         "y": 139,
-        "w": 778,
+        "w": 777,
         "h": 217
     },
     {
@@ -313,9 +321,7 @@
             "6e645e2849c474eb"
         ],
         "x": 1094,
-        "y": 1089,
-        "w": 382,
-        "h": 122
+        "y": 1089
     },
     {
         "id": "b0737e4c04737b82",
@@ -366,9 +372,7 @@
             "12d506e3c36cb1e0"
         ],
         "x": 589,
-        "y": 4,
-        "w": 957,
-        "h": 227
+        "y": 4
     },
     {
         "id": "6aaddccc85e9cc4d",
@@ -407,9 +411,7 @@
             "d3cdc80e459cdf33"
         ],
         "x": 1664,
-        "y": 694,
-        "w": 1232,
-        "h": 307
+        "y": 694
     },
     {
         "id": "63f089643e332739",
@@ -432,9 +434,7 @@
             "2639fa3be4067762"
         ],
         "x": 1418,
-        "y": 1254,
-        "w": 1559,
-        "h": 1368
+        "y": 1254
     },
     {
         "id": "ad333cdc3a9edd51",
@@ -460,9 +460,7 @@
             "8b321fcb911b77fd"
         ],
         "x": 566,
-        "y": 679,
-        "w": 692,
-        "h": 242
+        "y": 679
     },
     {
         "id": "89618de1371e00e8",
@@ -489,7 +487,7 @@
         ],
         "x": 144,
         "y": 824,
-        "w": 847,
+        "w": 837,
         "h": 252
     },
     {
@@ -572,9 +570,7 @@
             "8943b4549c5df00c"
         ],
         "x": 754,
-        "y": 249,
-        "w": 1102,
-        "h": 392
+        "y": 249
     },
     {
         "id": "5cf67bd384745bc4",
@@ -1002,9 +998,7 @@
             "1e36d438702a9054"
         ],
         "x": 264,
-        "y": 1984,
-        "w": 1132,
-        "h": 217
+        "y": 1984
     },
     {
         "id": "20b3e86b59e03511",
@@ -1129,9 +1123,7 @@
             "cad2bd523c7147bc"
         ],
         "x": 559,
-        "y": 2209,
-        "w": 827,
-        "h": 187
+        "y": 2209
     },
     {
         "id": "4c1f6debb662b115",
@@ -1162,9 +1154,7 @@
             "e8b1b96a138f8bcc"
         ],
         "x": 449,
-        "y": 2419,
-        "w": 907,
-        "h": 292
+        "y": 2419
     },
     {
         "id": "968c394fc0447039",
@@ -1333,9 +1323,7 @@
             "de28ab8a9c960787"
         ],
         "x": 809,
-        "y": 2824,
-        "w": 1057,
-        "h": 202
+        "y": 2824
     },
     {
         "id": "a5129725214b9c4b",
@@ -1491,7 +1479,7 @@
         ],
         "x": 133,
         "y": 1760,
-        "w": 1717,
+        "w": 1727,
         "h": 396
     },
     {
@@ -1560,9 +1548,9 @@
             "c2f6799a8cff1f0a",
             "0b11d06ac709bda3"
         ],
-        "x": 1634,
+        "x": 1639,
         "y": 334,
-        "w": 917,
+        "w": 912,
         "h": 292
     },
     {
@@ -1852,9 +1840,7 @@
             "9d91f8e564086ea1"
         ],
         "x": 1459,
-        "y": 1754,
-        "w": 1117,
-        "h": 172
+        "y": 1754
     },
     {
         "id": "21bbb7d46384e287",
@@ -1886,9 +1872,7 @@
             "3f9469575ed20a91"
         ],
         "x": 1444,
-        "y": 2314,
-        "w": 1202,
-        "h": 282
+        "y": 2314
     },
     {
         "id": "0c753ce1969e7a11",
@@ -1920,9 +1904,7 @@
             "c23689e8b3ce4d15"
         ],
         "x": 1454,
-        "y": 1944,
-        "w": 1002,
-        "h": 362
+        "y": 1944
     },
     {
         "id": "3714a803248cefeb",
@@ -2249,9 +2231,7 @@
             "0396c1363191d76c"
         ],
         "x": 1459,
-        "y": 1329,
-        "w": 1492,
-        "h": 382
+        "y": 1329
     },
     {
         "id": "95f61ab7d0989272",
@@ -2625,9 +2605,9 @@
             "3ec0e75fa65e5128",
             "ca06e56e0aff55da"
         ],
-        "x": 1492,
+        "x": 1484,
         "y": 1175,
-        "w": 956,
+        "w": 964,
         "h": 130
     },
     {
@@ -2954,6 +2934,7 @@
         "id": "34ec8711cb2e9270",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
         "port": "102",
@@ -2991,6 +2972,7 @@
         "id": "fa784b598becc58c",
         "type": "s7 endpoint",
         "z": "9922a8114f46702b",
+        "d": true,
         "transport": "iso-on-tcp",
         "address": "192.168.19.101",
         "port": "102",
@@ -3078,6 +3060,7 @@
     {
         "id": "48311468c344555d",
         "type": "MySQLdatabase",
+        "d": true,
         "name": "InterVm OvenDB@nodeRedClient",
         "host": "192.168.33.44",
         "port": "3306",
@@ -28107,5 +28090,390 @@
         "x": 630,
         "y": 75,
         "wires": []
+    },
+    {
+        "id": "723006491aa0a582",
+        "type": "exec",
+        "z": "0dfc28e6b5e108c4",
+        "d": true,
+        "command": "copy /y NUL imalive.data >NUL",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "5",
+        "winHide": true,
+        "oldrc": false,
+        "name": "write imalive.data",
+        "x": 390,
+        "y": 255,
+        "wires": [
+            [
+                "b5e5b028503fed87"
+            ],
+            [
+                "b5e5b028503fed87"
+            ],
+            [
+                "b5e5b028503fed87"
+            ]
+        ]
+    },
+    {
+        "id": "36eff694814b6a1c",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "d": true,
+        "name": "5s",
+        "props": [],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "2",
+        "topic": "",
+        "x": 195,
+        "y": 255,
+        "wires": [
+            [
+                "723006491aa0a582"
+            ]
+        ]
+    },
+    {
+        "id": "c794b9fc0050230b",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "d": true,
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 175,
+        "y": 180,
+        "wires": [
+            [
+                "723006491aa0a582"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "b5e5b028503fed87",
+        "type": "debug",
+        "z": "0dfc28e6b5e108c4",
+        "d": true,
+        "name": "WRITE IMALIVE OUTPUT",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 675,
+        "y": 255,
+        "wires": []
+    },
+    {
+        "id": "295aa6d86f376712",
+        "type": "file",
+        "z": "0dfc28e6b5e108c4",
+        "name": ".\\data\\imalive.data",
+        "filename": ".\\data\\imalive.data",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 675,
+        "y": 495,
+        "wires": [
+            [
+                "07fe87bfb3df389c"
+            ]
+        ]
+    },
+    {
+        "id": "ec16cc208fb52a24",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "name": "2.5s",
+        "props": [],
+        "repeat": "2.5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "2",
+        "topic": "",
+        "x": 155,
+        "y": 495,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ]
+    },
+    {
+        "id": "1cb192512b4ac89c",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 195,
+        "y": 465,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "07fe87bfb3df389c",
+        "type": "debug",
+        "z": "0dfc28e6b5e108c4",
+        "name": "WRITE IMALIVE OUTPUT",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 910,
+        "y": 495,
+        "wires": []
+    },
+    {
+        "id": "bc680b851a674196",
+        "type": "catch",
+        "z": "0dfc28e6b5e108c4",
+        "name": "",
+        "scope": [
+            "295aa6d86f376712"
+        ],
+        "uncaught": false,
+        "x": 660,
+        "y": 435,
+        "wires": [
+            [
+                "07fe87bfb3df389c"
+            ]
+        ]
+    },
+    {
+        "id": "49f5692f30e1ca60",
+        "type": "change",
+        "z": "0dfc28e6b5e108c4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 495,
+        "wires": [
+            [
+                "295aa6d86f376712"
+            ]
+        ]
+    },
+    {
+        "id": "25ea9ebf053b25d4",
+        "type": "gate",
+        "z": "0dfc28e6b5e108c4",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "open",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 345,
+        "y": 495,
+        "wires": [
+            [
+                "49f5692f30e1ca60"
+            ]
+        ],
+        "l": false
+    },
+    {
+        "id": "26fb3e85cdb00ac4",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "name": "toggle",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "control",
+        "payload": "toggle",
+        "payloadType": "str",
+        "x": 410,
+        "y": 455,
+        "wires": [
+            [
+                "25ea9ebf053b25d4"
+            ]
+        ]
+    },
+    {
+        "id": "69850afc06872217",
+        "type": "file",
+        "z": "0dfc28e6b5e108c4",
+        "name": "msg.destpath",
+        "filename": "destpath",
+        "filenameType": "msg",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "utf8",
+        "x": 685,
+        "y": 645,
+        "wires": [
+            [
+                "800feb31814b1630"
+            ]
+        ]
+    },
+    {
+        "id": "260a61cee85799e5",
+        "type": "inject",
+        "z": "0dfc28e6b5e108c4",
+        "name": "onStartup 0.1",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 145,
+        "y": 645,
+        "wires": [
+            [
+                "397ec2f0e1c0e145"
+            ]
+        ]
+    },
+    {
+        "id": "4a44c81d4789dc86",
+        "type": "file in",
+        "z": "0dfc28e6b5e108c4",
+        "name": "msg.srcpath",
+        "filename": "srcpath",
+        "filenameType": "msg",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "utf8",
+        "allProps": false,
+        "x": 495,
+        "y": 645,
+        "wires": [
+            [
+                "69850afc06872217"
+            ]
+        ]
+    },
+    {
+        "id": "38d7fe348efc79f2",
+        "type": "debug",
+        "z": "0dfc28e6b5e108c4",
+        "name": "WRITE PID OUTPUT",
+        "active": false,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": false,
+        "complete": "\"copied PID from \"&msg.srcpath&\" to \"&msg.destpath",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1045,
+        "y": 645,
+        "wires": []
+    },
+    {
+        "id": "397ec2f0e1c0e145",
+        "type": "change",
+        "z": "0dfc28e6b5e108c4",
+        "name": "set paths",
+        "rules": [
+            {
+                "t": "set",
+                "p": "srcpath",
+                "pt": "msg",
+                "to": "data\\\\pid.data",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "destpath",
+                "pt": "msg",
+                "to": "data\\\\runningpid.data",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 315,
+        "y": 645,
+        "wires": [
+            [
+                "4a44c81d4789dc86"
+            ]
+        ]
+    },
+    {
+        "id": "800feb31814b1630",
+        "type": "function",
+        "z": "0dfc28e6b5e108c4",
+        "name": "PID log",
+        "func": "node.log(\"copied PID \" + msg.payload + \" from \" + msg.srcpath.replace(\"\\\\\\\\\", \"\\\\\") + \" to \" + msg.destpath.replace(\"\\\\\\\\\", \"\\\\\"));\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 645,
+        "wires": [
+            [
+                "38d7fe348efc79f2"
+            ]
+        ]
     }
 ]
