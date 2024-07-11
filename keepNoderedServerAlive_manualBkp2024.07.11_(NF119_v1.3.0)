@@ -1,0 +1,84 @@
+﻿try{$host.ui.RawUI.WindowTitle = “nodered server keepalive” }catch{ write-warning "cannot change title" }
+#this script depends on 
+# a) everything being in the spot it should (see path vars below)
+# b) node-red writing it's PID in a file at startup
+# c) node-red periodically writing an "imalive" file, which this script deletes
+# d) no other cmd.exe or node process running, they will otherwise be closed by this one upon "node-red restart"
+
+$noderedWDir = "C:\Users\Italmatic\.node-red"
+$aliveDir = "$($noderedWDir)\app\data"
+$aliveFName = "imalive.data"
+$alivePath = "$($aliveDir)\$($aliveFName)"
+
+$pidDir = $aliveDir
+$pidFName = "runningpid.data"
+$pidPath = "$($pidDir)\$($pidFName)"
+$noderedLauncherPath = "C:\Users\Italmatic\.node-red\startNoderedServer_minimized.bat"
+
+$failcount = 0
+$maxfail = 2
+$okcount = 0
+$okCount2ResetFail = 1
+
+$delayMs = 3000
+$afterRestartDelayMs = 90000
+write-host "start script"
+
+while($true){
+	try{
+		write-host "waiting $($delayMs)ms"
+		Start-Sleep -Milliseconds $delayMs
+		
+		#check imalive
+		write-host "check at $($alivePath)"
+		if(Test-Path -Path $alivePath){
+			write-host "found"
+			$okcount++
+			if($okcount -ge $okCount2ResetFail){ #require n consecutive successes to reset
+				$failcount = 0
+			}
+			Remove-item -Path $alivePath
+			if(Test-Path -Path $alivePath){ Write-warning "DBG: not deleted"; }
+		}else{
+			write-host "not found $($failcount) times"
+			$failcount++
+			$okcount = 0
+		}
+				
+		
+		
+		if($failcount -gt $maxfail){
+			$failcount = 0
+			write-warning "restarting server"
+			#stop process (requires node-red to write its PID to $pidPath
+			if(Test-Path -Path $pidPath){
+				try{ $pidCode = Get-Content -Path $pidPath; Stop-Process -Id $pidCode } catch [ProcessCommandException] { write-warning "nothing to stop ($($pidCode) not running" }
+				Try{ Remove-item -Path $pidPath }catch{ }
+				write-host "stopped PID $($pidCode)"
+				#otherwise cmd window doesn't close
+				try{ Get-Process -Name "cmd" | Stop-Process }catch{ write-warning "cannot close cmd consoles" }
+			}else{
+				write-host "pid file not found at $($pidPath) \n starting node without stopping it first"
+				#if server is started twice the PID is overwritten, but the new instance aborts
+				try{Get-Process -Name "node" | Stop-Process }catch{ write-warning "cant stop process node" }
+				#otherwise cmd window doesn't close
+				try{ Get-Process -Name "cmd" | Stop-Process }catch{ write-warning "cannot close cmd consoles" }
+			}
+			
+			#restart
+			Start-Process $noderedLauncherPath -WindowStyle Minimized
+			
+			#give it time, before starting to keepalive again
+			write-host "waiting $($afterRestartDelayMs)"
+			Start-Sleep -Milliseconds $afterRestartDelayMs
+			if($false -eq (Test-Path $pidPath)){ write-warning "still missing pid.data file. Looked at $($pidPath). check config at $($PSScriptRoot)"}
+		}	
+		
+	}catch{
+		Write-warning "got error"
+		write-host $_
+	}
+}
+
+
+read-host -Prompt "fine script. any key to continue"
