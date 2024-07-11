@@ -1,0 +1,11 @@
+@echo off
+::this script depends on 
+:: a) everything being in the spot it should (see path vars below)
+:: b) node-red writing it's PID in a file at startup
+:: c) node-red periodically writing an "imalive" file, which this script deletes
+:: d) no other cmd.exe or node process running, they will otherwise be closed by this one upon "node-red restart"
+
+TITLE pws nodered server keepalive
+::run in minimized window
+PowerShell.exe -executionpolicy remotesigned -WindowStyle hidden -File C:\Users\Italmatic\.node-red\keepNoderedServerAlive.ps1
+pause
