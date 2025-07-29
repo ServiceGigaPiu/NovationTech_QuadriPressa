@@ -22,10 +22,11 @@ $git_url = "https://github.com/git-for-windows/git/releases/download/v$git_versi
 $nodered_version = "3.0.2"
 
 # app
-$app_projDirName = "QuadripressaNovationTech" #expects a zip  ./name.zip to exctract
+$app_projDirName = "I4_0DashboardAndEditor" #expects a zip  ./name.zip to exctract
 $app_projZip = "$app_projDirName.zip"
 $app_toMove =   ("app_manualBkp2023.01.05_postProd(v1.0.1)","app"), #pair[ "path_RelativeTo_projDir","path_RelativeTo_noderedDir"] # , deve stare a fine riga #@() multilinea non va
-                ("settings.js_manualBkp2023.01.04_postLogo(f74ca5a+)","settings.js")
+                ("settings.js_manualBkp2024.07.11_savePIDforKeepAlive(NF780_v1.1.0+).js","settings.js"),
+				("package.json","package.json")
                 
                 #,@ storico vers cliente/v1/package-lock
 $app_useCheckoutSelect =$FALSE
