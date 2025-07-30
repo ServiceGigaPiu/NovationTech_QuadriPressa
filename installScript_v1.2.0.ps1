@@ -1,4 +1,4 @@
-#script version 1.1.0
+#script version 1.2.0
 #install app version none
 param ([switch]$appOnly)
 write-host "`n  ## NODERED APP INSTALLER ## `n"
@@ -7,6 +7,14 @@ write-host "`n  ## NODERED APP INSTALLER ## `n"
 #installer
 $ErrorActionPreference = "Inquire"
 Set-location $PSScriptRoot
+
+# activate / deactivate any install
+$install_node = $TRUE
+$install_nodered = $TRUE
+$install_pm2 = $TRUE
+$install_app = $FALSE
+$install_git = $TRUE
+$install_gitExtension = $TRUE
 
 # nodejs
 $node_version = "14.19.3"      #per modificare cerca da questo url la ver e dist prescelta: https://nodejs.org/dist/
@@ -20,10 +28,14 @@ $git_url = "https://github.com/git-for-windows/git/releases/download/v$git_versi
 
 # node-red
 $nodered_version = "3.0.2"
+$nodered_homedir = "$env:USERPROFILE\.node-red"
+
+#pm2
+$pm2_version = "5"
 
 # app
 $app_projDirName = "I4_0DashboardAndEditor" #expects a zip  ./name.zip to exctract
-$app_projZip = "$app_projDirName.zip"
+$app_projZip = "${app_projDirName}.zip"
 $app_toMove =   ("app_manualBkp2023.01.05_postProd(v1.0.1)","app"), #pair[ "path_RelativeTo_projDir","path_RelativeTo_noderedDir"] # , deve stare a fine riga #@() multilinea non va
                 ("settings.js_manualBkp2024.07.11_savePIDforKeepAlive(NF780_v1.1.0+).js","settings.js"),
 				("package.json","package.json")
@@ -39,13 +51,7 @@ $gitExtension_version = "3.5.4" #per cambiare versione cambia l'url qua sotto, c
 $gitExtension_url = "https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-3.5.4.12724-65f01f399.msi"
 
 
-# activate / deactivate any install
 
-$install_node = $TRUE
-$install_git = $TRUE
-$install_nodered = $TRUE
-$install_app = $FALSE
-$install_gitExtension = $TRUE
 
 function confirm {
     param (
@@ -163,12 +169,12 @@ try {
     ###[app] detect app already installed
     if ($install_app) {
             #se .node-red esiste già
-        if (Test-Path "$env:USERPROFILE\.node-red\") {
-            Write-Warning "$env:USERPROFILE\.node-red\ esiste già"
-            if (Test-Path "$env:USERPROFILE\.node-red\projects\$app_projDirName") { Write-Warning "il progetto $app_projDirName esiste già" }
+        if (Test-Path "${nodered_homedir}") {
+            Write-Warning "${nodered_homedir} esiste già"
+            if (Test-Path "${nodered_homedir}\projects\$app_projDirName") { Write-Warning "il progetto $app_projDirName esiste già" }
             
             $options =  "`n (1) elimina l'intera cartella .node-red ed esegui un installazione pulita`n (2) installa l'applicazione da $((Get-Item $app_projZip).Directory.Name)"
-            if(Test-Path "$env:USERPROFILE\.node-red\projects\$app_projDirName"){
+            if(Test-Path "${nodered_homedir}\projects\$app_projDirName"){
                 $options += "`n (3) installa l'applicazione dal progetto preesistente in .node-red/projects/" }
             
             do{
@@ -195,19 +201,19 @@ try {
             }
                 #delete only same proj
             elseif($do -ieq 'installFromZip'){
-                if(Test-Path "$env:USERPROFILE\.node-red\projects\$app_projDirName"){
-                    Remove-Item "$env:USERPROFILE\.node-red\projects\$app_projDirName" -Recurse
+                if(Test-Path "${nodered_homedir}\projects\$app_projDirName"){
+                    Remove-Item "${nodered_homedir}\projects\$app_projDirName" -Recurse
                 }
             }
                 #just move files and install packages
-            if(Test-Path "$env:USERPROFILE\.node-red\projects\$app_projDirName"){
+            if(Test-Path "${nodered_homedir}\projects\$app_projDirName"){
                 $app_keepProject = true
             }
         }
                 
 
          <#
-                remove-item -path "$env:USERPROFILE\.node-red\projects" -Recurse
+                remove-item -path "${nodered_homedir}\projects" -Recurse
                 write-host "sembra che l'applicazione sia già stata installata in passato.`n..eliminata cartella progetto preesistente"
 		    }else{
 			    write-host "sembra che .node-red fosse già stato usato da questo utente."
@@ -225,7 +231,7 @@ try {
                    }
 			    }
 		    }
-            elseif(Test-Path "$env:USERPROFILE\.node-red\"){
+            elseif(Test-Path "${nodered_homedir}"){
                 $answ = confirm -m "vuoi cancellare almeno la cartella progetto? verrà sovrascritta comunque " -def "n"
 		        if($answ -ieq 's'){
             }
@@ -320,7 +326,6 @@ try {
 
 
 
-
     ### npm packages install
 
     if($install_nodered){
@@ -334,7 +339,83 @@ try {
 			write-error "npm non disponibile, installa Node.js o riavvia il pc"
 		}
 	
-        
+    }
+
+    # check pm2-installer for user-less service setup
+    if($install_pm2){
+        write-host "`n -- INSTALLAZIONE DI PM2 -- " -ForegroundColor blue -BackgroundColor white
+        if(get-command npm -errorAction silentlyContinue){
+			npm install pm2@$pm2_version -g
+            
+            $pm2Cmd = "";
+            if($npmGlobalDir = npm config get prefix){
+                $doesPm2CommandExist = $FALSE;
+                try{ $doesPm2CommandExist = -not -not (pm2 -v) }catch{ $doesPm2CommandExist = $FALSE }
+                if(-not $doesPm2CommandExist){
+                    $pm2Dir = "${npmGlobalDir}/npm/"
+                    if(Test-Path $pm2Dir){
+                        $oldPath = $env:Path;
+                        $newPath = "$(if($env:Path.EndsWith(";")){ $env:Path }else{ $env:Path+";" })${npmGlobalDir}/npm/";
+
+                        $elevatedCommand = @"
+                            try{
+                                if($oldPath -ne $env:Path){ Write-Error "path variable content doesn't match the previously fetched one. aborting"; exit 1; }
+                                [Environment]::SetEnvironmentVariable("Path",
+                                    $newPath,
+                                    [EnvironmentVariableTarget]::User);
+                                exit 0;
+                            }catch{ Write-Error $_; exit 1; }
+"@; #"                  #before powershell 5 throwing an exception does not set exit code to 1. that's the reason for the try/catch and write-error
+                        $elevatedCommand = $elevatedCommand -replace "[\n\t]";
+                        $elevatedCommand = $elevatedCommand -replace "\h\h+", " ";
+                        
+                        $elevatedProcess = Start-Process powershell -Wait -PassThru -Verb RunAs -ArgumentList '-NoProfile', '-Command', $elevatedCommand
+                        
+                        if($elevatedProcess.ExitCode){ 
+                            Write-Host "pm2 aggiunto a PATH per questo utente"
+                            Write-Host "INFO: e' stato aggiunta la cartella globale di npm, questo rende accessibili non solo pm2 ma anche tutti gli altri comandi salvati nella cartella."
+                        }
+
+                    } else { Write-Error "percorso di installazione di pm2 non trovato, impossibile aggiungerlo a PATH.`ncercato in $pm2Dir"}
+                } else { Write-Debug "comando pm2 già registrato in PATH. Passaggio saltato." }
+
+                # configure pm2 for node-red
+                if(-not $pm2Cmd){
+                    $pm2Cmd = "${npmGlobalDir}\pm2.cmd";
+                } else { Write-Debug "using preconfigured pm2Cmd path: $pm2Cmd" }
+                if(Test-Path $pm2Cmd -and (& $pm2Cmd -v)){
+                    & $pm2Cmd install pm2-logrotate
+
+                    & $pm2Cmd set pm2-logrotate:max_size 100M #10M
+                    & $pm2Cmd set pm2-logrotate:retain 20 #30
+                    & $pm2Cmd set pm2-logrotate:compress false #false
+                    & $pm2Cmd set pm2-logrotate:dateFormat YYYY-MM-DD_HH-mm-ss #YYYY-MM-DD_HH-mm-ss
+                    & $pm2Cmd set pm2-logrotate:workerInterval 60 #30
+                    & $pm2Cmd set pm2-logrotate:rotateInterval 0 2 * * * #0 0 * * *
+                    & $pm2Cmd set pm2-logrotate:rotateModule true #true
+
+                    #save start config
+                    $redjsPath = "$(npm root -g)\node-red\red.js";
+
+                    if(-not $logDir -and (Test-Path -Path $nodered_homedir)){
+                        $logDir = "${nodered_homedir}\logs";
+                    } else { Write-Debug "using preconfigured logDir path: $logDir" }
+                    if(-not (Test-Path $logDir)){ mkdir "$logDir" }
+
+                    if($redjsPath -and (Test-Path -Path $redjsPath)){
+                        Push-Location -Path $nodered_homedir
+                        & $pm2Cmd start "$redjsPath" -name "node-red" --max-memory-restart 2000M --log "$logDir" --restart-delay 1000 --time --cron 0 3 * * *
+                        & $pm2Cmd save
+                        Pop-Location
+                    }
+                } else { Write-Error "wrong pm2 command path:  `n$pm2Command"}
+            }else{ Write-Warning "npm global directory not found, skipping pm2 configuration."}
+
+			Write-Information "`npm2 installato`n"
+		}
+		else{
+			write-error "npm non disponibile, installa Node.js o riavvia il pc"
+		}
     }
 
     ### app install
@@ -473,6 +554,7 @@ try {
             start-Process $gitExtension_msi -ErrorAction Inquire -wait
         }
     }
+
     $allGood = $TRUE
 }
 

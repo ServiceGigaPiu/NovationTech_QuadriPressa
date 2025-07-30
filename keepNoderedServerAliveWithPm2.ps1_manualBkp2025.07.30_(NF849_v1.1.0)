@@ -1,0 +1,117 @@
+try{$host.ui.RawUI.WindowTitle = “nodered server keepalive” }catch{ write-warning "cannot change title" }
+#this script depends on 
+# a) everything being in the spot it should (see path vars below)
+# b) node-red writing it's PID in a file at startup
+# c) node-red periodically writing an "imalive" file, which this script deletes
+# d) no other cmd.exe or node process running, they will otherwise be closed by this one upon "node-red restart"
+
+$noderedWDir = "C:\Users\SpeedCarbon Ufficio\.node-red"
+$aliveDir = "$($noderedWDir)\app\data"
+$aliveFName = "imalive.data"
+$alivePath = "$($aliveDir)\$($aliveFName)"
+
+$pidDir = $aliveDir
+$pidFName = "runningpid.data"
+$pidPath = "$($pidDir)\$($pidFName)"
+# $noderedLauncherPath = "C:\Users\SpeedCarbon Ufficio\.node-red\startNoderedServer_minimized.bat"
+$noderedPm2ServiceName = ""
+$pm2HomeDirectory = "C:\Users\SpeedCarbon Ufficio\"
+
+$failcount = 0
+$maxfail = 2
+$okcount = 0
+$okCount2ResetFail = 1
+
+$delayMs = 3000
+$afterRestartDelayMs = 90000
+write-host "start script"
+
+#check pm2 config
+try{
+	try{ pm2 --version | Write-Debug "pm2 version: $($_)" }catch{ throw "pm2 command not found (original error: $($_))"; }
+
+	if(-not $noderedPm2ServiceName){
+		$data = pm2 jlist
+		[void][System.Reflection.Assembly]::LoadWithPartialName("System.Web.Extensions")
+		$json = (New-Object -TypeName System.Web.Script.Serialization.JavaScriptSerializer -Property @{MaxJsonLength=67108864}).DeserializeObject($data)
+		
+		$nodeRedService = $json | Where-Object { $_.name -match "(?i)node.?red" }
+		
+		if (-not $nodeRedService) {
+			Write-Error "No Node-RED service found in PM2"
+			exit 1
+		}
+		
+		Write-Host "Found Node-RED service: $($nodeRedService.name)"
+
+		$noderedPm2ServiceName = $nodeRedService.name;
+	} else{
+		if(-not (pm2 describe $noderedPm2ServiceName)){
+			pm2 ls;
+			throw "explicit service name '$noderedPm2ServiceName' specified does not exist inside pm2"
+		}
+		
+	}
+
+	#configured path validity
+	if(-not (Test-Path -Path $pm2HomeDirectory)){ throw "path in var pm2HomeDirectory not found`n$pm2HomeDirectory" }	
+	Push-Location -Path $pm2HomeDirectory;
+	try{
+		pm2 ls | out-Null; # check that it's not running as admin elsewhere
+	}catch{ throw "wrong pm2HomeDirectory or missing admin priviledges:  `n$($_)" }
+	Pop-Location;
+	
+	
+}catch{
+	Write-warning "pm2-configuration check failed with `n$($_)";
+	Write-Warning "check pm2 configuration inside this script and try again";
+	timeout /t 30
+	exit
+}
+
+
+
+while($true){
+	try{
+		write-host "waiting $($delayMs)ms"
+		Start-Sleep -Milliseconds $delayMs
+		
+		#check imalive
+		write-host "check at $($alivePath)"
+		if(Test-Path -Path $alivePath){
+			write-host "found"
+			$okcount++
+			if($okcount -ge $okCount2ResetFail){ #require n consecutive successes to reset
+				$failcount = 0
+			}
+			Remove-item -Path $alivePath
+			if(Test-Path -Path $alivePath){ Write-warning "DBG: not deleted"; }
+		}else{
+			write-host "not found $($failcount) times"
+			$failcount++
+			$okcount = 0
+		}
+				
+		
+		
+		if($failcount -gt $maxfail){
+			$failcount = 0
+			write-warning "restarting server"
+			Push-Location -Path $pm2HomeDirectory
+			pm2 restart $noderedPm2ServiceName | Select-String -NotMatch '(^\s*$|^Ô|^Module)'; # the regex filter mutes some of the output
+			Pop-Location
+						
+			#give it time, before starting to keepalive again
+			write-host "waiting $($afterRestartDelayMs) before checking again"
+			Start-Sleep -Milliseconds $afterRestartDelayMs
+			if($false -eq (Test-Path $pidPath)){ write-warning "still missing pid.data file. Looked at $($pidPath). check config at $($PSScriptRoot)"}
+		}	
+		
+	}catch{
+		Write-warning "got error"
+		write-host $_
+	}
+}
+
+
+read-host -Prompt "fine script. any key to continue"
